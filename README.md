@@ -662,6 +662,7 @@
     + [parcel](https://github.com/sifteo/parcel) is easy package management using a file server and path conventions, with built in support for Amazon S3. It is designed to encode package metadata, including name, version and OS within a path. The conventions allow this metadata to be queried, without the need for a database.
     + [jam.js](http://jamjs.org/)
     + [component](http://component.io/)
+    + [RequireJS](http://requirejs.org/)
 + Image Manipulation
     + [Paintbrush.js](https://github.com/mezzoblue/PaintbrushJS)
     + [Obscura](https://github.com/OiNutter/Obscura)
@@ -680,6 +681,8 @@
     + [dox](https://github.com/visionmedia/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
     + [YUIDoc](http://yui.github.com/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
     + [coddoc](http://doug-martin.github.com/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
+    + [sphinx](http://sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
+    + [Using JSDoc](http://usejsdoc.org/)
 + Windows 8 Style
     + [Metro UI CSS](http://metroui.org.ua/)
     + [BootMetro](http://aozora.github.com/bootmetro/)
