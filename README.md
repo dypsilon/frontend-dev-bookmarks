@@ -298,7 +298,7 @@
     + [bacon](http://baconforme.com/) is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
     + [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography): Small roundup on CSS features that will enhance your web typography.
 + Services (Free & Commercial)
-    + [backlift](http://backlift.com)
+    + [backlift](http://backlift.com): A Back-end as a service with hosting. Fast front-end app deployment.
     + [colourco](http://colourco.de/)
     + [HTML Entity Character Lookup](http://leftlogic.com/projects/entity-lookup)
     + [SpritePad](http://spritepad.wearekiss.com/)
