@@ -25,7 +25,7 @@
     + [Scalable and Modular Architecture for CSS](http://smacss.com/)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
 + Workflow
-    + [Vid: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
+    + [Video: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
     + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
     + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
         + [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
@@ -180,7 +180,7 @@
 + Cross Device
     + Responsive
         + [CSS3 Media Query Builder](http://arcsec.ca/media-query-builder/)
-        + [Vid: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
+        + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
             + [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
             + [Complex Navigation Patterns for Responsive Design](http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/)
@@ -303,6 +303,7 @@
     + [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography): Small roundup on CSS features that will enhance your web typography.
 + Services (Free & Commercial)
     + [colourco](http://colourco.de/)
+    + [Color Scheme Designer](http://colorschemedesigner.com): find resonate colors for a great design.
     + [HTML Entity Character Lookup](http://leftlogic.com/projects/entity-lookup)
     + [SpritePad](http://spritepad.wearekiss.com/)
     + [Responsinator](http://www.responsinator.com/)
@@ -366,7 +367,7 @@
                 + [RSVP.js](https://github.com/tildeio/rsvp.js)
                 + [q](https://github.com/kriskowal/q)
                 + [Watch.js](https://github.com/melanke/Watch.JS)
-        + [Vid: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
+        + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
     + HTML
         + [Book: Dive into HTML5](http://diveintohtml5.info/)
         + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
@@ -664,7 +665,6 @@
     + [parcel](https://github.com/sifteo/parcel) is easy package management using a file server and path conventions, with built in support for Amazon S3. It is designed to encode package metadata, including name, version and OS within a path. The conventions allow this metadata to be queried, without the need for a database.
     + [jam.js](http://jamjs.org/)
     + [component](http://component.io/)
-    + [RequireJS](http://requirejs.org/)
 + Image Manipulation
     + [Paintbrush.js](https://github.com/mezzoblue/PaintbrushJS)
     + [Obscura](https://github.com/OiNutter/Obscura)
@@ -694,10 +694,11 @@
     + [Metro JS](http://www.drewgreenwell.com/projects/metrojs)
     + [Windows Metro tiles with Javascript and CSS3](http://tholman.com/projects/tileJs/)
     + [Cosmo](http://bootswatch.com/cosmo/)
-    + [Vid: What Web Developers Need to Know When Building Metro style Apps](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2012/DEV352)
+    + [Video: What Web Developers Need to Know When Building Metro style Apps](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2012/DEV352)
     + [CSS3 Microsoft Modern Buttons](http://ace-subido.github.com/css3-microsoft-metro-buttons/index.html)
     + [Visual Studio 2012 Image Library - 5,000+ Images Downloadable Now](http://dotnet.dzone.com/articles/visual-studio-2012-image)
     + [Metro User Interface Implementation and Resources](http://www.queness.com/post/13493/metro-user-interface-implementation-and-resources)
+    + [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations): a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 + Video
     + [SublimeVideo](http://sublimevideo.net/)
 + Audio
@@ -712,7 +713,7 @@
 + Chat
     + [XMPP using JSON](https://xmpp-ftw.jit.su/)
 + Prototyping
-    + [Vid: Style guides are the new Photoshop by Stephen Hay](http://vimeo.com/52851510) + [Slides](http://de.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012)
+    + [Video: Style guides are the new Photoshop by Stephen Hay](http://vimeo.com/52851510) + [Slides](http://de.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012)
     + [fixie](http://fixiejs.com/)
     + [Holder.js](http://imsky.github.com/holder/)
 + JSON
@@ -769,3 +770,4 @@
     + [simpleCart.js](http://simplecartjs.org/)
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
+    + [jsFiddle](http://jsfiddle.net)
