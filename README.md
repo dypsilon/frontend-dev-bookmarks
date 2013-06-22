@@ -44,6 +44,7 @@
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero)
+    + [Backlift](http://backlift.com): A Back-end as a service / web host that builds and deploys your front end code when uploaded via Dropbox.
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
@@ -302,6 +303,7 @@
     + [bacon](http://baconforme.com/) is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
     + [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography): Small roundup on CSS features that will enhance your web typography.
 + Services (Free & Commercial)
+    + [Backlift](http://backlift.com): A Back-end as a service with hosting. Fast and easy front-end app deployment.
     + [colourco](http://colourco.de/)
     + [HTML Entity Character Lookup](http://leftlogic.com/projects/entity-lookup)
     + [SpritePad](http://spritepad.wearekiss.com/)
