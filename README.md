@@ -701,6 +701,7 @@
     + [jster](http://jster.net/)
     + [MicroJS](http://microjs.com/) helps you discover the most compact-but-powerful microframeworks.
     + [JSPkg](http://jspkg.com/): reference library and package manager
+    + [jquer.in](http://jquer.in) Superb Collection of jquery plugins .
     + [TheToolbox](http://www.thetoolbox.cc/): more general collection of tools
     + [Unheap](http://www.unheap.com/)
 + Chat
