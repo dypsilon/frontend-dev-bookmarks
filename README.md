@@ -25,7 +25,7 @@
     + [Scalable and Modular Architecture for CSS](http://smacss.com/)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
 + Workflow
-    + [Vid: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
+    + [Video: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
     + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
     + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
         + [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
@@ -176,7 +176,7 @@
     + [Viewport Component](https://github.com/pazguille/viewport)
 + Cross Device
     + Reponsive
-        + [Vid: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
+        + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
             + [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
             + [Complex Navigation Patterns for Responsive Design](http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/)
@@ -362,7 +362,7 @@
                 + [RSVP.js](https://github.com/tildeio/rsvp.js)
                 + [q](https://github.com/kriskowal/q)
                 + [Watch.js](https://github.com/melanke/Watch.JS)
-        + [Vid: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
+        + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
     + HTML
         + [Book: Dive into HTML5](http://diveintohtml5.info/)
         + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
@@ -686,7 +686,7 @@
     + [Metro JS](http://www.drewgreenwell.com/projects/metrojs)
     + [Windows Metro tiles with Javascript and CSS3](http://tholman.com/projects/tileJs/)
     + [Cosmo](http://bootswatch.com/cosmo/)
-    + [Vid: What Web Developers Need to Know When Building Metro style Apps](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2012/DEV352)
+    + [Video: What Web Developers Need to Know When Building Metro style Apps](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2012/DEV352)
     + [CSS3 Microsoft Modern Buttons](http://ace-subido.github.com/css3-microsoft-metro-buttons/index.html)
     + [Visual Studio 2012 Image Library - 5,000+ Images Downloadable Now](http://dotnet.dzone.com/articles/visual-studio-2012-image)
     + [Metro User Interface Implementation and Resources](http://www.queness.com/post/13493/metro-user-interface-implementation-and-resources)
@@ -704,7 +704,7 @@
 + Chat
     + [XMPP using JSON](https://xmpp-ftw.jit.su/)
 + Prototyping
-    + [Vid: Style guides are the new Photoshop by Stephen Hay](http://vimeo.com/52851510) + [Slides](http://de.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012)
+    + [Video: Style guides are the new Photoshop by Stephen Hay](http://vimeo.com/52851510) + [Slides](http://de.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012)
     + [fixie](http://fixiejs.com/)
     + [Holder.js](http://imsky.github.com/holder/)
 + JSON
