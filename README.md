@@ -88,6 +88,7 @@
         + [Rivets.js](http://rivetsjs.com/): Lightweight and powerful data binding + templating solution for building modern web applications.
         + [Synapse](http://bruth.github.com/synapse/docs/): Data Binding For The Rest Of Us
         + [A Comprehensive Collection Of Javascript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
+        + [TodoMVC: Todo apps for Backbone.js, Ember.js, AngularJS, Spine and many more](https://github.com/tastejs/todomvc)
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
     + CSS
         + [A collection of best frameworks](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0)
