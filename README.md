@@ -152,6 +152,7 @@
                 + [PaintStrap](http://paintstrap.com/): Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
                 + [TODC](http://todc.github.com/todc-bootstrap/index.html): A Google-styled theme for Twitter Bootstrap.
                 + [Layoutit!](http://www.layoutit.com/)
+                + [Color Scheme Designer](http://colorschemedesigner.com): find resonate colors for a great design.
         + [Responsive Grid System](http://responsive.gs/)
         + [Responsive Grid System (2)](http://www.responsivegridsystem.com/)
         + [Golden Grid System](http://goldengridsystem.com/)
@@ -690,6 +691,7 @@
     + [CSS3 Microsoft Modern Buttons](http://ace-subido.github.com/css3-microsoft-metro-buttons/index.html)
     + [Visual Studio 2012 Image Library - 5,000+ Images Downloadable Now](http://dotnet.dzone.com/articles/visual-studio-2012-image)
     + [Metro User Interface Implementation and Resources](http://www.queness.com/post/13493/metro-user-interface-implementation-and-resources)
+    + [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations) - a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 + Video
     + [SublimeVideo](http://sublimevideo.net/)
 + Audio
@@ -761,3 +763,4 @@
     + [simpleCart.js](http://simplecartjs.org/)
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
+    + [jsFiddle](http://jsfiddle.net)
