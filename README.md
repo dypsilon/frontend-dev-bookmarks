@@ -46,6 +46,7 @@
     + [Cartero](https://github.com/rotundasoftware/cartero)
 + Frameworks
     + JavaScript
+        + [Choosing a framework](http://todomvc.com/)
         + Angular
             + [Github](https://github.com/angular/angular.js)
             + Learning
@@ -74,6 +75,8 @@
             + [Book: Developing Backbone.js Applications](http://addyosmani.github.com/backbone-fundamentals/)
             + [Unsuck your backbone](https://speakerdeck.com/ammeep/unsuck-your-backbone)
             + [A Visual Guide to Marionette.js Views](http://blog.artlogic.com/2013/03/26/a-visual-guide-to-marionette-js-views/)
+            + [Building a Backbone.js app - tutorial series](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
+            + [Migrating an existing app to Backbone](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/)
         + [Meteor](http://meteor.com/)
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
         + [React](http://facebook.github.io/react/) by Facebook
