@@ -13,7 +13,7 @@
         + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://de.slideshare.net/bradfrostweb/atomic-design)
         + [Atomic Design: Some Thoughts and One Example](http://15four.com/2013/05/29/atomic-design-some-thoughts-and-one-example/)
         + [Atomic Design Makes Me Feel Like a Chemist](http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist/)
-    + [Aura](http://aurajs.github.io/aura/) a is an event-driven architecture for developing scalable applications using reusable widgets.
+    + [Aura](http://aurajs.github.io/aura/) is an event-driven architecture for developing scalable applications using reusable widgets.
     + [Terrific.js](http://terrifically.org/) provides you a Scalable Javascript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
     + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
     + [Video: Nicholas Zakas: Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
@@ -208,7 +208,7 @@
         + Text
             + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
             + [Out Of Words!](http://starburst1977.github.io/out-of-words/): The responsive typography framework behind Words App
-            + [Responsive Font Sizing](http://www.newnet-soft.com/blog/responsivefontsizing): Making your font size responde to your screen size, easy & maintainable.
+            + [Responsive Font Sizing](http://www.newnet-soft.com/blog/responsivefontsizing): Making your font size respond to your screen size, easy & maintainable.
             + [Responsive Measure](http://jbrewer.github.com/Responsive-Measure/)
     + E-Mail
     + Mobile
@@ -345,7 +345,7 @@
             + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
             + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
             + [bacon.js](https://github.com/raimohanska/bacon.js): A small functional reactive programming lib for JavaScript.
-        + Flow Controll
+        + Flow Control
             + [Coroutine Event Loops in Javascript](http://syzygy.st/javascript-coroutines/)
             + [How To Node Article on promises describing both sides: node.js and browser](http://howtonode.org/promises)
             + [Video by Douglas Crockford on monads which is touching Promises](http://www.youtube.com/watch?v=dkZFtimgAcM)
@@ -486,12 +486,12 @@
     + [amCharts](http://www.amcharts.com/) is a robust charting tool that will suit any dataviz need.
 + Validation & Forms
     + [ALAJAX](http://www.alajax.com/)
-    + [Parsley.js](http://parsleyjs.org): Validate your forms, frontend, without writting a single line of javascript!
+    + [Parsley.js](http://parsleyjs.org): Validate your forms, frontend, without writing a single line of javascript!
     + [mailcheck.js](https://github.com/Kicksend/mailcheck): A jQuery plugin that suggests a right domain when your users misspell it in an email address.
     + [one-validation](https://github.com/One-com/one-validation) is a collection of regular expressions for general validation purposes.
     + [nextVal](http://jukebox42.github.com/nextVal/) is an easy-to-use, flexible and robust form validation plugin for jQuery.
     + [Fields.js](http://schneiderik.github.com/fields/) creates collections of fields. Each field is constantly evaluated for validity, and is accessible through the collection.
-    + [IV.js](http://dadleyy.github.com/IV.js/) was created to provide a intutive way to provide validation filters that are usefull in processing user input.
+    + [IV.js](http://dadleyy.github.com/IV.js/) was created to provide a intutive way to provide validation filters that are useful in processing user input.
     + [Ladda](http://lab.hakim.se/ladda/): A UI concept which merges loading indicators into the action that invoked them.
     + [jQuery Super Labels](http://remy.bach.me.uk/superlabels_demo/)
 + Transitions
