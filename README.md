@@ -14,7 +14,7 @@
         + [Atomic Design: Some Thoughts and One Example](http://15four.com/2013/05/29/atomic-design-some-thoughts-and-one-example/)
         + [Atomic Design Makes Me Feel Like a Chemist](http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist/)
     + [Polymer Project](http://www.polymer-project.org/)
-        + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648)
+        + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648) + [Slides](http://www.webcomponentsshift.com/)
         + [Video: Web Components in Action](https://developers.google.com/events/io/sessions/324149970)
     + [Aura](http://aurajs.github.io/aura/) is an event-driven architecture for developing scalable applications using reusable widgets.
     + [Terrific.js](http://terrifically.org/) provides you a Scalable Javascript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
@@ -189,7 +189,6 @@
     + [Viewport Component](https://github.com/pazguille/viewport)
 + Cross Device
     + Responsive
-        + [CSS3 Media Query Builder](http://arcsec.ca/media-query-builder/)
         + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
             + [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
@@ -312,17 +311,20 @@
     + [bacon](http://baconforme.com/) is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
     + [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography): Small roundup on CSS features that will enhance your web typography.
 + Services (Free & Commercial)
+    + [TheToolbox](http://www.thetoolbox.cc/)
     + [colourco](http://colourco.de/)
     + [Color Scheme Designer](http://colorschemedesigner.com): find resonate colors for a great design.
     + [HTML Entity Character Lookup](http://leftlogic.com/projects/entity-lookup)
     + [SpritePad](http://spritepad.wearekiss.com/)
     + [Responsinator](http://www.responsinator.com/)
-    + [TheToolbox](http://www.thetoolbox.cc/)
     + [HTML Shell](http://htmlshell.com/)
     + [Form Builder](http://livetools.uiparade.com/form-builder.html)
     + [Zen BG](http://mudcu.be/bg/)
     + [Prepros](http://alphapixels.com/prepros/)
     + [site44](https://www.site44.com/)
+    + [CSS3 Media Query Builder](http://arcsec.ca/media-query-builder/)
+    + [jsFiddle](http://jsfiddle.net)
+    + [codepen](http://codepen.io/) is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write.
     + [Website Builders](http://en.wikipedia.org/wiki/Website_builder)
         + [Squarespace](http://www.squarespace.com/)
         + [BaseKit](http://www.basekit.com/)
@@ -683,8 +685,14 @@
     + [Obscura](https://github.com/OiNutter/Obscura)
     + [jCrop](http://deepliquid.com/content/Jcrop.html)
 + HTTP
+    + [Specification](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
     + [Using CORS](http://www.html5rocks.com/en/tutorials/cors/)
     + [Cross-domain Ajax with Cross-Origin Resource Sharing](http://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing/)
++ WebSocket
+    + [Specification](http://tools.ietf.org/html/rfc6455)
+    + [socket.io](http://socket.io/) aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms.
+    + [engine.io](https://github.com/LearnBoost/engine.io) is the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO.
+    + [SockJS](https://github.com/sockjs/sockjs-client) is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.
 + Error Handling & Debugging
     + [Tracing.js](https://github.com/ebobby/tracing.js) - Javascript function tracing.
     + [JavaScript error handling anti-pattern](http://www.nczonline.net/blog/2009/04/28/javascript-error-handling-anti-pattern/)
@@ -718,13 +726,15 @@
     + [howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
     + [Stratus 2](http://stratus.sc/) soundcloud player
 + Library Collections
+    + [Unheap](http://www.unheap.com/): A tidy repository of jQuery plugins
     + [jster](http://jster.net/)
     + [MicroJS](http://microjs.com/) helps you discover the most compact-but-powerful microframeworks.
     + [JSPkg](http://jspkg.com/): reference library and package manager
-    + [TheToolbox](http://www.thetoolbox.cc/): more general collection of tools
-    + [Unheap](http://www.unheap.com/)
+    + [jquer.in](http://jquer.in/) is a curated collection of jQuery plugins.
+    + [pineapple.io](http://pineapple.io/): A central hub of Tutorials, Tools and Assets for developers and designers
 + Chat
     + [XMPP using JSON](https://xmpp-ftw.jit.su/)
+    + [Converse.js](http://conversejs.org/) is an open source, webchat client, that runs in the browser and can be integrated into any website.
 + Prototyping
     + [Video: Style guides are the new Photoshop by Stephen Hay](http://vimeo.com/52851510) + [Slides](http://de.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012)
     + [fixie](http://fixiejs.com/)
@@ -783,4 +793,3 @@
     + [simpleCart.js](http://simplecartjs.org/)
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
-    + [jsFiddle](http://jsfiddle.net)
