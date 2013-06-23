@@ -13,6 +13,9 @@
         + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://de.slideshare.net/bradfrostweb/atomic-design)
         + [Atomic Design: Some Thoughts and One Example](http://15four.com/2013/05/29/atomic-design-some-thoughts-and-one-example/)
         + [Atomic Design Makes Me Feel Like a Chemist](http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist/)
+    + [Polymer Project](http://www.polymer-project.org/)
+        + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648)
+        + [Video: Web Components in Action](https://developers.google.com/events/io/sessions/324149970)
     + [Aura](http://aurajs.github.io/aura/) is an event-driven architecture for developing scalable applications using reusable widgets.
     + [Terrific.js](http://terrifically.org/) provides you a Scalable Javascript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
     + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
@@ -547,7 +550,7 @@
         + [Leaving JSPs in the dust: moving LinkedIn to dust.js client-side templates](http://engineering.linkedin.com/frontend/leaving-jsps-dust-moving-linkedin-dustjs-client-side-templates)
         + [Tutorial](https://github.com/linkedin/dustjs/wiki/Dust-Tutorial)
         + [Testing Console](http://linkedin.github.com/dustjs/test/test.html)
-+ RoutingAndUrls
++ Routing And URLs
     + [Crossroads.js](http://millermedeiros.github.com/crossroads.js/)
     + [Hash.js](http://jonnystromberg.com/hash-js/)
     + [director](https://github.com/flatiron/director)
@@ -557,6 +560,7 @@
     + [Roadcrew.js](http://grobmeier.github.com/Roadcrew.js/)
     + [jQuery Address](http://www.asual.com/jquery/address/)
     + [page.js](https://github.com/visionmedia/page.js)
+    + [speakingurl](https://github.com/pid/speakingurl): generate a so called "static", "Clean URL", "Pretty URL" or "slug" from a string.
 + Rich Text Editors
     + [WYSIHTML5](http://xing.github.com/wysihtml5/)
     + [MarkItUp](http://markitup.jaysalvat.com/)
