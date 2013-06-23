@@ -400,6 +400,7 @@
     + [Year Of Moo](http://www.yearofmoo.com/): Angular.js Animations
     + [animate.css](http://daneden.me/animate/) is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
     + [Approach](http://srobbin.com/jquery-plugins/approach/)
+	+ [Magic](https://github.com/miniMAC/magic) is a CSS3 framework with many animations. Is simple to use and many animations are cross-browser. compatible.
 + Widgets
     + Kits
         + [AlloyUI](http://liferay.github.com/alloyui.com/)
