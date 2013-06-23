@@ -173,6 +173,7 @@
         + [One% CSS Grid](http://onepcssgrid.mattimling.com/)
         + [Workless](http://workless.ikreativ.com/)
         + [inuit.css](http://inuitcss.com/) - a powerful, scalable, Sass-based, BEM, OOCSS framework.
+        + [Kraken](https://github.com/cferdinandi/kraken)
 + Cross Browser
     + [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
