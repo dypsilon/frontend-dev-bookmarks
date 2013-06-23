@@ -44,6 +44,7 @@
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero)
+    + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
@@ -71,6 +72,11 @@
             + [jQuery Plugin Development Boilerplate](http://www.websanova.com/tutorials/jquery/jquery-plugin-development-boilerplate)
             + [The Ultimate Guide to Writing jQuery Plugins](http://www.websanova.com/tutorials/jquery/the-ultimate-guide-to-writing-jquery-plugins)
             + [Book: jQuery Fundamentals](http://jqfundamentals.com/)
+            + [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
+        + [dojo](http://dojotoolkit.org/)
+            + [Documentation](http://dojotoolkit.org/documentation/)
+            + [Writing Your Own Widget](http://dojotoolkit.org/reference-guide/1.9/quickstart/writingWidgets.html)
+            + [10 Reasons Why Your Projects Should Use the Dojo Toolkit](http://net.tutsplus.com/tutorials/javascript-ajax/10-reasons-why-your-projects-should-use-the-dojo-toolkit/) by David Walsh
         + Backbone
             + [Book: Developing Backbone.js Applications](http://addyosmani.github.com/backbone-fundamentals/)
             + [Unsuck your backbone](https://speakerdeck.com/ammeep/unsuck-your-backbone)
