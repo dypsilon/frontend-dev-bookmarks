@@ -496,6 +496,7 @@
     + [xCharts](http://tenxer.github.com/xcharts/) is a JS library for creating attractive, custom data-driven chart visualizations. It uses HTML, CSS, and SVG to create dynamic, fluid charts that can be easily customized and integrated.
     + [jQuery Gantt editor](http://roberto.open-lab.com/2013/01/28/jquery-gantt-editor-include-today/)
     + [amCharts](http://www.amcharts.com/) is a robust charting tool that will suit any dataviz need.
+    + [Responsive vertical timeline](http://christian-fei.com/tutorials/simple-vertical-timeline-with-css/)
 + Validation & Forms
     + [ALAJAX](http://www.alajax.com/)
     + [Parsley.js](http://parsleyjs.org): Validate your forms, frontend, without writing a single line of javascript!
