@@ -56,7 +56,7 @@
                 + [What are the nuances of scope prototypal / prototypical inheritance in AngularJS?](http://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs)
                 + [AngularJS from Basics to Dependency Injection](http://suhairhassan.com/2013/06/07/angularjs-in-depth-part-1.html)
                 + [AngularJS To Do List App](http://www.dreamfactory.com/angularjs-example)
-                + [AngularJS vs Ember: It's not even close](http://eviltrout.com/2013/06/15/ember-vs-angular-its-not-even-close.html)
+                + [AngularJS vs Ember](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
                 + [The Hitchhiker’s Guide to the Directive](http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
                 + [Frontend Workflows with Grunt and Angular JS](http://youtu.be/fSAgFxjFSqY)
             + Integration
