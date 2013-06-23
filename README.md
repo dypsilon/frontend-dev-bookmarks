@@ -505,6 +505,7 @@
     + [numbers.js](https://github.com/sjkaliski/numbers.js)
 + Time and Dates
     + [moment.js](http://momentjs.com/): A 5.5kb javascript date library for parsing, validating, manipulating, and formatting dates.
+    + [XDate](http://arshaw.com/xdate/)
     + [Pikaday](https://github.com/dbushell/Pikaday)
 + Search
     + [Fullproof](http://reyesr.github.com/fullproof/)
