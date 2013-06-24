@@ -9,7 +9,7 @@
 + Architecture
     + [BEM](http://bem.info/method/)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
-        + [Github](https://github.com/bradfrost/patternlab)
+        + [GitHub](https://github.com/bradfrost/patternlab)
         + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://de.slideshare.net/bradfrostweb/atomic-design)
         + [Atomic Design: Some Thoughts and One Example](http://15four.com/2013/05/29/atomic-design-some-thoughts-and-one-example/)
         + [Atomic Design Makes Me Feel Like a Chemist](http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist/)
@@ -612,6 +612,7 @@
         + [Tracking Down Memory Leaks in Node.js](https://hacks.mozilla.org/2012/11/tracking-down-memory-leaks-in-node-js-a-node-js-holiday-season/)
         + [Effectively Managing Memory at Gmail scale](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
     + Tools
+        + [jsPerf, the JavaScript performance playground](http://jsperf.com/)
         + [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
             + [Heap Profiling](https://developers.google.com/chrome-developer-tools/docs/heap-profiling)
             + [Profiles Panel](https://developers.google.com/chrome-developer-tools/docs/profiles)
