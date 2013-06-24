@@ -692,6 +692,7 @@ front-end framework in the world.
     + [Browserify](http://browserify.org/)
     + [require.js](http://requirejs.org/)
         + [Plugins](https://github.com/jrburke/requirejs/wiki/Plugins)
+    + [sea.js](http://seajs.org/) A Module Loader for the Web
     + [CrapLoader](https://github.com/gregersrygg/crapLoader)
     + [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
     + [Путь JavaScript модуля](http://habrahabr.ru/post/181536/)
