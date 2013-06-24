@@ -22,11 +22,10 @@
     + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
     + [Video: Nicholas Zakas: Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
     + [Book: Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
-    + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
     + [Book: Single page apps in depth](http://singlepageappbook.com/index.html)
+    + [Book: Scalable and Modular Architecture for CSS](http://smacss.com/book/)
     + [jQuery Application Architecture Chart](http://addyosmani.com/resources/toolschart/chart.pdf)
     + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
-    + [Scalable and Modular Architecture for CSS](http://smacss.com/)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
 + Workflow
     + [Video: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
@@ -42,7 +41,9 @@
         + [Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)
         + [CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
     + [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
-    + [Helium](https://github.com/geuis/helium-css) - javascript tool to scan your site and show unused CSS
+    + [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
+    + [jpegoptim](https://github.com/tjko/jpegoptim): Utility to optimize/compress JPEG files.
+    + [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
     + [Roots](http://roots.cx/)
     + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
@@ -88,8 +89,9 @@
             + [Book: Developing Backbone.js Applications](http://addyosmani.github.com/backbone-fundamentals/)
             + [Unsuck your backbone](https://speakerdeck.com/ammeep/unsuck-your-backbone)
             + [A Visual Guide to Marionette.js Views](http://blog.artlogic.com/2013/03/26/a-visual-guide-to-marionette-js-views/)
-            + [Building a Backbone.js app - tutorial series](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
+            + [Building a Backbone.js app](http://dailyjs.com/2012/11/29/backbone-tutorial-1/) tutorial series.
             + [Migrating an existing app to Backbone](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/)
+            + [Chaplin.js](http://chaplinjs.org/): An architecture for JavaScript applications using the Backbone.js library.
         + [Meteor](http://meteor.com/)
             + [Github](https://github.com/meteor/meteor)
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
@@ -225,6 +227,7 @@
             + [Riloadr](https://github.com/tubalmartin/riloadr): A cross-browser framework-independent responsive images loader.
             + [jQuery Picture](http://jquerypicture.com/)
             + [Picturefill](https://github.com/scottjehl/picturefill)
+            + [Clown Car](https://github.com/estelle/clowncar) Technique for Responsive Images
         + Text
             + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
             + [Out Of Words!](http://starburst1977.github.io/out-of-words/): The responsive typography framework behind Words App
@@ -341,6 +344,9 @@
     + [codepen](http://codepen.io/) is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write.
     + [site44](https://www.site44.com/)
     + [Backlift](https://www.backlift.com/): Work in your Dropbox using your favorite editor. When you save your files, your website will automatically refresh.
+    + [Smush.it](http://www.smushit.com/ysmush.it/) uses optimization techniques specific to image format to remove unnecessary bytes from image files.
+    + [JPEGmini Photo Server](http://www.jpegmini.com/server) is an image optimization server which runs on Amazon EC2 (commercial).
+    + [TinyPNG](http://tinypng.org/): Advanced lossy compression for PNG images that preserves full alpha transparency.
     + [Website Builders](http://en.wikipedia.org/wiki/Website_builder)
         + [Squarespace](http://www.squarespace.com/)
         + [BaseKit](http://www.basekit.com/)
@@ -363,11 +369,12 @@
         + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
         + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
     + JavaScript
+        + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+        + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
         + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
         + [Combinator Recipes for Working With Objects in JavaScript](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md)
             + [Part II](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_2.md)
         + [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
-        + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
         + [ECMA 262-3 in detail](http://dmitrysoshnikov.com/tag/ecma-262-3/)
         + [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
         + Extensions
@@ -385,6 +392,7 @@
             + [Promises/A+ Spec](http://promises-aplus.github.com/promises-spec/)
             + [Callbacks vs Coroutines](https://medium.com/code-adventures/174f1fe66127)
             + [This document is intended to explain how promises work](https://raw.github.com/kriskowal/q/master/design/README.js)
+            + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
             + Libraries
                 + [Standalone-Deferred](https://github.com/warpdesign/Standalone-Deferred)
                 + [Standalone-Deferred](https://github.com/Mumakil/Standalone-Deferred)
@@ -395,7 +403,6 @@
                 + [RSVP.js](https://github.com/tildeio/rsvp.js)
                 + [q](https://github.com/kriskowal/q)
                 + [Watch.js](https://github.com/melanke/Watch.JS)
-        + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
     + HTML
         + [Book: Dive into HTML5](http://diveintohtml5.info/)
         + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
@@ -419,6 +426,9 @@
     + [$fx()](http://fx.inetcat.com/): A compact, lightweight Javascript Library for animation.
     + [Keanu](https://github.com/wambotron/Keanu) is a micro-lib for animation on Canvas/JS.
     + [jsAnim](http://jsanim.com/) is a powerful, yet easy to use library for adding impressive animations to websites, without sacrificing standards or accessibility. Weighing in at just under 25 kilobytes, jsAnim packs a lot of punch for such a little application.
+    + [GreenSock Animation Platform](http://www.greensock.com/get-started-js/) is a suite of tools for scripted animation.
+        + [Learning Resources](http://www.greensock.com/learning/)
+        + [Examples](http://ahrengot.com/tutorials/greensock-javascript-animation/)
     + [scripty2](http://scripty2.com/) is an open source JavaScript framework for advanced HTML-based user interfaces. Or simply put, scripty2 helps you build a more delicious web.
     + [Animator.js](http://berniesumption.com/software/animator/): JavaScript animation library.
     + [Processing.js](http://processingjs.org/):  is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations, digital art, interactive animations, educational graphs, video games, etc. work using web standards and without any plug-ins.
@@ -428,7 +438,7 @@
     + [Year Of Moo](http://www.yearofmoo.com/): Angular.js Animations
     + [animate.css](http://daneden.me/animate/) is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
     + [Approach](http://srobbin.com/jquery-plugins/approach/)
-	+ [Magic](https://github.com/miniMAC/magic) is a CSS3 framework with many animations, it's simple to use and many animations are cross-browser compatible.
+    + [Magic](https://github.com/miniMAC/magic) is a CSS3 framework with many animations, it's simple to use and many animations are cross-browser compatible.
 + Widgets
     + Kits
         + [AlloyUI](http://liferay.github.com/alloyui.com/)
@@ -518,6 +528,8 @@
     + [Responsive vertical timeline](http://christian-fei.com/tutorials/simple-vertical-timeline-with-css/)
     + [Raphael.js](http://raphaeljs.com/) Easy vector graphics for the web.
     + [three.js](http://threejs.org) Javascript 3D library.
+    + [Highcharts](http://www.highcharts.com/): Interactive JavaScript Charts for your web projects.
+    + [Flot](http://www.flotcharts.org/): Attractive JavaScript plotting for jQuery
 + Validation & Forms
     + [ALAJAX](http://www.alajax.com/)
     + [Parsley.js](http://parsleyjs.org): Validate your forms, frontend, without writing a single line of javascript!
@@ -606,15 +618,10 @@
 + Refactoring
     + [Refactoring Javascript with kratko.js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
 + Performance
-    + [Writing Fast, Memory-Efficient JavaScript](http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
-    + [CSS-only: Load images on demand](http://podlipensky.com/2013/06/css-only-load-images-on-demand/)
-    + Videos
-        + [Faster HTML and CSS: Layout Engine Internals for Web Developers](http://www.youtube.com/watch?v=a2_6bGNZ7bA): by David Baron of Mozilla
-        + [Google I/O 2012 - Breaking the JavaScript Speed Limit with V8](http://www.youtube.com/watch?v=UJPdhx5zTaw)
-        + [DOM, HTML5, & CSS3 Performance](http://paulirish.com/2011/dom-html5-css3-performance/): A video by Paul Irish
-        + [Nicholas Zakas | High Performance Javascript](http://vimeo.com/16241085)
-        + [Building A Performant HTML5 App](http://youtu.be/ft9R72R7TlI) with Trunal Bhanse and Akhilesh Gupta (LinkedIn)
     + General Information
+        + [Video: DOM, HTML5, & CSS3 Performance](http://paulirish.com/2011/dom-html5-css3-performance/) by Paul Irish
+        + [Video: High Performance Javascript](http://vimeo.com/16241085) by Nicholas Zakas
+        + [Video: Building A Performant HTML5 App](http://youtu.be/ft9R72R7TlI) with Trunal Bhanse and Akhilesh Gupta (LinkedIn)
         + [Writing Fast, Memory-Efficient JavaScript](http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
         + [JavaScript Performance Best Practices](http://www.developer.nokia.com/Community/Wiki/JavaScript_Performance_Best_Practices) by Nokia
         + [Improving the performance of your HTML5 App](http://www.html5rocks.com/en/tutorials/speed/html5/)
@@ -629,6 +636,7 @@
         + [JScript Memory Leaks](http://javascript.crockford.com/memory/leak.html)
         + [Tracking Down Memory Leaks in Node.js](https://hacks.mozilla.org/2012/11/tracking-down-memory-leaks-in-node-js-a-node-js-holiday-season/)
         + [Effectively Managing Memory at Gmail scale](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
+        + [Writing Fast, Memory-Efficient JavaScript](http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
     + Tools
         + [jsPerf, the JavaScript performance playground](http://jsperf.com/)
         + [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
@@ -665,6 +673,8 @@
         + [Visualizing WebKit’s hardware acceleration](http://mir.aculo.us/2011/02/08/visualizing-webkits-hardware-acceleration/)
         + [List of Chromium Command Line Switches](http://peter.sh/experiments/chromium-command-line-switches/)
     + Browser Internals
+        + [Video: Google I/O 2012 - Breaking the JavaScript Speed Limit with V8](http://www.youtube.com/watch?v=UJPdhx5zTaw) by Daniel Clifford
+        + [Video: Faster HTML and CSS: Layout Engine Internals for Web Developers](http://www.youtube.com/watch?v=a2_6bGNZ7bA): by David Baron of Mozilla
         + [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
         + [How Browsers Work - Part 1 - Architecture](http://www.vineetgupta.com/2010/11/how-browsers-work-part-1-architecture/)
         + [Know Your Engines at O’Reilly Velocity 2011](https://blog.mozilla.org/dmandelin/2011/06/16/know-your-engines-at-oreilly-velocity-2011/)
@@ -679,9 +689,15 @@
         + [How JavaScript compilers work](http://creativejs.com/2013/06/the-race-for-speed-part-2-how-javascript-compilers-work/)
         + [JavaScript compiler strategies](http://creativejs.com/2013/06/the-race-for-speed-part-3-javascript-compiler-strategies/)
         + [The future for JavaScript](http://creativejs.com/2013/06/the-race-for-speed-part-4-the-future-for-javascript/)
+    + Images
+        + [CSS-only: Load images on demand](http://podlipensky.com/2013/06/css-only-load-images-on-demand/)
+        + [Clever JPEG Optimization Techniques](http://www.smashingmagazine.com/2009/07/01/clever-jpeg-optimization-techniques/)
+        + [Clever PNG Optimization Techniques](http://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/)
+        + [How to Optimize PNG and JPEG without Quality Loss](http://www.splashnology.com/article/how-to-optimize-png-and-jpeg-without-quality-loss-part-1/2071/) + [Part 2](http://www.splashnology.com/article/how-to-optimize-png-and-jpeg-without-quality-loss-part-2/2568/)
     + HTTP Transport
         + [Fantastic front-end performance: Concatenate, Compress & Cache](https://hacks.mozilla.org/2012/12/fantastic-front-end-performance-part-1-concatenate-compress-cache-a-node-js-holiday-season-part-4/)
         + [Video: Cache Is King!](http://www.youtube.com/watch?v=HKNZ-tQQnSY) by Steve Souders
+        + [Best Practices for Speeding Up Your Web Site](http://developer.yahoo.com/performance/rules.html) by Yahoo
 + Modularity & Loaders
     + [Lazy Module Declaration](http://lmdjs.org/) - JavaScript Module-Assembler for building better web applications
     + [UMD (Universal Module Definition) patterns](https://github.com/umdjs/umd)
@@ -786,6 +802,7 @@
     + [Mousetrap](http://craig.is/killing/mice)
     + [Keypress](http://dmauro.github.com/Keypress/)
     + [konami.js](http://mckamey.github.com/konami-js/)
+    + [Keys.js](https://github.com/bitwalker/keys.js)
 + Tables & DataGrids
     + [Tablecloth.js](https://sites.google.com/site/y2intra/wiki/technology/javascript)
     + [Responsive Data Tables](http://css-tricks.com/responsive-data-tables/)
