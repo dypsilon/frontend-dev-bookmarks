@@ -486,6 +486,7 @@ front-end framework in the world.
         + [jQuery Recurrence Input](https://github.com/collective/jquery.recurrenceinput.js)
         + [Select2](http://ivaynberg.github.com/select2/)
         + [jquery.selectable.js](http://endel.github.com/jquery.selectable.js/)
+        + [chosen](https://github.com/harvesthq/chosen) is a library for making long, unwieldy select boxes more friendly.
     + Progress Bars
         + [Percentage Loader](http://widgets.better2web.com/loader/)
         + [progress.js](https://github.com/mdix/progress.js)
@@ -703,7 +704,7 @@ front-end framework in the world.
         + [Video: Cache Is King!](http://www.youtube.com/watch?v=HKNZ-tQQnSY) by Steve Souders
         + [Best Practices for Speeding Up Your Web Site](http://developer.yahoo.com/performance/rules.html) by Yahoo
 + Modularity & Loaders
-    + [Lazy Module Declaration](http://lmdjs.org/) - JavaScript Module-Assembler for building better web applications
+    + [Lazy Module Declaration](http://lmdjs.org/): JavaScript Module-Assembler for building better web applications
     + [UMD (Universal Module Definition) patterns](https://github.com/umdjs/umd)
     + [Browserify](http://browserify.org/)
     + [require.js](http://requirejs.org/)
@@ -764,11 +765,16 @@ front-end framework in the world.
     + [Visual Studio 2012 Image Library - 5,000+ Images Downloadable Now](http://dotnet.dzone.com/articles/visual-studio-2012-image)
     + [Metro User Interface Implementation and Resources](http://www.queness.com/post/13493/metro-user-interface-implementation-and-resources)
     + [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations): a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
-+ Video
-    + [SublimeVideo](http://sublimevideo.net/)
-+ Audio
++ Video & Audio
+    + [SublimeVideo](http://sublimevideo.net/): Modular Video Player Framework.
+    + [Video.js](http://www.videojs.com/): The open source HTML5 video player.
+    + [FlowPlayer](http://flowplayer.org/): The video player for the web.
+    + [longtailVideo](http://www.longtailvideo.com/): dual-mode HTML5 & Flash player.
     + [howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
     + [Stratus 2](http://stratus.sc/) soundcloud player
+    + [jPlayer](http://jplayer.org/) is the completely free and open source (MIT) media library written in JavaScript.
+    + [MediaElement.js](http://mediaelementjs.com/): HTML5 audio and video players in pure HTML and CSS.
+    + [audio.js](http://kolber.github.io/audiojs/) is a drop-in javascript library that allows HTML5’s "audio" tag to be used anywhere.
 + Library Collections
     + [Unheap](http://www.unheap.com/): A tidy repository of jQuery plugins
     + [jster](http://jster.net/)
