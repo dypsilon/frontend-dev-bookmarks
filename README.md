@@ -649,6 +649,19 @@ front-end framework in the world.
         + [Navigation Timing](http://www.html5rocks.com/en/tutorials/webperformance/basics/)
         + [Firebug Paint Events](https://addons.mozilla.org/en-US/firefox/addon/firebug-paint-events/)
         + [Locache](https://github.com/d0ugal/locache): JavaScript caching framework for client side caching in the browser using localStorage
+    + Image Optimization
+        + Command Line:
+            + [jpegoptim](https://github.com/tjko/jpegoptim)
+            + [pngcrush](http://pmt.sourceforge.net/pngcrush/)
+        + Application:
+            + [trimage](http://trimage.org/)
+        + Service:
+            + [Smush.it](http://www.smushit.com) (free)
+            + [JPEGmini](http://www.jpegmini.com/server) (commercial)
+        + Infos on the topic:
+            + [yahoo! Best Practices](http://developer.yahoo.com/performance/rules.html#opt_images)
+            + [in depth png optimization](http://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/)
+            + [in depth jpg optimization](http://www.smashingmagazine.com/2009/07/01/clever-jpeg-optimization-techniques/)
     + DOM Manipulation
         + [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
         + [Reflows & Repaints: CSS Performance making your JavaScript slow?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/)
@@ -750,9 +763,15 @@ front-end framework in the world.
     + [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations): a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 + Video
     + [SublimeVideo](http://sublimevideo.net/)
+    + [Video.js](http://www.videojs.com/)
+    + [flowplayer](http://flowplayer.org/index.html)
+    + [JW Player](http://www.longtailvideo.com/)
 + Audio
     + [howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
     + [Stratus 2](http://stratus.sc/) soundcloud player
+    + [jPlayer](http://jplayer.org/)
+    + [MediaElement.js](http://mediaelementjs.com/)
+    + [audio.js](http://kolber.github.io/audiojs/)
 + Library Collections
     + [Unheap](http://www.unheap.com/): A tidy repository of jQuery plugins
     + [jster](http://jster.net/)
