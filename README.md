@@ -180,8 +180,7 @@
         + [Compass](http://compass-style.org/)
         + [Pondasee](http://tokokoo.github.com/pondasee/)
         + [Centurion](http://jhough10.github.com/Centurion/)
-        + [Foundation by Zurb](http://foundation.zurb.com/): The most advanced responsive
-front-end framework in the world.
+        + [Foundation by Zurb](http://foundation.zurb.com/): The most advanced responsive front-end framework in the world.
                 + [Foundation 3 Documentation](http://foundation.zurb.com/old-docs/f3/)
                 + [Foundation 4 Documentation](http://foundation.zurb.com/docs/)
         + [Gumby](http://gumbyframework.com/)
@@ -839,7 +838,7 @@ front-end framework in the world.
 + Layout
     + [Shapeshift](https://github.com/McPants/jquery.shapeshift) is a plugin which will dynamically arrange a collection of elements into a column grid system similar to Pinterest.
     + [CollagePlus](http://ed-lea.github.io/jquery-collagePlus/): This plugin for jQuery will arrange your images to fit exactly within a container.
-+ Jobs
++ Jobs & Hiring
     + [GitHub Jobs](https://jobs.github.com/)
     + [Authentic Jobs](http://www.authenticjobs.com/)
     + [37signals Job Board](http://jobs.37signals.com/)
