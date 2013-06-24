@@ -804,6 +804,13 @@
 + Layout
     + [Shapeshift](https://github.com/McPants/jquery.shapeshift) is a plugin which will dynamically arrange a collection of elements into a column grid system similar to Pinterest.
     + [CollagePlus](http://ed-lea.github.io/jquery-collagePlus/): This plugin for jQuery will arrange your images to fit exactly within a container.
++ Jobs
+    + [GitHub Jobs](https://jobs.github.com/)
+    + [Authentic Jobs](http://www.authenticjobs.com/)
+    + [37signals Job Board](http://jobs.37signals.com/)
+    + [Smashing Jobs](http://jobs.smashingmagazine.com/)
+    + [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+    + [Interview This!](https://github.com/ChiperSoft/InterviewThis): A list of questions to ask employers.
 + Misc
     + [zip.js](http://gildas-lormeau.github.com/zip.js/)
     + [simpleCart.js](http://simplecartjs.org/)
