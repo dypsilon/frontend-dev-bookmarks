@@ -94,6 +94,7 @@
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
         + [Sammy.js](http://sammyjs.org/) is a tiny JavaScript framework developed to ease the pain and provide a basic structure for developing JavaScript applications.
         + [Ember.js](http://emberjs.com/): A framework for creating ambitious web applications.
+        + [Chaplin.js](http://chaplinjs.org/): An architecture for JavaScript applications using the Backbone.js library.
 
         + [Maria](https://github.com/petermichaux/maria): The MVC framework for JavaScript applications. The real MVC. The Smalltalk MVC. The Gang of Four MVC.
         + [Terrific Composer](http://terrifically.org/composer/) is a Frontend Development Framework specifically designed for building deluxe frontends based on the [Terrific concept](http://terrifically.org/)
@@ -765,6 +766,7 @@
 + Keyboard
     + [Mousetrap](http://craig.is/killing/mice)
     + [Keypress](http://dmauro.github.com/Keypress/)
+    + [Keys.js](https://github.com/bitwalker/keys.js)
     + [konami.js](http://mckamey.github.com/konami-js/)
 + Tables & DataGrids
     + [Tablecloth.js](https://sites.google.com/site/y2intra/wiki/technology/javascript)
