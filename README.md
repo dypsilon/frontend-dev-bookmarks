@@ -89,6 +89,7 @@
             + [Migrating an existing app to Backbone](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/)
         + [Meteor](http://meteor.com/)
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
+        + [Zepto.js](http://zeptojs.com/)
         + [React](http://facebook.github.io/react/) by Facebook
         + [Flight](http://twitter.github.io/flight/) is an event-driven web framework, from Twitter
         + [Singool.js](http://fahad19.github.com/singool/) Lightweight JavaScript framework for developing single-page web applications
