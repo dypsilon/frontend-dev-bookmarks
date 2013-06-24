@@ -52,7 +52,7 @@
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
-        + Angular
+        + [Angular](http://angularjs.org/)
             + [Github](https://github.com/angular/angular.js)
             + Learning
                 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): huge list of Angular learning resources
@@ -71,26 +71,32 @@
                 + [Automating AngularJS With Yeoman, Grunt & Bower](http://newtriks.com/2013/06/11/automating-angularjs-with-yeoman-grunt-and-bower/)
                 + [Optimizing Angular Templates with Grunt on Heroku](http://www.codelord.net/2013/06/16/optimizing-angular-templates-with-grunt-on-heroku/)
                 + [Building Offline Applications With AngularJS and PouchDB](http://mircozeiss.com/building-offline-applications-with-angularjs-and-pouchdb/)
-        + jQuery
+        + [jQuery](http://jquery.com/)
+            + [Github](https://github.com/jquery/jquery)
             + [jQuery Wiki Page "Plugins/Authoring"](http://docs.jquery.com/Plugins/Authoring)
             + [jQuery Plugin Development Boilerplate](http://www.websanova.com/tutorials/jquery/jquery-plugin-development-boilerplate)
             + [The Ultimate Guide to Writing jQuery Plugins](http://www.websanova.com/tutorials/jquery/the-ultimate-guide-to-writing-jquery-plugins)
             + [Book: jQuery Fundamentals](http://jqfundamentals.com/)
             + [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
         + [dojo](http://dojotoolkit.org/)
+            + [Github](https://github.com/dojo/dojo)
             + [Documentation](http://dojotoolkit.org/documentation/)
             + [Writing Your Own Widget](http://dojotoolkit.org/reference-guide/1.9/quickstart/writingWidgets.html)
             + [10 Reasons Why Your Projects Should Use the Dojo Toolkit](http://net.tutsplus.com/tutorials/javascript-ajax/10-reasons-why-your-projects-should-use-the-dojo-toolkit/) by David Walsh
-        + Backbone
+        + [Backbone](http://backbonejs.org/)
+            + [Github](https://github.com/documentcloud/backbone)
             + [Book: Developing Backbone.js Applications](http://addyosmani.github.com/backbone-fundamentals/)
             + [Unsuck your backbone](https://speakerdeck.com/ammeep/unsuck-your-backbone)
             + [A Visual Guide to Marionette.js Views](http://blog.artlogic.com/2013/03/26/a-visual-guide-to-marionette-js-views/)
             + [Building a Backbone.js app - tutorial series](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
             + [Migrating an existing app to Backbone](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/)
         + [Meteor](http://meteor.com/)
+            + [Github](https://github.com/meteor/meteor)
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
         + [Zepto.js](http://zeptojs.com/)
+            + [Github](https://github.com/madrobby/zepto)
         + [React](http://facebook.github.io/react/) by Facebook
+            + [Github](https://github.com/facebook/react)
         + [Flight](http://twitter.github.io/flight/) is an event-driven web framework, from Twitter
         + [Singool.js](http://fahad19.github.com/singool/) Lightweight JavaScript framework for developing single-page web applications
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
