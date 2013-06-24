@@ -239,6 +239,7 @@
     + E-Mail
         + [Responsive Email Design](http://www.campaignmonitor.com/guides/mobile/): A great guide to create Responsive Email Design
         + [Responsive Email Templates](http://zurb.com/playground/responsive-email-templates): Some responsive templates for email
+        + [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
         + [CSS Support in Email](http://www.campaignmonitor.com/css/)
     + Mobile
         + Frameworks
