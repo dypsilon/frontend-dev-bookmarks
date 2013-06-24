@@ -180,7 +180,11 @@
         + [Compass](http://compass-style.org/)
         + [Pondasee](http://tokokoo.github.com/pondasee/)
         + [Centurion](http://jhough10.github.com/Centurion/)
-        + [Foundation](http://foundation.zurb.com/)
+        + [Foundation by Zurb](http://foundation.zurb.com/): The most advanced responsive
+front-end framework in the world.
+                + [Foundation 3 Documentation](http://foundation.zurb.com/old-docs/f3/)
+                + [Foundation 4 Documentation](http://foundation.zurb.com/docs/)
+        + [Gumby](http://gumbyframework.com/)
         + [ProfoundGrid](http://www.profoundgrid.com/)
         + [Groundwork](http://groundwork.sidereel.com/)
         + [skelJS](http://skeljs.org/)
@@ -704,6 +708,7 @@
     + [Browserify](http://browserify.org/)
     + [require.js](http://requirejs.org/)
         + [Plugins](https://github.com/jrburke/requirejs/wiki/Plugins)
+    + [sea.js](http://seajs.org/) A Module Loader for the Web
     + [CrapLoader](https://github.com/gregersrygg/crapLoader)
     + [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
     + [Путь JavaScript модуля](http://habrahabr.ru/post/181536/)
@@ -828,6 +833,13 @@
 + Layout
     + [Shapeshift](https://github.com/McPants/jquery.shapeshift) is a plugin which will dynamically arrange a collection of elements into a column grid system similar to Pinterest.
     + [CollagePlus](http://ed-lea.github.io/jquery-collagePlus/): This plugin for jQuery will arrange your images to fit exactly within a container.
++ Jobs
+    + [GitHub Jobs](https://jobs.github.com/)
+    + [Authentic Jobs](http://www.authenticjobs.com/)
+    + [37signals Job Board](http://jobs.37signals.com/)
+    + [Smashing Jobs](http://jobs.smashingmagazine.com/)
+    + [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+    + [Interview This!](https://github.com/ChiperSoft/InterviewThis): A list of questions to ask employers.
 + Misc
     + [zip.js](http://gildas-lormeau.github.com/zip.js/)
     + [simpleCart.js](http://simplecartjs.org/)
