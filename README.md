@@ -455,6 +455,7 @@
         + [Responsive CSS3 Slider](http://csscience.com/responsiveslidercss3/)
         + [Roundabout](http://fredhq.com/projects/roundabout/)
         + [Slid.es](http://slid.es/)
+        + [Galleria](http://galleria.io/)
     + Pagination
         + [jPages](http://luis-almeida.github.com/jPages/)
     + Selects
