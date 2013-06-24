@@ -501,6 +501,8 @@
     + [jQuery Gantt editor](http://roberto.open-lab.com/2013/01/28/jquery-gantt-editor-include-today/)
     + [amCharts](http://www.amcharts.com/) is a robust charting tool that will suit any dataviz need.
     + [Responsive vertical timeline](http://christian-fei.com/tutorials/simple-vertical-timeline-with-css/)
+    + [Raphael.js](http://raphaeljs.com/) Easy vector graphics for the web.
+    + [three.js](http://threejs.org) Javascript 3D library.
 + Validation & Forms
     + [ALAJAX](http://www.alajax.com/)
     + [Parsley.js](http://parsleyjs.org): Validate your forms, frontend, without writing a single line of javascript!
