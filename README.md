@@ -89,6 +89,7 @@
             + [Migrating an existing app to Backbone](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/)
         + [Meteor](http://meteor.com/)
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
+        + [Zepto.js](http://zeptojs.com/)
         + [React](http://facebook.github.io/react/) by Facebook
         + [Flight](http://twitter.github.io/flight/) is an event-driven web framework, from Twitter
         + [Singool.js](http://fahad19.github.com/singool/) Lightweight JavaScript framework for developing single-page web applications
@@ -221,8 +222,8 @@
             + [Responsive Font Sizing](http://www.newnet-soft.com/blog/responsivefontsizing): Making your font size respond to your screen size, easy & maintainable.
             + [Responsive Measure](http://jbrewer.github.com/Responsive-Measure/)
     + E-Mail
-        + [Responsive Email Design](http://www.campaignmonitor.com/guides/mobile/): A great guide to create Responsive Email Design  
-        + [Responsive Email Templates](http://zurb.com/playground/responsive-email-templates): Some responsive templates for email  
+        + [Responsive Email Design](http://www.campaignmonitor.com/guides/mobile/): A great guide to create Responsive Email Design
+        + [Responsive Email Templates](http://zurb.com/playground/responsive-email-templates): Some responsive templates for email
         + [CSS Support in Email](http://www.campaignmonitor.com/css/)
     + Mobile
         + Frameworks
@@ -696,6 +697,7 @@
     + [Paintbrush.js](https://github.com/mezzoblue/PaintbrushJS)
     + [Obscura](https://github.com/OiNutter/Obscura)
     + [jCrop](http://deepliquid.com/content/Jcrop.html)
+    + [Pixastic](http://www.pixastic.com/)
 + HTTP
     + [Specification](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
     + [Using CORS](http://www.html5rocks.com/en/tutorials/cors/)
