@@ -334,6 +334,7 @@ front-end framework in the world.
     + [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography): Small roundup on CSS features that will enhance your web typography.
 + Services (Free & Commercial)
     + [TheToolbox](http://www.thetoolbox.cc/)
+    + [Setapp](http://setapp.me/) Discover apps, tools, news and tips
     + [colourco](http://colourco.de/)
     + [Color Scheme Designer](http://colorschemedesigner.com): find resonate colors for a great design.
     + [HTML Entity Character Lookup](http://leftlogic.com/projects/entity-lookup)
