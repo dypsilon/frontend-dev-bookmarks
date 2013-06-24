@@ -739,9 +739,15 @@
     + [Windows-8-like animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations): a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
 + Video
     + [SublimeVideo](http://sublimevideo.net/)
+    + [Video.js](http://www.videojs.com/)
+    + [flowplayer](http://flowplayer.org/index.html)
+    + [JW Player](http://www.longtailvideo.com/)
 + Audio
     + [howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
     + [Stratus 2](http://stratus.sc/) soundcloud player
+    + [jPlayer](http://jplayer.org/)
+    + [MediaElement.js](http://mediaelementjs.com/)
+    + [audio.js](http://kolber.github.io/audiojs/)
 + Library Collections
     + [Unheap](http://www.unheap.com/): A tidy repository of jQuery plugins
     + [jster](http://jster.net/)
