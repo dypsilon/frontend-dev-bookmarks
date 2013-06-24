@@ -44,7 +44,7 @@
     + [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
     + [jpegoptim](https://github.com/tjko/jpegoptim): Utility to optimize/compress JPEG files.
     + [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
-    + [Roots](http://roots.cx/)
+    + [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
     + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
