@@ -222,9 +222,12 @@
             + [How to Use Responsive Images to Make Your Site Shine on Any Platform](http://www.shutterstock.com/blog/2013/05/how-to-use-responsive-images-to-make-your-site-shine-on-any-platform/)
             + [Adaptive Images](http://adaptive-images.com/)
             + [Why We Need Responsive Images](http://timkadlec.com/2013/06/why-we-need-responsive-images/)
+            + [Clown Car Technique](github.com/estelle/clowncar)
+            + [Combo Move](http://codepen.io/teleject/pen/KlzBe)
             + [Riloadr](https://github.com/tubalmartin/riloadr): A cross-browser framework-independent responsive images loader.
             + [jQuery Picture](http://jquerypicture.com/)
             + [Picturefill](https://github.com/scottjehl/picturefill)
+
         + Text
             + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
             + [Out Of Words!](http://starburst1977.github.io/out-of-words/): The responsive typography framework behind Words App
