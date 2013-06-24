@@ -577,6 +577,7 @@
     + [MDMagick](http://fguillen.github.com/MDMagick/)
     + [X-editable](http://vitalets.github.com/x-editable/)
 + Code Viewers & Editors
+    + [SublimeText](http://sublimetext.com/)
     + [Rainbow.js](http://craig.is/making/rainbows)
     + [Intelligist](http://srobbin.com/jquery-plugins/intelligist/)
     + [Prism.js](http://prismjs.com/)
@@ -751,7 +752,7 @@
     + [HTML5 Slideshow](http://www.ravelrumba.com/blog/html5-slideshow/)
     + [jQuery Screen](http://xiam.menteslibres.org/p/jquery-screen/)
     + [reveal.js](https://github.com/hakimel/reveal.js)
-    + [html5 Slides by Google](http://code.google.com/p/html5slides/)
+    + [html5 Slides by Google](https://code.google.com/p/io-2012-slides/)
     + [Slides](https://github.com/briancavalier/slides)
     + [CSSS](http://lea.verou.me/csss/sample-slideshow.html)
     + [deck.js](http://imakewebthings.com/deck.js/)
