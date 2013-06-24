@@ -807,6 +807,7 @@ front-end framework in the world.
     + [controldeck.js](http://controldeck.aws.af.cm/)
     + [impress.js](http://bartaz.github.io/impress.js/)
 + Scrolling
+    + [AppScroll.js](https://github.com/jakiestfu/AppScroll.js) AppScroll is a tiny (< 100 lines) JS library that fixes the "website dragging" issue caused on iDevices
     + [Scrollpath](http://joelb.me/scrollpath/)
     + [jQuery NiceScroll](http://code.google.com/p/jquery-nicescroll/)
     + [FoldScroll](http://soulwire.github.com/FoldScroll/)
