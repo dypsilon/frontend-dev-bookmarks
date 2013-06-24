@@ -178,7 +178,11 @@
         + [Compass](http://compass-style.org/)
         + [Pondasee](http://tokokoo.github.com/pondasee/)
         + [Centurion](http://jhough10.github.com/Centurion/)
-        + [Foundation](http://foundation.zurb.com/)
+        + [Foundation by Zurb](http://foundation.zurb.com/): The most advanced responsive
+front-end framework in the world.
+                + [Foundation 3 Documentation](http://foundation.zurb.com/old-docs/f3/)
+                + [Foundation 4 Documentation](http://foundation.zurb.com/docs/)
+        + [Gumby](http://gumbyframework.com/)
         + [ProfoundGrid](http://www.profoundgrid.com/)
         + [Groundwork](http://groundwork.sidereel.com/)
         + [skelJS](http://skeljs.org/)
