@@ -393,14 +393,14 @@
         + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
 + Animation
     + GreenSock Animation Platform
-        + [Greensock Animation Platform](http://www.greensock.com/): Greensock is a fantastic JavaScript animation framework that performs above and beyond everything else currently available to those of us working with web design.
+        + [Greensock Animation Platform](http://www.greensock.com/): Likely the most advanced tools available for JavaScript today.
         + [JavaScript speed test comparison](http://www.greensock.com/js/speed.html): Compare GSAP performance with various other animation frameworks.
         + [Getting Started](http://www.greensock.com/get-started-js/): A 5 minute getting started guide.
-        + [(Video) Sequence JavaScript Animations Like a Pro with GSAP's TimelineLIte](http://www.greensock.com/sequence-video/): This video walks you through some common problems that professional animators face every day and shows you how GSAP’s TimelineLite tackles these challenges with ease
-        + [jQuery vs GSAP Cage Match](http://www.greensock.com/jquery/): Learn how GSAP performs about **20x faster** than jQuery and other benefits of GSAP over jQuery.
-        + [CSS3 Transitions vs GSAP Cage Match](http://www.greensock.com/transitions/): See how GSAP fares against CSS transitions in terms of performance, controls, flexibility and much more.
-        + [Tutorial: GreenSock JavaScript Animation](http://ahrengot.com/tutorials/greensock-javascript-animation/): See examples of GSAP in action and learn how to get started
-        + [Learning Resouces](http://www.greensock.com/learning/): More GSAP learning resouces
+        + [(Video) Sequence Animations with TimelineLite](http://www.greensock.com/sequence-video/): A video walkthrough on how to solve common timing and sequencing problems that professional animators face every day.
+        + [jQuery vs GSAP Cage Match](http://www.greensock.com/jquery/): jQuery vs GSAP in terms of performance, controls, flexibility and much more.
+        + [CSS3 vs GSAP Cage Match](http://www.greensock.com/transitions/): CSS transitions vs GSAP in terms of performance, controls, flexibility and much more.
+        + [Tutorial: GreenSock JavaScript Animation](http://ahrengot.com/tutorials/greensock-javascript-animation/): See examples of GSAP in action and learn how to get started.
+        + [Learning Resouces](http://www.greensock.com/learning/): More GSAP learning resouces.
     + [Stylie](http://jeremyckahn.github.com/stylie/)
     + [animate.less](https://github.com/machito/animate.less), is a bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
     + [Canvas Advanced Animation Toolkit](http://hyperandroid.github.com/CAAT/) is an scene graph director-based animation framework for javascript based in the concept of a timeline.
