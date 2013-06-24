@@ -393,13 +393,13 @@
         + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
 + Animation
     + GreenSock Animation Platform
-        + [Greensock Animation Platform](http://www.greensock.com/): Likely the most advanced animation tools available for JavaScript today.
-        + [JavaScript speed test comparison](http://www.greensock.com/js/speed.html): Compare GSAP performance with various other animation frameworks.
+        + [Greensock Animation Platform](http://www.greensock.com/): Likely the most advanced animation tools available for JavaScript.
+        + [JavaScript speed test comparison](http://www.greensock.com/js/speed.html): Compare GSAP performance with competitors.
         + [Getting Started](http://www.greensock.com/get-started-js/): A 5 minute getting started guide.
         + [(Video) Sequence Animations with TimelineLite](http://www.greensock.com/sequence-video/): A video walkthrough on how to solve common timing and sequencing problems that professional animators face every day.
-        + [jQuery vs GSAP Cage Match](http://www.greensock.com/jquery/): jQuery vs GSAP in terms of performance, controls, flexibility and much more.
-        + [CSS3 vs GSAP Cage Match](http://www.greensock.com/transitions/): CSS transitions vs GSAP in terms of performance, controls, flexibility and much more.
-        + [Tutorial: GreenSock JavaScript Animation](http://ahrengot.com/tutorials/greensock-javascript-animation/): See examples of GSAP in action and learn how to get started.
+        + [jQuery vs GSAP Cage Match](http://www.greensock.com/jquery/): jQuery vs GSAP in terms of performance, flexibility and more.
+        + [CSS3 vs GSAP Cage Match](http://www.greensock.com/transitions/): CSS transitions vs GSAP in terms of performance, flexibility and more.
+        + [Tutorial: GreenSock JavaScript Animation](http://ahrengot.com/tutorials/greensock-javascript-animation/): See examples and learn how to get started.
         + [Learning Resouces](http://www.greensock.com/learning/): More GSAP learning resouces.
     + [Stylie](http://jeremyckahn.github.com/stylie/)
     + [animate.less](https://github.com/machito/animate.less), is a bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
