@@ -83,6 +83,7 @@
             + [10 Reasons Why Your Projects Should Use the Dojo Toolkit](http://net.tutsplus.com/tutorials/javascript-ajax/10-reasons-why-your-projects-should-use-the-dojo-toolkit/) by David Walsh
         + Backbone
             + [Book: Developing Backbone.js Applications](http://addyosmani.github.com/backbone-fundamentals/)
+            + [Book: Backbone.Marionette.js: A Gentle Introduction.] (https://leanpub.com/marionette-gentle-introduction)
             + [Unsuck your backbone](https://speakerdeck.com/ammeep/unsuck-your-backbone)
             + [A Visual Guide to Marionette.js Views](http://blog.artlogic.com/2013/03/26/a-visual-guide-to-marionette-js-views/)
             + [Building a Backbone.js app - tutorial series](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
