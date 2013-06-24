@@ -687,7 +687,7 @@
     + [Deep dive into the murky waters of script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/)
     + [Terminology: Modules](http://dailyjs.com/2013/05/20/terminology-modules/)
 + Package Management
-    + [bower](http://twitter.github.com/bower/)
+    + [bower](http://bower.io/)
     + [volo](https://github.com/volojs/volo)
     + [parcel](https://github.com/sifteo/parcel) is easy package management using a file server and path conventions, with built in support for Amazon S3. It is designed to encode package metadata, including name, version and OS within a path. The conventions allow this metadata to be queried, without the need for a database.
     + [jam.js](http://jamjs.org/)
