@@ -393,7 +393,7 @@
         + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
 + Animation
     + GreenSock Animation Platform
-        + [Greensock Animation Platform](http://www.greensock.com/): Likely the most advanced tools available for JavaScript today.
+        + [Greensock Animation Platform](http://www.greensock.com/): Likely the most advanced animation tools available for JavaScript today.
         + [JavaScript speed test comparison](http://www.greensock.com/js/speed.html): Compare GSAP performance with various other animation frameworks.
         + [Getting Started](http://www.greensock.com/get-started-js/): A 5 minute getting started guide.
         + [(Video) Sequence Animations with TimelineLite](http://www.greensock.com/sequence-video/): A video walkthrough on how to solve common timing and sequencing problems that professional animators face every day.
