@@ -220,6 +220,9 @@
             + [Responsive Font Sizing](http://www.newnet-soft.com/blog/responsivefontsizing): Making your font size respond to your screen size, easy & maintainable.
             + [Responsive Measure](http://jbrewer.github.com/Responsive-Measure/)
     + E-Mail
+        + [Responsive Email Design](http://www.campaignmonitor.com/guides/mobile/): A great guide to create Responsive Email Design  
+        + [Responsive Email Templates](http://zurb.com/playground/responsive-email-templates): Some responsive templates for email  
+        + [CSS Support in Email](http://www.campaignmonitor.com/css/)
     + Mobile
         + Frameworks
             + [jQuery Mobile](http://jquerymobile.com/): Touch-Optimized Web Framework for Smartphones & Tablets
