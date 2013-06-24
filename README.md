@@ -193,6 +193,7 @@
         + [Kraken](https://github.com/cferdinandi/kraken) is a lightweight, mobile-first boilerplate for front-end web developers.
         + [Axis](http://roots.cx/axis/) - clean Stylus-based foundation to build your styles upon
         + [Jeet](http://jeetframework.com/) next gen responsive grid
+        + [Susy](http://susy.oddbird.net/) - Responsive grids for Compass
 + Cross Browser
     + [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
