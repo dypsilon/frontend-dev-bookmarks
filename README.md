@@ -170,7 +170,7 @@
         + [Compass](http://compass-style.org/)
         + [Pondasee](http://tokokoo.github.com/pondasee/)
         + [Centurion](http://jhough10.github.com/Centurion/)
-        + [Foundation 3](http://foundation.zurb.com/)
+        + [Foundation](http://foundation.zurb.com/)
         + [ProfoundGrid](http://www.profoundgrid.com/)
         + [Groundwork](http://groundwork.sidereel.com/)
         + [skelJS](http://skeljs.org/)
