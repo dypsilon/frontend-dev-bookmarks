@@ -58,6 +58,62 @@
     + [Web Design Weekly](http://web-design-weekly.com/)
     + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
     + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
++ Programming & Markup Languages
+    + CSS
+        + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
+        + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+        + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+        + [Github CSS Styleguide](https://github.com/styleguide/css)
+        + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
+    + JavaScript
+        + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+        + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
+        + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
+        + [Combinator Recipes for Working With Objects in JavaScript](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md)
+            + [Part II](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_2.md)
+        + [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
+        + [ECMA 262-3 in detail](http://dmitrysoshnikov.com/tag/ecma-262-3/)
+        + [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
+        + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+        + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
+        + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
+        + Extensions
+            + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
+            + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
+            + [bacon.js](https://github.com/raimohanska/bacon.js): A small functional reactive programming lib for JavaScript.
+        + Flow Control
+            + [Coroutine Event Loops in Javascript](http://syzygy.st/javascript-coroutines/)
+            + [How To Node Article on promises describing both sides: node.js and browser](http://howtonode.org/promises)
+            + [Video by Douglas Crockford on monads which is touching Promises](http://www.youtube.com/watch?v=dkZFtimgAcM)
+            + [Не надо давать обещания, или Promises наоборот](http://habrahabr.ru/post/166419/)
+            + [Promises are the monad of asynchronous programming](http://blog.jcoglan.com/2011/03/11/promises-are-the-monad-of-asynchronous-programming/)
+            + [A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
+            + [What's The Point Of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
+            + [Promises/A+ Spec](http://promises-aplus.github.com/promises-spec/)
+            + [Callbacks vs Coroutines](https://medium.com/code-adventures/174f1fe66127)
+            + [This document is intended to explain how promises work](https://raw.github.com/kriskowal/q/master/design/README.js)
+            + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
+            + Libraries
+                + [Standalone-Deferred](https://github.com/warpdesign/Standalone-Deferred)
+                + [Standalone-Deferred](https://github.com/Mumakil/Standalone-Deferred)
+                + [Flowy](https://github.com/geeqie/node-flowy)
+                + [Step](https://github.com/creationix/step)
+                + [kew](https://github.com/Obvious/kew) is a lightweight promise library optimized for node.js
+                + [jQuery Timing](http://creativecouple.github.com/jquery-timing/)
+                + [RSVP.js](https://github.com/tildeio/rsvp.js)
+                + [q](https://github.com/kriskowal/q)
+                + [Watch.js](https://github.com/melanke/Watch.JS)
+    + HTML
+        + [Book: Dive into HTML5](http://diveintohtml5.info/)
+        + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
+        + [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+        + [Wordpress HTML Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/html/)
+    + Higher Level Languages
+        + [Dart](http://www.dartlang.org/): Typed language compiled to JavaScript. By Google.
+        + [Sass](http://sass-lang.com/) is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It’s translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+        + [Less](http://lesscss.org/) extends CSS with dynamic behavior such as variables, mixins, operations and functions.
+        + [Roole](http://roole.org/) is a language that compiles to CSS.
+        + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
@@ -376,62 +432,6 @@
         + [Wordpress.com](http://wordpress.com/)
         + [Yola](https://www.yola.com/)
         + [1&1 Homepage](http://homepage.1und1.de/)
-+ Programming & Markup Languages
-    + CSS
-        + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
-        + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
-        + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
-        + [Github CSS Styleguide](https://github.com/styleguide/css)
-        + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
-    + JavaScript
-        + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
-        + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
-        + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
-        + [Combinator Recipes for Working With Objects in JavaScript](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md)
-            + [Part II](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_2.md)
-        + [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
-        + [ECMA 262-3 in detail](http://dmitrysoshnikov.com/tag/ecma-262-3/)
-        + [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-        + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-        + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
-        + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
-        + Extensions
-            + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
-            + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
-            + [bacon.js](https://github.com/raimohanska/bacon.js): A small functional reactive programming lib for JavaScript.
-        + Flow Control
-            + [Coroutine Event Loops in Javascript](http://syzygy.st/javascript-coroutines/)
-            + [How To Node Article on promises describing both sides: node.js and browser](http://howtonode.org/promises)
-            + [Video by Douglas Crockford on monads which is touching Promises](http://www.youtube.com/watch?v=dkZFtimgAcM)
-            + [Не надо давать обещания, или Promises наоборот](http://habrahabr.ru/post/166419/)
-            + [Promises are the monad of asynchronous programming](http://blog.jcoglan.com/2011/03/11/promises-are-the-monad-of-asynchronous-programming/)
-            + [A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
-            + [What's The Point Of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
-            + [Promises/A+ Spec](http://promises-aplus.github.com/promises-spec/)
-            + [Callbacks vs Coroutines](https://medium.com/code-adventures/174f1fe66127)
-            + [This document is intended to explain how promises work](https://raw.github.com/kriskowal/q/master/design/README.js)
-            + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
-            + Libraries
-                + [Standalone-Deferred](https://github.com/warpdesign/Standalone-Deferred)
-                + [Standalone-Deferred](https://github.com/Mumakil/Standalone-Deferred)
-                + [Flowy](https://github.com/geeqie/node-flowy)
-                + [Step](https://github.com/creationix/step)
-                + [kew](https://github.com/Obvious/kew) is a lightweight promise library optimized for node.js
-                + [jQuery Timing](http://creativecouple.github.com/jquery-timing/)
-                + [RSVP.js](https://github.com/tildeio/rsvp.js)
-                + [q](https://github.com/kriskowal/q)
-                + [Watch.js](https://github.com/melanke/Watch.JS)
-    + HTML
-        + [Book: Dive into HTML5](http://diveintohtml5.info/)
-        + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
-        + [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-        + [Wordpress HTML Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/html/)
-    + Higher Level Languages
-        + [Dart](http://www.dartlang.org/): Typed language compiled to JavaScript. By Google.
-        + [Sass](http://sass-lang.com/) is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It’s translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
-        + [Less](http://lesscss.org/) extends CSS with dynamic behavior such as variables, mixins, operations and functions.
-        + [Roole](http://roole.org/) is a language that compiles to CSS.
-        + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
 + Animation
     + [Stylie](http://jeremyckahn.github.com/stylie/)
     + [animate.less](https://github.com/machito/animate.less), is a bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
