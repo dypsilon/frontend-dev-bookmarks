@@ -347,7 +347,7 @@
     + [CSS3 Media Query Builder](http://arcsec.ca/media-query-builder/)
     + [jsFiddle](http://jsfiddle.net)
     + [codepen](http://codepen.io/) is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write.
-    + [site44](https://www.site44.com/)
+    + [site44](https://www.site44.com/) turns Dropbox folders to websites
     + [Backlift](https://www.backlift.com/): Work in your Dropbox using your favorite editor. When you save your files, your website will automatically refresh.
     + [Smush.it](http://www.smushit.com/ysmush.it/) uses optimization techniques specific to image format to remove unnecessary bytes from image files.
     + [JPEGmini Photo Server](http://www.jpegmini.com/server) is an image optimization server which runs on Amazon EC2 (commercial).
@@ -369,6 +369,11 @@
         + [Yola](https://www.yola.com/)
         + [1&1 Homepage](http://homepage.1und1.de/)
 + Programming & Markup Languages
+    + Style Guides, Guidelines
+        + [Google Styleguide](https://code.google.com/p/google-styleguide/)
+        + [GitHub Styleguide](https://github.com/styleguide)
+        + [WordPress Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/)
+        + [Front-end Code Standards & Best Practices by Roundarch Isobar](http://isobar-idev.github.io/code-standards/)
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
         + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
@@ -854,3 +859,10 @@
     + [simpleCart.js](http://simplecartjs.org/)
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
++ Weekly & Daily Resources
+    + [HTML5 Weekly](http://html5weekly.com/)
+    + [CSS Weekly](http://css-weekly.com/)
+    + [JavaScript Weekly](http://javascriptweekly.com/)
+    + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
+    + [Web Design Weekly](http://web-design-weekly.com/)
+    + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
