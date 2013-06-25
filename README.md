@@ -8,6 +8,7 @@
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
 + Architecture
     + [BEM](http://bem.info/method/)
+    + [SMACSS](http://smacss.com/)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
         + [GitHub](https://github.com/bradfrost/patternlab)
         + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://de.slideshare.net/bradfrostweb/atomic-design)
