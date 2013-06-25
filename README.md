@@ -752,6 +752,7 @@
 + Documentation
     + [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
     + [docco](http://jashkenas.github.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
+    + [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
     + [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
     + [dox](https://github.com/visionmedia/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
     + [YUIDoc](http://yui.github.com/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
