@@ -156,7 +156,6 @@
                 + [CSS3 Microsoft Modern Buttons](http://ace-subido.github.com/css3-microsoft-metro-buttons/index.html)
                 + [BootMetro](http://aozora.github.com/bootmetro/): Metro style web framework
                 + [Cosmo](http://bootswatch.com/cosmo/): Windows 8 inspired theme
-                + [Bootstrap Generator](http://www.martinbean.co.uk/bootstrap/generator/): Simply alter the options below and click "Generate" to get your compiled Bootstrap CSS file.
                 + [Inspiritas](http://littke.com/2012/11/06/inspiritas-bootstrap-theme-by-ripple.html)
                 + [Facebook](http://ckrack.github.com/fbootstrapp/)
                 + [Google+](http://xbreaker.github.com/plusstrap/index.html)
@@ -168,7 +167,7 @@
                 + [Font Awesome](http://fortawesome.github.com/Font-Awesome/): The iconic font designed for use with Twitter Bootstrap
                 + [Typo3 Extension](http://typo3.org/extensions/repository/view/mn_twitter_bootstrap)
                 + [Bootstrap CDN](http://www.bootstrapcdn.com/) Free CDN for Twitter Bootstrap
-                + [Bootstrap Tour](http://pushly.github.com/bootstrap-tour/) Quick and easy way to build your product tours with Twitter Bootstrap Popovers.
+                + [Bootstrap Tour](http://bootstraptour.com/) Quick and easy way to build your product tours with Twitter Bootstrap Popovers.
                 + [Bootsnipp](http://bootsnipp.com/): Design elements and code snippets for Bootstrap HTML/CSS/JS framework
                 + [Form Builder](http://bootsnipp.com/forms)
                 + [PaintStrap](http://paintstrap.com/): Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
@@ -325,7 +324,7 @@
     + [SO: @font-face fonts only work on their own domain](http://stackoverflow.com/questions/2892691/font-face-fonts-only-work-on-their-own-domain)
     + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
     + [TypeButter](http://typebutter.com/)
-    + [slabText](http://www.frequency-decoder.com/2012/01/08/slabtext-a-jquery-plugin-for-producing-big-bold-responsive-headlines)
+    + [slabText](https://github.com/freqDec/slabText/)
     + [Baseline.js](http://daneden.me/baseline/)
     + [jKerny](http://clearideaz.com/jkerny/)
     + [Lettering.js](http://letteringjs.com/)
@@ -369,7 +368,7 @@
         + [1&1 Homepage](http://homepage.1und1.de/)
 + Programming & Markup Languages
     + CSS
-        + [Understanding border-image](Understanding border-image)
+        + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
         + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
         + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
     + JavaScript
@@ -427,7 +426,7 @@
     + [Shifty](http://jeremyckahn.github.com/shifty/) is a tweening engine built in JavaScript.  It is designed to fit any number of tweening needs.
     + [emile.js](https://github.com/madrobby/emile) is a no-frills stand-alone CSS animation JavaScript framework.
     + [Firmin](http://extralogical.net/projects/firmin/): a JavaScript animation library using CSS transforms and transitions.
-    + [$fx()](http://fx.inetcat.com/): A compact, lightweight Javascript Library for animation.
+    + [$fx()](https://github.com/agilemd/Fx): A compact, lightweight Javascript Library for animation.
     + [Keanu](https://github.com/wambotron/Keanu) is a micro-lib for animation on Canvas/JS.
     + [jsAnim](http://jsanim.com/) is a powerful, yet easy to use library for adding impressive animations to websites, without sacrificing standards or accessibility. Weighing in at just under 25 kilobytes, jsAnim packs a lot of punch for such a little application.
     + [GreenSock Animation Platform](http://www.greensock.com/get-started-js/) is a suite of tools for scripted animation.
@@ -524,7 +523,7 @@
     + [bonsai](http://bonsaijs.org/)
     + [Smoothie Charts](http://smoothiecharts.org/)
     + [DataMaps](http://datamaps.github.com/)
-    + [mxgraph](https://github.com/jgraph/mxgraph)
+    + [mxgraph](http://jgraph.github.io/mxgraph/)
     + [Paper.js](http://paperjs.org) is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
     + [Timeline.js](https://github.com/VeriteCo/TimelineJS): A Storytelling Timeline built in JavaScript.
     + [xCharts](http://tenxer.github.com/xcharts/) is a JS library for creating attractive, custom data-driven chart visualizations. It uses HTML, CSS, and SVG to create dynamic, fluid charts that can be easily customized and integrated.
@@ -758,7 +757,7 @@
     + [Metro UI Template](http://metro-webdesign.info/)
     + [Droptiles – Metro-Style Web Dashboard](http://www.codeproject.com/Articles/421601/Droptiles-Metro-style-Live-Tiles-powered-Web-Dashb)
     + [Metro JS](http://www.drewgreenwell.com/projects/metrojs)
-    + [Windows Metro tiles with Javascript and CSS3](http://tholman.com/projects/tileJs/)
+    + [Windows Metro tiles with Javascript and CSS3](https://github.com/tholman/tileJs)
     + [Cosmo](http://bootswatch.com/cosmo/)
     + [Video: What Web Developers Need to Know When Building Metro style Apps](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2012/DEV352)
     + [CSS3 Microsoft Modern Buttons](http://ace-subido.github.com/css3-microsoft-metro-buttons/index.html)
@@ -787,7 +786,7 @@
     + [Converse.js](http://conversejs.org/) is an open source, webchat client, that runs in the browser and can be integrated into any website.
 + Prototyping
     + [Video: Style guides are the new Photoshop by Stephen Hay](http://vimeo.com/52851510) + [Slides](http://de.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012)
-    + [fixie](http://fixiejs.com/)
+    + [fixie](https://github.com/ryhan/fixie)
     + [Holder.js](http://imsky.github.com/holder/)
 + JSON
     + [JSON Query Language](http://jsoniq.org/) is a query and processing language specifically designed for the popular JSON data model.
@@ -796,7 +795,7 @@
     + [Ancesor.js](http://kirkas.ch/ascensor/)
     + [Slideshow.html](http://dmfrancisco.github.com/slideshow.html/)
     + [HTML5 Slideshow](http://www.ravelrumba.com/blog/html5-slideshow/)
-    + [jQuery Screen](http://xiam.menteslibres.org/p/jquery-screen/)
+    + [jQuery Screen](https://github.com/xiam/jquery-screen)
     + [reveal.js](https://github.com/hakimel/reveal.js)
     + [html5 Slides by Google](https://code.google.com/p/io-2012-slides/)
     + [Slides](https://github.com/briancavalier/slides)
@@ -815,7 +814,7 @@
     + [konami.js](http://mckamey.github.com/konami-js/)
     + [Keys.js](https://github.com/bitwalker/keys.js)
 + Tables & DataGrids
-    + [Tablecloth.js](https://sites.google.com/site/y2intra/wiki/technology/javascript)
+    + [Tablecloth.js](http://tableclothjs.com/)
     + [Responsive Data Tables](http://css-tricks.com/responsive-data-tables/)
     + [stacktable.js](http://johnpolacek.github.com/stacktable.js/)
     + [FooTable](http://themergency.com/footable/)
