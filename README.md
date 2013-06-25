@@ -753,6 +753,10 @@
     + [coddoc](http://doug-martin.github.com/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
     + [sphinx](http://sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
     + [Using JSDoc](http://usejsdoc.org/)
++ Static Site Generators
+    + [Jekyll](http://jekyllrb.com/) A Ruby `gem` that provides a CLI workflow for static site generation; same generator that's used to create GitHub Pages
+    + [Octopress](http://octopress.org/) A framework for Jekyll that provides some nice boiler-plate HTML templates, CSS, JavaScript, etc.
+    + [DocPad](http://docpad.org/) DocPad provides content management via the file system, rendering via plugins, and static site generation for deployment anywhere. It's built with Node and Express.js.
 + Windows 8 Style
     + [Metro UI CSS](http://metroui.org.ua/)
     + [BootMetro](http://aozora.github.com/bootmetro/)
