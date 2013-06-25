@@ -569,6 +569,7 @@
         + [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) is the language that Cucumber understands.
             + [Feature Introduction](https://github.com/cucumber/cucumber/wiki/Feature-Introduction)
             + [Given when then](https://github.com/cucumber/cucumber/wiki/Given-When-Then)
+    + [Jasmine](http://pivotal.github.io/jasmine/) - JavaScript BDD testing framework with Rspec-like syntax
 + Template Engines
     + [ICanHaz.js](http://icanhazjs.com/)
     + [Hogan.js](http://twitter.github.com/hogan.js/)
