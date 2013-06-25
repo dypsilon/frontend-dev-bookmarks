@@ -70,6 +70,8 @@
                 + [Automating AngularJS With Yeoman, Grunt & Bower](http://newtriks.com/2013/06/11/automating-angularjs-with-yeoman-grunt-and-bower/)
                 + [Optimizing Angular Templates with Grunt on Heroku](http://www.codelord.net/2013/06/16/optimizing-angular-templates-with-grunt-on-heroku/)
                 + [Building Offline Applications With AngularJS and PouchDB](http://mircozeiss.com/building-offline-applications-with-angularjs-and-pouchdb/)
+            + Resources
+            	+ [Angular directives for Twitter Bootstrap](http://angular-ui.github.io/bootstrap/)
         + jQuery
             + [jQuery Wiki Page "Plugins/Authoring"](http://docs.jquery.com/Plugins/Authoring)
             + [jQuery Plugin Development Boilerplate](http://www.websanova.com/tutorials/jquery/jquery-plugin-development-boilerplate)
