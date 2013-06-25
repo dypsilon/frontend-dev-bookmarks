@@ -50,6 +50,14 @@
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero)
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
++ Weekly & Daily Resources
+    + [HTML5 Weekly](http://html5weekly.com/)
+    + [CSS Weekly](http://css-weekly.com/)
+    + [JavaScript Weekly](http://javascriptweekly.com/)
+    + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
+    + [Web Design Weekly](http://web-design-weekly.com/)
+    + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
+    + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
@@ -369,15 +377,12 @@
         + [Yola](https://www.yola.com/)
         + [1&1 Homepage](http://homepage.1und1.de/)
 + Programming & Markup Languages
-    + Style Guides, Guidelines
-        + [Google Styleguide](https://code.google.com/p/google-styleguide/)
-        + [GitHub Styleguide](https://github.com/styleguide)
-        + [WordPress Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/)
-        + [Front-end Code Standards & Best Practices by Roundarch Isobar](http://isobar-idev.github.io/code-standards/)
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
         + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
         + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+        + [Github CSS Styleguide](https://github.com/styleguide/css)
+        + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
     + JavaScript
         + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
         + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
@@ -387,6 +392,9 @@
         + [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
         + [ECMA 262-3 in detail](http://dmitrysoshnikov.com/tag/ecma-262-3/)
         + [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
+        + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+        + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
+        + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
         + Extensions
             + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
             + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
@@ -416,6 +424,8 @@
     + HTML
         + [Book: Dive into HTML5](http://diveintohtml5.info/)
         + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
+        + [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+        + [Wordpress HTML Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/html/)
     + Higher Level Languages
         + [Dart](http://www.dartlang.org/): Typed language compiled to JavaScript. By Google.
         + [Sass](http://sass-lang.com/) is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It’s translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
@@ -792,6 +802,7 @@
     + [pineapple.io](http://pineapple.io/): A central hub of Tutorials, Tools and Assets for developers and designers
     + [setapp Front End](http://setapp.me/expertise/development-front_end): Discover apps, tools, news and tips
     + [Frontdesk](https://github.com/miripiruni/frontdesk): Community driven list of useful things for Front End Developers
+    + [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/) by Roundarch Isobar
 + Chat
     + [XMPP using JSON](https://xmpp-ftw.jit.su/)
     + [Converse.js](http://conversejs.org/) is an open source, webchat client, that runs in the browser and can be integrated into any website.
@@ -862,11 +873,3 @@
     + [simpleCart.js](http://simplecartjs.org/)
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
-+ Weekly & Daily Resources
-    + [HTML5 Weekly](http://html5weekly.com/)
-    + [CSS Weekly](http://css-weekly.com/)
-    + [JavaScript Weekly](http://javascriptweekly.com/)
-    + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
-    + [Web Design Weekly](http://web-design-weekly.com/)
-    + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
-    + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
