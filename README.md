@@ -280,6 +280,7 @@
             + [Lightning Touch](https://github.com/ucsf-ckm/LightningTouch)
             + [Creating Fast Buttons for Mobile Web Applications](https://developers.google.com/mobile/articles/fast_buttons)
         + Layout
+            + [Snap.js](https://github.com/jakiestfu/Snap.js) A Javascript Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
             + [Flickable.js](https://github.com/tomlongo/Flickable.js) allows you to make any element touchable; useful for flicking between sections, or sliding elements around the page.
             + [PageSlide](http://srobbin.com/jquery-plugins/pageslide/) is a jQuery plugin which slides a webpage over to reveal an additional interaction pane.
             + [Swipe](http://swipejs.com/) is a lightweight mobile slider with 1:1 touch movement, resistant bounds, scroll prevention, and completely library agnostic.
@@ -535,6 +536,7 @@
     + [Highcharts](http://www.highcharts.com/): Interactive JavaScript Charts for your web projects.
     + [Flot](http://www.flotcharts.org/): Attractive JavaScript plotting for jQuery
 + Validation & Forms
+    + [Mention.js](https://github.com/jakiestfu/Mention.js) Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
     + [ALAJAX](http://www.alajax.com/)
     + [Parsley.js](http://parsleyjs.org): Validate your forms, frontend, without writing a single line of javascript!
     + [mailcheck.js](https://github.com/Kicksend/mailcheck): A jQuery plugin that suggests a right domain when your users misspell it in an email address.
@@ -805,6 +807,7 @@
     + [controldeck.js](http://controldeck.aws.af.cm/)
     + [impress.js](http://bartaz.github.io/impress.js/)
 + Scrolling
+    + [AppScroll.js](https://github.com/jakiestfu/AppScroll.js) AppScroll is a tiny (< 100 lines) JS library that fixes the "website dragging" issue caused on iDevices
     + [Scrollpath](http://joelb.me/scrollpath/)
     + [jQuery NiceScroll](http://code.google.com/p/jquery-nicescroll/)
     + [FoldScroll](http://soulwire.github.com/FoldScroll/)
