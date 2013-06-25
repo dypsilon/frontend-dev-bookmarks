@@ -788,7 +788,10 @@
     + [MicroJS](http://microjs.com/) helps you discover the most compact-but-powerful microframeworks.
     + [JSPkg](http://jspkg.com/): reference library and package manager
     + [jquer.in](http://jquer.in/) is a curated collection of jQuery plugins.
++ Other Front End Collections
     + [pineapple.io](http://pineapple.io/): A central hub of Tutorials, Tools and Assets for developers and designers
+    + [setapp Front End](http://setapp.me/expertise/development-front_end): Discover apps, tools, news and tips
+    + [Frontdesk](https://github.com/miripiruni/frontdesk): Community driven list of useful things for Front End Developers
 + Chat
     + [XMPP using JSON](https://xmpp-ftw.jit.su/)
     + [Converse.js](http://conversejs.org/) is an open source, webchat client, that runs in the browser and can be integrated into any website.
@@ -866,3 +869,4 @@
     + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
     + [Web Design Weekly](http://web-design-weekly.com/)
     + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
+    + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
