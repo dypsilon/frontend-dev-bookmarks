@@ -577,6 +577,8 @@
             + [Feature Introduction](https://github.com/cucumber/cucumber/wiki/Feature-Introduction)
             + [Given when then](https://github.com/cucumber/cucumber/wiki/Given-When-Then)
     + [Jasmine](http://pivotal.github.io/jasmine/) - JavaScript BDD testing framework with Rspec-like syntax
+    + [Responsinator](http://www.responsinator.com/) allows you to test responsive websites on different device resolutions. 
+    + [Responsive-Design-Testing](https://github.com/mattkersley/Responsive-Design-Testing) A simple HTML page to test out your responsive web design 
 + Template Engines
     + [ICanHaz.js](http://icanhazjs.com/)
     + [Hogan.js](http://twitter.github.com/hogan.js/)
