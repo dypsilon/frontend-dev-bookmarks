@@ -462,7 +462,6 @@
         + [Avgrund](http://lab.hakim.se/avgrund/)
         + [Timeout Dialog](http://rigoneri.github.com/timeout-dialog.js/)
         + [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-        + [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
     + Notifications
         + [Pines Notify](http://pinesframework.org/pnotify/)
         + [notifier.js](https://github.com/Srirangan/notifer.js)
