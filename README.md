@@ -53,6 +53,7 @@
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
+    + [HTML5 Bookmarks](http://html5bookmarks.com/)
     + [CSS Weekly](http://css-weekly.com/)
     + [JavaScript Weekly](http://javascriptweekly.com/)
     + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
