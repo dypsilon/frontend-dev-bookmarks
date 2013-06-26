@@ -567,6 +567,7 @@
     + [flippant.js](http://mintchaos.github.io/flippant.js/)
     + [Meaningful Transitions](http://www.ui-transitions.com/)
 + Numbers
+    + [numeral.js](http://numeraljs.com/): A javascript library for formatting and manipulating numbers.
     + [accounting.js](http://josscrowcroft.github.com/accounting.js/)
     + [numbers.js](https://github.com/sjkaliski/numbers.js)
 + Time and Dates
