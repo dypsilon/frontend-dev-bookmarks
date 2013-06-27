@@ -880,3 +880,10 @@
     + [simpleCart.js](http://simplecartjs.org/)
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
++ Derp
+    + This is the most amazing repository on GitHub.
+    + Without this, I'd have no resources to copy and paste from.
+    + Dear treckstar, I hope you accept my pull request, in hopes you make a pull request to the remote and it gets
+    accepted into the remote repository.
+    + Code is poetry.
+    + Love, beakman.
