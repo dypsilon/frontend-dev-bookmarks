@@ -80,6 +80,7 @@
         + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
         + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
         + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
+		+ [JavaScript Is Sexy](http://javascriptissexy.com/)
         + Extensions
             + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
             + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
