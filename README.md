@@ -875,6 +875,7 @@
     + [Smashing Jobs](http://jobs.smashingmagazine.com/)
     + [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
     + [Interview This!](https://github.com/ChiperSoft/InterviewThis): A list of questions to ask employers.
+    + [Code problems](https://github.com/blakeembrey/code-problems) -- Common code problems solved using JavaScript
 + Misc
     + [zip.js](http://gildas-lormeau.github.com/zip.js/)
     + [simpleCart.js](http://simplecartjs.org/)
