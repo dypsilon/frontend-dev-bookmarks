@@ -556,6 +556,7 @@
     + [Highcharts](http://www.highcharts.com/): Interactive JavaScript Charts for your web projects.
     + [Flot](http://www.flotcharts.org/): Attractive JavaScript plotting for jQuery
 + Validation & Forms
+    + [Validate.js](http://rickharrison.github.io/validate.js/) Lightweight JavaScript form validation library inspired by CodeIgniter.
     + [Mention.js](https://github.com/jakiestfu/Mention.js) Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
     + [ALAJAX](http://www.alajax.com/)
     + [Parsley.js](http://parsleyjs.org): Validate your forms, frontend, without writing a single line of javascript!
