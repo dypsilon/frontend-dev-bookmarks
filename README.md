@@ -59,6 +59,7 @@
     + [JavaScript Weekly](http://javascriptweekly.com/)
     + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
     + [Web Design Weekly](http://web-design-weekly.com/)
+    + [Web Development Reading List](http://wdrl.helloanselm.com/)
     + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
     + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
 + Programming & Markup Languages
