@@ -489,7 +489,7 @@
         + [notifier.js](https://github.com/Srirangan/notifer.js)
         + [noty](http://needim.github.com/noty/)
         + [Toastr](http://codeseven.github.com/toastr/)
-        + [a!ertifyjs](http://fabien-d.github.com/alertify.js/)
+        + [alertify.js](http://fabien-d.github.com/alertify.js/)
         + [Apprise](http://thrivingkings.com/read/Apprise-v2-The-new-and-improved-attractive-alert-alternative-for-jQuery)
     + Gallery Sliders
         + [Sequence](http://www.sequencejs.com/)
