@@ -233,6 +233,7 @@
                 + [Boilerstrap](https://github.com/emorikawa/boilerstrap): A blank slate for the modern web. Just add creativity.
                 + [Bootstrap GUI PSD](http://gui.repixdesign.com/#freebies): a toolkit designed to kickstart webdesign of webapps and sites.
                 + [Font Awesome](http://fortawesome.github.com/Font-Awesome/): The iconic font designed for use with Twitter Bootstrap
+                + [Fontello](https://github.com/fontello/fontello/): Icon fonts generator to get only the required fonts.
                 + [Typo3 Extension](http://typo3.org/extensions/repository/view/mn_twitter_bootstrap)
                 + [Bootstrap CDN](http://www.bootstrapcdn.com/) Free CDN for Twitter Bootstrap
                 + [Bootstrap Tour](http://bootstraptour.com/) Quick and easy way to build your product tours with Twitter Bootstrap Popovers.
