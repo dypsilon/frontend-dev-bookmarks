@@ -7,13 +7,13 @@
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
 + Architecture
-    + [BEM](http://bem.info/method/)
+    + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
         + [GitHub](https://github.com/bradfrost/patternlab)
         + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://de.slideshare.net/bradfrostweb/atomic-design)
         + [Atomic Design: Some Thoughts and One Example](http://15four.com/2013/05/29/atomic-design-some-thoughts-and-one-example/)
         + [Atomic Design Makes Me Feel Like a Chemist](http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist/)
-    + [Polymer Project](http://www.polymer-project.org/)
+    + [Polymer Project](http://www.polymer-project.org/): Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
         + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648) + [Slides](http://www.webcomponentsshift.com/)
         + [Video: Web Components in Action](https://developers.google.com/events/io/sessions/324149970)
     + [Aura](http://aurajs.github.io/aura/) is an event-driven architecture for developing scalable applications using reusable widgets.
@@ -50,7 +50,7 @@
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + [Mimosa](http://mimosajs.com) is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
-    + [Cartero](https://github.com/rotundasoftware/cartero)
+    + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
@@ -160,10 +160,10 @@
             + [Building a Backbone.js app](http://dailyjs.com/2012/11/29/backbone-tutorial-1/) tutorial series.
             + [Migrating an existing app to Backbone](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/)
             + [Chaplin.js](http://chaplinjs.org/): An architecture for JavaScript applications using the Backbone.js library.
-        + [Meteor](http://meteor.com/)
+        + [Meteor](http://meteor.com/): An open-source platform for building top-quality web apps in a fraction of the time.
             + [Github](https://github.com/meteor/meteor)
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
-        + [Zepto.js](http://zeptojs.com/)
+        + [Zepto.js](http://zeptojs.com/): A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.
             + [Github](https://github.com/madrobby/zepto)
         + [React](http://facebook.github.io/react/) by Facebook
             + [Github](https://github.com/facebook/react)
@@ -248,19 +248,19 @@
         + [Responsive Grid System](http://responsive.gs/)
         + [Responsive Grid System (2)](http://www.responsivegridsystem.com/)
         + [Golden Grid System](http://goldengridsystem.com/)
-        + [Compass](http://compass-style.org/)
-        + [Pondasee](http://tokokoo.github.com/pondasee/)
-        + [Centurion](http://jhough10.github.com/Centurion/)
+        + [Compass](http://compass-style.org/): An open-source CSS Authoring Framework.
+        + [Pondasee](http://tokokoo.github.com/pondasee/): Front-end starter kit combined with the power of SCSS & Compass.
+        + [Centurion](http://jhough10.github.com/Centurion/): A responsive web framework that scales with your device.
         + [Foundation by Zurb](http://foundation.zurb.com/): The most advanced responsive front-end framework in the world.
                 + [Foundation 3 Documentation](http://foundation.zurb.com/old-docs/f3/)
                 + [Foundation 4 Documentation](http://foundation.zurb.com/docs/)
                 + [Stylus based port](https://github.com/blai/foundation)
         + [Gumby](http://gumbyframework.com/)
         + [ProfoundGrid](http://www.profoundgrid.com/)
-        + [Groundwork](http://groundwork.sidereel.com/)
+        + [Groundwork](http://groundwork.sidereel.com/): GroundworkCSS's flexible grid system enables you to do rapid development and scales to fit any screen size, from handheld devices to large format televisions.
         + [skelJS](http://skeljs.org/)
-        + [Ink](http://ink.sapo.pt)
-        + [neat](http://neat.bourbon.io/)
+        + [Ink](http://ink.sapo.pt): Ink is a set of tools for quick development of web interfaces.
+        + [neat](http://neat.bourbon.io/): A lightweight semantic grid framework for Sass and Bourbon.
         + [Kube](http://imperavi.com/kube/)
         + [rwdgrid](http://rwdgrid.com/)
         + [Simple Grid](http://thisisdallas.github.com/Simple-Grid/)
