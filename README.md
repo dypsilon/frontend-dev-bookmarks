@@ -353,6 +353,7 @@
         + [Understanding border-image](Understanding border-image)
         + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
         + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+        + [csswizardry's CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
     + JavaScript
         + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
         + [Combinator Recipes for Working With Objects in JavaScript](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md)
