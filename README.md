@@ -602,7 +602,8 @@
 + Template Engines
     + [ICanHaz.js](http://icanhazjs.com/)
     + [Hogan.js](http://twitter.github.com/hogan.js/)
-    + [Handlebars.js](http://handlebarsjs.com/)
+    + [Handlebars.js](http://handlebarsjs.com/): Minimal Templating on Steroids
+    + [Mustache](http://mustache.github.io/): Logic-less templates
     + [Transparency](http://leonidas.github.com/transparency/)
     + [doT.js](http://olado.github.com/doT/)
     + [Walrus](http://documentup.com/jeremyruppel/walrus/)
