@@ -59,6 +59,7 @@
     + [JavaScript Weekly](http://javascriptweekly.com/)
     + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
     + [Web Design Weekly](http://web-design-weekly.com/)
+    + [Web Development Reading List](http://wdrl.helloanselm.com/)
     + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
     + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
 + Programming & Markup Languages
@@ -882,6 +883,7 @@
     + [Smashing Jobs](http://jobs.smashingmagazine.com/)
     + [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
     + [Interview This!](https://github.com/ChiperSoft/InterviewThis): A list of questions to ask employers.
+    + [Code problems](https://github.com/blakeembrey/code-problems) -- Common code problems solved using JavaScript
 + Misc
     + [zip.js](http://gildas-lormeau.github.com/zip.js/)
     + [simpleCart.js](http://simplecartjs.org/)
