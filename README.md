@@ -68,6 +68,7 @@
         + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
         + [Github CSS Styleguide](https://github.com/styleguide/css)
         + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
+        + [Wizardry CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
     + JavaScript
         + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
         + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
