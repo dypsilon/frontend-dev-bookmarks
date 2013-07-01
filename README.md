@@ -167,6 +167,8 @@
             + [Github](https://github.com/madrobby/zepto)
         + [React](http://facebook.github.io/react/) by Facebook
             + [Github](https://github.com/facebook/react)
+        + [JIO](https://www.j-io.org/): Client-side library to manage documents across multiple storages.
+            + [Github](https://github.com/nexedi/jio)
         + [Flight](http://twitter.github.io/flight/) is an event-driven web framework, from Twitter
         + [Singool.js](http://fahad19.github.com/singool/) Lightweight JavaScript framework for developing single-page web applications
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
