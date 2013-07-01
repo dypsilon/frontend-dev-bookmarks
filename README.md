@@ -42,16 +42,19 @@
         + [CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
     + [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
     + [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
+    + [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI): Make lossless optimisation of images part of your automated build process.
     + [jpegoptim](https://github.com/tjko/jpegoptim): Utility to optimize/compress JPEG files.
     + [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
     + [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
     + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
+    + [Mimosa](http://mimosajs.com) is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero)
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
+    + [HTML5 Bookmarks](http://html5bookmarks.com/)
     + [CSS Weekly](http://css-weekly.com/)
     + [JavaScript Weekly](http://javascriptweekly.com/)
     + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
@@ -268,6 +271,7 @@
     + [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
     + [Viewport Component](https://github.com/pazguille/viewport)
+    + [Can I Use](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 + Cross Device
     + Responsive
         + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
@@ -450,6 +454,7 @@
     + [GreenSock Animation Platform](http://www.greensock.com/get-started-js/) is a suite of tools for scripted animation.
         + [Learning Resources](http://www.greensock.com/learning/)
         + [Examples](http://ahrengot.com/tutorials/greensock-javascript-animation/)
+        + [Codepen Repository] (http://codepen.io/GreenSock/): Codepen repository with examples of Greensock usage and code
     + [scripty2](http://scripty2.com/) is an open source JavaScript framework for advanced HTML-based user interfaces. Or simply put, scripty2 helps you build a more delicious web.
     + [Animator.js](http://berniesumption.com/software/animator/): JavaScript animation library.
     + [Processing.js](http://processingjs.org/):  is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations, digital art, interactive animations, educational graphs, video games, etc. work using web standards and without any plug-ins.
@@ -568,6 +573,7 @@
     + [flippant.js](http://mintchaos.github.io/flippant.js/)
     + [Meaningful Transitions](http://www.ui-transitions.com/)
 + Numbers
+    + [numeral.js](http://numeraljs.com/): A javascript library for formatting and manipulating numbers.
     + [accounting.js](http://josscrowcroft.github.com/accounting.js/)
     + [numbers.js](https://github.com/sjkaliski/numbers.js)
 + Time and Dates
