@@ -6,6 +6,7 @@
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
+    + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
 + Architecture
     + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
@@ -77,6 +78,7 @@
         + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
         + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
         + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
+        + [OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
         + [Combinator Recipes for Working With Objects in JavaScript](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md)
             + [Part II](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_2.md)
         + [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
@@ -85,7 +87,6 @@
         + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
         + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
         + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
-		+ [JavaScript Is Sexy](http://javascriptissexy.com/)
         + Extensions
             + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
             + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
