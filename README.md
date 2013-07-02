@@ -42,6 +42,9 @@
         + [CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
     + [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
     + [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
+    + [JSLint](http://jslint.com/) for detecting errors or problems by static analysis of JavaScript programs.
+    + [JSHint](http://jshint.com/) for more flexible static analysis of JavaScript programs.
+    + [JSLint Error Explanations](http://jslinterrors.com) for explanations of the warnings given by JSLint and JSHint.
     + [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI): Make lossless optimisation of images part of your automated build process.
     + [jpegoptim](https://github.com/tjko/jpegoptim): Utility to optimize/compress JPEG files.
     + [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
