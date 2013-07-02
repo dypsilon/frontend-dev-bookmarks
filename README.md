@@ -312,6 +312,7 @@
             + [jQuery Picture](http://jquerypicture.com/)
             + [Picturefill](https://github.com/scottjehl/picturefill)
             + [Clown Car](https://github.com/estelle/clowncar) Technique for Responsive Images
+            + [imgLiquid](https://github.com/karacas/imgLiquid) jQuery plugin to resize images to fit in a container.
         + Text
             + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
             + [Out Of Words!](http://starburst1977.github.io/out-of-words/): The responsive typography framework behind Words App
