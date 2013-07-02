@@ -667,6 +667,7 @@
         + [Improving the performance of your HTML5 App](http://www.html5rocks.com/en/tutorials/speed/html5/)
         + [Best Practices for a Faster Web App with HTML5](http://www.html5rocks.com/en/tutorials/speed/quick/)
         + [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
+        + [Let's Make the Web Jank-free!](http://jankfree.org/)
     + Memory
         + [Memory 101](https://developers.google.com/chrome-developer-tools/docs/memory-analysis-101)
         + [Memory leak patterns in JavaScript](https://www.ibm.com/developerworks/library/wa-memleak/)
