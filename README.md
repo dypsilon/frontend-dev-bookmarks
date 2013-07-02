@@ -280,6 +280,7 @@
     + [HTML5 Please](http://html5please.com/) - Collective recommendations for polyfills and implementation of HTML5 and CSS3 features.
 + Cross Device
     + Responsive
+		+ [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
         + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
             + [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
