@@ -640,6 +640,7 @@
     + [page.js](https://github.com/visionmedia/page.js)
     + [speakingurl](https://github.com/pid/speakingurl): generate a so called "static", "Clean URL", "Pretty URL" or "slug" from a string.
 + Rich Text Editors
+    + [Mercury](http://jejacks0n.github.io/mercury/)
     + [Redactor](http://imperavi.com/redactor/)
     + [WYSIHTML5](http://xing.github.com/wysihtml5/)
     + [MarkItUp](http://markitup.jaysalvat.com/)
