@@ -861,6 +861,7 @@
     + [Keypress](http://dmauro.github.com/Keypress/)
     + [konami.js](http://mckamey.github.com/konami-js/)
     + [Keys.js](https://github.com/bitwalker/keys.js)
+    + [keymage.js](https://github.com/piranha/keymage)
 + Tables & DataGrids
     + [Tablecloth.js](http://tableclothjs.com/)
     + [Responsive Data Tables](http://css-tricks.com/responsive-data-tables/)
