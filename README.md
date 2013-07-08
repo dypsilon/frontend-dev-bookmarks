@@ -570,6 +570,7 @@
     + [three.js](http://threejs.org) Javascript 3D library.
     + [Highcharts](http://www.highcharts.com/): Interactive JavaScript Charts for your web projects.
     + [Flot](http://www.flotcharts.org/): Attractive JavaScript plotting for jQuery
+    + [Chart.js](http://www.chartjs.org/): Easy, object oriented client side graphs for designers and developers
 + Validation & Forms
     + [Mention.js](https://github.com/jakiestfu/Mention.js) Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
     + [ALAJAX](http://www.alajax.com/)
