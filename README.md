@@ -708,6 +708,7 @@
     + [JavaScript error handling anti-pattern](http://www.nczonline.net/blog/2009/04/28/javascript-error-handling-anti-pattern/)
     + [Tattletale](https://github.com/vimeo/tattletale)
 + Documentation
+    + [DevDocs](http://devdocs.io/) - All-in-one API Documentation Reader for Developers
     + [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
     + [docco](http://jashkenas.github.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
     + [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
