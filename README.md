@@ -905,3 +905,4 @@
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
+    + [TypeScript](http://www.typescriptlang.org/)
