@@ -608,6 +608,7 @@
             + [Feature Introduction](https://github.com/cucumber/cucumber/wiki/Feature-Introduction)
             + [Given when then](https://github.com/cucumber/cucumber/wiki/Given-When-Then)
     + [Jasmine](http://pivotal.github.io/jasmine/) - JavaScript BDD testing framework with Rspec-like syntax
+    + [QUnit](http://qunitjs.com/) - JavaScript unit testing framework
     + [PhantomCSS](https://github.com/Huddle/PhantomCSS) - for automating visual regression testing of website styling to support refactoring of CSS
 + Template Engines
     + [ICanHaz.js](http://icanhazjs.com/)
