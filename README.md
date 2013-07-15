@@ -609,6 +609,10 @@
             + [Given when then](https://github.com/cucumber/cucumber/wiki/Given-When-Then)
     + [Jasmine](http://pivotal.github.io/jasmine/) - JavaScript BDD testing framework with Rspec-like syntax
     + [PhantomCSS](https://github.com/Huddle/PhantomCSS) - for automating visual regression testing of website styling to support refactoring of CSS
+    + [Karma](http://karma-runner.github.io/) - Spectacular Test Runner for JavaScript
+    + [Chai Assertion Library](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+    + [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
+    + [sinon-chai](https://github.com/domenic/sinon-chai) - Extends Chai with assertions for the Sinon.JS mocking framework.
 + Template Engines
     + [ICanHaz.js](http://icanhazjs.com/)
     + [Hogan.js](http://twitter.github.com/hogan.js/)
@@ -905,3 +909,4 @@
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
+    + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
