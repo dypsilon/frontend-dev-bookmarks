@@ -36,6 +36,7 @@
         + [GruntStart](https://github.com/tsvensen/gruntstart): A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
         + [A beginner’s guide to Grunt](http://blog.mattbailey.co/post/45519082789/a-beginners-guide-to-grunt)
         + [Grunt - Synchronised Testing Between Browsers/Devices](http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices)
+    + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + Front-end Process - Flat Builds and Automation
         + [Introduction](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
         + [Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)
@@ -51,7 +52,6 @@
     + [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
     + [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
     + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
-    + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + [Mimosa](http://mimosajs.com) is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
@@ -291,7 +291,7 @@
     + [HTML5 Please](http://html5please.com/) - Collective recommendations for polyfills and implementation of HTML5 and CSS3 features.
 + Cross Device
     + Responsive
-		+ [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
+        + [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
         + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
             + [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
