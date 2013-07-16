@@ -285,6 +285,7 @@
         + [Susy](http://susy.oddbird.net/) - Responsive grids for Compass
         + [Pure](http://purecss.io/) - Minimal, flat, responsive CSS modules.
         + [Topcoat](https://github.com/topcoat/topcoat) - CSS for clean and fast web apps.
+        + [Glue](https://github.com/jorgebastida/glue) - A simple command line tool to generate CSS sprites.
 + Cross Browser
     + [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
