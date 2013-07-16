@@ -173,6 +173,8 @@
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
         + [Zepto.js](http://zeptojs.com/): A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.
             + [Github](https://github.com/madrobby/zepto)
+        + [Minified.js](http://minifiedjs.com/): Minified.js is a client-side JavaScript library, comparable to jQuery and MooTools in scope. Its features include DOM manipulation, animation, events, cookies and HTTP requests.
+            + [Github](https://github.com/timjansen/minified.js/)
         + [React](http://facebook.github.io/react/) by Facebook
             + [Github](https://github.com/facebook/react)
         + [Qooxdoo](http://qooxdoo.org/) is a universal JavaScript framework for building rich, interactive application, native-like apps for mobile devices, light-weight single-page oriented web applications or even applications to run outside the browser.
