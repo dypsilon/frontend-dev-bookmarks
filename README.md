@@ -798,6 +798,7 @@
     + [JavaScript error handling anti-pattern](http://www.nczonline.net/blog/2009/04/28/javascript-error-handling-anti-pattern/)
     + [Tattletale](https://github.com/vimeo/tattletale)
 + Documentation
+    + [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
     + [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
     + [docco](http://jashkenas.github.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
     + [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
