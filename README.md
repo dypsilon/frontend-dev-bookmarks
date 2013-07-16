@@ -57,6 +57,8 @@
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
+    + [Rake](https://github.com/jimweirich/rake): A make-like build utility for Ruby.
+    + [Guard](https://github.com/guard/guard): A command line tool to easily handle events on file system modifications.
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
