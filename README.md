@@ -704,6 +704,7 @@
             + [Profiles Panel](https://developers.google.com/chrome-developer-tools/docs/profiles)
             + [JavaScript Profiling With The Chrome Developer Tools](http://coding.smashingmagazine.com/2012/06/12/javascript-profiling-chrome-developer-tools/)
             + [Introduction to Chrome Developer Tools, Part One](http://www.html5rocks.com/en/tutorials/developertools/part1/)
+            + [Revolutions 2013](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/)
         + V8
             + [Optimizing for V8](http://floitsch.blogspot.co.uk/search/label/V8) - very technical series on the V8 engine
             + [I-want-to-optimize-my-JS-application-on-V8 checklist](http://mrale.ph/blog/2011/12/18/v8-optimization-checklist.html)
