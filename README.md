@@ -8,6 +8,7 @@
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
     + [Codeacademy](http://codeacademy.com) Good source for beginners
+    + [Codeschool](http://www.codeschool.com/) - Check out tryruby, trygit and tryjquery courses. Also have many useful courses.
 + Architecture
     + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
@@ -151,6 +152,7 @@
         + [jQuery](http://jquery.com/)
             + [Github](https://github.com/jquery/jquery)
             + [jQuery Wiki Page "Plugins/Authoring"](http://docs.jquery.com/Plugins/Authoring)
+            + [30 Days to Learn jQuery](http://freecourses.tutsplus.com/30-days-to-learn-jquery/index.html) - A free Tut+ Premium course
             + [jQuery Plugin Development Boilerplate](http://www.websanova.com/tutorials/jquery/jquery-plugin-development-boilerplate)
             + [The Ultimate Guide to Writing jQuery Plugins](http://www.websanova.com/tutorials/jquery/the-ultimate-guide-to-writing-jquery-plugins)
             + [Book: jQuery Fundamentals](http://jqfundamentals.com/)
@@ -185,7 +187,7 @@
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
         + [Sammy.js](http://sammyjs.org/) is a tiny JavaScript framework developed to ease the pain and provide a basic structure for developing JavaScript applications.
         + [Ember.js](http://emberjs.com/): A framework for creating ambitious web applications.
-
+            + [Let’s Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/) - A free Tut+ Premium course
         + [Maria](https://github.com/petermichaux/maria): The MVC framework for JavaScript applications. The real MVC. The Smalltalk MVC. The Gang of Four MVC.
         + [Terrific Composer](http://terrifically.org/composer/) is a Frontend Development Framework specifically designed for building deluxe frontends based on the [Terrific concept](http://terrifically.org/)
         + [Rivets.js](http://rivetsjs.com/): Lightweight and powerful data binding + templating solution for building modern web applications.
