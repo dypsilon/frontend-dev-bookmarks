@@ -441,6 +441,8 @@
     + [Smush.it](http://www.smushit.com/ysmush.it/) uses optimization techniques specific to image format to remove unnecessary bytes from image files.
     + [JPEGmini Photo Server](http://www.jpegmini.com/server) is an image optimization server which runs on Amazon EC2 (commercial).
     + [TinyPNG](http://tinypng.org/): Advanced lossy compression for PNG images that preserves full alpha transparency.
+    + [Caliper](http://caliper.io): Monitor your production front end
+application and improve it's performance for your customers
     + [Website Builders](http://en.wikipedia.org/wiki/Website_builder)
         + [Squarespace](http://www.squarespace.com/)
         + [BaseKit](http://www.basekit.com/)
