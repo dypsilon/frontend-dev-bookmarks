@@ -556,6 +556,7 @@
     + [Datavisualization.ch](http://selection.datavisualization.ch/)
     + [jQuery.Gantt](http://taitems.github.com/jQuery.Gantt/)
     + [easy pie chart](http://rendro.github.com/easy-pie-chart/)
+    + [JointJS JavaScript Diagramming Library](http://jointjs.com/)
     + [Gauge.js](http://bernii.github.com/gauge.js/)
     + [Google Chart Tools](https://developers.google.com/chart/)
     + [Piecon](http://lipka.github.com/piecon/)
