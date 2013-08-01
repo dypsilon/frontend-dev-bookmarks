@@ -8,6 +8,7 @@
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
     + [Codeacademy](http://codeacademy.com) Good source for beginners
+    + [52 Weeks of UX](http://52weeksofux.com/)
 + Architecture
     + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
@@ -427,6 +428,7 @@
     + [bacon](http://baconforme.com/) is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
     + [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography): Small roundup on CSS features that will enhance your web typography.
 + Services (Free & Commercial)
+    + [Adobe Kuler](http://kuler.adobe.com): create and share color schemes
     + [TheToolbox](http://www.thetoolbox.cc/)
     + [colourco](http://colourco.de/)
     + [Color Scheme Designer](http://colorschemedesigner.com): find resonate colors for a great design.
