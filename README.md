@@ -126,6 +126,7 @@
         + [Less](http://lesscss.org/) extends CSS with dynamic behavior such as variables, mixins, operations and functions.
         + [Roole](http://roole.org/) is a language that compiles to CSS.
         + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
+        + [TypeScript](http://www.typescriptlang.org/) is a typed superset of JavaScript that compiles to plain JavaScript (by Microsoft)
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
