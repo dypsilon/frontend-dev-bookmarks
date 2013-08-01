@@ -51,6 +51,7 @@
     + [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI): Make lossless optimisation of images part of your automated build process.
     + [jpegoptim](https://github.com/tjko/jpegoptim): Utility to optimize/compress JPEG files.
     + [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
+    + [Glue](https://github.com/jorgebastida/glue) is a simple command line tool to generate CSS sprites.
     + [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
     + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
     + [Mimosa](http://mimosajs.com) is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
@@ -285,8 +286,7 @@
         + [Jeet](http://jeetframework.com/) next gen responsive grid
         + [Susy](http://susy.oddbird.net/) - Responsive grids for Compass
         + [Pure](http://purecss.io/) - Minimal, flat, responsive CSS modules.
-        + [Topcoat](https://github.com/topcoat/topcoat) - CSS for clean and fast web apps.
-        + [Glue](https://github.com/jorgebastida/glue) - A simple command line tool to generate CSS sprites.
+        + [Topcoat](https://github.com/topcoat/topcoat) is a CSS library evolved from the Adobe design language developed for Brackets, Edge Reflow, and feedback from the PhoneGap app developer community.
 + Cross Browser
     + [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
