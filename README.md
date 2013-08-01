@@ -626,6 +626,8 @@
     + [Chai Assertion Library](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
     + [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
     + [sinon-chai](https://github.com/domenic/sinon-chai) - Extends Chai with assertions for the Sinon.JS mocking framework.
+    + [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit, scriptable with a JavaScript API
+    + [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers that runs on Gecko
 + Template Engines
     + [ICanHaz.js](http://icanhazjs.com/)
     + [Hogan.js](http://twitter.github.com/hogan.js/)
