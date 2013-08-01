@@ -430,6 +430,7 @@
     + [TheToolbox](http://www.thetoolbox.cc/)
     + [colourco](http://colourco.de/)
     + [Color Scheme Designer](http://colorschemedesigner.com): find resonate colors for a great design.
+    + [Adobe Kuler](http://kuler.adobe.com): create and share color schemes.
     + [HTML Entity Character Lookup](http://leftlogic.com/projects/entity-lookup)
     + [SpritePad](http://spritepad.wearekiss.com/)
     + [Responsinator](http://www.responsinator.com/)
