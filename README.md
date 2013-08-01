@@ -721,6 +721,7 @@
         + [Navigation Timing](http://www.html5rocks.com/en/tutorials/webperformance/basics/)
         + [Firebug Paint Events](https://addons.mozilla.org/en-US/firefox/addon/firebug-paint-events/)
         + [Locache](https://github.com/d0ugal/locache): JavaScript caching framework for client side caching in the browser using localStorage
+        + [Caliper](http://caliper.io/) is a web service for performance monitoring of your web app.
     + DOM Manipulation
         + [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
         + [Reflows & Repaints: CSS Performance making your JavaScript slow?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/)
