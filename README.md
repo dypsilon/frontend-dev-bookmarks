@@ -71,6 +71,8 @@
     + [Open Web Platform Daily Digest](http://webplatformdaily.org)
     + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
     + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
+    + [Web Tools Weekly](http://webtoolsweekly.com/)
+    + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
 + Programming & Markup Languages
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
