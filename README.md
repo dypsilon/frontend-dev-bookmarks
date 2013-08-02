@@ -440,7 +440,9 @@
     + [HTML Shell](http://htmlshell.com/)
     + [Form Builder](http://livetools.uiparade.com/form-builder.html)
     + [Zen BG](http://mudcu.be/bg/)
+    + [What Font Is](http://www.whatfontis.com/) identifies fonts from an image.
     + [Prepros](http://alphapixels.com/prepros/)
+    + [Browser Shots](http://browsershots.org/) tests compatibility in almost every browser.
     + [CSS3 Media Query Builder](http://arcsec.ca/media-query-builder/)
     + [jsFiddle](http://jsfiddle.net)
     + [codepen](http://codepen.io/) is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write.
