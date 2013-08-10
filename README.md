@@ -294,7 +294,7 @@
         + [Pure](http://purecss.io/) - Minimal, flat, responsive CSS modules.
         + [Topcoat](https://github.com/topcoat/topcoat) is a CSS library evolved from the Adobe design language developed for Brackets, Edge Reflow, and feedback from the PhoneGap app developer community.
 + Cross Browser
-    + [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
+    + [Normalize.css](http://necolas.github.io/normalize.css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
     + [Viewport Component](https://github.com/pazguille/viewport)
     + [Can I Use](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
