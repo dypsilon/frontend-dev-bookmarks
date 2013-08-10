@@ -75,6 +75,12 @@
     + [Web Tools Weekly](http://webtoolsweekly.com/)
     + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
 + Programming & Markup Languages
+    + frameworks
+       + php
+            + [best php frameworks] (http://www.phpframeworks.com/)
+       + Asp
+       + Ruby
+       + Python
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
         + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
