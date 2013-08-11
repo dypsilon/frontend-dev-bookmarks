@@ -82,6 +82,7 @@
         + [Github CSS Styleguide](https://github.com/styleguide/css)
         + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
         + [Wizardry CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
+        + [Verical centering](http://codepen.io/shshaw/full/gEiDt) Cross browser absolute centering technics
     + JavaScript
         + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
         + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
