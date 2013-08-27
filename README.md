@@ -1,4 +1,4 @@
-# Frontend Development
+﻿# Frontend Development
 
 + Guides
     + [Hack Design](http://hackdesign.org/courses/)
@@ -212,7 +212,7 @@
                 + [Color and Date Picker](http://www.eyecon.ro/colorpicker-and-datepicker-for-twitter-bootstrap.htm)
                 + [WYSIHTML5 RTE for Bootstrap](http://jhollingworth.github.com/bootstrap-wysihtml5/)
                 + [Bootstrap Image Gallery](http://blueimp.github.com/Bootstrap-Image-Gallery/)
-                + [jQuery UI Bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/)
+                + [jQuery UI Bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/): Bootstrap theme for jQuery UI
                 + [Pines Notify](http://pinesframework.org/pnotify/): JavaScript notifications for Bootstrap or jQuery UI.
                 + [fuelUX](http://exacttarget.github.com/fuelux/): Fuel UX extends Twitter Bootstrap with additional lightweight JavaScript controls.
                 + [A date range picker for Twitter Bootstrap](http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/)
@@ -293,6 +293,8 @@
         + [Susy](http://susy.oddbird.net/) - Responsive grids for Compass
         + [Pure](http://purecss.io/) - Minimal, flat, responsive CSS modules.
         + [Topcoat](https://github.com/topcoat/topcoat) is a CSS library evolved from the Adobe design language developed for Brackets, Edge Reflow, and feedback from the PhoneGap app developer community.
+        + [Cascade Framework](http://cascade-framework.com/) - a powerful, scalable and responsive high performance OOCSS framework that supports both old and new browsers
+        + [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) - Cascade Framework stripped down to the bare essentials, for when a minimal footprint is more important than bells and whistles
 + Cross Browser
     + [Normalize.css](http://necolas.github.io/normalize.css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
@@ -503,7 +505,9 @@
     + Kits
         + [AlloyUI](http://liferay.github.com/alloyui.com/)
         + [Kendo UI](http://www.kendoui.com/)
-        + [jQuery UI Bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/)
+        + [jQuery UI Bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/): Bootstrap theme for jQuery UI
+        + [jQuery Bootstrap](https://github.com/jslegers/jquery-bootstrap): Integration of Bootstrap and jQuery UI
+        + [Cascade Framework](http://cascade-framework.com/): high performance widgets allow you to define the UI status directly in the DOM
         + [Zebra](http://zebra.gravitysoft.org/): JavaScript library that follows easy OOP concept, provides HTML5 Canvas based Rich UI and includes Java to JavaScript converter tool
     + File Upload
         + [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/)
