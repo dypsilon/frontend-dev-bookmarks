@@ -55,7 +55,7 @@
     + [Glue](https://github.com/jorgebastida/glue) is a simple command line tool to generate CSS sprites.
     + [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
     + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
-    + [Mimosa](http://mimosajs.com) is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
+    + [Mimosa](http://mimosa.io) is a batteries included modern web development toolkit. Bower, RequireJS, Transpilers, Pre-Processors, Micro-Templating, Linting, Optimization, Serving. To start.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
