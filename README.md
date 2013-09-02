@@ -103,7 +103,7 @@
             + [Coroutine Event Loops in Javascript](http://syzygy.st/javascript-coroutines/)
             + [How To Node Article on promises describing both sides: node.js and browser](http://howtonode.org/promises)
             + [Video by Douglas Crockford on monads which is touching Promises](http://www.youtube.com/watch?v=dkZFtimgAcM)
-            + [Не надо давать обещания, или Promises наоборот](http://habrahabr.ru/post/166419/)
+            + [?? ???? ?????? ????????, ??? Promises ????????](http://habrahabr.ru/post/166419/)
             + [Promises are the monad of asynchronous programming](http://blog.jcoglan.com/2011/03/11/promises-are-the-monad-of-asynchronous-programming/)
             + [A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
             + [What's The Point Of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
@@ -163,7 +163,7 @@
             + [The Ultimate Guide to Writing jQuery Plugins](http://www.websanova.com/tutorials/jquery/the-ultimate-guide-to-writing-jquery-plugins)
             + [Book: jQuery Fundamentals](http://jqfundamentals.com/)
             + [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
-            + [Handpicked jQuery Plugins](http://iwantaneff.in/repo/)
+            + [Handpicked jQuery Plugins](http://jque.re/)
         + [dojo](http://dojotoolkit.org/)
             + [Github](https://github.com/dojo/dojo)
             + [Documentation](http://dojotoolkit.org/documentation/)
@@ -786,7 +786,7 @@
     + [sea.js](http://seajs.org/) A Module Loader for the Web
     + [CrapLoader](https://github.com/gregersrygg/crapLoader)
     + [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
-    + [Путь JavaScript модуля](http://habrahabr.ru/post/181536/)
+    + [???? JavaScript ??????](http://habrahabr.ru/post/181536/)
     + [Modular JavaScript with RequireJS](http://blog.credera.com/topic/technology-solutions/java/modular-javascript-with-requirejs/)
     + [LABjs & RequireJS: Loading JavaScript Resources the Fun Way](http://msdn.microsoft.com/en-us/magazine//ff943568.aspx)
     + [JavaScript Inheritance and Public/Private members](https://go-left.com/blog/2011/08/js-inheritance/)
@@ -862,7 +862,7 @@
     + [setapp Front End](http://setapp.me/expertise/development-front_end): Discover apps, tools, news and tips
     + [Frontdesk](https://github.com/miripiruni/frontdesk): Community driven list of useful things for Front End Developers
     + [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/) by Roundarch Isobar
-    + [Devlinks](http://iwantaneff.in/link/) by David Higgins
+    + [WebDev Links](http://devlinks.co.uk/) by David Higgins
 + Chat
     + [XMPP using JSON](https://xmpp-ftw.jit.su/)
     + [Converse.js](http://conversejs.org/) is an open source, webchat client, that runs in the browser and can be integrated into any website.
