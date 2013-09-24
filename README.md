@@ -858,6 +858,7 @@
     + [MicroJS](http://microjs.com/) helps you discover the most compact-but-powerful microframeworks.
     + [JSPkg](http://jspkg.com/): reference library and package manager
     + [jquer.in](http://jquer.in/) is a curated collection of jQuery plugins.
+    + [JSDB.io](http://www.jsdb.io): great source of the best JavaScript frameworks, plugins, and tools.
 + Other Front End Collections
     + [pineapple.io](http://pineapple.io/): A central hub of Tutorials, Tools and Assets for developers and designers
     + [setapp Front End](http://setapp.me/expertise/development-front_end): Discover apps, tools, news and tips
