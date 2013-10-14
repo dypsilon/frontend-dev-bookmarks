@@ -1,5 +1,4 @@
 # Frontend Development
-
 + Guides
     + [Hack Design](http://hackdesign.org/courses/)
     + [Designer School](http://designer-school.com/)
@@ -44,10 +43,7 @@
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero)
-
-
 + Frameworks
-
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
         + Angular
