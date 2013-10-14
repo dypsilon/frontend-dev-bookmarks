@@ -44,7 +44,10 @@
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero)
+
+
 + Frameworks
+
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
         + Angular
@@ -85,11 +88,11 @@
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
         + [Sammy.js](http://sammyjs.org/) is a tiny JavaScript framework developed to ease the pain and provide a basic structure for developing JavaScript applications.
         + [Ember.js](http://emberjs.com/): A framework for creating ambitious web applications.
-
         + [Maria](https://github.com/petermichaux/maria): The MVC framework for JavaScript applications. The real MVC. The Smalltalk MVC. The Gang of Four MVC.
         + [Terrific Composer](http://terrifically.org/composer/) is a Frontend Development Framework specifically designed for building deluxe frontends based on the [Terrific concept](http://terrifically.org/)
         + [Rivets.js](http://rivetsjs.com/): Lightweight and powerful data binding + templating solution for building modern web applications.
         + [Synapse](http://bruth.github.com/synapse/docs/): Data Binding For The Rest Of Us
+        + [Cappuccino](http://www.cappuccino-project.org): An open source framework that makes it easy to build desktop-caliber applications that run in a web browser.
         + [A Comprehensive Collection Of Javascript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
     + CSS
