@@ -435,6 +435,7 @@
 + Services (Free & Commercial)
     + [TheToolbox](http://www.thetoolbox.cc/)
     + [colourco](http://colourco.de/)
+    + [Colors.so](http://colors.so/)
     + [Color Scheme Designer](http://colorschemedesigner.com): find resonate colors for a great design.
     + [Adobe Kuler](http://kuler.adobe.com): create and share color schemes.
     + [HTML Entity Character Lookup](http://leftlogic.com/projects/entity-lookup)
