@@ -9,6 +9,7 @@
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
     + [Codeacademy](http://codeacademy.com) Good source for beginners
     + [Codeschool](http://www.codeschool.com/) - Check out tryruby, trygit and tryjquery courses. Also have many useful courses.
+    + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) it covers all the elements from css and typography to html and the structure of prose.
 + Architecture
     + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
