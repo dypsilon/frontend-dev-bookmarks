@@ -816,6 +816,8 @@
     + [Tracing.js](https://github.com/ebobby/tracing.js) - Javascript function tracing.
     + [JavaScript error handling anti-pattern](http://www.nczonline.net/blog/2009/04/28/javascript-error-handling-anti-pattern/)
     + [Tattletale](https://github.com/vimeo/tattletale)
++ Offline Event Handling
+    + [Offline.js](https://github.com/HubSpot/offline)
 + Documentation
     + [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
     + [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
