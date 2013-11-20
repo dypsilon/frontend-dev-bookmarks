@@ -345,6 +345,7 @@
             + [jQuery Mobile](http://jquerymobile.com/): Touch-Optimized Web Framework for Smartphones & Tablets
             + [jQTouch](http://jqtouch.com/) is a Zepto/jQuery plugin for mobile web development on the iPhone, Android, iPod Touch, and other forward-thinking devices.
             + [Junior](http://justspamjustin.github.com/junior/)
+            + [Lungo](http://www.lungo.tapquo.com/)
         + Emulators
             + [thumbs.js](http://mwbrooks.github.com/thumbs.js/)
             + [Phantom Limb](http://viewinglens.com/phantom-limb/)
