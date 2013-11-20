@@ -590,6 +590,7 @@
     + [Responsive vertical timeline](http://christian-fei.com/tutorials/simple-vertical-timeline-with-css/)
     + [Raphael.js](http://raphaeljs.com/) Easy vector graphics for the web.
     + [three.js](http://threejs.org) Javascript 3D library.
+    + [babylonjs](http://www.babylonjs.com) 3D engine based on webgl and javascript.
     + [Highcharts](http://www.highcharts.com/): Interactive JavaScript Charts for your web projects.
     + [Flot](http://www.flotcharts.org/): Attractive JavaScript plotting for jQuery
     + [Chart.js](http://www.chartjs.org/): Easy, object oriented client side graphs for designers and developers
