@@ -631,7 +631,7 @@
             + [Given when then](https://github.com/cucumber/cucumber/wiki/Given-When-Then)
     + [Jasmine](http://pivotal.github.io/jasmine/) - JavaScript BDD testing framework with Rspec-like syntax
     + [QUnit](http://qunitjs.com/) - JavaScript unit testing framework
-    + [JsMockito](http://jsmockito.org/) - Yet another JavaScript unit testing framework
+    + [JsMockito](http://jsmockito.org/) - JavaScript stub/mock framework heavily inspired by Mockito
     + [PhantomCSS](https://github.com/Huddle/PhantomCSS) - for automating visual regression testing of website styling to support refactoring of CSS
     + [Karma](http://karma-runner.github.io/) - Spectacular Test Runner for JavaScript
     + [Chai Assertion Library](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
