@@ -19,7 +19,7 @@
     + [Polymer Project](http://www.polymer-project.org/): Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
         + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648) + [Slides](http://www.webcomponentsshift.com/)
         + [Video: Web Components in Action](https://developers.google.com/events/io/sessions/324149970)
-    + [Aura](http://aurajs.github.io/aura/) is an event-driven architecture for developing scalable applications using reusable widgets.
+    + [Aura](http://aurajs.com/) is an event-driven architecture for developing scalable applications using reusable widgets.
     + [Hydra](http://tcorral.github.io/Hydra.js/) is an easy-to-use framework that provides you with the necessary tools to create scalable applications using modules and widgets.
     + [Terrific.js](http://terrifically.org/) provides you a Scalable Javascript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
     + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
