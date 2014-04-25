@@ -482,7 +482,6 @@
     + [Shifty](http://jeremyckahn.github.com/shifty/) is a tweening engine built in JavaScript.  It is designed to fit any number of tweening needs.
     + [emile.js](https://github.com/madrobby/emile) is a no-frills stand-alone CSS animation JavaScript framework.
     + [Firmin](http://extralogical.net/projects/firmin/): a JavaScript animation library using CSS transforms and transitions.
-    + [$fx()](https://github.com/agilemd/Fx): A compact, lightweight Javascript Library for animation.
     + [Keanu](https://github.com/wambotron/Keanu) is a micro-lib for animation on Canvas/JS.
     + [jsAnim](http://jsanim.com/) is a powerful, yet easy to use library for adding impressive animations to websites, without sacrificing standards or accessibility. Weighing in at just under 25 kilobytes, jsAnim packs a lot of punch for such a little application.
     + [GreenSock Animation Platform](http://www.greensock.com/get-started-js/) is a suite of tools for scripted animation.
