@@ -75,6 +75,7 @@
     + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
     + [Web Tools Weekly](http://webtoolsweekly.com/)
     + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
+    + [ng-newsletter](http://www.ng-newsletter.com)
 + Programming & Markup Languages
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
