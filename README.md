@@ -86,6 +86,7 @@
         + [Wizardry CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
     + JavaScript
         + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+        + [Book: Speaking Javascript](http://speakingjs.com/es5/index.html)
         + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
         + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
         + [OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
