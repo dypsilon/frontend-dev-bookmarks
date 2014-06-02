@@ -212,7 +212,7 @@
                 + [Color and Date Picker](http://www.eyecon.ro/colorpicker-and-datepicker-for-twitter-bootstrap.htm)
                 + [WYSIHTML5 RTE for Bootstrap](http://jhollingworth.github.com/bootstrap-wysihtml5/)
                 + [Bootstrap Image Gallery](http://blueimp.github.com/Bootstrap-Image-Gallery/)
-                + [jQuery UI Bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/)
+                + [jQuery UI Bootstrap](http://jquery-ui-bootstrap.github.io/jquery-ui-bootstrap/)
                 + [Pines Notify](http://pinesframework.org/pnotify/): JavaScript notifications for Bootstrap or jQuery UI.
                 + [fuelUX](http://exacttarget.github.com/fuelux/): Fuel UX extends Twitter Bootstrap with additional lightweight JavaScript controls.
                 + [A date range picker for Twitter Bootstrap](http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/)
