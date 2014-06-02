@@ -99,7 +99,7 @@
             + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
             + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
             + [bacon.js](https://github.com/raimohanska/bacon.js): A small functional reactive programming lib for JavaScript.
-        + Flow Control
+        + Flow Controlc
             + [Coroutine Event Loops in Javascript](http://syzygy.st/javascript-coroutines/)
             + [How To Node Article on promises describing both sides: node.js and browser](http://howtonode.org/promises)
             + [Video by Douglas Crockford on monads which is touching Promises](http://www.youtube.com/watch?v=dkZFtimgAcM)
@@ -293,6 +293,7 @@
         + [Susy](http://susy.oddbird.net/) - Responsive grids for Compass
         + [Pure](http://purecss.io/) - Minimal, flat, responsive CSS modules.
         + [Topcoat](https://github.com/topcoat/topcoat) is a CSS library evolved from the Adobe design language developed for Brackets, Edge Reflow, and feedback from the PhoneGap app developer community.
+        + [Compass Animation](https://github.com/ericam/compass-animation) - CSS3 animation plugin for compass
 + Cross Browser
     + [Normalize.css](http://necolas.github.io/normalize.css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
@@ -450,6 +451,7 @@
     + [CSSArrowPlease](http://cssarrowplease.com) Simple tooltip arrows with CSS
     + [jsFiddle](http://jsfiddle.net)
     + [codepen](http://codepen.io/) is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write.
+    + [cssdeck](http://cssdeck.com/)
     + [site44](https://www.site44.com/) turns Dropbox folders to websites
     + [Backlift](https://www.backlift.com/): Work in your Dropbox using your favorite editor. When you save your files, your website will automatically refresh.
     + [Smush.it](http://www.smushit.com/ysmush.it/) uses optimization techniques specific to image format to remove unnecessary bytes from image files.
@@ -684,6 +686,7 @@
     + [X-editable](http://vitalets.github.com/x-editable/)
 + Code Viewers & Editors
     + [SublimeText](http://sublimetext.com/)
+    + [Vim](http://www.vim.org/) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi'
     + [Rainbow.js](http://craig.is/making/rainbows)
     + [Intelligist](http://srobbin.com/jquery-plugins/intelligist/)
     + [Prism.js](http://prismjs.com/)
@@ -940,3 +943,5 @@
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
     + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
++ Web experiments
+    + [Chrome Experiments](http://www.chromeexperiments.com/about/) - Chrome Experiments is a showcase of web experiments written by the creative coding community
