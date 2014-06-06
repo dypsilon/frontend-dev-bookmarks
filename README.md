@@ -340,6 +340,7 @@
         + [Responsive Email Templates](http://zurb.com/playground/responsive-email-templates): Some responsive templates for email
         + [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
         + [CSS Support in Email](http://www.campaignmonitor.com/css/)
+        + [Email Template Reference](http://templates.mailchimp.com/)
     + Mobile
         + Frameworks
             + [jQuery Mobile](http://jquerymobile.com/): Touch-Optimized Web Framework for Smartphones & Tablets
