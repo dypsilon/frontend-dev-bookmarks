@@ -191,6 +191,7 @@
         + [Flight](http://twitter.github.io/flight/) is an event-driven web framework, from Twitter
         + [Singool.js](http://fahad19.github.com/singool/) Lightweight JavaScript framework for developing single-page web applications
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
+        + [rAppid.js](http://www.rappidjs.com):  a declarative (XAML) Rich Internet Application Javascript MVC Framework 
         + [Sammy.js](http://sammyjs.org/) is a tiny JavaScript framework developed to ease the pain and provide a basic structure for developing JavaScript applications.
         + [Ember.js](http://emberjs.com/): A framework for creating ambitious web applications.
             + [Let’s Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/) - A free Tut+ Premium course
