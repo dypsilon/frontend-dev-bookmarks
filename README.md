@@ -121,6 +121,7 @@
                 + [RSVP.js](https://github.com/tildeio/rsvp.js)
                 + [q](https://github.com/kriskowal/q)
                 + [Watch.js](https://github.com/melanke/Watch.JS)
+                + [flow.js](https://github.com/it-ony/flow.js)
     + HTML
         + [Book: Dive into HTML5](http://diveintohtml5.info/)
         + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
