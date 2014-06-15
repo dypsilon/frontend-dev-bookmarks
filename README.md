@@ -209,6 +209,7 @@
             + [Bootstrap Expo](http://expo.getbootstrap.com/)
             + [Bootstrap Hero List](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources): The big badass list of bootstrap resources
             + Widgets
+                + [Bootstrap video player - jQuery plugin](http://html5-ninja.com/#/item/Bootstrap-video-player-jQuery-plugin/5): A customizable HTML5 video player plugin for jQuery based on bootstrap UI.
                 + [Color and Date Picker](http://www.eyecon.ro/colorpicker-and-datepicker-for-twitter-bootstrap.htm)
                 + [WYSIHTML5 RTE for Bootstrap](http://jhollingworth.github.com/bootstrap-wysihtml5/)
                 + [Bootstrap Image Gallery](http://blueimp.github.com/Bootstrap-Image-Gallery/)
