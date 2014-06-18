@@ -299,6 +299,7 @@
     + [Viewport Component](https://github.com/pazguille/viewport)
     + [Can I Use](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
     + [HTML5 Please](http://html5please.com/) - Collective recommendations for polyfills and implementation of HTML5 and CSS3 features.
+    + [Outdated Browser](http://outdatedbrowser.com/) - Checks if user's browser is outdated and suggests downloading latest.
 + Cross Device
     + Responsive
         + [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
