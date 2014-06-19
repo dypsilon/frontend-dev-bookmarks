@@ -1,17 +1,17 @@
 ﻿# Frontend Development
 
 + Guides
-    + [Hack Design](http://hackdesign.org/courses/)
-    + [Designer School](http://designer-school.com/)
-    + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
+    + [Bento](http://www.bentobox.io): a collection of guides for web development.
+    + [Hack Design](http://hackdesign.org/courses/): An easy to follow design course for people who do amazing things.
+    + [Designer School](http://designer-school.com/): A group of passionate professionals teaching web development
+    + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) covers all the elements from CSS and typography to HTML and the structure of prose.
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-    + [Web Development Teaching Materials](http://www.teaching-materials.org/)
+    + [Web Development Teaching Materials](http://www.teaching-materials.org/): This site hosts a variety of CC-licensed web development curriculum which was designed to be taught, but it may be useful to students as well.
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
-    + [Codecademy](http://codecademy.com) Good source for beginners
-    + [Codeschool](http://www.codeschool.com/) - Check out tryruby, trygit and tryjquery courses. Also have many useful courses.
-    + [Bento](http://www.bentobox.io) - Everything you need to know about web development. Neatly packaged.
-    + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) it covers all the elements from css and typography to html and the structure of prose.
-    + [Treehouse](http://teamtreehouse.com/) - Learn HTML, CSS, iPhone apps and more.
+    + [Codecademy](http://codecademy.com): Learn to code interactively, for free.
+    + [Codeschool](https://www.codeschool.com/) teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
+    + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): This site by Adobe is a resource and showcase of some of the newest, and most expressive features being added to the web today.
+    + [Treehouse](http://teamtreehouse.com/): Learn HTML, CSS, iPhone apps and more.
 + Architecture
     + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
