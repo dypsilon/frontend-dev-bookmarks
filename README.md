@@ -7,7 +7,7 @@
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
-    + [Codeacademy](http://codeacademy.com) Good source for beginners
+    + [Codecademy](http://codecademy.com) Good source for beginners
     + [Codeschool](http://www.codeschool.com/) - Check out tryruby, trygit and tryjquery courses. Also have many useful courses.
     + [Bento](http://www.bentobox.io) - Everything you need to know about web development. Neatly packaged.
     + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) it covers all the elements from css and typography to html and the structure of prose.
@@ -65,6 +65,7 @@
     + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
     + [Wraith](https://github.com/BBC-News/wraith) is a screenshot comparison tool.
+    + [Penthouse](https://github.com/pocketjoso/penthouse): Critical path CSS generator.
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
@@ -130,6 +131,7 @@
                 + [RSVP.js](https://github.com/tildeio/rsvp.js)
                 + [q](https://github.com/kriskowal/q)
                 + [Watch.js](https://github.com/melanke/Watch.JS)
+                + [flow.js](https://github.com/it-ony/flow.js)
     + HTML
         + [Book: Dive into HTML5](http://diveintohtml5.info/)
         + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
@@ -203,6 +205,7 @@
         + [Flight](http://twitter.github.io/flight/) is an event-driven web framework, from Twitter
         + [Singool.js](http://fahad19.github.com/singool/) Lightweight JavaScript framework for developing single-page web applications
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
+        + [rAppid.js](http://www.rappidjs.com):  a declarative (XAML) Rich Internet Application Javascript MVC Framework 
         + [Sammy.js](http://sammyjs.org/) is a tiny JavaScript framework developed to ease the pain and provide a basic structure for developing JavaScript applications.
         + [Ember.js](http://emberjs.com/): A framework for creating ambitious web applications.
         	+ [Github](https://github.com/emberjs/ember.js)
@@ -225,6 +228,7 @@
             + [Bootstrap Expo](http://expo.getbootstrap.com/)
             + [Bootstrap Hero List](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources): The big badass list of bootstrap resources
             + Widgets
+                + [Bootstrap video player - jQuery plugin](http://html5-ninja.com/#/item/Bootstrap-video-player-jQuery-plugin/5): A customizable HTML5 video player plugin for jQuery based on bootstrap UI.
                 + [Color and Date Picker](http://www.eyecon.ro/colorpicker-and-datepicker-for-twitter-bootstrap.htm)
                 + [WYSIHTML5 RTE for Bootstrap](http://jhollingworth.github.com/bootstrap-wysihtml5/)
                 + [Bootstrap Image Gallery](http://blueimp.github.com/Bootstrap-Image-Gallery/)
@@ -280,6 +284,7 @@
                 + [PaintStrap](http://paintstrap.com/): Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
                 + [TODC](http://todc.github.com/todc-bootstrap/index.html): A Google-styled theme for Twitter Bootstrap.
                 + [Layoutit!](http://www.layoutit.com/)
+        + [IceCream](http://html5-ninja.com/icecream/): Simple and light responsive grid system.
         + [Responsive Grid System](http://responsive.gs/)
         + [Responsive Grid System (2)](http://www.responsivegridsystem.com/)
         + [Golden Grid System](http://goldengridsystem.com/)
@@ -316,6 +321,7 @@
     + [Viewport Component](https://github.com/pazguille/viewport)
     + [Can I Use](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
     + [HTML5 Please](http://html5please.com/) - Collective recommendations for polyfills and implementation of HTML5 and CSS3 features.
+    + [Outdated Browser](http://outdatedbrowser.com/) - Checks if user's browser is outdated and suggests downloading latest.
 + Cross Device
     + Responsive
         + [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
@@ -358,6 +364,7 @@
         + [Ink by Zurb](http://zurb.com/ink/): An awesome responsive email framework from the folks at Zurb.
         + [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
         + [CSS Support in Email](http://www.campaignmonitor.com/css/)
+        + [Email Template Reference](http://templates.mailchimp.com/)
     + Mobile
         + Frameworks
             + [jQuery Mobile](http://jquerymobile.com/): Touch-Optimized Web Framework for Smartphones & Tablets
@@ -491,6 +498,7 @@
         + [1&1 Homepage](http://homepage.1und1.de/)
 + Animation
     + [Velocity.js](http://velocityjs.org): Re-implementation of jQuery's $.animate() that adds 20x the speed while also drastically improving the UI animation workflow.
+    + [Animo.js](http://labs.bigroomstudios.com/libraries/animo-js): A powerful little tool for managing CSS animations
     + [Stylie](http://jeremyckahn.github.com/stylie/)
     + [animate.less](https://github.com/machito/animate.less), is a bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
     + [Canvas Advanced Animation Toolkit](http://hyperandroid.github.com/CAAT/) is an scene graph director-based animation framework for javascript based in the concept of a timeline.
@@ -853,6 +861,7 @@
     + [coddoc](http://doug-martin.github.com/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
     + [sphinx](http://sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
     + [Using JSDoc](http://usejsdoc.org/)
+    + [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
 + Windows 8 Style
     + [Metro UI CSS](http://metroui.org.ua/)
     + [BootMetro](http://aozora.github.com/bootmetro/)
@@ -878,6 +887,7 @@
     + [MediaElement.js](http://mediaelementjs.com/): HTML5 audio and video players in pure HTML and CSS.
     + [audio.js](http://kolber.github.io/audiojs/) is a drop-in javascript library that allows HTML5’s "audio" tag to be used anywhere.
 + Library Collections
+    + [pullpush](http://pullpu.sh/): A curated collection of jQuery/JavaScript plugins with additional stats from GitHub. 
     + [Unheap](http://www.unheap.com/): A tidy repository of jQuery plugins
     + [jster](http://jster.net/)
     + [MicroJS](http://microjs.com/) helps you discover the most compact-but-powerful microframeworks.
@@ -913,6 +923,7 @@
     + [deck.js](http://imakewebthings.com/deck.js/)
     + [controldeck.js](http://controldeck.aws.af.cm/)
     + [impress.js](http://bartaz.github.io/impress.js/)
+    + [hyhyhy](https://github.com/MaciejCzyzewski/hyhyhy)
 + Scrolling
     + [AppScroll.js](https://github.com/jakiestfu/AppScroll.js) AppScroll is a tiny (< 100 lines) JS library that fixes the "website dragging" issue caused on iDevices
     + [Scrollpath](http://joelb.me/scrollpath/)
@@ -965,6 +976,7 @@
 + Misc
     + [zip.js](http://gildas-lormeau.github.com/zip.js/)
     + [simpleCart.js](http://simplecartjs.org/)
+    + [Mozilla / pdf.js](https://github.com/mozilla/pdf.js)
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
