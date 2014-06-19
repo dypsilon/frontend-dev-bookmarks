@@ -41,6 +41,7 @@
         + [GruntStart](https://github.com/tsvensen/gruntstart): A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
         + [A beginner’s guide to Grunt](http://blog.mattbailey.co/post/45519082789/a-beginners-guide-to-grunt)
         + [Grunt - Synchronised Testing Between Browsers/Devices](http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices)
+    + [gulp.js](http://gulpjs.com/) is a build system that makes use of node's streams.
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
     + Front-end Process - Flat Builds and Automation
         + [Introduction](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
