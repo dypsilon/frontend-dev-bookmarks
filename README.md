@@ -137,6 +137,7 @@
         + [Roole](http://roole.org/) is a language that compiles to CSS.
         + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
         + [TypeScript](http://www.typescriptlang.org/) is a typed superset of JavaScript that compiles to plain JavaScript (by Microsoft)
+        + [CoffeeScript](http://coffeescript.org/) is a little language that compiles into JavaScript.
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
