@@ -148,6 +148,7 @@
                 + [AngularJS vs Ember](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
                 + [The Hitchhiker’s Guide to the Directive](http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
                 + [Frontend Workflows with Grunt and Angular JS](http://youtu.be/fSAgFxjFSqY)
+				+ [Angular Tips](http://angular-tips.com)
             + Integration
                 + [angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed): this is a fork of Angular Seed but with changes needed for requireJS support.
                 + [Writing Reusable AngularJS Components with Bower](http://briantford.com/blog/angular-bower.html)
