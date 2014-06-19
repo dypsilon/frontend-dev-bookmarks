@@ -225,7 +225,6 @@
                 + [Color and Date Picker](http://www.eyecon.ro/colorpicker-and-datepicker-for-twitter-bootstrap.htm)
                 + [WYSIHTML5 RTE for Bootstrap](http://jhollingworth.github.com/bootstrap-wysihtml5/)
                 + [Bootstrap Image Gallery](http://blueimp.github.com/Bootstrap-Image-Gallery/)
-                + [jQuery UI Bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/): Bootstrap theme for jQuery UI
                 + [Pines Notify](http://pinesframework.org/pnotify/): JavaScript notifications for Bootstrap or jQuery UI.
                 + [fuelUX](http://exacttarget.github.com/fuelux/): Fuel UX extends Twitter Bootstrap with additional lightweight JavaScript controls.
                 + [A date range picker for Twitter Bootstrap](http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/)
@@ -520,7 +519,7 @@
     + Kits
         + [AlloyUI](http://liferay.github.com/alloyui.com/)
         + [Kendo UI](http://www.kendoui.com/)
-        + [jQuery UI Bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/): Bootstrap theme for jQuery UI
+        + [jQuery UI Bootstrap](http://jquery-ui-bootstrap.github.io/jquery-ui-bootstrap/): Bootstrap theme for jQuery UI
         + [jQuery Bootstrap](https://github.com/jslegers/jquery-bootstrap): Integration of Bootstrap and jQuery UI
         + [Cascade Framework](http://cascade-framework.com/): high performance widgets allow you to define the UI status directly in the DOM
         + [Zebra](http://zebra.gravitysoft.org/): JavaScript library that follows easy OOP concept, provides HTML5 Canvas based Rich UI and includes Java to JavaScript converter tool
