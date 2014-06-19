@@ -355,6 +355,7 @@
         + [Ink by Zurb](http://zurb.com/ink/): An awesome responsive email framework from the folks at Zurb.
         + [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
         + [CSS Support in Email](http://www.campaignmonitor.com/css/)
+        + [Responsive Email Framework](http://zurb.com/ink/): Framework to create responsive emails that work everywhere
     + Mobile
         + Frameworks
             + [jQuery Mobile](http://jquerymobile.com/): Touch-Optimized Web Framework for Smartphones & Tablets
