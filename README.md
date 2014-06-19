@@ -455,7 +455,7 @@
     + [CSS3 Media Query Builder](http://arcsec.ca/media-query-builder/)
     + [CSSArrowPlease](http://cssarrowplease.com) Simple tooltip arrows with CSS
     + [jsFiddle](http://jsfiddle.net)
-    + [codepen](http://codepen.io/) is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write.
+    + [CodePen](http://codepen.io/) is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write.
     + [site44](https://www.site44.com/) turns Dropbox folders to websites
     + [Backlift](https://www.backlift.com/): Work in your Dropbox using your favorite editor. When you save your files, your website will automatically refresh.
     + [Smush.it](http://www.smushit.com/ysmush.it/) uses optimization techniques specific to image format to remove unnecessary bytes from image files.
@@ -627,6 +627,7 @@
 + Search
     + [Fullproof](http://reyesr.github.com/fullproof/)
     + [lunr.js](http://lunrjs.com/) is a simple full text search engine for your client side applications.
+    + [GlyphSearch](http://glyphsearch.com/): A search engine for icons from Font Awesome, Glyphicons, and Ionicons.
 + Testing
     + [FiveUI](http://galoisinc.github.io/FiveUI/) Extensible/open browser extension & headless system for testing UI Consistency guidelines (or anything else you can test with injected JS).
     + [Writing Testable JavaScript](http://alistapart.com/article/writing-testable-javascript)
