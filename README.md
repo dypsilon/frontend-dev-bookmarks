@@ -604,6 +604,7 @@
     + [IV.js](http://dadleyy.github.com/IV.js/) was created to provide a intutive way to provide validation filters that are useful in processing user input.
     + [Ladda](http://lab.hakim.se/ladda/): A UI concept which merges loading indicators into the action that invoked them.
     + [jQuery Super Labels](http://remy.bach.me.uk/superlabels_demo/)
+    + [jQuery Validation Engine](http://www.position-relative.net/creation/formValidator/): jQuery validation engine is a Javascript plugin aimed at the validation of form fields in the browser
 + Transitions
     + [Quicksand](http://razorjack.net/quicksand/)
     + [Isotope](http://isotope.metafizzy.co/docs/introduction.html)
