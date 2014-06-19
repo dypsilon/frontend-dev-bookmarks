@@ -1,4 +1,4 @@
-﻿# Frontend Development
+# Frontend Development
 
 + Guides
     + [Hack Design](http://hackdesign.org/courses/)
@@ -85,6 +85,7 @@
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
         + [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+        + [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
         + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
         + [Github CSS Styleguide](https://github.com/styleguide/css)
         + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
