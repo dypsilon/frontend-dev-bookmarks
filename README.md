@@ -82,14 +82,12 @@
     + [JavaScript Weekly](http://javascriptweekly.com/)
     + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
     + [Web Design Weekly](http://web-design-weekly.com/)
-    + [Web Development Reading List](http://wdrl.helloanselm.com/)
-    + [Webdev Newsletter](http://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html)
     + [Open Web Platform Daily Digest](http://webplatformdaily.org)
     + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
     + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
     + [Web Tools Weekly](http://webtoolsweekly.com/)
     + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
-    + [ng-newsletter](http://www.ng-newsletter.com)
+    + [ng-newsletter](http://www.ng-newsletter.com): The free, weekly newsletter of the best AngularJS content on the web.
 + Programming & Markup Languages
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
