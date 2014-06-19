@@ -97,7 +97,7 @@
         + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
         + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
         + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
-        + [Structure and Interpretation of Computer Programs](http://www.comp.nus.edu.sg/~cs1101s/sicp/) 
+        + [Structure and Interpretation of Computer Programs](http://www.comp.nus.edu.sg/~cs1101s/sicp/)
         + Extensions
             + [RubyJS](http://rubyjs.org/) is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
             + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
@@ -202,6 +202,7 @@
         + [Terrific Composer](http://terrifically.org/composer/) is a Frontend Development Framework specifically designed for building deluxe frontends based on the [Terrific concept](http://terrifically.org/)
         + [Rivets.js](http://rivetsjs.com/): Lightweight and powerful data binding + templating solution for building modern web applications.
         + [Synapse](http://bruth.github.com/synapse/docs/): Data Binding For The Rest Of Us
+        + [Cappuccino](http://www.cappuccino-project.org): An open source framework that makes it easy to build desktop-caliber applications that run in a web browser.
         + [A Comprehensive Collection Of Javascript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
         + [Underscore.js](http://underscorejs.org/)
