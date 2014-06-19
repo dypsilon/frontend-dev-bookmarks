@@ -23,7 +23,7 @@
         + [Video: Web Components in Action](https://developers.google.com/events/io/sessions/324149970)
     + [Aura](http://aurajs.com/) is an event-driven architecture for developing scalable applications using reusable widgets.
     + [Hydra](http://tcorral.github.io/Hydra.js/) is an easy-to-use framework that provides you with the necessary tools to create scalable applications using modules and widgets.
-    + [Terrific.js](http://terrifically.org/) provides you a Scalable Javascript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
+    + [Terrific.js](http://terrifically.org/) provides you a Scalable JavaScript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
     + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
     + [Video: Nicholas Zakas: Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
     + [Book: Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -34,7 +34,7 @@
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
 + Workflow
     + [Browser-sync](https://github.com/shakyShane/browser-sync): is an amazingly awesome tool to sync all input, scrolling, and clicking across all the devices in your testing workflow. Scroll on your desktop, watch the page scroll on your android - realtime.
-    + [Video: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
+    + [Video: JavaScript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
     + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
     + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
         + [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
@@ -90,11 +90,12 @@
         + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
         + [Wizardry CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
         + [Verical centering](http://codepen.io/shshaw/full/gEiDt) Cross browser absolute centering technics
+        + [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
     + JavaScript
         + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
-        + [Book: Speaking Javascript](http://speakingjs.com/es5/index.html)
+        + [Book: Speaking JavaScript](http://speakingjs.com/es5/index.html)
         + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
-        + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
+        + [JavaScript Closures](http://jibbering.com/faq/notes/closures/)
         + [OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
         + [Combinator Recipes for Working With Objects in JavaScript](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md)
             + [Part II](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_2.md)
@@ -110,7 +111,7 @@
             + [Mout](http://moutjs.com/) is a collection of modular JavaScript utilities that can be used in the browser as AMD modules or on node.js (without any overhead).
             + [bacon.js](https://github.com/raimohanska/bacon.js): A small functional reactive programming lib for JavaScript.
         + Flow Control
-            + [Coroutine Event Loops in Javascript](http://syzygy.st/javascript-coroutines/)
+            + [Coroutine Event Loops in JavaScript](http://syzygy.st/javascript-coroutines/)
             + [How To Node Article on promises describing both sides: node.js and browser](http://howtonode.org/promises)
             + [Video by Douglas Crockford on monads which is touching Promises](http://www.youtube.com/watch?v=dkZFtimgAcM)
             + [Не надо давать обещания, или Promises наоборот](http://habrahabr.ru/post/166419/)
@@ -140,6 +141,7 @@
     + Higher Level Languages
         + [Dart](http://www.dartlang.org/): Typed language compiled to JavaScript. By Google.
         + [Sass](http://sass-lang.com/) is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It’s translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+            + [Bourbon](http://bourbon.io/): A simple and lightweight mixin library for Sass.
         + [Less](http://lesscss.org/) extends CSS with dynamic behavior such as variables, mixins, operations and functions.
         + [Roole](http://roole.org/) is a language that compiles to CSS.
         + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
@@ -205,7 +207,7 @@
         + [Flight](http://twitter.github.io/flight/) is an event-driven web framework, from Twitter
         + [Singool.js](http://fahad19.github.com/singool/) Lightweight JavaScript framework for developing single-page web applications
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
-        + [rAppid.js](http://www.rappidjs.com):  a declarative (XAML) Rich Internet Application Javascript MVC Framework 
+        + [rAppid.js](http://www.rappidjs.com):  a declarative (XAML) Rich Internet Application JavaScript MVC Framework
         + [Sammy.js](http://sammyjs.org/) is a tiny JavaScript framework developed to ease the pain and provide a basic structure for developing JavaScript applications.
         + [Ember.js](http://emberjs.com/): A framework for creating ambitious web applications.
         	+ [Github](https://github.com/emberjs/ember.js)
@@ -217,7 +219,7 @@
         + [Rivets.js](http://rivetsjs.com/): Lightweight and powerful data binding + templating solution for building modern web applications.
         + [Synapse](http://bruth.github.com/synapse/docs/): Data Binding For The Rest Of Us
         + [Cappuccino](http://www.cappuccino-project.org): An open source framework that makes it easy to build desktop-caliber applications that run in a web browser.
-        + [A Comprehensive Collection Of Javascript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
+        + [A Comprehensive Collection Of JavaScript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
         + [Underscore.js](http://underscorejs.org/)
     + CSS
@@ -251,6 +253,7 @@
             + Themes
                 + [Bootswatch](http://bootswatch.com/): Theme catalog.
                 + [Jumpstart UI](http://jumpstartui.com/): Another catalog for paid themes
+                + [Themestrap](https://github.com/divshot/themestrap): A simple starter kit for constructing Twitter Bootstrap 3+ themes.
                 + [Darkstrap](http://danneu.com/posts/4-darkstrap-css-a-dark-theme-for-twitter-bootstrap-2): A dark theme.
                 + [jQuery Mobile Boostrap](https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme): A jQuery Mobile theme based on Twitter Bootstrap
                 + [Wrapbootstrap](http://wrapbootstrap.com/)
@@ -274,8 +277,6 @@
             + Misc
                 + [Boilerstrap](https://github.com/emorikawa/boilerstrap): A blank slate for the modern web. Just add creativity.
                 + [Bootstrap GUI PSD](http://gui.repixdesign.com/#freebies): a toolkit designed to kickstart webdesign of webapps and sites.
-                + [Font Awesome](http://fortawesome.github.com/Font-Awesome/): The iconic font designed for use with Twitter Bootstrap
-                + [Fontello](https://github.com/fontello/fontello/): Icon fonts generator to get only the required fonts.
                 + [Typo3 Extension](http://typo3.org/extensions/repository/view/mn_twitter_bootstrap)
                 + [Bootstrap CDN](http://www.bootstrapcdn.com/) Free CDN for Twitter Bootstrap
                 + [Bootstrap Tour](http://bootstraptour.com/) Quick and easy way to build your product tours with Twitter Bootstrap Popovers.
@@ -334,6 +335,7 @@
         + [The State Of Responsive Web Design](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/)
         + [Facing The Challenge: Building A Responsive Web Application](http://mobile.smashingmagazine.com/2013/06/12/building-a-responsive-web-application/)
             + [This repo contains techniques and concepts to build responsive & hybrid web applications.](https://github.com/webpro/responsive-web-apps)
+        + [Am I responsive?](http://ami.responsivedesign.is/)
         + Tables
             + [Responsive Data Tables](http://css-tricks.com/responsive-data-tables/)
             + [stacktable.js](http://johnpolacek.github.com/stacktable.js/)
@@ -353,6 +355,9 @@
             + [Clown Car](https://github.com/estelle/clowncar) Technique for Responsive Images
             + [imgLiquid](https://github.com/karacas/imgLiquid) jQuery plugin to resize images to fit in a container.
             + [lazy load images](http://ezyz.github.io/Lazy-Load-Images-without-jQuery/) lazy load images with out jquery.
+            + [PictureFill](https://github.com/scottjehl/picturefill)
+            + [HiSRC](https://github.com/teleject/hisrc): A simple jQuery plugin for adaptive images in responsive web design
+            + [resrc.it](http://www.resrc.it/): Responsive images on demand from the cloud.
         + Text
             + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
             + [Out Of Words!](http://starburst1977.github.io/out-of-words/): The responsive typography framework behind Words App
@@ -383,6 +388,7 @@
             + [Overthrow](https://github.com/filamentgroup/Overthrow)
             + [Antiscroll](http://learnboost.github.com/antiscroll/)
             + [iscroll](http://cubiq.org/iscroll-4)
+            + [JScrollPane](http://jscrollpane.kelvinluck.com/) is a jQuery plugin by Kelvin Luck which converts a browser's default scrollbars (on elements with a relevant overflow property) into an HTML structure.
         + Gestures
             + [jGestures](http://jgestures.codeplex.com/) jQuery plugin enables you to add gesture events such as ‘pinch’, ‘rotate’, ‘swipe’, ‘tap’ and ‘orientationchange’ just like native jQuery events.
             + [hammer.js](http://eightmedia.github.com/hammer.js/) is a focused, standalone JavaScript library, only for multi-touch gestures.
@@ -404,7 +410,8 @@
             + [Lightning Touch](https://github.com/ucsf-ckm/LightningTouch)
             + [Creating Fast Buttons for Mobile Web Applications](https://developers.google.com/mobile/articles/fast_buttons)
         + Layout
-            + [Snap.js](https://github.com/jakiestfu/Snap.js) A Javascript Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
+            + [Screensizes](http://screensiz.es/)
+            + [Snap.js](https://github.com/jakiestfu/Snap.js) A JavaScript Library for creating beautiful mobile shelfs in JavaScript (Facebook and Path style side menus)
             + [Flickable.js](https://github.com/tomlongo/Flickable.js) allows you to make any element touchable; useful for flicking between sections, or sliding elements around the page.
             + [PageSlide](http://srobbin.com/jquery-plugins/pageslide/) is a jQuery plugin which slides a webpage over to reveal an additional interaction pane.
             + [Swipe](http://swipejs.com/) is a lightweight mobile slider with 1:1 touch movement, resistant bounds, scroll prevention, and completely library agnostic.
@@ -457,6 +464,7 @@
     + [Trunk8](http://jrvis.com/trunk8/) is an intelligent text truncation plugin to jQuery. It will cut off just enough text to prevent it from spilling over
     + [bacon](http://baconforme.com/) is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
     + [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography): Small roundup on CSS features that will enhance your web typography.
+    + [Font Squirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator)
 + Services (Free & Commercial)
     + [TheToolbox](http://www.thetoolbox.cc/)
     + [colourco](http://colourco.de/)
@@ -503,9 +511,9 @@
     + [animate.less](https://github.com/machito/animate.less), is a bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
     + [Canvas Advanced Animation Toolkit](http://hyperandroid.github.com/CAAT/) is an scene graph director-based animation framework for javascript based in the concept of a timeline.
     + [tween.js](https://github.com/sole/tween.js): Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.
-    + [Janis](https://github.com/MikeMcTiernan/Janis) is a lightweight Javascript framework that provides simple animations via CSS transitions for modern browsers on the web as well as mobile devices.
+    + [Janis](https://github.com/MikeMcTiernan/Janis) is a lightweight JavaScript framework that provides simple animations via CSS transitions for modern browsers on the web as well as mobile devices.
     + [Rekapi](http://rekapi.com/): A keyframe animation library for JavaScript
-    + [CanvasScript3](http://www.arahaya.com/canvasscript3/) is a Javascript library for the new HTML5 Canvas with an interface similar to ActionScript3. This library enables Sprite Groups, Layers, Mouse Events, Keyboard Events, Bitmap Effects, Tween Animations etc.
+    + [CanvasScript3](http://www.arahaya.com/canvasscript3/) is a JavaScript library for the new HTML5 Canvas with an interface similar to ActionScript3. This library enables Sprite Groups, Layers, Mouse Events, Keyboard Events, Bitmap Effects, Tween Animations etc.
     + [Shifty](http://jeremyckahn.github.com/shifty/) is a tweening engine built in JavaScript.  It is designed to fit any number of tweening needs.
     + [emile.js](https://github.com/madrobby/emile) is a no-frills stand-alone CSS animation JavaScript framework.
     + [Firmin](http://extralogical.net/projects/firmin/): a JavaScript animation library using CSS transforms and transitions.
@@ -514,13 +522,13 @@
     + [GreenSock Animation Platform](http://www.greensock.com/get-started-js/) is a suite of tools for scripted animation.
         + [Learning Resources](http://www.greensock.com/learning/)
         + [Examples](http://ahrengot.com/tutorials/greensock-javascript-animation/)
-        + [Codepen Repository] (http://codepen.io/GreenSock/): Codepen repository with examples of Greensock usage and code
+        + [Codepen Repository](http://codepen.io/GreenSock/): Codepen repository with examples of Greensock usage and code
     + [scripty2](http://scripty2.com/) is an open source JavaScript framework for advanced HTML-based user interfaces. Or simply put, scripty2 helps you build a more delicious web.
     + [Animator.js](http://berniesumption.com/software/animator/): JavaScript animation library.
     + [Processing.js](http://processingjs.org/):  is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations, digital art, interactive animations, educational graphs, video games, etc. work using web standards and without any plug-ins.
     + [jQuery Transit](http://ricostacruz.com/jquery.transit/): Super-smooth CSS3 transformations and transitions for jQuery.
     + [Move.js](http://visionmedia.github.com/move.js/) is a small JavaScript library making CSS3 backed animation extremely simple and elegant.
-    + [Collie](http://jindo.dev.naver.com/collie/) is a Javascript library that helps to create highly optimized animations and games using HTML 5.
+    + [Collie](http://jindo.dev.naver.com/collie/) is a JavaScript library that helps to create highly optimized animations and games using HTML 5.
     + [Year Of Moo](http://www.yearofmoo.com/): Angular.js Animations
     + [animate.css](http://daneden.me/animate/) is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
     + [Approach](http://srobbin.com/jquery-plugins/approach/)
@@ -537,6 +545,7 @@
         + [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/)
         + [tus fileupload](http://www.tus.io/)
         + [Fine Uploader](http://fineuploader.com/)
+        + [finderSelect](http://evulse.github.io/finderSelect/)
     + Sitemap
         + [SlickMap CSS](http://astuteo.com/slickmap)
     + Table Of Contents
@@ -547,6 +556,7 @@
         + [Avgrund](http://lab.hakim.se/avgrund/)
         + [Timeout Dialog](http://rigoneri.github.com/timeout-dialog.js/)
         + [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+        + [Zoombox](http://grafikart.github.io/Zoombox/)
     + Notifications
         + [Pines Notify](http://pinesframework.org/pnotify/)
         + [notifier.js](https://github.com/Srirangan/notifer.js)
@@ -584,6 +594,7 @@
         + [DopelessRotate](http://www.dopeless-design.de/dopeless-rotate-jquery-plugin-360-degrees-product-viewer.html)
         + [jQuery Addresspicker](http://mngscl-10.s3-website-us-east-1.amazonaws.com/jquery-addresspicker-bootstrap/demos/index.html)
         + [Fangle](http://jotux.github.io/fangle/): create interactive documents from plain text.
+        + [Skeucard](http://kenkeiter.com/skeuocard/) progressively enhances credit card inputs to provide a skeuomorphic interface.
 + Visualization
     + [Photon](https://github.com/thomasxiii/photon)
     + [CSS3 shapes](http://www.css3shapes.com/)
@@ -617,11 +628,12 @@
     + [amCharts](http://www.amcharts.com/) is a robust charting tool that will suit any dataviz need.
     + [Responsive vertical timeline](http://christian-fei.com/tutorials/simple-vertical-timeline-with-css/)
     + [Raphael.js](http://raphaeljs.com/) Easy vector graphics for the web.
-    + [three.js](http://threejs.org) Javascript 3D library.
+    + [three.js](http://threejs.org) JavaScript 3D library.
     + [Highcharts](http://www.highcharts.com/): Interactive JavaScript Charts for your web projects.
     + [Flot](http://www.flotcharts.org/): Attractive JavaScript plotting for jQuery
     + [Chart.js](http://www.chartjs.org/): Easy, object oriented client side graphs for designers and developers
     + [GoJS](http://gojs.net): Library for creating interactive diagrams (Trees, flowcharts, state charts, etc) in the browser.
+    + [JointJS](http://jointjs.com/) is a modern HTML 5 JavaScript library for visualization and interaction with diagrams and graphs.
 + Validation & Forms
     + [Mention.js](https://github.com/jakiestfu/Mention.js) Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
     + [ALAJAX](http://www.alajax.com/)
@@ -633,7 +645,7 @@
     + [IV.js](http://dadleyy.github.com/IV.js/) was created to provide a intutive way to provide validation filters that are useful in processing user input.
     + [Ladda](http://lab.hakim.se/ladda/): A UI concept which merges loading indicators into the action that invoked them.
     + [jQuery Super Labels](http://remy.bach.me.uk/superlabels_demo/)
-    + [jQuery Validation Engine](http://www.position-relative.net/creation/formValidator/): jQuery validation engine is a Javascript plugin aimed at the validation of form fields in the browser
+    + [jQuery Validation Engine](http://www.position-relative.net/creation/formValidator/): jQuery validation engine is a JavaScript plugin aimed at the validation of form fields in the browser
 + Transitions
     + [Quicksand](http://razorjack.net/quicksand/)
     + [Isotope](http://isotope.metafizzy.co/docs/introduction.html)
@@ -653,7 +665,7 @@
 + Testing
     + [FiveUI](http://galoisinc.github.io/FiveUI/) Extensible/open browser extension & headless system for testing UI Consistency guidelines (or anything else you can test with injected JS).
     + [Writing Testable JavaScript](http://alistapart.com/article/writing-testable-javascript)
-    + [Writing Testable Frontend Javascript Part 1 – Anti-patterns and their fixes](https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/)
+    + [Writing Testable Frontend JavaScript Part 1 – Anti-patterns and their fixes](https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/)
     + [Introduction to BDD](http://dannorth.net/introducing-bdd/)
     + [cucumber](https://github.com/cucumber/cucumber/wiki)
         + [cucumber.js](https://github.com/cucumber/cucumber-js)
@@ -682,7 +694,7 @@
     + [Templayed.js](http://archan937.github.com/templayed.js/)
     + [ECT](http://ectjs.com/): Fastest JavaScript template engine with CoffeeScript syntax
     + [pithy](https://github.com/caolan/pithy): An internal DSL for generating HTML in JavaScript
-    + [T](https://github.com/gcao/T.js): T.js is a template engine that uses simple Javascript data structure to represent html/xml data.
+    + [T](https://github.com/gcao/T.js): T.js is a template engine that uses simple JavaScript data structure to represent html/xml data.
     + [Nunjucks](http://nunjucks.jlongster.com/) is a full featured templating engine for javascript.
     + [Jade](http://jade-lang.com/)
     + [Linked.in Dust.js](http://linkedin.github.com/dustjs/)
@@ -724,11 +736,11 @@
     + [tabIndent.js](http://julianlam.github.com/tabIndent.js/)
     + [Behave.js](http://jakiestfu.github.io/Behave.js/) is a lightweight library for adding IDE style behaviors to plain text areas, making it much more enjoyable to write code in.
 + Refactoring
-    + [Refactoring Javascript with kratko.js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
+    + [Refactoring JavaScript with kratko.js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
 + Performance
     + General Information
         + [Video: DOM, HTML5, & CSS3 Performance](http://paulirish.com/2011/dom-html5-css3-performance/) by Paul Irish
-        + [Video: High Performance Javascript](http://vimeo.com/16241085) by Nicholas Zakas
+        + [Video: High Performance JavaScript](http://vimeo.com/16241085) by Nicholas Zakas
         + [Video: Building A Performant HTML5 App](http://youtu.be/ft9R72R7TlI) with Trunal Bhanse and Akhilesh Gupta (LinkedIn)
         + [Writing Fast, Memory-Efficient JavaScript](http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
         + [JavaScript Performance Best Practices](http://www.developer.nokia.com/Community/Wiki/JavaScript_Performance_Best_Practices) by Nokia
@@ -741,7 +753,7 @@
         + [Memory leak patterns in JavaScript](https://www.ibm.com/developerworks/library/wa-memleak/)
         + [Understanding and Solving Internet Explorer Leak Patterns](http://msdn.microsoft.com/en-us/library/bb250448.aspx)
         + [Finding memory leaks](http://gent.ilcore.com/2011/08/finding-memory-leaks.html)
-        + [How to write low garbage real-time Javascript](https://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript)
+        + [How to write low garbage real-time JavaScript](https://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript)
         + [JScript Memory Leaks](http://javascript.crockford.com/memory/leak.html)
         + [Tracking Down Memory Leaks in Node.js](https://hacks.mozilla.org/2012/11/tracking-down-memory-leaks-in-node-js-a-node-js-holiday-season/)
         + [Effectively Managing Memory at Gmail scale](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
@@ -837,6 +849,13 @@
     + [Pixastic](http://www.pixastic.com/)
 + Icons
     + [GlyphSearch](http://glyphsearch.com/): A search engine for icons from Font Awesome, Glyphicons, and Ionicons.
+    + [Iconic](https://useiconic.com/open/)
+    + [Entypo](http://entypo.com/)
+    + [IcoMoon](http://icomoon.io/)
+    + [Font Custom](http://fontcustom.com/)
+    + [Font Awesome](http://fortawesome.github.com/Font-Awesome/): The iconic font designed for use with Twitter Bootstrap
+    + [Fontello](https://github.com/fontello/fontello/): Icon fonts generator to get only the required fonts.
+    + [Perfect Icons](http://perfecticons.com/): The easiest way to create resolution independent social icons.
 + HTTP
     + [Specification](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
     + [Using CORS](http://www.html5rocks.com/en/tutorials/cors/)
@@ -845,11 +864,12 @@
     + [Specification](http://tools.ietf.org/html/rfc6455)
     + [socket.io](http://socket.io/) aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms.
     + [engine.io](https://github.com/LearnBoost/engine.io) is the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO.
-    + [SockJS](https://github.com/sockjs/sockjs-client) is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.
+    + [SockJS](https://github.com/sockjs/sockjs-client) is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, JavaScript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.
 + Error Handling & Debugging
-    + [Tracing.js](https://github.com/ebobby/tracing.js) - Javascript function tracing.
+    + [Tracing.js](https://github.com/ebobby/tracing.js) - JavaScript function tracing.
     + [JavaScript error handling anti-pattern](http://www.nczonline.net/blog/2009/04/28/javascript-error-handling-anti-pattern/)
     + [Tattletale](https://github.com/vimeo/tattletale)
+    + [jsconsole](http://jsconsole.com/): injectable remote console.
 + Documentation
     + [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
     + [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
@@ -862,6 +882,7 @@
     + [sphinx](http://sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
     + [Using JSDoc](http://usejsdoc.org/)
     + [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
+    + [Daux.io](http://daux.io/) is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 + Windows 8 Style
     + [Metro UI CSS](http://metroui.org.ua/)
     + [BootMetro](http://aozora.github.com/bootmetro/)
@@ -869,7 +890,7 @@
     + [Metro UI Template](http://metro-webdesign.info/)
     + [Droptiles – Metro-Style Web Dashboard](http://www.codeproject.com/Articles/421601/Droptiles-Metro-style-Live-Tiles-powered-Web-Dashb)
     + [Metro JS](http://www.drewgreenwell.com/projects/metrojs)
-    + [Windows Metro tiles with Javascript and CSS3](https://github.com/tholman/tileJs)
+    + [Windows Metro tiles with JavaScript and CSS3](https://github.com/tholman/tileJs)
     + [Cosmo](http://bootswatch.com/cosmo/)
     + [Video: What Web Developers Need to Know When Building Metro style Apps](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2012/DEV352)
     + [CSS3 Microsoft Modern Buttons](http://ace-subido.github.com/css3-microsoft-metro-buttons/index.html)
@@ -881,13 +902,13 @@
     + [Video.js](http://www.videojs.com/): The open source HTML5 video player.
     + [FlowPlayer](http://flowplayer.org/): The video player for the web.
     + [longtailVideo](http://www.longtailvideo.com/): dual-mode HTML5 & Flash player.
-    + [howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
+    + [howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-JavaScript-Library)
     + [Stratus 2](http://stratus.sc/) soundcloud player
     + [jPlayer](http://jplayer.org/) is the completely free and open source (MIT) media library written in JavaScript.
     + [MediaElement.js](http://mediaelementjs.com/): HTML5 audio and video players in pure HTML and CSS.
     + [audio.js](http://kolber.github.io/audiojs/) is a drop-in javascript library that allows HTML5’s "audio" tag to be used anywhere.
 + Library Collections
-    + [pullpush](http://pullpu.sh/): A curated collection of jQuery/JavaScript plugins with additional stats from GitHub. 
+    + [pullpush](http://pullpu.sh/): A curated collection of jQuery/JavaScript plugins with additional stats from GitHub.
     + [Unheap](http://www.unheap.com/): A tidy repository of jQuery plugins
     + [jster](http://jster.net/)
     + [MicroJS](http://microjs.com/) helps you discover the most compact-but-powerful microframeworks.
@@ -900,6 +921,7 @@
     + [Frontdesk](https://github.com/miripiruni/frontdesk): Community driven list of useful things for Front End Developers
     + [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/) by Roundarch Isobar
     + [Devlinks](http://devlinks.co.uk/) by David Higgins
+    + [Life of JS](http://lifeofjs.com/)
 + Chat
     + [XMPP using JSON](https://xmpp-ftw.jit.su/)
     + [Converse.js](http://conversejs.org/) is an open source, webchat client, that runs in the browser and can be integrated into any website.
@@ -911,6 +933,7 @@
 + JSON
     + [JSON Query Language](http://jsoniq.org/) is a query and processing language specifically designed for the popular JSON data model.
     + [Oboe.js](https://github.com/jimhigson/oboe.js) makes it really easy to start using json from a response before the ajax request completes; or even if it never completes.
+    + [JSONLint](http://jsonlint.com/)
 + Presentations
     + [Ancesor.js](http://kirkas.ch/ascensor/)
     + [Slideshow.html](http://dmfrancisco.github.com/slideshow.html/)
@@ -951,15 +974,15 @@
     + [oAuth Consumer Library](http://oauth.googlecode.com/svn/code/javascript/) by John Kristian
      + [ohauth](https://github.com/tmcw/ohauth)
         + [How iD Logs in to OpenStreetMap](http://mapbox.com/osmdev/2013/01/15/oauth-in-javascript/)
-    + [JSO - a Javascript OAuth Library](https://github.com/andreassolberg/jso)
+    + [JSO - a JavaScript OAuth Library](https://github.com/andreassolberg/jso)
     + [xdoauthproxy](https://code.google.com/p/xdoauthproxy/)
     + [JavaScript Cryptography](http://disattention.com/13/javascript-cryptography/)
-    + [Javascript Crypto Library](http://www.clipperz.com/open_source/javascript_crypto_library)
-    + [Stanford Javascript Crypto Library](http://crypto.stanford.edu/sjcl/)
+    + [JavaScript Crypto Library](http://www.clipperz.com/open_source/javascript_crypto_library)
+    + [Stanford JavaScript Crypto Library](http://crypto.stanford.edu/sjcl/)
     + [mozilla / jwcrypto](https://github.com/mozilla/jwcrypto)
     + Critic
-        + [Javascript Cryptography Considered Harmful](http://www.matasano.com/articles/javascript-cryptography/)
-        + [Final post on Javascript crypto](http://rdist.root.org/2010/11/29/final-post-on-javascript-crypto/)
+        + [JavaScript Cryptography Considered Harmful](http://www.matasano.com/articles/javascript-cryptography/)
+        + [Final post on JavaScript crypto](http://rdist.root.org/2010/11/29/final-post-on-javascript-crypto/)
 + Layout
     + [Shapeshift](https://github.com/McPants/jquery.shapeshift) is a plugin which will dynamically arrange a collection of elements into a column grid system similar to Pinterest.
     + [CollagePlus](http://ed-lea.github.io/jquery-collagePlus/): This plugin for jQuery will arrange your images to fit exactly within a container.
@@ -981,3 +1004,4 @@
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
     + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
+    + [Subtle Patterns](http://subtlepatterns.com/)
