@@ -199,6 +199,9 @@
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
         + [Sammy.js](http://sammyjs.org/) is a tiny JavaScript framework developed to ease the pain and provide a basic structure for developing JavaScript applications.
         + [Ember.js](http://emberjs.com/): A framework for creating ambitious web applications.
+        	+ [Github](https://github.com/emberjs/ember.js)
+        	+ [Building an Ember.js application](https://www.youtube.com/watch?v=1QHrlFlaXdI) Walkthrough of the framework by Tom Dale, one the devs.
+         	+ [EmberWatch](http://emberwatch.com/) Lots of learning ressources
             + [Let’s Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/) - A free Tut+ Premium course
         + [Maria](https://github.com/petermichaux/maria): The MVC framework for JavaScript applications. The real MVC. The Smalltalk MVC. The Gang of Four MVC.
         + [Terrific Composer](http://terrifically.org/composer/) is a Frontend Development Framework specifically designed for building deluxe frontends based on the [Terrific concept](http://terrifically.org/)
