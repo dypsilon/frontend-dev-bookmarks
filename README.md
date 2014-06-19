@@ -62,7 +62,6 @@
     + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
     + [Wraith](https://github.com/BBC-News/wraith) is a screenshot comparison tool.
-    + [Zepto Builder](http://github.e-sites.nl/zeptobuilder/) Generate a custom version of Zepto that just includes the modules you need
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
@@ -189,6 +188,7 @@
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
         + [Zepto.js](http://zeptojs.com/): A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.
             + [Github](https://github.com/madrobby/zepto)
+            + [Zepto Builder](http://github.e-sites.nl/zeptobuilder/) Generate a custom version of Zepto that just includes the modules you need
         + [Minified.js](http://minifiedjs.com/): Minified.js is a client-side JavaScript library, comparable to jQuery and MooTools in scope. Its features include DOM manipulation, animation, events, cookies and HTTP requests.
             + [Github](https://github.com/timjansen/minified.js/)
         + [React](http://facebook.github.io/react/) by Facebook
