@@ -9,6 +9,7 @@
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
     + [Codeacademy](http://codeacademy.com) Good source for beginners
     + [Codeschool](http://www.codeschool.com/) - Check out tryruby, trygit and tryjquery courses. Also have many useful courses.
+    + [Bento](http://www.bentobox.io) - Everything you need to know about web development. Neatly packaged.
 + Architecture
     + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
@@ -861,6 +862,7 @@
     + [MicroJS](http://microjs.com/) helps you discover the most compact-but-powerful microframeworks.
     + [JSPkg](http://jspkg.com/): reference library and package manager
     + [jquer.in](http://jquer.in/) is a curated collection of jQuery plugins.
+    + [JSDB.io](http://www.jsdb.io): great source of the best JavaScript frameworks, plugins, and tools.
 + Other Front End Collections
     + [pineapple.io](http://pineapple.io/): A central hub of Tutorials, Tools and Assets for developers and designers
     + [setapp Front End](http://setapp.me/expertise/development-front_end): Discover apps, tools, news and tips
