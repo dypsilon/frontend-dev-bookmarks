@@ -918,6 +918,7 @@
     + [deck.js](http://imakewebthings.com/deck.js/)
     + [controldeck.js](http://controldeck.aws.af.cm/)
     + [impress.js](http://bartaz.github.io/impress.js/)
+    + [hyhyhy](https://github.com/MaciejCzyzewski/hyhyhy)
 + Scrolling
     + [AppScroll.js](https://github.com/jakiestfu/AppScroll.js) AppScroll is a tiny (< 100 lines) JS library that fixes the "website dragging" issue caused on iDevices
     + [Scrollpath](http://joelb.me/scrollpath/)
