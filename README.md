@@ -11,6 +11,7 @@
     + [Codeschool](http://www.codeschool.com/) - Check out tryruby, trygit and tryjquery courses. Also have many useful courses.
     + [Bento](http://www.bentobox.io) - Everything you need to know about web development. Neatly packaged.
     + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) it covers all the elements from css and typography to html and the structure of prose.
+    + [Treehouse](http://teamtreehouse.com/) - Learn HTML, CSS, iPhone apps and more.
 + Architecture
     + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
@@ -79,6 +80,7 @@
     + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
     + [Web Tools Weekly](http://webtoolsweekly.com/)
     + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
+    + [ng-newsletter](http://www.ng-newsletter.com)
 + Programming & Markup Languages
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
@@ -90,6 +92,7 @@
         + [Verical centering](http://codepen.io/shshaw/full/gEiDt) Cross browser absolute centering technics
     + JavaScript
         + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+        + [Book: Speaking Javascript](http://speakingjs.com/es5/index.html)
         + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
         + [Javascript Closures](http://jibbering.com/faq/notes/closures/)
         + [OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
