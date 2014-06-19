@@ -50,6 +50,7 @@
         + [CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
     + [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
     + [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
+    + [FIS](https://github.com/fex-team/fis-plus): A front-end integrated solution which included automation tool, development framework, development environment
     + [JSLint](http://jslint.com/) for detecting errors or problems by static analysis of JavaScript programs.
     + [JSHint](http://jshint.com/) for more flexible static analysis of JavaScript programs.
     + [JSLint Error Explanations](http://jslinterrors.com) for explanations of the warnings given by JSLint and JSHint.
