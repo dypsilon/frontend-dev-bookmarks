@@ -208,6 +208,7 @@
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
         + [Underscore.js](http://underscorejs.org/)
     + CSS
+        + https://en.wikipedia.org/wiki/CSS_frameworks
         + [A collection of best frameworks](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0)
         + Bootstrap
             + [Home Page](http://getbootstrap.com/)
@@ -307,6 +308,7 @@
     + [HTML5 Please](http://html5please.com/) - Collective recommendations for polyfills and implementation of HTML5 and CSS3 features.
 + Cross Device
     + Responsive
+        + https://en.wikipedia.org/wiki/Responsive_web_design
         + [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
         + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
