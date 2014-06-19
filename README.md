@@ -933,6 +933,7 @@
     + [Backgrid.js](http://wyuenho.github.com/backgrid)
     + [Gridster](http://gridster.net/)
     + [Flex](http://jsonenglish.com/projects/flex/)
+    + [grid-list](https://github.com/uberVU/grid)
 + Security
     + [oAuth Consumer Library](http://oauth.googlecode.com/svn/code/javascript/) by John Kristian
      + [ohauth](https://github.com/tmcw/ohauth)
