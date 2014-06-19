@@ -861,6 +861,7 @@
     + [coddoc](http://doug-martin.github.com/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
     + [sphinx](http://sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
     + [Using JSDoc](http://usejsdoc.org/)
+    + [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
 + Windows 8 Style
     + [Metro UI CSS](http://metroui.org.ua/)
     + [BootMetro](http://aozora.github.com/bootmetro/)
