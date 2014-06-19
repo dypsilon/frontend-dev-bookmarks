@@ -13,6 +13,7 @@
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): This site by Adobe is a resource and showcase of some of the newest, and most expressive features being added to the web today.
     + [Treehouse](http://teamtreehouse.com/): Learn HTML, CSS, iPhone apps and more.
 + Architecture
+    + [Web Components](http://w3c.github.io/webcomponents/explainer/): the component model for the Web.
     + [BEM](http://bem.info/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
         + [Introductory article on tutsplus.com](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)
         + [Introductory article on Smashing Magazine](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
@@ -23,11 +24,12 @@
     + [Polymer Project](http://www.polymer-project.org/): Polymer is a library that uses the latest web technologies to let you create custom HTML elements.
         + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648) + [Slides](http://www.webcomponentsshift.com/)
         + [Video: Web Components in Action](https://developers.google.com/events/io/sessions/324149970)
+    + [Flux](http://facebook.github.io/react/docs/flux-overview.html) is the application architecture that Facebook uses for building client-side web applications.
     + [Aura](http://aurajs.com/) is an event-driven architecture for developing scalable applications using reusable widgets (discontinued in favor of [Web Components](http://w3c.github.io/webcomponents/explainer/)).
-    + [Web Components](http://w3c.github.io/webcomponents/explainer/): the component model for the Web.
     + [Hydra](http://tcorral.github.io/Hydra.js/) is an easy-to-use framework that provides you with the necessary tools to create scalable applications using modules and widgets.
     + [Terrific.js](http://terrifically.org/) provides you a Scalable JavaScript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
     + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
+    + [Building Single-Page Apps](http://nerds.airbnb.com/slides-and-video-from-spike-brehms-tech-talk/)
     + [Video: Nicholas Zakas: Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
     + [Book: Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
     + [Book: Single page apps in depth](http://singlepageappbook.com/index.html)
@@ -35,6 +37,7 @@
     + [PDF: jQuery Application Architecture Chart](http://addyosmani.com/resources/toolschart/chart.pdf)
     + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
+    + [The media object saves hundreds of lines of code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)
 + Workflow
     + [Browser-sync](https://github.com/shakyShane/browser-sync): is an amazingly awesome tool to sync all input, scrolling, and clicking across all the devices in your testing workflow. Scroll on your desktop, watch the page scroll on your android - realtime.
     + [Video: JavaScript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
