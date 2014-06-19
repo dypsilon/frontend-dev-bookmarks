@@ -39,16 +39,24 @@
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
     + [The media object saves hundreds of lines of code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)
 + Workflow
-    + [Browser-sync](https://github.com/shakyShane/browser-sync): is an amazingly awesome tool to sync all input, scrolling, and clicking across all the devices in your testing workflow. Scroll on your desktop, watch the page scroll on your android - realtime.
-    + [Video: JavaScript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
     + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
     + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
         + [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
         + [GruntStart](https://github.com/tsvensen/gruntstart): A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
         + [A beginner’s guide to Grunt](http://blog.mattbailey.co/post/45519082789/a-beginners-guide-to-grunt)
         + [Grunt - Synchronised Testing Between Browsers/Devices](http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices)
-    + [gulp.js](http://gulpjs.com/) is a build system that makes use of node's streams.
+    + [Gulp](http://gulpjs.com/) is a build system that makes use of node's streams.
+        + [Gulp + Browserify: The Everything Post](http://viget.com/extend/gulp-browserify-starter-faq)
+        + [The vision, history, and future of the project](https://medium.com/@eschoff/gulp-3828e8126466)
+        + [Managing Your Build Tasks With Gulp.js](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
+    + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
     + [Brunch](http://brunch.io/) is an assembler for HTML5 applications. It‘s agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
+    + [FIS](https://github.com/fex-team/fis-plus): A front-end integrated solution which included automation tool, development framework, development environment
+    + [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
+    + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
+    + [Mimosa](http://mimosa.io) is a batteries included modern web development toolkit. Bower, RequireJS, Transpilers, Pre-Processors, Micro-Templating, Linting, Optimization, Serving. To start.
+    + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
+    + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
     + Front-end Process - Flat Builds and Automation
         + [Introduction](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
         + [Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)
@@ -56,7 +64,6 @@
         + [CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
     + [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
     + [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
-    + [FIS](https://github.com/fex-team/fis-plus): A front-end integrated solution which included automation tool, development framework, development environment
     + [JSLint](http://jslint.com/) for detecting errors or problems by static analysis of JavaScript programs.
     + [JSHint](http://jshint.com/) for more flexible static analysis of JavaScript programs.
     + [JSLint Error Explanations](http://jslinterrors.com) for explanations of the warnings given by JSLint and JSHint.
@@ -64,14 +71,10 @@
     + [jpegoptim](https://github.com/tjko/jpegoptim): Utility to optimize/compress JPEG files.
     + [Pngcrush](http://pmt.sourceforge.net/pngcrush/) is an optimizer for PNG (Portable Network Graphics) files.
     + [Glue](https://github.com/jorgebastida/glue) is a simple command line tool to generate CSS sprites.
-    + [Roots](http://roots.cx/) A light, super fast, and intuitive build system meant for rapid advanced front end development.
-    + [Sparky.js](http://sparkyjs.com/) is a client-side application scaffold which helps those who want to have organized structure in their app, but don't want to subscribe to a particular client-side MVC framework.
-    + [Mimosa](http://mimosa.io) is a batteries included modern web development toolkit. Bower, RequireJS, Transpilers, Pre-Processors, Micro-Templating, Linting, Optimization, Serving. To start.
-    + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
-    + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
-    + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
     + [Wraith](https://github.com/BBC-News/wraith) is a screenshot comparison tool.
     + [Penthouse](https://github.com/pocketjoso/penthouse): Critical path CSS generator.
+    + [Browser-sync](https://github.com/shakyShane/browser-sync): is a tool to sync all input, scrolling, and clicking across all the devices in your testing workflow.
+    + [Video: JavaScript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
