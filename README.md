@@ -13,15 +13,18 @@
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): This site by Adobe is a resource and showcase of some of the newest, and most expressive features being added to the web today.
     + [Treehouse](http://teamtreehouse.com/): Learn HTML, CSS, iPhone apps and more.
 + Architecture
-    + [BEM](http://bem.info/method/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
+    + [BEM](http://bem.info/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
+        + [Introductory article on tutsplus.com](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)
+        + [Introductory article on Smashing Magazine](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
+        + [Video: How to use BEM! outside of Yandex](http://vimeo.com/38346573)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
-        + [GitHub](https://github.com/bradfrost/patternlab)
-        + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://de.slideshare.net/bradfrostweb/atomic-design)
-        + [Atomic Design: Some Thoughts and One Example](http://15four.com/2013/05/29/atomic-design-some-thoughts-and-one-example/)
-    + [Polymer Project](http://www.polymer-project.org/): Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
+        + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://www.slideshare.net/bradfrostweb/atomic-design)
+        + [Pattern Lab](http://patternlab.io/)
+    + [Polymer Project](http://www.polymer-project.org/): Polymer is a library that uses the latest web technologies to let you create custom HTML elements.
         + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648) + [Slides](http://www.webcomponentsshift.com/)
         + [Video: Web Components in Action](https://developers.google.com/events/io/sessions/324149970)
-    + [Aura](http://aurajs.com/) is an event-driven architecture for developing scalable applications using reusable widgets.
+    + [Aura](http://aurajs.com/) is an event-driven architecture for developing scalable applications using reusable widgets (discontinued in favor of [Web Components](http://w3c.github.io/webcomponents/explainer/)).
+    + [Web Components](http://w3c.github.io/webcomponents/explainer/): the component model for the Web.
     + [Hydra](http://tcorral.github.io/Hydra.js/) is an easy-to-use framework that provides you with the necessary tools to create scalable applications using modules and widgets.
     + [Terrific.js](http://terrifically.org/) provides you a Scalable JavaScript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
     + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
@@ -29,7 +32,7 @@
     + [Book: Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
     + [Book: Single page apps in depth](http://singlepageappbook.com/index.html)
     + [Book: Scalable and Modular Architecture for CSS](http://smacss.com/book/)
-    + [jQuery Application Architecture Chart](http://addyosmani.com/resources/toolschart/chart.pdf)
+    + [PDF: jQuery Application Architecture Chart](http://addyosmani.com/resources/toolschart/chart.pdf)
     + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
 + Workflow
