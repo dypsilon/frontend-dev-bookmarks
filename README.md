@@ -190,6 +190,7 @@
             + [Github](https://github.com/facebook/react)
         + [Qooxdoo](http://qooxdoo.org/) is a universal JavaScript framework for building rich, interactive application, native-like apps for mobile devices, light-weight single-page oriented web applications or even applications to run outside the browser.
         + [jQWidgets](http://www.jqwidgets.com/) is jQuery based framework and set of widgets for building web-based applications that work on PC, Touch and Mobile devices
+        + [reactive.coffee](http://yang.github.io/reactive-coffee) is a lightweight CoffeeScript library/DSL for reactive programming and for declaratively building scalable web UIs
         + [Flight](http://twitter.github.io/flight/) is an event-driven web framework, from Twitter
         + [Singool.js](http://fahad19.github.com/singool/) Lightweight JavaScript framework for developing single-page web applications
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
