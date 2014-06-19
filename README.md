@@ -627,7 +627,6 @@
 + Search
     + [Fullproof](http://reyesr.github.com/fullproof/)
     + [lunr.js](http://lunrjs.com/) is a simple full text search engine for your client side applications.
-    + [GlyphSearch](http://glyphsearch.com/): A search engine for icons from Font Awesome, Glyphicons, and Ionicons.
 + Testing
     + [FiveUI](http://galoisinc.github.io/FiveUI/) Extensible/open browser extension & headless system for testing UI Consistency guidelines (or anything else you can test with injected JS).
     + [Writing Testable JavaScript](http://alistapart.com/article/writing-testable-javascript)
@@ -812,6 +811,8 @@
     + [Obscura](https://github.com/OiNutter/Obscura)
     + [jCrop](http://deepliquid.com/content/Jcrop.html)
     + [Pixastic](http://www.pixastic.com/)
++ Icons
+    + [GlyphSearch](http://glyphsearch.com/): A search engine for icons from Font Awesome, Glyphicons, and Ionicons.
 + HTTP
     + [Specification](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
     + [Using CORS](http://www.html5rocks.com/en/tutorials/cors/)
