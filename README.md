@@ -228,6 +228,7 @@
             + [Bootstrap Expo](http://expo.getbootstrap.com/)
             + [Bootstrap Hero List](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources): The big badass list of bootstrap resources
             + Widgets
+                + [Bootstrap video player - jQuery plugin](http://html5-ninja.com/#/item/Bootstrap-video-player-jQuery-plugin/5): A customizable HTML5 video player plugin for jQuery based on bootstrap UI.
                 + [Color and Date Picker](http://www.eyecon.ro/colorpicker-and-datepicker-for-twitter-bootstrap.htm)
                 + [WYSIHTML5 RTE for Bootstrap](http://jhollingworth.github.com/bootstrap-wysihtml5/)
                 + [Bootstrap Image Gallery](http://blueimp.github.com/Bootstrap-Image-Gallery/)
@@ -283,6 +284,7 @@
                 + [PaintStrap](http://paintstrap.com/): Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
                 + [TODC](http://todc.github.com/todc-bootstrap/index.html): A Google-styled theme for Twitter Bootstrap.
                 + [Layoutit!](http://www.layoutit.com/)
+        + [IceCream](http://html5-ninja.com/icecream/): Simple and light responsive grid system.
         + [Responsive Grid System](http://responsive.gs/)
         + [Responsive Grid System (2)](http://www.responsivegridsystem.com/)
         + [Golden Grid System](http://goldengridsystem.com/)
