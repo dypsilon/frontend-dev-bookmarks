@@ -7,7 +7,7 @@
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
-    + [Codeacademy](http://codeacademy.com) Good source for beginners
+    + [Codecademy](http://codecademy.com) Good source for beginners
     + [Codeschool](http://www.codeschool.com/) - Check out tryruby, trygit and tryjquery courses. Also have many useful courses.
     + [Bento](http://www.bentobox.io) - Everything you need to know about web development. Neatly packaged.
     + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) it covers all the elements from css and typography to html and the structure of prose.
@@ -321,6 +321,7 @@
     + [Viewport Component](https://github.com/pazguille/viewport)
     + [Can I Use](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
     + [HTML5 Please](http://html5please.com/) - Collective recommendations for polyfills and implementation of HTML5 and CSS3 features.
+    + [Outdated Browser](http://outdatedbrowser.com/) - Checks if user's browser is outdated and suggests downloading latest.
 + Cross Device
     + Responsive
         + [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
