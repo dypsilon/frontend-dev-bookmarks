@@ -50,7 +50,7 @@
         + [CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
     + [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
     + [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
-    + [JSLint](http://jslint.com/) for detecting errors or problems by static analysis of JavaScript programs.
+    + [JSLint](http://jslint.com/) for detecting ewrrors or problems by static analysis of JavaScript programs.
     + [JSHint](http://jshint.com/) for more flexible static analysis of JavaScript programs.
     + [JSLint Error Explanations](http://jslinterrors.com) for explanations of the warnings given by JSLint and JSHint.
     + [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI): Make lossless optimisation of images part of your automated build process.
@@ -64,6 +64,8 @@
     + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
     + [Wraith](https://github.com/BBC-News/wraith) is a screenshot comparison tool.
+    + [Penthouse](https://github.com/pocketjoso/penthouse): Critical path CSS generator.
+
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
