@@ -574,6 +574,7 @@
         + [Introduction to D3](http://www.janwillemtulp.com/2011/03/20/tutorial-introduction-to-d3/)
         + [Interactive D3 Tutorial](http://vogievetsky.github.com/IntroD3/)
         + [NVD3](http://nvd3.org/)
+        + [Vega](http://trifacta.github.io/vega/)
     + [Crossfilter](http://square.github.com/crossfilter/)
     + [Datavisualization.ch](http://selection.datavisualization.ch/)
     + [jQuery.Gantt](http://taitems.github.com/jQuery.Gantt/)
