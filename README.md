@@ -128,7 +128,7 @@
             + [What's The Point Of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
             + [Promises/A+ Spec](http://promises-aplus.github.com/promises-spec/)
             + [Callbacks vs Coroutines](https://medium.com/code-adventures/174f1fe66127)
-            + [This document is intended to explain how promises work](https://raw.github.com/kriskowal/q/master/design/README.js)
+            + [This document is intended to explain how promises work](https://github.com/kriskowal/q/blob/v1/design/README.js)
             + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
             + Libraries
                 + [Standalone-Deferred](https://github.com/warpdesign/Standalone-Deferred)
@@ -212,7 +212,7 @@
             + [Github](https://github.com/facebook/react)
         + [Qooxdoo](http://qooxdoo.org/) is a universal JavaScript framework for building rich, interactive application, native-like apps for mobile devices, light-weight single-page oriented web applications or even applications to run outside the browser.
         + [jQWidgets](http://www.jqwidgets.com/) is jQuery based framework and set of widgets for building web-based applications that work on PC, Touch and Mobile devices
-        + [Flight](http://twitter.github.io/flight/) is an event-driven web framework, from Twitter
+        + [Flight](http://flightjs.github.io/) is an event-driven web framework, from Twitter
         + [Singool.js](http://fahad19.github.com/singool/) Lightweight JavaScript framework for developing single-page web applications
         + [Knockout](http://knockoutjs.com/): Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern
         + [rAppid.js](http://www.rappidjs.com):  a declarative (XAML) Rich Internet Application JavaScript MVC Framework
@@ -251,7 +251,7 @@
                 + [ReCaptcha](http://jsfiddle.net/hqv27/)
                 + [Bootstrap Modal](https://github.com/jschr/bootstrap-modal): Extends Bootstrap's native modals to provide additional functionality.
                 + [SelectBoxIt](http://gregfranko.com/jquery.selectBoxIt.js)
-                + [File Upload](http://jasny.github.com/bootstrap/javascript.html#fileupload)
+                + [File Upload](http://jasny.github.io/bootstrap/javascript/#fileinput)
                 + [BootPag](http://botmonster.com/jquery-bootpag/): BootPag - dynamic pagination jQuery plugin for twitter bootstrap
                 + [Bootstrap Arrows](http://bootstrap-arrows.iarfhlaith.com/): A simple jQuery plugin and add-on to the popular Twitter Bootstrap framework to include the use of arrows at any angle in your UI designs.
                 + [X-editable](http://vitalets.github.com/x-editable/): In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
@@ -306,7 +306,7 @@
                 + [Stylus based port](https://github.com/blai/foundation)
         + [Gumby](http://gumbyframework.com/)
         + [ProfoundGrid](http://www.profoundgrid.com/)
-        + [Groundwork](http://groundwork.sidereel.com/): GroundworkCSS's flexible grid system enables you to do rapid development and scales to fit any screen size, from handheld devices to large format televisions.
+        + [GroundworkCSS 2](http://groundworkcss.github.io/groundwork/): A responsive HTML5, CSS & Javascript framework created and maintained by Gary Hepting
         + [skelJS](http://skeljs.org/)
         + [Ink](http://ink.sapo.pt): Ink is a set of tools for quick development of web interfaces.
         + [neat](http://neat.bourbon.io/): A lightweight semantic grid framework for Sass and Bourbon.
@@ -362,7 +362,6 @@
             + [Picturefill](https://github.com/scottjehl/picturefill)
             + [Clown Car](https://github.com/estelle/clowncar) Technique for Responsive Images
             + [imgLiquid](https://github.com/karacas/imgLiquid) jQuery plugin to resize images to fit in a container.
-            + [lazy load images](http://ezyz.github.io/Lazy-Load-Images-without-jQuery/) lazy load images with out jquery.
             + [PictureFill](https://github.com/scottjehl/picturefill)
             + [HiSRC](https://github.com/teleject/hisrc): A simple jQuery plugin for adaptive images in responsive web design
             + [resrc.it](http://www.resrc.it/): Responsive images on demand from the cloud.
@@ -385,7 +384,7 @@
             + [Junior](http://justspamjustin.github.com/junior/)
         + Emulators
             + [thumbs.js](http://mwbrooks.github.com/thumbs.js/)
-            + [Phantom Limb](http://viewinglens.com/phantom-limb/)
+            + [Phantom Limb](https://github.com/brian-c/phantom-limb)
             + [Touché](https://github.com/davidcalhoun/touche)
         + Scrolling
             + [jSwipeKinetic](http://jswipekinetic.codeplex.com/) is a jQuery plugin that enables you to add kinetic scrolling on your touch optimized projects. jSwipeKinetic is build on top of jGestures (jgestues.codeplex.com).
@@ -410,7 +409,6 @@
             + [Touch Events and Abstractions](http://yuilibrary.com/yui/docs/event/touch.html)
         + DOM Objects Manipulation
             + [jQuery.event.move](http://stephband.info/jquery.event.move/)
-            + [WKTouch](https://github.com/alexgibson/WKTouch): A JavaScript plugin for touch-capable devices, enabling multi-touch drag, scale and rotate on HTML elements.
         + Tap Acceleration
             + [Energize](https://github.com/davidcalhoun/energize.js)
             + [Tappable](http://cheeaun.github.com/tappable/) is a simple, standalone library to invoke the tap event for touch-friendly web browsers.
@@ -448,9 +446,6 @@
     + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
     + [CSS3 Code Snippets](http://www.webinterfacelab.com/snippets/)
     + The [Blueprints](http://tympanus.net/codrops/category/blueprints/) are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration.
-+ DOM Manipulation
-    + [xui](http://xuijs.com/): a super micro tiny dom library for authoring html5 mobile web applications.
-    + [Tire](http://tirejs.com/) offers a more lightweight alternative to libraries such as jQuery, Prototype and Zepto.
 + Typography
     + [Quick guide to webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/)
     + [How To Achieve Cross-Browser @font-face Support](http://blog.themeforest.net/tutorials/how-to-achieve-cross-browser-font-face-support/)
@@ -656,9 +651,8 @@
     + [jQuery Validation Engine](http://www.position-relative.net/creation/formValidator/): jQuery validation engine is a JavaScript plugin aimed at the validation of form fields in the browser
 + Transitions
     + [Quicksand](http://razorjack.net/quicksand/)
-    + [Isotope](http://isotope.metafizzy.co/docs/introduction.html)
+    + [Isotope](http://isotope.metafizzy.co/)
     + [flippant.js](http://mintchaos.github.io/flippant.js/)
-    + [Meaningful Transitions](http://www.ui-transitions.com/)
 + Numbers
     + [numeral.js](http://numeraljs.com/): A javascript library for formatting and manipulating numbers.
     + [accounting.js](http://josscrowcroft.github.com/accounting.js/)
@@ -712,7 +706,7 @@
         + [Testing Console](http://linkedin.github.com/dustjs/test/test.html)
 + Routing And URLs
     + [Crossroads.js](http://millermedeiros.github.com/crossroads.js/)
-    + [Hash.js](http://jonnystromberg.com/hash-js/)
+    + [Hash.js](https://github.com/javve/hash.js)
     + [director](https://github.com/flatiron/director)
     + [Davis.js](http://davisjs.com/)
     + [path.js](http://mtrpcic.github.com/pathjs/)
@@ -757,7 +751,7 @@
         + [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
         + [Let's Make the Web Jank-free!](http://jankfree.org/)
     + Memory
-        + [Memory 101](https://developers.google.com/chrome-developer-tools/docs/memory-analysis-101)
+        + [Memory Analysis 101](https://developer.chrome.com/devtools/docs/memory-analysis-101)
         + [Memory leak patterns in JavaScript](https://www.ibm.com/developerworks/library/wa-memleak/)
         + [Understanding and Solving Internet Explorer Leak Patterns](http://msdn.microsoft.com/en-us/library/bb250448.aspx)
         + [Finding memory leaks](http://gent.ilcore.com/2011/08/finding-memory-leaks.html)
@@ -790,14 +784,12 @@
         + [The new game show: "Will it reflow?"](http://calendar.perfplanet.com/2009/the-new-game-show-will-it-reflow/)
         + [When does reflow happen in a DOM environment?](http://stackoverflow.com/questions/510213/when-does-reflow-happen-in-a-dom-environment)
         + [Speeding up JavaScript: Working with the DOM](https://developers.google.com/speed/articles/javascript-dom)
-        + [Efficient JavaScript](http://dev.opera.com/articles/view/efficient-javascript/) on dev.opera.com
         + [When Does JavaScript trigger reflows and rendering](http://mir.aculo.us/2010/08/17/when-does-javascript-trigger-reflows-and-rendering/)
         + [How (not) to trigger a layout in WebKit](http://gent.ilcore.com/2011/03/how-not-to-trigger-layout-in-webkit.html)
     + Animation
         + [requestAnimationFrame for smart animating](http://paulirish.com/2011/requestanimationframe-for-smart-animating/)
         + [Leaner, Meaner, Faster Animations with requestAnimationFrame](http://www.html5rocks.com/en/tutorials/speed/animations/)
         + [Collie - high performance Animation library](http://jindo.dev.naver.com/collie/)
-        + [Using requestAnimationFrame to Optimize Dragging Events](http://blog.digitalbackcountry.com/2012/05/using-requestanimationframe-to-optimize-dragging-events/)
         + [requestAnimationFrame API: now with Sub-Millisecond Precision](http://updates.html5rocks.com/2012/05/requestAnimationFrame-API-now-with-sub-millisecond-precision)
         + [Why moving elements with translate() is better than pos:abs top/left](http://paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
     + Hardware Acceleration
@@ -980,7 +972,7 @@
     + [grid-list](https://github.com/uberVU/grid)
 + Security
     + [oAuth Consumer Library](http://oauth.googlecode.com/svn/code/javascript/) by John Kristian
-     + [ohauth](https://github.com/tmcw/ohauth)
+     + [ohauth](https://github.com/gijs/ohauth)
         + [How iD Logs in to OpenStreetMap](http://mapbox.com/osmdev/2013/01/15/oauth-in-javascript/)
     + [JSO - a JavaScript OAuth Library](https://github.com/andreassolberg/jso)
     + [xdoauthproxy](https://code.google.com/p/xdoauthproxy/)
