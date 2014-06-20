@@ -180,6 +180,7 @@
                 + [Building Offline Applications With AngularJS and PouchDB](http://mircozeiss.com/building-offline-applications-with-angularjs-and-pouchdb/)
         + [jQuery](http://jquery.com/)
             + [Github](https://github.com/jquery/jquery)
+            + [jQuery Learning Center](http://learn.jquery.com/)
             + [jQuery Wiki Page "Plugins/Authoring"](http://docs.jquery.com/Plugins/Authoring)
             + [30 Days to Learn jQuery](http://freecourses.tutsplus.com/30-days-to-learn-jquery/index.html) - A free Tut+ Premium course
             + [jQuery Plugin Development Boilerplate](http://www.websanova.com/tutorials/jquery/jquery-plugin-development-boilerplate)
