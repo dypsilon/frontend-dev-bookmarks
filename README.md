@@ -1010,5 +1010,6 @@
     + [Subtle Patterns](http://subtlepatterns.com/)
 
 + Podcasts
-	 + [Shoptalk Show](http://shoptalkshow.com/) A podcast about web design, development and UX. 
+	 + [Shoptalk Show](http://shoptalkshow.com/) A podcast about web design, development and UX.
+	 + [Javascript Jabber](http://javascriptjabber.com/) A podcast all about Javascript
 	
