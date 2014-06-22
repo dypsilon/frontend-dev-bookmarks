@@ -262,6 +262,7 @@
                 + [Application Wizard](https://github.com/amoffat/bootstrap-application-wizard)
             + Themes
                 + [Bootswatch](http://bootswatch.com/): Theme catalog.
+                + [Bootstrap Zero](http://bootstrapzero.com/): Get a less Bootstrap-y look with these custom themes
                 + [Jumpstart UI](http://jumpstartui.com/): Another catalog for paid themes
                 + [Themestrap](https://github.com/divshot/themestrap): A simple starter kit for constructing Twitter Bootstrap 3+ themes.
                 + [Darkstrap](http://danneu.com/posts/4-darkstrap-css-a-dark-theme-for-twitter-bootstrap-2): A dark theme.
@@ -326,6 +327,7 @@
         + [Topcoat](https://github.com/topcoat/topcoat) is a CSS library evolved from the Adobe design language developed for Brackets, Edge Reflow, and feedback from the PhoneGap app developer community.
         + [Cascade Framework](http://cascade-framework.com/) - a powerful, scalable and responsive high performance OOCSS framework that supports both old and new browsers
         + [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) - Cascade Framework stripped down to the bare essentials, for when a minimal footprint is more important than bells and whistles
+        + [Semantic UI](http://semantic-ui.com/) empowers designers and developers by creating a language for sharing UI.
 + Cross Browser
     + [Normalize.css](http://necolas.github.io/normalize.css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
@@ -492,6 +494,7 @@
     + [Smush.it](http://www.smushit.com/ysmush.it/) uses optimization techniques specific to image format to remove unnecessary bytes from image files.
     + [JPEGmini Photo Server](http://www.jpegmini.com/server) is an image optimization server which runs on Amazon EC2 (commercial).
     + [TinyPNG](http://tinypng.org/): Advanced lossy compression for PNG images that preserves full alpha transparency.
+    + [GenyMotion](http://www.genymotion.com/) is the next generation of the AndroVM open source project, already trusted by 900,000 developers.
     + [Website Builders](http://en.wikipedia.org/wiki/Website_builder)
         + [Squarespace](http://www.squarespace.com/)
         + [BaseKit](http://www.basekit.com/)
