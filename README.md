@@ -463,7 +463,7 @@
     + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
     + [TypeButter](http://typebutter.com/)
     + [slabText](https://github.com/freqDec/slabText/)
-    + [Baseline.js](http://daneden.me/baseline/)
+    + [Baseline.js](https://github.com/daneden/Baseline.js)
     + [jKerny](http://clearideaz.com/jkerny/)
     + [Lettering.js](http://letteringjs.com/)
     + [Trunk8](http://jrvis.com/trunk8/) is an intelligent text truncation plugin to jQuery. It will cut off just enough text to prevent it from spilling over
@@ -484,7 +484,6 @@
     + [What Font Is](http://www.whatfontis.com/) identifies fonts from an image.
     + [Prepros](http://alphapixels.com/prepros/)
     + [Browser Shots](http://browsershots.org/) tests compatibility in almost every browser.
-    + [CSS3 Media Query Builder](http://arcsec.ca/media-query-builder/)
     + [CSSArrowPlease](http://cssarrowplease.com) Simple tooltip arrows with CSS
     + [jsFiddle](http://jsfiddle.net)
     + [CodePen](http://codepen.io/) is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write.
@@ -603,7 +602,7 @@
 + Visualization
     + [Photon](https://github.com/thomasxiii/photon)
     + [CSS3 shapes](http://www.css3shapes.com/)
-    + [Morris.js](http://oesmith.github.com/morris.js/)
+    + [Morris.js](https://github.com/morrisjs/morris.js/)
     + [Cube](http://square.github.com/cube/)
     + [Cubism.js](http://square.github.com/cubism/)
     + [D3.js](http://d3js.org/)
