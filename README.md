@@ -712,6 +712,7 @@
     + [T](https://github.com/gcao/T.js): T.js is a template engine that uses simple JavaScript data structure to represent html/xml data.
     + [Nunjucks](http://nunjucks.jlongster.com/) is a full featured templating engine for javascript.
     + [Jade](http://jade-lang.com/)
+    + [JsRender](https://github.com/BorisMoore/jsrender) pure string-based rendering, without DOM or jQuery dependency.
     + [Linked.in Dust.js](http://linkedin.github.com/dustjs/)
         + [The client-side templating throwdown: mustache, handlebars, dust.js, and more](http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more)
         + [Leaving JSPs in the dust: moving LinkedIn to dust.js client-side templates](http://engineering.linkedin.com/frontend/leaving-jsps-dust-moving-linkedin-dustjs-client-side-templates)
