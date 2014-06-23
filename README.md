@@ -76,6 +76,14 @@
     + [Penthouse](https://github.com/pocketjoso/penthouse): Critical path CSS generator.
     + [Browser-sync](https://github.com/shakyShane/browser-sync): is a tool to sync all input, scrolling, and clicking across all the devices in your testing workflow.
     + [Video: JavaScript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
++ Podcasts
+	 + [Shoptalk Show](http://shoptalkshow.com/) A podcast about web design, development and UX.
+	 + [Javascript Jabber](http://javascriptjabber.com/) A podcast all about Javascript
+	 + [The Big Web Show](http://5by5.tv/bigwebshow) A podcast about all things web hosted by Jeffrey Zeldman
+	 + [The Web Ahead](http://5by5.tv/webahead) A weekly podcast about changing technologies and the future of the web
+	 + [SassCast](http://sasscast.podbean.com/) A podcast all about the Sass preprocessor.
+	 + [CDNify](https://itunes.apple.com/us/podcast/cdnify/id786191888?mt=2) The CDNify podcast covers all things tech, startup, web performance and acceleration.
+	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp) 
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
@@ -1009,12 +1017,5 @@
     + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
     + [Subtle Patterns](http://subtlepatterns.com/)
 
-+ Podcasts
-	 + [Shoptalk Show](http://shoptalkshow.com/) A podcast about web design, development and UX.
-	 + [Javascript Jabber](http://javascriptjabber.com/) A podcast all about Javascript
-	 + [The Big Web Show](http://5by5.tv/bigwebshow) A podcast about all things web hosted by Jeffrey Zeldman
-	 + [The Web Ahead](http://5by5.tv/webahead) A weekly podcast about changing technologies and the future of the web
-	 + [SassCast](http://sasscast.podbean.com/) A podcast all about the Sass preprocessor.
-	 + [CDNify](https://itunes.apple.com/us/podcast/cdnify/id786191888?mt=2) The CDNify podcast covers all things tech, startup, web performance and acceleration.
-	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp) 
+
 	
