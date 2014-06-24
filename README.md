@@ -336,6 +336,7 @@
         + [Cascade Framework](http://cascade-framework.com/) - a powerful, scalable and responsive high performance OOCSS framework that supports both old and new browsers
         + [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) - Cascade Framework stripped down to the bare essentials, for when a minimal footprint is more important than bells and whistles
         + [Semantic UI](http://semantic-ui.com/) empowers designers and developers by creating a language for sharing UI.
+        + [Learn to Code HTML & CSS](http://learn.shayhowe.com/): interactive beginner’s guide
 + Cross Browser
     + [Normalize.css](http://necolas.github.io/normalize.css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
