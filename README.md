@@ -730,7 +730,7 @@
     + [page.js](https://github.com/visionmedia/page.js)
     + [speakingurl](https://github.com/pid/speakingurl): generate a so called "static", "Clean URL", "Pretty URL" or "slug" from a string.
 + Rich Text Editors
-    + [Ace](http://ace.ci.io): The high performance code editor for the web.
+    + [Ace](http://ace.c9.io): The high performance code editor for the web.
     + [Mercury](http://jejacks0n.github.io/mercury/)
     + [Redactor](http://imperavi.com/redactor/)
     + [WYSIHTML5](http://xing.github.com/wysihtml5/)
