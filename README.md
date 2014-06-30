@@ -58,6 +58,7 @@
     + [Mimosa](http://mimosa.io) is a batteries included modern web development toolkit. Bower, RequireJS, Transpilers, Pre-Processors, Micro-Templating, Linting, Optimization, Serving. To start.
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero): A modular client side asset manager.
+    + [Headstart](http://www.headstart.io/): An easy-to-use automated front-end setup.
     + Front-end Process - Flat Builds and Automation
         + [Introduction](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)
         + [Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)
