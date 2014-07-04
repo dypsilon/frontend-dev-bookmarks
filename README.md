@@ -754,7 +754,7 @@
     + [tabIndent.js](http://julianlam.github.com/tabIndent.js/)
     + [Behave.js](http://jakiestfu.github.io/Behave.js/) is a lightweight library for adding IDE style behaviors to plain text areas, making it much more enjoyable to write code in.
 + Other software
-	+ [Fenix webapp](http://fenixwebserver.com/): a simple static desktop web server.
+	+ [Fenix](http://fenixwebserver.com/): a simple static desktop web server.
 + Refactoring
     + [Refactoring JavaScript with kratko.js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
 + Performance
