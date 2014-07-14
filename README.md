@@ -118,6 +118,7 @@
         + [OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
         + [Combinator Recipes for Working With Objects in JavaScript](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_1.md)
             + [Part II](https://github.com/raganwald/homoiconic/blob/master/2012/12/combinators_2.md)
+        + [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
         + [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
         + [ECMA 262-3 in detail](http://dmitrysoshnikov.com/tag/ecma-262-3/)
         + [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
