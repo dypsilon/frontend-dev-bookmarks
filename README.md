@@ -1,5 +1,7 @@
 # Frontend Development
 
+*Looking for something else? Take a look at the [awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).*
+
 + Guides
     + [Bento](http://www.bentobox.io): a collection of guides for web development.
     + [Hack Design](http://hackdesign.org/courses/): An easy to follow design course for people who do amazing things.
