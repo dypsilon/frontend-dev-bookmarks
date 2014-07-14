@@ -41,6 +41,8 @@
     + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
     + [The media object saves hundreds of lines of code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)
+    + [DoCSSa](http://docssa.info): Sass based CSS architecture and methodology
+        + [Introductory article on David Walsh Blog](http://davidwalsh.name/deferred-objects-docssa)
 + Workflow
     + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
     + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
