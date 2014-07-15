@@ -456,6 +456,15 @@
             + [Retina Images](http://retina-images.complexcompulsions.com/)
     + Printers
         + [Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)
++ Accessibility
+    + [a11yproject.com](http://a11yproject.com/) - shared community of articles, resources and code patterns for building accessible websites
+    + [Accessible Web Components](http://www.polymer-project.org/articles/accessible-web-components.html)
+    + [Accessibility from Google Design](http://www.google.com/design/spec/usability/accessibility.html)
+    + [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
+    + [WAVE Accessibility Toolbar](http://wave.webaim.org/toolbar/)
+    + [The WAI Forward](http://www.smashingmagazine.com/2014/07/09/the-wai-forward/) - introduction to WAI-ARIA
+    + [Accessibility of Rich Internet Applications](http://webaim.org/techniques/aria/) - another introduction to WAI-ARIA
+    + [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 + Patterns & Snippets
     + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
     + [CSS3 Code Snippets](http://www.webinterfacelab.com/snippets/)
