@@ -985,6 +985,7 @@
     + [Gridster](http://gridster.net/)
     + [Flex](http://jsonenglish.com/projects/flex/)
     + [grid-list](https://github.com/uberVU/grid)
+    + [SlickGrid](https://github.com/mleibman/SlickGrid/wiki)
 + Security
     + [oAuth Consumer Library](http://oauth.googlecode.com/svn/code/javascript/) by John Kristian
      + [ohauth](https://github.com/gijs/ohauth)
