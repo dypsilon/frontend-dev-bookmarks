@@ -85,7 +85,7 @@
 	 + [The Web Ahead](http://5by5.tv/webahead) A weekly podcast about changing technologies and the future of the web
 	 + [SassCast](http://sasscast.podbean.com/) A podcast all about the Sass preprocessor.
 	 + [CDNify](https://itunes.apple.com/us/podcast/cdnify/id786191888?mt=2) The CDNify podcast covers all things tech, startup, web performance and acceleration.
-	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp) 
+	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp)
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
@@ -929,6 +929,7 @@
     + [MicroJS](http://microjs.com/) helps you discover the most compact-but-powerful microframeworks.
     + [JSPkg](http://jspkg.com/): reference library and package manager
     + [jquer.in](http://jquer.in/) is a curated collection of jQuery plugins.
+    + [angular-js.in](http://angular-js.in/) is a curated list of angular directives and modules.
     + [JSDB.io](http://www.jsdb.io): great source of the best JavaScript frameworks, plugins, and tools.
 + Other Front End Collections
     + [pineapple.io](http://pineapple.io/): A central hub of Tutorials, Tools and Assets for developers and designers
@@ -1022,4 +1023,4 @@
     + [Subtle Patterns](http://subtlepatterns.com/)
 
 
-	
+
