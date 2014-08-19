@@ -111,7 +111,7 @@
         + [Verical centering](http://codepen.io/shshaw/full/gEiDt) Cross browser absolute centering technics
         + [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
     + JavaScript
-        + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+        + [Book: Eloquent JavaScript](http://eloquentjavascript.net/)
         + [Book: Speaking JavaScript](http://speakingjs.com/es5/index.html)
         + [JavaScript Study Guide](http://shiflett.org/blog/2012/apr/javascript-study-guide)
         + [JavaScript Closures](http://jibbering.com/faq/notes/closures/)
