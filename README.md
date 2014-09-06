@@ -651,7 +651,8 @@
     + [Chart.js](http://www.chartjs.org/): Easy, object oriented client side graphs for designers and developers
     + [GoJS](http://gojs.net): Library for creating interactive diagrams (Trees, flowcharts, state charts, etc) in the browser.
     + [JointJS](http://jointjs.com/) is a modern HTML 5 JavaScript library for visualization and interaction with diagrams and graphs.
-    + [C3.js](https://github.com/masayuki0812/c3) A D3-based reusable chart library 
+    + [C3.js](https://github.com/masayuki0812/c3) A D3-based reusable chart library
+    + [Chartist.js](https://github.com/gionkunz/chartist-js) Simple responsive charts
 http://c3js.org
 + Validation & Forms
     + [Mention.js](https://github.com/jakiestfu/Mention.js) Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
