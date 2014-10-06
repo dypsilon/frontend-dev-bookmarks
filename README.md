@@ -85,7 +85,7 @@
 	 + [The Web Ahead](http://5by5.tv/webahead) A weekly podcast about changing technologies and the future of the web
 	 + [SassCast](http://sasscast.podbean.com/) A podcast all about the Sass preprocessor.
 	 + [CDNify](https://itunes.apple.com/us/podcast/cdnify/id786191888?mt=2) The CDNify podcast covers all things tech, startup, web performance and acceleration.
-	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp) 
+	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp)
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
@@ -391,6 +391,8 @@
         + [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
         + [CSS Support in Email](http://www.campaignmonitor.com/css/)
         + [Email Template Reference](http://templates.mailchimp.com/)
+        + [Responsive Email Patterns](http://responsiveemailpatterns.com/) A collection of patterns & modules for responsive emails
+        + [Responsive Email Resources](http://responsiveemailresources.com/) A collection of tools & resources for responsive email design
     + Mobile
         + Frameworks
             + [jQuery Mobile](http://jquerymobile.com/): Touch-Optimized Web Framework for Smartphones & Tablets
@@ -1022,4 +1024,4 @@
     + [Subtle Patterns](http://subtlepatterns.com/)
 
 
-	
+
