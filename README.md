@@ -581,6 +581,7 @@
         + [Toastr](http://codeseven.github.com/toastr/)
         + [alertify.js](http://fabien-d.github.com/alertify.js/)
         + [Apprise](http://thrivingkings.com/read/Apprise-v2-The-new-and-improved-attractive-alert-alternative-for-jQuery)
+        + [Sweet Alert](https://github.com/t4t5/sweetalert)
     + Gallery Sliders
         + [Sequence](http://www.sequencejs.com/)
         + [Rhinoslider](http://rhinoslider.com/)
