@@ -21,6 +21,7 @@
         + [Introductory article on tutsplus.com](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)
         + [Introductory article on Smashing Magazine](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
         + [Video: How to use BEM! outside of Yandex](http://vimeo.com/38346573)
+        + [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
         + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://www.slideshare.net/bradfrostweb/atomic-design)
         + [Pattern Lab](http://patternlab.io/)
