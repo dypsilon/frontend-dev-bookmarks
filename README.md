@@ -857,6 +857,8 @@
     + [parcel](https://github.com/sifteo/parcel) is easy package management using a file server and path conventions, with built in support for Amazon S3. It is designed to encode package metadata, including name, version and OS within a path. The conventions allow this metadata to be queried, without the need for a database.
     + [jam.js](http://jamjs.org/)
     + [component](http://component.io/)
+    + [duo](http://duojs.org/)
+    + [spm](http://spmjs.io/)
 + Image Manipulation
     + [Paintbrush.js](https://github.com/mezzoblue/PaintbrushJS)
     + [Obscura](https://github.com/OiNutter/Obscura)
