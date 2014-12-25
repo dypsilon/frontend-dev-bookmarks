@@ -99,6 +99,7 @@
     + [Web Tools Weekly](http://webtoolsweekly.com/)
     + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
     + [ng-newsletter](http://www.ng-newsletter.com): The free, weekly newsletter of the best AngularJS content on the web.
+    + [Qudos](https://qudos.io/) Product Hunt for the most shiny Dev tools
 + Programming & Markup Languages
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
