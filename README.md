@@ -179,6 +179,7 @@
                 + [AngularJS from Basics to Dependency Injection](http://suhairhassan.com/2013/06/07/angularjs-in-depth-part-1.html)
                 + [AngularJS To Do List App](http://www.dreamfactory.com/angularjs-example)
                 + [AngularJS vs Ember](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
+                + [AngularJS vs React](https://www.codementor.io/reactjs/tutorial/react-vs-angularjs)
                 + [The Hitchhiker’s Guide to the Directive](http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
                 + [Frontend Workflows with Grunt and Angular JS](http://youtu.be/fSAgFxjFSqY)
 				+ [Angular Tips](http://angular-tips.com)
