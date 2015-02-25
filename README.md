@@ -169,6 +169,9 @@
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
+        + Fullstack
+            + [MEAN](http://mean.io/)
+            + [Boneloop](https://github.com/hegdeashwin/Boneloop/)
         + [Angular](http://angularjs.org/)
             + [Github](https://github.com/angular/angular.js)
             + Learning
@@ -199,6 +202,7 @@
             + [Book: jQuery Fundamentals](http://jqfundamentals.com/)
             + [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
             + [Handpicked jQuery Plugins](http://jque.re/)
+            + [Protocore](https://github.com/hegdeashwin/Protocore): An open source walking application skeleton for a typical unstructured JavaScript/jQuery web apps.
         + [dojo](http://dojotoolkit.org/)
             + [Github](https://github.com/dojo/dojo)
             + [Documentation](http://dojotoolkit.org/documentation/)
@@ -212,6 +216,7 @@
             + [Building a Backbone.js app](http://dailyjs.com/2012/11/29/backbone-tutorial-1/) tutorial series.
             + [Migrating an existing app to Backbone](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/)
             + [Chaplin.js](http://chaplinjs.org/): An architecture for JavaScript applications using the Backbone.js library.
+            + [Nebula](https://github.com/hegdeashwin/Nebula): An open source walking application skeleton for a typical Backbone web apps.
         + [Meteor](http://meteor.com/): An open-source platform for building top-quality web apps in a fraction of the time.
             + [Github](https://github.com/meteor/meteor)
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
