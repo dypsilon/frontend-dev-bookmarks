@@ -217,6 +217,7 @@
             + [Migrating an existing app to Backbone](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/)
             + [Chaplin.js](http://chaplinjs.org/): An architecture for JavaScript applications using the Backbone.js library.
             + [Nebula](https://github.com/hegdeashwin/Nebula): An open source walking application skeleton for a typical Backbone web apps.
+            + [Training Kit: Structuring your web apps via Backbone.js](https://github.com/hegdeashwin/Backbone/)
         + [Meteor](http://meteor.com/): An open-source platform for building top-quality web apps in a fraction of the time.
             + [Github](https://github.com/meteor/meteor)
             + [Best Learning Resources for Meteor.js](http://yauh.de/articles/376/best-learning-resources-for-meteorjs)
