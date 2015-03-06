@@ -3,6 +3,7 @@
 *Looking for something else? Take a look at the [awesome collection of other awesome lists](https://github.com/sindresorhus/awesome).*
 
 + Guides
+    + [W3Schools](http://www.w3schools.com/): is optimized for learning, testing, and training.
     + [Bento](http://www.bentobox.io): a collection of guides for web development.
     + [Hack Design](http://hackdesign.org/courses/): An easy to follow design course for people who do amazing things.
     + [Designer School](http://designer-school.com/): A group of passionate professionals teaching web development
