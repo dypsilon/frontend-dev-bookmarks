@@ -28,7 +28,7 @@
         + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648) + [Slides](http://www.webcomponentsshift.com/)
         + [Video: Web Components in Action](https://developers.google.com/events/io/sessions/324149970)
     + [Flux](http://facebook.github.io/react/docs/flux-overview.html) is the application architecture that Facebook uses for building client-side web applications.
-    + [Aura](http://aurajs.com/) is an event-driven architecture for developing scalable applications using reusable widgets (discontinued in favor of [Web Components](http://w3c.github.io/webcomponents/explainer/)).
+    + [Aura](https://github.com/aurajs/aura) is an event-driven architecture for developing scalable applications using reusable widgets (discontinued in favor of [Web Components](http://w3c.github.io/webcomponents/explainer/)).
     + [Hydra](http://tcorral.github.io/Hydra.js/) is an easy-to-use framework that provides you with the necessary tools to create scalable applications using modules and widgets.
     + [Terrific.js](http://terrifically.org/) provides you a Scalable JavaScript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
     + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
