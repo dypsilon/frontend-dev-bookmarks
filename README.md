@@ -5,7 +5,6 @@
 + Guides
     + [Bento](http://www.bentobox.io): a collection of guides for web development.
     + [Hack Design](http://hackdesign.org/courses/): An easy to follow design course for people who do amazing things.
-    + [Designer School](http://designer-school.com/): A group of passionate professionals teaching web development
     + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) covers all the elements from CSS and typography to HTML and the structure of prose.
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
     + [Web Development Teaching Materials](http://www.teaching-materials.org/): This site hosts a variety of CC-licensed web development curriculum which was designed to be taught, but it may be useful to students as well.
