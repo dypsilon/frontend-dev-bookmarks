@@ -505,6 +505,7 @@
     + [JPEGmini Photo Server](http://www.jpegmini.com/server) is an image optimization server which runs on Amazon EC2 (commercial).
     + [TinyPNG](http://tinypng.org/): Advanced lossy compression for PNG images that preserves full alpha transparency.
     + [GenyMotion](http://www.genymotion.com/) is the next generation of the AndroVM open source project, already trusted by 900,000 developers.
+    + [Shrinkray](https://shrinkray.io) is a one-click image optimizer for your Github repositories.
     + [Website Builders](http://en.wikipedia.org/wiki/Website_builder)
         + [Squarespace](http://www.squarespace.com/)
         + [BaseKit](http://www.basekit.com/)
