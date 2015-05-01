@@ -85,7 +85,7 @@
 	 + [The Web Ahead](http://5by5.tv/webahead) A weekly podcast about changing technologies and the future of the web
 	 + [SassCast](http://sasscast.podbean.com/) A podcast all about the Sass preprocessor.
 	 + [CDNify](https://itunes.apple.com/us/podcast/cdnify/id786191888?mt=2) The CDNify podcast covers all things tech, startup, web performance and acceleration.
-	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp) 
+	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp)
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
@@ -1020,6 +1020,9 @@
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
     + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
     + [Subtle Patterns](http://subtlepatterns.com/)
+    + Web Compliance
+    + [Validator S.A.C. for MAC](http://habilis.net/validator-sac/) Validator S.A.C. (Stand Alone Complex) is a stand-alone, easy to install, version of the W3C's HTML / XHTML Markup Validator for Mac OS X.
+    + [Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
 
 
-	
+
