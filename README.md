@@ -22,7 +22,7 @@
         + [Introductory article on Smashing Magazine](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
         + [Video: How to use BEM! outside of Yandex](http://vimeo.com/38346573)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
-        + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://www.slideshare.net/bradfrostweb/atomic-design)
+        + [Video](http://www.fivesimplesteps.com/products/atomic-design) + [Slides](http://www.slideshare.net/bradfrostweb/atomic-design)
         + [Pattern Lab](http://patternlab.io/)
     + [Polymer Project](http://www.polymer-project.org/): Polymer is a library that uses the latest web technologies to let you create custom HTML elements.
         + [Video: Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648) + [Slides](http://www.webcomponentsshift.com/)
