@@ -871,6 +871,7 @@
     + [Font Awesome](http://fortawesome.github.com/Font-Awesome/): The iconic font designed for use with Twitter Bootstrap
     + [Fontello](https://github.com/fontello/fontello/): Icon fonts generator to get only the required fonts.
     + [Perfect Icons](http://perfecticons.com/): The easiest way to create resolution independent social icons.
+    + [Simple Sharing Buttons Generator](http://simplesharingbuttons.com/): Mobile-friendly, static sharing buttons; supports Font Awesome.
 + HTTP
     + [Specification](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
     + [Using CORS](http://www.html5rocks.com/en/tutorials/cors/)
