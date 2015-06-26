@@ -1020,6 +1020,4 @@
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
     + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
     + [Subtle Patterns](http://subtlepatterns.com/)
-
-
-	
+    + [Awesome Web Components](https://github.com/obetomuniz/awesome-webcomponents)
