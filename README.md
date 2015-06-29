@@ -295,6 +295,7 @@
                 + [PaintStrap](http://paintstrap.com/): Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
                 + [TODC](http://todc.github.com/todc-bootstrap/index.html): A Google-styled theme for Twitter Bootstrap.
                 + [Layoutit!](http://www.layoutit.com/)
+                + [Bootlint](https://github.com/twbs/bootlint): This tool checks that instances of Bootstrap components have correctly-structured HTML.
         + [IceCream](http://html5-ninja.com/icecream/): Simple and light responsive grid system.
         + [Responsive Grid System](http://responsive.gs/)
         + [Responsive Grid System (2)](http://www.responsivegridsystem.com/)
