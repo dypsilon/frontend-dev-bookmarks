@@ -916,6 +916,8 @@
     + [JSON Query Language](http://jsoniq.org/) is a query and processing language specifically designed for the popular JSON data model.
     + [Oboe.js](https://github.com/jimhigson/oboe.js) makes it really easy to start using json from a response before the ajax request completes; or even if it never completes.
     + [JSONLint](http://jsonlint.com/)
+    + [SpahQL](http://danski.github.io/spahql/): fetch deeply-nested data, traverse large trees, query for data based on conditions, make assertions about data.
+    + [JSONiq](http://www.jsoniq.org/): query and processing language for JSON.
 + Presentations
     + [Ancesor.js](http://kirkas.ch/ascensor/)
     + [Slideshow.html](http://dmfrancisco.github.com/slideshow.html/)
