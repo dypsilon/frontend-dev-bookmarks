@@ -667,6 +667,7 @@
     + [QUnit](http://qunitjs.com/) - JavaScript unit testing framework
     + [JsMockito](http://jsmockito.org/) - JavaScript stub/mock framework heavily inspired by Mockito
     + [PhantomCSS](https://github.com/Huddle/PhantomCSS) - for automating visual regression testing of website styling to support refactoring of CSS
+    + [Gemini](https://github.com/bem/gemini) - Utility for regression testing of web pages using screenshots
     + [Karma](http://karma-runner.github.io/) - Spectacular Test Runner for JavaScript
     + [Chai Assertion Library](http://chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
     + [Sinon.JS](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
