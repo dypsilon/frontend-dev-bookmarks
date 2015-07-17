@@ -162,6 +162,7 @@
         + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
         + [TypeScript](http://www.typescriptlang.org/) is a typed superset of JavaScript that compiles to plain JavaScript (by Microsoft)
         + [CoffeeScript](http://coffeescript.org/) is a little language that compiles into JavaScript.
+        + [Babel](https://babeljs.io/) is a compilter to generate next generation JavaScript, today.
 + Frameworks
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
