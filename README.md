@@ -564,6 +564,7 @@
         + [Roundabout](http://fredhq.com/projects/roundabout/)
         + [Slid.es](http://slid.es/)
         + [Galleria](http://galleria.io/)
+        + [PhotoSwipe](http://photoswipe.com): mobile-friendly gallery without dependencies.
     + Pagination
         + [jPages](http://luis-almeida.github.com/jPages/)
     + Selects
