@@ -953,6 +953,7 @@
     + [Gridster](http://gridster.net/)
     + [Flex](http://jsonenglish.com/projects/flex/)
     + [grid-list](https://github.com/uberVU/grid)
+    + [mixitup](https://github.com/patrickkunka/mixitup) MixItUp is a jQuery plugin providing animated filtering and sorting.
 + Security
     + [oAuth Consumer Library](http://oauth.googlecode.com/svn/code/javascript/) by John Kristian
      + [ohauth](https://github.com/gijs/ohauth)
