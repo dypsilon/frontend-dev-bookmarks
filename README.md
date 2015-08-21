@@ -672,6 +672,7 @@
     + [sinon-chai](https://github.com/domenic/sinon-chai) - Extends Chai with assertions for the Sinon.JS mocking framework.
     + [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit, scriptable with a JavaScript API
     + [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers that runs on Gecko
+    + [Sauce Labs](https://saucelabs.com) - Automated testing
 + Template Engines
     + [ICanHaz.js](http://icanhazjs.com/)
     + [Hogan.js](http://twitter.github.com/hogan.js/)
