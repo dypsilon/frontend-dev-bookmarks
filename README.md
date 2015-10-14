@@ -981,6 +981,7 @@
     + [Code problems](https://github.com/blakeembrey/code-problems) -- Common code problems solved using JavaScript
     + [StackOverflow Jobs](http://careers.stackoverflow.com/)
     + [CodePen Jobs](http://codepen.io/jobs/)
+    + [Drupal Jobs](https://jobs.drupal.org/home)
 + Misc
     + [zip.js](http://gildas-lormeau.github.com/zip.js/)
     + [simpleCart.js](http://simplecartjs.org/)
