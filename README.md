@@ -901,6 +901,7 @@
 + Other Front End Collections
     + [pineapple.io](http://pineapple.io/): A central hub of Tutorials, Tools and Assets for developers and designers
     + [Frontdesk](https://github.com/miripiruni/frontdesk): Community driven list of useful things for Front End Developers
+    + [devleaks.com](http://devleaks.com/) Thousands of curated resources for Web Developers and Designers.
     + [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/) by Roundarch Isobar
     + [Devlinks](http://devlinks.co.uk/) by David Higgins
     + [Life of JS](http://lifeofjs.com/)
