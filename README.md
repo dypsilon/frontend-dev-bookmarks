@@ -496,7 +496,7 @@
         + [Wix](http://www.wix.com)
         + [Wordpress.com](http://wordpress.com/)
         + [Yola](https://www.yola.com/)
-        + [1&1 Homepage](http://homepage.1und1.de/)
+        + [1&1 Homepage](http://homepage.1und1.de/)    + [Vorlon.js](http://vorlonjs.com/) - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript.
 + Animation
     + [Velocity.js](http://velocityjs.org): Re-implementation of jQuery's $.animate() that adds 20x the speed while also drastically improving the UI animation workflow.
     + [Animo.js](http://labs.bigroomstudios.com/libraries/animo-js): A powerful little tool for managing CSS animations
@@ -725,6 +725,7 @@
     + [Scripted](https://github.com/scripted-editor/scripted)
     + [tabIndent.js](http://julianlam.github.com/tabIndent.js/)
     + [Behave.js](http://jakiestfu.github.io/Behave.js/) is a lightweight library for adding IDE style behaviors to plain text areas, making it much more enjoyable to write code in.
+    + [Visual Code](https://code.visualstudio.com/) is a free cross-platform editor for building debugging modern web applications.
 + Refactoring
     + [Refactoring JavaScript with kratko.js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
 + Performance
