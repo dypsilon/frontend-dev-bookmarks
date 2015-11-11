@@ -725,6 +725,7 @@
     + [Scripted](https://github.com/scripted-editor/scripted)
     + [tabIndent.js](http://julianlam.github.com/tabIndent.js/)
     + [Behave.js](http://jakiestfu.github.io/Behave.js/) is a lightweight library for adding IDE style behaviors to plain text areas, making it much more enjoyable to write code in.
+    + [Atom](http://atom.io): A hackable text editor by GitHub
 + Refactoring
     + [Refactoring JavaScript with kratko.js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
 + Performance
