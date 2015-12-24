@@ -258,6 +258,7 @@
                 + [Pagination](https://github.com/markbates/jquery-bootstrap-pagination)
                 + [Slider](http://ghusse.github.com/jQRangeSlider/)
                 + [Application Wizard](https://github.com/amoffat/bootstrap-application-wizard)
+                + [Bootstrap Table](https://github.com/wenzhixin/bootstrap-table): An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features.
             + Themes
                 + [Bootswatch](http://bootswatch.com/): Theme catalog.
                 + [Bootstrap Zero](http://bootstrapzero.com/): Get a less Bootstrap-y look with these custom themes
