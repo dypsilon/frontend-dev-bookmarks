@@ -715,6 +715,8 @@
     + [Create.js](http://createjs.org/)
     + [MDMagick](http://fguillen.github.com/MDMagick/)
     + [X-editable](http://vitalets.github.com/x-editable/)
+    + [Summernote](http://summernote.org/)
+    + [Basecamp Trix](http://trix-editor.org/)
 + Code Viewers & Editors
     + [SublimeText](http://sublimetext.com/)
     + [Rainbow.js](http://craig.is/making/rainbows)
