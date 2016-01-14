@@ -435,7 +435,7 @@
             + [retina.js](http://retinajs.com/)
             + [Retina Images](http://retina-images.complexcompulsions.com/)
     + Printers
-        + [Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)
+        + [Tips And Tricks For Print Style Sheets](https://www.smashingmagazine.com/2013/03/tips-and-tricks-for-print-style-sheets/)
 + Patterns & Snippets
     + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
     + [CSS3 Code Snippets](http://www.webinterfacelab.com/snippets/)
