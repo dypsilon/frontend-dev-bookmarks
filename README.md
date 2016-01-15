@@ -564,6 +564,7 @@
         + [Roundabout](http://fredhq.com/projects/roundabout/)
         + [Slid.es](http://slid.es/)
         + [Galleria](http://galleria.io/)
+        + [Slick](https://kenwheeler.github.io/slick/)
     + Pagination
         + [jPages](http://luis-almeida.github.com/jPages/)
     + Selects
