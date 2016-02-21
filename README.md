@@ -103,7 +103,7 @@
         + [Github CSS Styleguide](https://github.com/styleguide/css)
         + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
         + [Wizardry CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
-        + [Verical centering](http://codepen.io/shshaw/full/gEiDt) Cross browser absolute centering technics
+        + [Vertical centering](http://codepen.io/shshaw/full/gEiDt) Cross browser absolute centering techniques
         + [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
     + JavaScript
         + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
@@ -222,7 +222,7 @@
         + [Ember.js](http://emberjs.com/): A framework for creating ambitious web applications.
         	+ [Github](https://github.com/emberjs/ember.js)
         	+ [Building an Ember.js application](https://www.youtube.com/watch?v=1QHrlFlaXdI) Walkthrough of the framework by Tom Dale, one the devs.
-         	+ [EmberWatch](http://emberwatch.com/) Lots of learning ressources
+         	+ [EmberWatch](http://emberwatch.com/) Lots of learning resources
         + [Maria](https://github.com/petermichaux/maria): The MVC framework for JavaScript applications. The real MVC. The Smalltalk MVC. The Gang of Four MVC.
         + [Terrific Composer](http://terrifically.org/composer/) is a Frontend Development Framework specifically designed for building deluxe frontends based on the [Terrific concept](http://terrifically.org/)
         + [Rivets.js](http://rivetsjs.com/): Lightweight and powerful data binding + templating solution for building modern web applications.
@@ -263,7 +263,7 @@
                 + [Bootstrap Zero](http://bootstrapzero.com/): Get a less Bootstrap-y look with these custom themes
                 + [Jumpstart UI](http://jumpstartui.com/): Another catalog for paid themes
                 + [Themestrap](https://github.com/divshot/themestrap): A simple starter kit for constructing Twitter Bootstrap 3+ themes.
-                + [jQuery Mobile Boostrap](https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme): A jQuery Mobile theme based on Twitter Bootstrap
+                + [jQuery Mobile Bootstrap](https://github.com/commadelimited/jQuery-Mobile-Bootstrap-Theme): A jQuery Mobile theme based on Twitter Bootstrap
                 + [Wrapbootstrap](http://wrapbootstrap.com/)
                 + [Flat UI](http://designmodo.github.io/Flat-UI/)Free Web User Interface Kit that Rocks!
                 + Wordpress
@@ -631,7 +631,7 @@
     + [one-validation](https://github.com/One-com/one-validation) is a collection of regular expressions for general validation purposes.
     + [nextVal](http://jukebox42.github.com/nextVal/) is an easy-to-use, flexible and robust form validation plugin for jQuery.
     + [Fields.js](http://schneiderik.github.com/fields/) creates collections of fields. Each field is constantly evaluated for validity, and is accessible through the collection.
-    + [IV.js](http://dadleyy.github.com/IV.js/) was created to provide a intutive way to provide validation filters that are useful in processing user input.
+    + [IV.js](http://dadleyy.github.com/IV.js/) was created to provide an intuitive way to provide validation filters that are useful in processing user input.
     + [Ladda](http://lab.hakim.se/ladda/): A UI concept which merges loading indicators into the action that invoked them.
     + [jQuery Super Labels](http://remy.bach.me.uk/superlabels_demo/)
     + [jQuery Validation Engine](http://www.position-relative.net/creation/formValidator/): jQuery validation engine is a JavaScript plugin aimed at the validation of form fields in the browser
@@ -866,7 +866,7 @@
     + [sphinx](http://sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
     + [Using JSDoc](http://usejsdoc.org/)
     + [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
-    + [Daux.io](http://daux.io/) is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
+    + [Daux.io](http://daux.io/) is a documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 + Windows 8 Style
     + [Metro UI CSS](http://metroui.org.ua/)
     + [BootMetro](http://aozora.github.com/bootmetro/)
