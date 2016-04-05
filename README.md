@@ -12,6 +12,7 @@
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): This site by Adobe is a resource and showcase of some of the newest, and most expressive features being added to the web today.
     + [Treehouse](http://teamtreehouse.com/): Learn HTML, CSS, iPhone apps and more.
     + [General Assembly Dash](https://dash.generalassemb.ly): Learn HTML, CSS, and Javascript through fun projects you do in your browser.
+    + [Code Avengers](https://www.codeavengers.com): Learn to build websites, apps and games in a fun and effective way.
 + Architecture
     + [Web Components](http://w3c.github.io/webcomponents/explainer/): the component model for the Web.
     + [BEM](http://bem.info/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
