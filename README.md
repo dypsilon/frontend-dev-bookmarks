@@ -867,6 +867,7 @@
     + [Using JSDoc](http://usejsdoc.org/)
     + [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
     + [Daux.io](http://daux.io/) is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
+     + [Atomic Docs](http://atomicdocs.io/) is a styleguide generator and component manager. Atomic Docs is built in PHP and SASS. Inspired by Brad Frost's Atomic Design principles.
 + Windows 8 Style
     + [Metro UI CSS](http://metroui.org.ua/)
     + [BootMetro](http://aozora.github.com/bootmetro/)
