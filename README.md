@@ -385,6 +385,7 @@
             + [Phantom Limb](https://github.com/brian-c/phantom-limb)
             + [Touché](https://github.com/davidcalhoun/touche)
         + Scrolling
+            + [fullPage.js](http://alvarotrigo.com/fullPage/): Create Beautiful Fullscreen Scrolling Websites.
             + [jSwipeKinetic](http://jswipekinetic.codeplex.com/) is a jQuery plugin that enables you to add kinetic scrolling on your touch optimized projects. jSwipeKinetic is build on top of jGestures (jgestues.codeplex.com).
             + [jQuery.pep.js](http://pep.briangonzalez.org/): A lightweight plugin for kinetic-drag on mobile/desktop.
             + [Overscroll](http://www.azoffdesign.com/overscroll) is a jQuery plug-in that mimics the iphone/ipad scrolling experience in a browser.
