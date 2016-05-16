@@ -672,6 +672,7 @@
     + [sinon-chai](https://github.com/domenic/sinon-chai) - Extends Chai with assertions for the Sinon.JS mocking framework.
     + [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit, scriptable with a JavaScript API
     + [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers that runs on Gecko
+    + [Sauce Labs](https://saucelabs.com) - Automated testing
 + Template Engines
     + [ICanHaz.js](http://icanhazjs.com/)
     + [Hogan.js](http://twitter.github.com/hogan.js/)
@@ -953,6 +954,7 @@
     + [Gridster](http://gridster.net/)
     + [Flex](http://jsonenglish.com/projects/flex/)
     + [grid-list](https://github.com/uberVU/grid)
+    + [mixitup](https://github.com/patrickkunka/mixitup) MixItUp is a jQuery plugin providing animated filtering and sorting.
 + Security
     + [oAuth Consumer Library](http://oauth.googlecode.com/svn/code/javascript/) by John Kristian
      + [ohauth](https://github.com/gijs/ohauth)
