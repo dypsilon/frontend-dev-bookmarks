@@ -703,6 +703,7 @@
     + [jQuery Address](http://www.asual.com/jquery/address/)
     + [page.js](https://github.com/visionmedia/page.js)
     + [speakingurl](https://github.com/pid/speakingurl): generate a so called "static", "Clean URL", "Pretty URL" or "slug" from a string.
+    + [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
 + Rich Text Editors
     + [Mercury](http://jejacks0n.github.io/mercury/)
     + [Redactor](http://imperavi.com/redactor/)
