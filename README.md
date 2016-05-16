@@ -231,6 +231,9 @@
         + [A Comprehensive Collection Of JavaScript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
         + [Underscore.js](http://underscorejs.org/)
+        + [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
+            + [Derby site](http://derbyjs.com) - learning resources
+            + [Derby google group](https://groups.google.com/group/derbyjs) - Derby discussion group.
     + CSS
         + [A collection of best frameworks](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0)
         + Bootstrap
