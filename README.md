@@ -94,6 +94,7 @@
     + [Web Tools Weekly](http://webtoolsweekly.com/)
     + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
     + [ng-newsletter](http://www.ng-newsletter.com): The free, weekly newsletter of the best AngularJS content on the web.
+    + [scotch.io](http://www.scotch.io)
 + Programming & Markup Languages
     + CSS
         + [Understanding border-image](http://css-tricks.com/understanding-border-image/)
