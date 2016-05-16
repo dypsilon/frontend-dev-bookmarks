@@ -86,6 +86,7 @@
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
     + [CSS Weekly](http://css-weekly.com/)
     + [JavaScript Weekly](http://javascriptweekly.com/)
+    + [DailyJS] (http://dailyjs.com/)
     + [Sidebar.io](http://sidebar.io/) The 5 best design links, everyday
     + [Web Design Weekly](http://web-design-weekly.com/)
     + [Open Web Platform Daily Digest](http://webplatformdaily.org)
