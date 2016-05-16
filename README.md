@@ -635,6 +635,7 @@
     + [Ladda](http://lab.hakim.se/ladda/): A UI concept which merges loading indicators into the action that invoked them.
     + [jQuery Super Labels](http://remy.bach.me.uk/superlabels_demo/)
     + [jQuery Validation Engine](http://www.position-relative.net/creation/formValidator/): jQuery validation engine is a JavaScript plugin aimed at the validation of form fields in the browser
+    + [BootstrapValidator](http://bootstrapvalidator.com): Best jQuery plugin to validate form fields, designed to use with Bootstrap framework
 + Transitions
     + [Quicksand](http://razorjack.net/quicksand/)
     + [Isotope](http://isotope.metafizzy.co/)
