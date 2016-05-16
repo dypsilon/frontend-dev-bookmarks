@@ -651,6 +651,7 @@
     + [Fullproof](http://reyesr.github.com/fullproof/)
     + [lunr.js](http://lunrjs.com/) is a simple full text search engine for your client side applications.
 + Testing
+    + [Screenfly] (http://quirktools.com/screenfly/) Test your website on any screen size including desktops, tablets, televisions, and mobile phones.	
     + [BrowserStack] (http://www.browserstack.com/start) Comprehensive range of Browsers & Mobile Emulators available online for Live Testing and ready to use.
     + [FiveUI](http://galoisinc.github.io/FiveUI/) Extensible/open browser extension & headless system for testing UI Consistency guidelines (or anything else you can test with injected JS).
     + [Writing Testable JavaScript](http://alistapart.com/article/writing-testable-javascript)
