@@ -231,6 +231,7 @@
         + [A Comprehensive Collection Of JavaScript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
         + [Underscore.js](http://underscorejs.org/)
+        + [JSBlocks](http://jsblocks.com/): Better MV-ish Framework. From simple user interfaces to complex single-page applications using faster, server-side rendered and easy to learn framework
     + CSS
         + [A collection of best frameworks](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0)
         + Bootstrap
