@@ -118,6 +118,7 @@
         + [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
         + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
         + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
+        + [Airbnb JavasScript Style Guide](http://nerds.airbnb.com/our-javascript-style-guide/)
         + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
         + [Structure and Interpretation of Computer Programs](http://www.comp.nus.edu.sg/~cs1101s/sicp/)
         + Extensions
