@@ -31,7 +31,7 @@
     + [Video: Nicholas Zakas: Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
     + [Book: Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
     + [Book: Single page apps in depth](http://singlepageappbook.com/index.html)
-    + [Book: Scalable and Modular Architecture for CSS](http://smacss.com/book/)
+    + [Book: Scalable and Modular Architecture for CSS](http://smacss.com/book/) - Book on SMACSS CSS authoring style.
     + [PDF: jQuery Application Architecture Chart](http://addyosmani.com/resources/toolschart/chart.pdf)
     + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
@@ -103,7 +103,7 @@
         + [Github CSS Styleguide](https://github.com/styleguide/css)
         + [Wordpress CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
         + [Wizardry CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
-        + [Verical centering](http://codepen.io/shshaw/full/gEiDt) Cross browser absolute centering technics
+        + [Verical centering](http://codepen.io/shshaw/full/gEiDt) Cross-browser absolute centering techniques.
         + [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
     + JavaScript
         + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
@@ -412,7 +412,7 @@
             + [Lightning Touch](https://github.com/ucsf-ckm/LightningTouch)
             + [Creating Fast Buttons for Mobile Web Applications](https://developers.google.com/mobile/articles/fast_buttons)
         + Layout
-            + [Screensizes](http://screensiz.es/)
+            + [Screensizes](http://screensiz.es/) - List of device screensize specifics. Covers smartphones, tablets, and larger displays.
             + [Snap.js](https://github.com/jakiestfu/Snap.js) A JavaScript Library for creating beautiful mobile shelfs in JavaScript (Facebook and Path style side menus)
             + [Flickable.js](https://github.com/tomlongo/Flickable.js) allows you to make any element touchable; useful for flicking between sections, or sliding elements around the page.
             + [Swipe](http://swipejs.com/) is a lightweight mobile slider with 1:1 touch movement, resistant bounds, scroll prevention, and completely library agnostic.
@@ -989,7 +989,7 @@
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
     + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
-    + [Subtle Patterns](http://subtlepatterns.com/)
+    + [Subtle Patterns](http://subtlepatterns.com/) - Tileable Photoshop patterns.
 
 
 ## License
