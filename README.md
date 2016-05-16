@@ -298,6 +298,7 @@
         + [Responsive Grid System](http://responsive.gs/)
         + [Responsive Grid System (2)](http://www.responsivegridsystem.com/)
         + [Golden Grid System](http://goldengridsystem.com/)
+        + [Concise](http://concisecss.com/): An lightweight front-end framework that removes the bloat.
         + [Compass](http://compass-style.org/): An open-source CSS Authoring Framework.
         + [Pondasee](http://tokokoo.github.com/pondasee/): Front-end starter kit combined with the power of SCSS & Compass.
         + [Foundation by Zurb](http://foundation.zurb.com/): The most advanced responsive front-end framework in the world.
