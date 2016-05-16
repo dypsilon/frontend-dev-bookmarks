@@ -7,6 +7,7 @@
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
     + [Web Development Teaching Materials](http://www.teaching-materials.org/): This site hosts a variety of CC-licensed web development curriculum which was designed to be taught, but it may be useful to students as well.
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
+    + [HTML5 Overview](http://cminhho.github.io/HTML5-Presentation)
     + [Codecademy](http://codecademy.com): Learn to code interactively, for free.
     + [Codeschool](https://www.codeschool.com/) teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): This site by Adobe is a resource and showcase of some of the newest, and most expressive features being added to the web today.
