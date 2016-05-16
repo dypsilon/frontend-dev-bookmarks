@@ -1,6 +1,7 @@
 # Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 + Guides
+    + [Front-end Developer Handbook](http://frontendhandbook.com): Free e-book that outlines all things front-end.
     + [Bento](http://www.bentobox.io): a collection of guides for web development.
     + [Hack Design](http://hackdesign.org/courses/): An easy to follow design course for people who do amazing things.
     + [Web Style Guide - 3<sup>rd</sup> Edition](http://webstyleguide.com/wsg3/index.html) covers all the elements from CSS and typography to HTML and the structure of prose.
