@@ -284,6 +284,7 @@
                 + [Pinstrap](http://bragthemes.com/theme/pinstrap-pinterest-meets-bootstrap/)
             + Misc
                 + [Boilerstrap](https://github.com/emorikawa/boilerstrap): A blank slate for the modern web. Just add creativity.
+                + [SweetAlert](http://lipis.github.io/bootstrap-sweetalert/): A beautiful replacement for JavaScript alert
                 + [Bootstrap GUI PSD](http://gui.repixdesign.com/#freebies): a toolkit designed to kickstart webdesign of webapps and sites.
                 + [Typo3 Extension](http://typo3.org/extensions/repository/view/mn_twitter_bootstrap)
                 + [Bootstrap CDN](http://www.bootstrapcdn.com/) Free CDN for Twitter Bootstrap
