@@ -611,6 +611,7 @@
     + [Smoothie Charts](http://smoothiecharts.org/)
     + [DataMaps](http://datamaps.github.com/)
     + [mxgraph](http://jgraph.github.io/mxgraph/)
+    + [Fabric.js](http://fabricjs.com/): A powerful and simple JavaScript HTML5 canvas library.
     + [Paper.js](http://paperjs.org) is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
     + [Timeline.js](https://github.com/VeriteCo/TimelineJS): A Storytelling Timeline built in JavaScript.
     + [xCharts](http://tenxer.github.com/xcharts/) is a JS library for creating attractive, custom data-driven chart visualizations. It uses HTML, CSS, and SVG to create dynamic, fluid charts that can be easily customized and integrated.
@@ -704,6 +705,7 @@
     + [page.js](https://github.com/visionmedia/page.js)
     + [speakingurl](https://github.com/pid/speakingurl): generate a so called "static", "Clean URL", "Pretty URL" or "slug" from a string.
 + Rich Text Editors
+    + [Ace](http://ace.c9.io): The high performance code editor for the web.
     + [Mercury](http://jejacks0n.github.io/mercury/)
     + [Redactor](http://imperavi.com/redactor/)
     + [WYSIHTML5](http://xing.github.com/wysihtml5/)
