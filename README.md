@@ -23,6 +23,8 @@
         + [Pattern Lab](http://patternlab.io/)
     + [Polymer Project](http://www.polymer-project.org/): Polymer is a library that uses the latest web technologies to let you create custom HTML elements.
     + [Flux](http://facebook.github.io/react/docs/flux-overview.html) is the application architecture that Facebook uses for building client-side web applications.
+    + [NuclearJS](https://optimizely.github.io/nuclear-js/): Reactive Flux built with ImmutableJS data structures. Framework agnostic.
+        + [Open sourced by Optimizely](https://github.com/optimizely/nuclear-js)
     + [Aura](http://aurajs.com/) is an event-driven architecture for developing scalable applications using reusable widgets (discontinued in favor of [Web Components](http://w3c.github.io/webcomponents/explainer/)).
     + [Hydra](http://tcorral.github.io/Hydra.js/) is an easy-to-use framework that provides you with the necessary tools to create scalable applications using modules and widgets.
     + [Terrific.js](http://terrifically.org/) provides you a Scalable JavaScript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
