@@ -623,6 +623,7 @@
     + [Chart.js](http://www.chartjs.org/): Easy, object oriented client side graphs for designers and developers
     + [GoJS](http://gojs.net): Library for creating interactive diagrams (Trees, flowcharts, state charts, etc) in the browser.
     + [JointJS](http://jointjs.com/) is a modern HTML 5 JavaScript library for visualization and interaction with diagrams and graphs.
+    + [SigmaJS](http://sigmajs.org/): Library dedicated to graph drawing.
 + Validation & Forms
     + [Mention.js](https://github.com/jakiestfu/Mention.js) Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
     + [ALAJAX](http://www.alajax.com/)
