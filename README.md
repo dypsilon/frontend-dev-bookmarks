@@ -574,6 +574,7 @@
     + Progress Bars
         + [Percentage Loader](http://widgets.better2web.com/loader/)
         + [progress.js](https://github.com/mdix/progress.js)
+        + [Mprogress.js](https://github.com/lightningtgc/MProgress.js) Google Material Design Progress Linear bar.
     + Trees
         + [Nestable](http://dbushell.com/2012/06/17/nestable-jquery-plugin/)
     + Navigation
