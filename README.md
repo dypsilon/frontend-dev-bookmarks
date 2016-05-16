@@ -534,6 +534,7 @@
         + [jQuery Bootstrap](https://github.com/jslegers/jquery-bootstrap): Integration of Bootstrap and jQuery UI
         + [Cascade Framework](http://cascade-framework.com/): high performance widgets allow you to define the UI status directly in the DOM
         + [Zebra](http://zebra.gravitysoft.org/): JavaScript library that follows easy OOP concept, provides HTML5 Canvas based Rich UI and includes Java to JavaScript converter tool
+        + [Mobiscroll](http://github.com/acidb/mobiscroll): Customizable HTML5 UI components for touch devices (web & hybrid development)
     + File Upload
         + [jQuery File Upload](http://blueimp.github.com/jQuery-File-Upload/)
         + [tus fileupload](http://www.tus.io/)
