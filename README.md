@@ -60,6 +60,7 @@
         + [Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)
         + [Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)
         + [CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)
+        + [Galen Framework](http://galenframework.com/): Galen is a test framework originaly introduced for testing layout.
     + [CSSCSS](http://zmoazeni.github.io/csscss/): A CSS redundancy analyzer that analyzes redundancy.
     + [Helium](https://github.com/geuis/helium-css): JavaScript tool to scan your site and show unused CSS.
     + [JSLint](http://jslint.com/) for detecting errors or problems by static analysis of JavaScript programs.
