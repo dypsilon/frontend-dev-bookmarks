@@ -80,7 +80,7 @@
 	 + [The Web Ahead](http://5by5.tv/webahead) A weekly podcast about changing technologies and the future of the web
 	 + [SassCast](http://sasscast.podbean.com/) A podcast all about the Sass preprocessor.
 	 + [CDNify](https://itunes.apple.com/us/podcast/cdnify/id786191888?mt=2) The CDNify podcast covers all things tech, startup, web performance and acceleration.
-	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp)
+	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp) A podcast hosted by Chris Enns, Christopher Schmitt and Sam Kapila where they attempt to seek out the best, brightest, and smartest creative people on digital art, design, and development and examine why they do what they do and how they did it.
 + Weekly & Daily Resources
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
