@@ -73,6 +73,7 @@
     + [Penthouse](https://github.com/pocketjoso/penthouse): Critical path CSS generator.
     + [Browser-sync](https://github.com/shakyShane/browser-sync): is a tool to sync all input, scrolling, and clicking across all the devices in your testing workflow.
     + [Video: JavaScript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
+    + [Conventional Changelog](https://github.com/stevemao/conventional-changelog-cli) is a tool to generate changelog from git metadata
 + Podcasts
 	 + [Shoptalk Show](http://shoptalkshow.com/) A podcast about web design, development and UX.
 	 + [Javascript Jabber](http://javascriptjabber.com/) A podcast all about Javascript
