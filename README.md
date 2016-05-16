@@ -380,6 +380,9 @@
             + [jQuery Mobile](http://jquerymobile.com/): Touch-Optimized Web Framework for Smartphones & Tablets
             + [jQTouch](http://jqtouch.com/) is a Zepto/jQuery plugin for mobile web development on the iPhone, Android, iPod Touch, and other forward-thinking devices.
             + [Junior](http://justspamjustin.github.com/junior/)
+            + [Ionic](http://ionicframework.com/): Framework for mobile modern web apps on HTML5 with clean and beautiful components.
+            + [Onsen UI](http://onsenui.io/): Is a UI framework to develop the user interface for mobile HTML5 apps.
+            + [Ratchet](http://goratchet.com/): Build mobile apps with simple HTML‚ CSS‚ and JS components. Based on Bootstrap. 
         + Emulators
             + [thumbs.js](http://mwbrooks.github.com/thumbs.js/)
             + [Phantom Limb](https://github.com/brian-c/phantom-limb)
@@ -725,6 +728,10 @@
     + [Scripted](https://github.com/scripted-editor/scripted)
     + [tabIndent.js](http://julianlam.github.com/tabIndent.js/)
     + [Behave.js](http://jakiestfu.github.io/Behave.js/) is a lightweight library for adding IDE style behaviors to plain text areas, making it much more enjoyable to write code in.
++ Other software
+	+ [Fenix](http://fenixwebserver.com/): a simple static desktop web server. Available on Win and Mac.
+		+ Preprocessors
+			+ [Koala](http://koala-app.com/): Is a GUI application for Less, Sass, Compass and CoffeeScript compilation. Available on Win, Mac and Linux.
 + Refactoring
     + [Refactoring JavaScript with kratko.js](http://perfectionkills.com/refactoring-javascript-with-kratko-js/)
 + Performance
