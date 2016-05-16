@@ -231,6 +231,7 @@
         + [A Comprehensive Collection Of JavaScript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
         + [Underscore.js](http://underscorejs.org/)
+        + [Famo.us](http://famo.us/) is a free, open source JavaScript framework that helps you create smooth, complex UIs for any screen.
     + CSS
         + [A collection of best frameworks](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0)
         + Bootstrap
@@ -687,6 +688,7 @@
     + [T](https://github.com/gcao/T.js): T.js is a template engine that uses simple JavaScript data structure to represent html/xml data.
     + [Nunjucks](http://nunjucks.jlongster.com/) is a full featured templating engine for javascript.
     + [Jade](http://jade-lang.com/)
+    + [JsRender](https://github.com/BorisMoore/jsrender) pure string-based rendering, without DOM or jQuery dependency.
     + [Linked.in Dust.js](http://linkedin.github.com/dustjs/)
         + [The client-side templating throwdown: mustache, handlebars, dust.js, and more](http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more)
         + [Leaving JSPs in the dust: moving LinkedIn to dust.js client-side templates](http://engineering.linkedin.com/frontend/leaving-jsps-dust-moving-linkedin-dustjs-client-side-templates)
