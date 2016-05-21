@@ -1,6 +1,6 @@
 # Sourcemaps
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Sourcemap is a way to map a combined&#x2F;minified file back to an unbuilt state.
 

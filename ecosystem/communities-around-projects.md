@@ -1,6 +1,6 @@
 # Communities Around Projects
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Ecosystem**
+**Context: [frontend-dev-bookmarks](../README.md) / Ecosystem**
 
 Successful open source projects attract many developers who produce plugins, libraries, tutorials and other resources. This section collects such resources.
 

@@ -1,6 +1,6 @@
 # Documentation
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Writing, generating, publishing and consuming documentation for web deliverables.
 

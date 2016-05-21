@@ -1,6 +1,6 @@
 # Printers
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Compatibility**
+**Context: [frontend-dev-bookmarks](../README.md) / Compatibility**
 
 Manipulation of printer output through CSS.
 

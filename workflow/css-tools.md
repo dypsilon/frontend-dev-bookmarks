@@ -1,6 +1,6 @@
 # CSS Tools
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Tools for analysis, pre and post processing of CSS files.
 

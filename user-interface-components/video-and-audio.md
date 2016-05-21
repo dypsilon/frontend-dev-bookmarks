@@ -1,6 +1,6 @@
 # Video &amp; Audio
 
-**Context: [frontend-dev-bookmarks](../../README.md) / User Interface Components**
+**Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
 
 Components for playing audio and video files on a website.
 

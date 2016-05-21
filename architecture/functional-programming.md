@@ -1,6 +1,6 @@
 # Functional Programming
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Architecture**
+**Context: [frontend-dev-bookmarks](../README.md) / Architecture**
 
 Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
 

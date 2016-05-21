@@ -1,6 +1,6 @@
 # Organizations
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Ecosystem**
+**Context: [frontend-dev-bookmarks](../README.md) / Ecosystem**
 
 Commercial companies and nonprofit organizations around web development.
 

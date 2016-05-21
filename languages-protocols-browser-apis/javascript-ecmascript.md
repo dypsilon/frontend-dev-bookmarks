@@ -1,6 +1,6 @@
 # JavaScript (EcmaScript)
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
 
 JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites. It is defined by ECMAScript standard.
 

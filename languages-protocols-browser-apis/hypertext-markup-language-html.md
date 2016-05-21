@@ -1,6 +1,6 @@
 # HyperText Markup Language (HTML)
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
 
 HTML is the standard markup language used to create web pages and its elements form the building blocks of all websites.
 

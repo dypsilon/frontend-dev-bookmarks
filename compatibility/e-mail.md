@@ -1,6 +1,6 @@
 # E-Mail
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Compatibility**
+**Context: [frontend-dev-bookmarks](../README.md) / Compatibility**
 
 Preparing HTML based electronic mail.
 

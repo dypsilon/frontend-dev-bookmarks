@@ -1,6 +1,6 @@
 # Cross Browser
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Compatibility**
+**Context: [frontend-dev-bookmarks](../README.md) / Compatibility**
 
 Cross-browser refers to the ability of a website, web application, HTML construct or client-side script to function in environments that provide its required features and to bow out or degrade gracefully when features are absent or lacking.
 

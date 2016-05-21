@@ -1,6 +1,6 @@
 # News
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Ecosystem**
+**Context: [frontend-dev-bookmarks](../README.md) / Ecosystem**
 
 Websites &amp; newsletters which provide daily and weekly news related to frontend web development.
 

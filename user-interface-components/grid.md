@@ -1,6 +1,6 @@
 # Grid
 
-**Context: [frontend-dev-bookmarks](../../README.md) / User Interface Components**
+**Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
 
 CSS Grid Layout Systems.
 

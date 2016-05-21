@@ -1,6 +1,6 @@
 # Visualization
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Appearance**
+**Context: [frontend-dev-bookmarks](../README.md) / Appearance**
 
 Placing data in a visual context.
 

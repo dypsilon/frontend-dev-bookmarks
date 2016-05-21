@@ -1,6 +1,6 @@
 # JavaScript Tools
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Tools for static analysis, pre and post processing of JavaScript files.
 

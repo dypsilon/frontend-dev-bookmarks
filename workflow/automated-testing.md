@@ -1,6 +1,6 @@
 # Automated Testing
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Automated software testing is a process in which software tools execute pre-scripted tests on a software application before it is released into production.
 

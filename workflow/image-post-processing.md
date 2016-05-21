@@ -1,6 +1,6 @@
 # Image Post Processing
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Tools for image conversion and optimization.
 

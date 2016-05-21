@@ -1,6 +1,6 @@
 # Scalable Vector Graphics (SVG)
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
 
 An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.
 

@@ -1,6 +1,6 @@
 # Forms
 
-**Context: [frontend-dev-bookmarks](../../README.md) / User Interface Components**
+**Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
 
 A HTML form on a web page allows a user to enter data that is sent to a server for processing. Web users fill out the forms using checkboxes, radio buttons, or text fields.
 

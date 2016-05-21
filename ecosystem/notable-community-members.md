@@ -1,6 +1,6 @@
 # Notable Community Members
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Ecosystem**
+**Context: [frontend-dev-bookmarks](../README.md) / Ecosystem**
 
 Important engineers, evangelists, architects and other celebrities.
 

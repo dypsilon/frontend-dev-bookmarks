@@ -1,6 +1,6 @@
 # Code Editors
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Text editor programs designed specifically for editing source code of a website.
 

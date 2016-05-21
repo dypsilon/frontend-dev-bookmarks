@@ -1,6 +1,6 @@
 # Typography
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Appearance**
+**Context: [frontend-dev-bookmarks](../README.md) / Appearance**
 
 The style, arrangement, or appearance of typeset matter.
 

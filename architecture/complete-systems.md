@@ -1,6 +1,6 @@
 # Complete Systems
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Architecture**
+**Context: [frontend-dev-bookmarks](../README.md) / Architecture**
 
 Ready to use and well documented structures and frameworks for frontend development.
 

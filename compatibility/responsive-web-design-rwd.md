@@ -1,6 +1,6 @@
 # Responsive Web Design (RWD)
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Compatibility**
+**Context: [frontend-dev-bookmarks](../README.md) / Compatibility**
 
 RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.
 

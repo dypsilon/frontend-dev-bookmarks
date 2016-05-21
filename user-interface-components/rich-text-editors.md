@@ -1,6 +1,6 @@
 # Rich Text Editors
 
-**Context: [frontend-dev-bookmarks](../../README.md) / User Interface Components**
+**Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
 
 A rich text editor is the interface for editing rich text within web browsers. The aim is to reduce the effort for users trying to express their formatting directly as valid HTML markup.
 

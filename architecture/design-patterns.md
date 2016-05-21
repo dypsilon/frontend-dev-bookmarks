@@ -1,6 +1,6 @@
 # Design Patterns
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Architecture**
+**Context: [frontend-dev-bookmarks](../README.md) / Architecture**
 
 Best practices that the programmer can use to solve common problems when designing an application or system.
 

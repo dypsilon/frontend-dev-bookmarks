@@ -1,6 +1,6 @@
 # Transpiled Languages
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
 
 Abstract languages converted to native, browser supported standards like JavaScript or CSS.
 

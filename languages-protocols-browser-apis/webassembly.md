@@ -1,6 +1,6 @@
 # WebAssembly
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
 
 WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
 

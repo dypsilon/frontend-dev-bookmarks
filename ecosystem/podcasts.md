@@ -1,6 +1,6 @@
 # Podcasts
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Ecosystem**
+**Context: [frontend-dev-bookmarks](../README.md) / Ecosystem**
 
 A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
 

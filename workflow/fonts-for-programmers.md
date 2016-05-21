@@ -1,6 +1,6 @@
 # Fonts for Programmers
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Programmers need special fonts, which help align the code and distinguish between characters, that look alike.
 

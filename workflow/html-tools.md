@@ -1,6 +1,6 @@
 # HTML Tools
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Tools for pre and post processing of the HTML source code.
 

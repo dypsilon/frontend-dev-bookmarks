@@ -1,6 +1,6 @@
 # Document Object Model (DOM)
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
 
 The DOM is a programming interface for HTML, XML and SVG documents. It defines methods that allow access to the tree, so that they can change the document structure, style and content.
 

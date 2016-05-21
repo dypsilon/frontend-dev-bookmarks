@@ -1,6 +1,6 @@
 # Code
 
-**Context: [frontend-dev-bookmarks](../../README.md) / User Interface Components**
+**Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
 
 Code viewers and editors designed for embedding inside a website.
 

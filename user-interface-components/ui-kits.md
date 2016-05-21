@@ -1,6 +1,6 @@
 # UI Kits
 
-**Context: [frontend-dev-bookmarks](../../README.md) / User Interface Components**
+**Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
 
 Collections of ready to use components.
 

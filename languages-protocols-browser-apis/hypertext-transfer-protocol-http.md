@@ -1,6 +1,6 @@
 # Hypertext Transfer Protocol (HTTP)
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
 
 This post talks about the design of the HTTP protocol, it&#39;s performance drawbacks and how to work around them.
 

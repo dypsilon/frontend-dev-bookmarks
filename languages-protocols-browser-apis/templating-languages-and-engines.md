@@ -1,6 +1,6 @@
 # Templating Languages and Engines
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
 
 Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
 

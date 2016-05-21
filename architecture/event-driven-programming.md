@@ -1,6 +1,6 @@
 # Event-Driven Programming
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Architecture**
+**Context: [frontend-dev-bookmarks](../README.md) / Architecture**
 
 Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions, sensor outputs, or messages from other programs&#x2F;threads.
 

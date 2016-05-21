@@ -1,6 +1,6 @@
 # Uniform Resource Identifier (URI)
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
 
 URI is a string of characters used to identify a resource. The most common form of URI is the Uniform Resource Locator (URL).
 

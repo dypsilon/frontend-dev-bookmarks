@@ -1,6 +1,6 @@
 # Mobile
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Compatibility**
+**Context: [frontend-dev-bookmarks](../README.md) / Compatibility**
 
 Development of websites optimized for viewing on smartphone and tablet devices.
 

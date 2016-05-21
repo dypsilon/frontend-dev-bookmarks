@@ -1,6 +1,6 @@
 # Animation
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Appearance**
+**Context: [frontend-dev-bookmarks](../README.md) / Appearance**
 
 The process of creating motion and shape change.
 

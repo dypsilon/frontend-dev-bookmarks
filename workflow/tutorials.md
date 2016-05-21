@@ -1,6 +1,6 @@
 # Tutorials
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Step by step guides for setting up a frontend development workflow.
 

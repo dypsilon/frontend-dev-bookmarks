@@ -1,6 +1,6 @@
 # Build Tools
 
-**Context: [frontend-dev-bookmarks](../../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
 Toolkits and their ecosystems, that help you automate painful and repeated tasks.
 
