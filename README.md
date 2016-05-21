@@ -231,6 +231,16 @@
         + [A Comprehensive Collection Of JavaScript Application Frameworks](http://www.designyourway.net/blog/resources/a-comprehensive-collection-of-javascript-application-frameworks-28-examples/)
         + [JavaScript Data Binding Frameworks](http://weblogs.asp.net/dwahlin/archive/2012/07/08/javascript-data-binding-frameworks.aspx)
         + [Underscore.js](http://underscorejs.org/)
+        + ExtJS: A RIA JS framework with large set of extendable built-in components to create feature-rich HTML5 applications, for both desktop and mobile, using JS.
+        	+ [Home Page](https://www.sencha.com/products/extjs/#overview)
+        	+ [GPL Download Link](https://www.sencha.com/legal/gpl/): To download the latest GPL version of the framework.
+			+ [Guides](http://docs.sencha.com/extjs/6.0/): A comprehensive guide to walkthrough the features of the framework.
+			+ Latest version API links
+				+ [ExtJS 6.0.2 - Classic toolkit](http://docs.sencha.com/extjs/6.0/6.0.2-classic/): For creating desktop applications.
+				+ [ExtJS 6.0.2 - Modern toolkit](http://docs.sencha.com/extjs/6.0/6.0.2-modern/): For creating mobile applications.
+			+ Tutorials
+				+ [Sencha Tutorials](http://senchatutorials.in/)
+				+ [ExtJS Tutorials](http://www.extjs-tutorial.com/)
     + CSS
         + [A collection of best frameworks](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0)
         + Bootstrap
