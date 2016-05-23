@@ -13,12 +13,17 @@ Best practices that the programmer can use to solve common problems when designi
 
 -----------------------------------------
 
-+ **[About HTML Semantics and Frontend Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)**: A collection of thoughts, experiences, ideas on HTML semantics, components and approaches to front-end architecture, class naming patterns, and HTTP compression.
-+ **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
 + **[CSS Modules](https://github.com/css-modules)**: A CSS Module is a CSS file in which all class names and animation names are scoped locally by default.
     + **[CSS Modules Documentation](https://github.com/css-modules/css-modules)**: General overview and some implementations.
     + **[ES CSS Modules](https://github.com/jacobp100/es-css-modules)**: PostCSS plugin that combines CSS Modules and ES Imports.
     + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
++ **Design Pattern Collections**: Overview resources and collections of design patterns.
+    + **[About HTML Semantics and Frontend Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)**: A collection of thoughts, experiences, ideas on HTML semantics, components and approaches to front-end architecture, class naming patterns, and HTTP compression.
+    + **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
+    + **[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)**: In this free book Addy Osmani explores applying both classical and modern design patterns to the JavaScript programming language.
+    + **[Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)**: An extensive overview by Addy Osmani of existing architectural solutions in the frontend development field.
+    + **[Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)**: In this video (2011) Nicholas Zakas discusses frontend architecture for complex, modular web applications with significant JavaScript elements.
+    + **[Single Page Apps in Depth](http://singlepageappbook.com/)**: This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices.
 + **JavaScript Modules**: Modules divide programs into clusters of code that, by some criterion, belong together.
     + **[Chapter 10 of Eloquent JavaScript: Modules](http://eloquentjavascript.net/10_modules.html)**: This chapter explores some of the benefits that division of code provides and shows techniques for building modules in JavaScript.
     + **[ES6 In Depth: Modules](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)**: This article highlights export and import keywords from ES6.
@@ -38,8 +43,14 @@ Best practices that the programmer can use to solve common problems when designi
         + **[uRequire](https://github.com/anodynos/urequire)**: The Ultimate JavaScript Module Builder & Automagical Task Runner.
     + **[UMD (Universal Module Definition)](https://github.com/umdjs/umd)**: This repository formalizes the design and implementation of the Universal Module Definition (UMD) API for JavaScript modules. These are modules which are capable of working everywhere, be it in the client, on the server or elsewhere.
     + **[Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)**: In this article Addy Osmani reviewes several of the options available for writing modular JavaScript using modern module formats AMD, CommonJS and ES6 Modules.
-+ **[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)**: In this free book Addy Osmani explores applying both classical and modern design patterns to the JavaScript programming language.
-+ **[Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)**: An extensive overview by Addy Osmani of existing architectural solutions in the frontend development field.
++ **Observable**: An Observable is an event stream which can emit zero or more events, and may or may not finish. If it finishes, then it does so by either emitting an error or a special “complete” event.
+    + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
+        + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+        + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
+        + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
+        + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+        + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
+        + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
 + **Routing**: A routing system parses a string input (usually a URL) and decides which action should be executed by matching the string against multiple patterns.
     + **[Crossroads.js](http://millermedeiros.github.io/crossroads.js/)**: Crossroads.js is a powerful and flexible routing system. If used properly it can reduce code complexity by decoupling objects and also by abstracting navigation paths and server requests.
     + **[Director](https://github.com/flatiron/director)**: A tiny and isomorphic URL router for JavaScript.
@@ -49,9 +60,7 @@ Best practices that the programmer can use to solve common problems when designi
     + **[page.js](https://github.com/visionmedia/page.js)**: Micro client-side router inspired by the Express router.
     + **[route-recognizer](https://github.com/tildeio/route-recognizer)**: A lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers.
     + **[router.js](https://github.com/tildeio/router.js)**: router.js is the routing microlib used by Ember.js.
-+ **[Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)**: In this video (2011) Nicholas Zakas discusses frontend architecture for complex, modular web applications with significant JavaScript elements.
-+ **[Single Page Apps in Depth](http://singlepageappbook.com/)**: This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices.
-+ **[The Media Object Saves Hundreds of Lines of Code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)**: Extensive description with examples of popular design pattern "media object".
++ **[The Media Object](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)**: Extensive description with examples of popular design pattern "media object".
 + **UI Data Binding**: Binding of UI elements to an application domain model. Most frameworks employ the Observer pattern as the underlying binding mechanism.
     + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
     + **[Easy Two-Way Data Binding in JavaScript](http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/)**: Two-way data binding refers to the ability to bind changes to an object’s properties to changes in the UI, and viceversa. This article describes how to implement data binding with vanilla JavaScript.

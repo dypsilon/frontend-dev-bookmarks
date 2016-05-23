@@ -20,6 +20,11 @@ Important engineers, evangelists, architects and other celebrities.
 + **[Alex Sexton](https://alexsexton.com/)**: Alex Sexton is an engineer at Stripe. He is on the Modernizr core team, the  jQuery Board of Directors, as well as the Dojo Foundation Board.
     + **[Modernizr](https://modernizr.com/)**: It’s a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.
 + **[André Staltz](http://staltz.com/)**: Founder of the cycle.js framework and important contributor to ReactiveX.
+    + **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
+    + **[What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
+    + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
+    + **[Xstream](https://github.com/staltz/xstream)**: An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
+        + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
 + **[Brad Frost](http://bradfrost.com/)**: Web designer, speaker, writer, consultant, musician, and artist in beautiful Pittsburgh.
     + **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
         + **[A More Seamless Workflow — Style Guides for Better Design and Development](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c)**: Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
@@ -28,15 +33,15 @@ Important engineers, evangelists, architects and other celebrities.
 + **[Brian Lonsdorf](https://github.com/DrBoolean)**: Lead UXE Engineer at Salesforce, JavaScript developer and speaker known for his work in functional programming community.
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
     + **[Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)**: This post will demonstrate a simple solution that can go a long way to enhance the debugging experience in functional JavaScript applications.
+    + **[Freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
     + **[Hey Underscore, You're Doing It Wrong!](http://functionaltalks.org/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/)**: In this talk Brian Lonsdorf gently takes a shot at underscore.js for not thinking about currying and partial function application in its library design.
     + **[JSAir - Functional and Immutable Design Patterns in JavaScript](https://javascriptair.com/episodes/2015-12-30/)**: An episode of JavaScript Air about "the how and why of functional programming and immutable design patterns in JavaScript" with Dab Abramov and Brian Lonsdorf as guests.
     + **[Lenses Quick n’ Dirty](https://vimeo.com/104807358)**: A video by Brian Lonsdorf that introduces lenses.
+    + **[Lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
     + **[Monad a day 1: Reader](https://vimeo.com/105300347)**: A video by Brian Lonsdorf explaining the Reader Monad.
     + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
     + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
     + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
-    + **[freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
-    + **[lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
 + **[Chris Coyier](http://chriscoyier.net/)**: Designer at Codepen. Writer at CSS-Tricks. Podcaster at ShopTalk.
     + **[Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)**: Several ideas by Chris Coyier on how to deal with responsive tables.
 + **[Douglas Crockford](http://www.crockford.com/)**: Computer programmer who is best known for his ongoing involvement in the development of the JavaScript language, for having popularized the data format JSON, and for developing JSLint and JSMin.

@@ -61,6 +61,13 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
 + **[Microsoft](http://www.microsoft.com/)**: Microsoft Corporation is an American multinational technology company, that develops, manufactures, licenses, supports and sells computer software, consumer electronics and personal computers and services.
     + **[Dev Tools by Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/)**: These tools allow you to test your product on different version of Internet Explorer and Microsoft Edge.
     + **[Knockout.js](http://knockoutjs.com/)**: Knockout is a standalone JavaScript implementation of the Model-View-ViewModel pattern with templates.
+    + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
+        + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+        + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
+        + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
+        + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+        + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
+        + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
     + **[Visual Studio Code](https://code.visualstudio.com/)**: Build and debug modern web and cloud applications. VS Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
 + **[Mozilla](https://www.mozilla.org/)**: Mozilla is a community, which uses, develops, spreads and supports free software products. It is supported institutionally by the Mozilla Foundation and its tax-paying subsidiary, the Mozilla Corporation.
     + **[Firefox](https://www.mozilla.org/en-US/firefox/products/)**: Firefox is the highly popular free web browser. It is available for Linux, Mac, Windows, handheld devices, and in more than 70 different languages.

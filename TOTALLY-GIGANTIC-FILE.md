@@ -131,12 +131,17 @@ High level structure of the frontend code and the discipline of creating such st
     + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
     + **[TodoMVC](http://todomvc.com/)**: A project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
 + **[Design Patterns](undefined)**: Best practices that the programmer can use to solve common problems when designing an application or system.
-    + **[About HTML Semantics and Frontend Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)**: A collection of thoughts, experiences, ideas on HTML semantics, components and approaches to front-end architecture, class naming patterns, and HTTP compression.
-    + **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
     + **[CSS Modules](https://github.com/css-modules)**: A CSS Module is a CSS file in which all class names and animation names are scoped locally by default.
         + **[CSS Modules Documentation](https://github.com/css-modules/css-modules)**: General overview and some implementations.
         + **[ES CSS Modules](https://github.com/jacobp100/es-css-modules)**: PostCSS plugin that combines CSS Modules and ES Imports.
         + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
+    + **[Design Pattern Collections](undefined)**: Overview resources and collections of design patterns.
+        + **[About HTML Semantics and Frontend Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)**: A collection of thoughts, experiences, ideas on HTML semantics, components and approaches to front-end architecture, class naming patterns, and HTTP compression.
+        + **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
+        + **[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)**: In this free book Addy Osmani explores applying both classical and modern design patterns to the JavaScript programming language.
+        + **[Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)**: An extensive overview by Addy Osmani of existing architectural solutions in the frontend development field.
+        + **[Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)**: In this video (2011) Nicholas Zakas discusses frontend architecture for complex, modular web applications with significant JavaScript elements.
+        + **[Single Page Apps in Depth](http://singlepageappbook.com/)**: This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices.
     + **[JavaScript Modules](undefined)**: Modules divide programs into clusters of code that, by some criterion, belong together.
         + **[Chapter 10 of Eloquent JavaScript: Modules](http://eloquentjavascript.net/10_modules.html)**: This chapter explores some of the benefits that division of code provides and shows techniques for building modules in JavaScript.
         + **[ES6 In Depth: Modules](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)**: This article highlights export and import keywords from ES6.
@@ -156,8 +161,14 @@ High level structure of the frontend code and the discipline of creating such st
             + **[uRequire](https://github.com/anodynos/urequire)**: The Ultimate JavaScript Module Builder & Automagical Task Runner.
         + **[UMD (Universal Module Definition)](https://github.com/umdjs/umd)**: This repository formalizes the design and implementation of the Universal Module Definition (UMD) API for JavaScript modules. These are modules which are capable of working everywhere, be it in the client, on the server or elsewhere.
         + **[Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)**: In this article Addy Osmani reviewes several of the options available for writing modular JavaScript using modern module formats AMD, CommonJS and ES6 Modules.
-    + **[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)**: In this free book Addy Osmani explores applying both classical and modern design patterns to the JavaScript programming language.
-    + **[Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)**: An extensive overview by Addy Osmani of existing architectural solutions in the frontend development field.
+    + **[Observable](undefined)**: An Observable is an event stream which can emit zero or more events, and may or may not finish. If it finishes, then it does so by either emitting an error or a special “complete” event.
+        + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
+            + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+            + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
+            + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
+            + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+            + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
+            + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
     + **[Routing](undefined)**: A routing system parses a string input (usually a URL) and decides which action should be executed by matching the string against multiple patterns.
         + **[Crossroads.js](http://millermedeiros.github.io/crossroads.js/)**: Crossroads.js is a powerful and flexible routing system. If used properly it can reduce code complexity by decoupling objects and also by abstracting navigation paths and server requests.
         + **[Director](https://github.com/flatiron/director)**: A tiny and isomorphic URL router for JavaScript.
@@ -167,9 +178,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[page.js](https://github.com/visionmedia/page.js)**: Micro client-side router inspired by the Express router.
         + **[route-recognizer](https://github.com/tildeio/route-recognizer)**: A lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers.
         + **[router.js](https://github.com/tildeio/router.js)**: router.js is the routing microlib used by Ember.js.
-    + **[Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)**: In this video (2011) Nicholas Zakas discusses frontend architecture for complex, modular web applications with significant JavaScript elements.
-    + **[Single Page Apps in Depth](http://singlepageappbook.com/)**: This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices.
-    + **[The Media Object Saves Hundreds of Lines of Code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)**: Extensive description with examples of popular design pattern "media object".
+    + **[The Media Object](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)**: Extensive description with examples of popular design pattern "media object".
     + **[UI Data Binding](undefined)**: Binding of UI elements to an application domain model. Most frameworks employ the Observer pattern as the underlying binding mechanism.
         + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
         + **[Easy Two-Way Data Binding in JavaScript](http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/)**: Two-way data binding refers to the ability to bind changes to an object’s properties to changes in the UI, and viceversa. This article describes how to implement data binding with vanilla JavaScript.
@@ -206,7 +215,11 @@ High level structure of the frontend code and the discipline of creating such st
         + **[pubsub.js](https://github.com/federico-lox/pubsub.js)**: A tiny (~600 bytes when minified, ~300 bytes when gzip'd) and robust pubsub implementation.
 + **[Functional Programming](undefined)**: Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
+    + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
+    + **[Barely Functional](https://github.com/cullophid/barely-functional)**: Tiny (2.7kb) functional programming library using native es5/6 operations.
     + **[Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)**: Eric Elliott describes the difference between partial application and curry.
+    + **[Daggy](https://github.com/puffnfresh/daggy)**: Library for creating tagged constructors (catamorphisms).
+    + **[Date FP](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.
     + **[Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)**: This post will demonstrate a simple solution that can go a long way to enhance the debugging experience in functional JavaScript applications.
     + **[Example Projects](undefined)**: Open source projects which use functional programming, preferably point-free and side-effect-free.
         + **[Async Problem](https://github.com/plaid/async-problem)**: This project considers various approaches to the problem of concurrently reading files inside a directory and concatenating their contents.
@@ -214,32 +227,46 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Egg Hunt Server](https://github.com/Bradcomp/egghunt-server/tree/functional)**: A restful API written in FP style.
         + **[Idealist](https://github.com/Avaq/Idealist)**: Functional HTTP micro-framework.
         + **[Sanctuary Build Script](https://github.com/sanctuary-js/sanctuary-site/blob/gh-pages/scripts/generate)**: A build script for generating the Sanctuary website.
+    + **[FP DOM](https://github.com/fp-dom/fp-dom)**: A collection of functions to favor functional programming in a DOM context.
     + **[Fantasy Combinators](https://github.com/fantasyland/fantasy-combinators)**: Combinators which are used for fantasy-land projects.
     + **[Fantasy Land](https://github.com/fantasyland/fantasy-land)**: Specification for interoperability of common algebraic structures in JavaScript.
         + **[Conformant Implementations](https://github.com/fantasyland/fantasy-land/blob/master/implementations.md)**: A list of libraries implementing the Fantasy Land specification.
+    + **[Fantasy Lenses](https://github.com/fantasyland/fantasy-lenses)**: Composable, immutable getters and setters.
     + **[Fluture](https://github.com/Avaq/Fluture)**: The debuggable Fantasy Land Future library.
     + **[Folktale](http://folktalejs.org/)**: Folktale is a suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
+    + **[Freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
     + **[From Callback to Future -> Functor -> Monad](https://medium.com/@yelouafi/from-callback-to-future-functor-monad-6c86d9c16cb5)**: Yassine Elouafi goes through a simple implementation of Futures and compares them to Promises.
+    + **[Functional Frontend Architecture](https://github.com/paldepind/functional-frontend-architecture)**: This repository is meant to document and explore the implementation of what is known as "the Elm architecture". A simple functional architecture for building frontend applications.
     + **[Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop)**: The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript.
     + **[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)**: Jargon from the functional programming world in simple terms.
+    + **[Functional.js](http://functionaljs.com/)**: Functional.js is a functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
+    + **[Functionize](https://github.com/paldepind/functionize)**: A collection of functions which aids in making non-functional libraries functional.
     + **[Futures and Monoids](https://medium.com/@yelouafi/futures-and-monoids-7e9f4574bd88)**: Yassine Elouafi explains the nature of Monoids using Futures, Numbers and Strings as examples.
     + **[Futurizer](https://github.com/arcseldon/futurizer)**: Turn callback-style functions or promises into futures!
     + **[Hey Underscore, You're Doing It Wrong!](http://functionaltalks.org/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/)**: In this talk Brian Lonsdorf gently takes a shot at underscore.js for not thinking about currying and partial function application in its library design.
+    + **[Immutable Sequence.js](https://github.com/qiao/immutable-sequence.js)**: High performance implementation of Immutable Sequence in JavaScript, based on Finger Tree.
     + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
     + **[JSAir - Functional and Immutable Design Patterns in JavaScript](https://javascriptair.com/episodes/2015-12-30/)**: An episode of JavaScript Air about "the how and why of functional programming and immutable design patterns in JavaScript" with Dab Abramov and Brian Lonsdorf as guests.
     + **[Lamda.js](https://github.com/loop-recur/lambdajs)**: This library takes all the methods on instances of strings, arrays, objects, numbers, and regexp's and turns them into functions that can be used in a pointfree way.
     + **[Lazy Either](https://www.npmjs.com/package/lazy-either)**: The LazyEither type is used to represent a lazy Either value. It is similar to the Future and Promise types.
     + **[Lenses Quick n’ Dirty](https://vimeo.com/104807358)**: A video by Brian Lonsdorf that introduces lenses.
+    + **[Lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
+    + **[Lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)**: The lodash/fp module is an instance of lodash with its methods wrapped to produce immutable auto-curried iteratee-first data-last methods.
     + **[Monad a day 1: Reader](https://vimeo.com/105300347)**: A video by Brian Lonsdorf explaining the Reader Monad.
     + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
     + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
     + **[Monads and Gonads](https://www.youtube.com/watch?v=dkZFtimgAcM)**: In this video from YUIConf 2012, Douglas Crockford attempts to break the long-standing Monad tutorial curse by explaining the concept and applications of monads in a way that is actually understandable to the audience.
     + **[Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)**: This article explains monads and their usage in JavaScript including Identity, Maybe, List, Continuation, Do notation and Chaining.
     + **[Monat Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
+    + **[Monet.js](https://github.com/cwmyers/monet.js)**: Monet is a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions.
+    + **[Mori](http://swannodette.github.io/mori/)**: A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
     + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
+    + **[Nanoscope](http://kovach.me/nanoscope/)**: Nanoscope is a javascript library designed to make complex transformations of data much easier. It is a built on the idea of a functional Lens - a construct that enables focusing on sub-parts of data structures to get and modify.
+    + **[Pointfree Fantasy](https://www.npmjs.com/package/pointfree-fantasy)**: Point-free wrappers for fantasy-land. Functions are curried using lodash's curry function, and receive their data last. Gives us aliases with our familar haskell names as well.
     + **[Practical functional programming: pick two](https://www.youtube.com/watch?v=XcS-LdEBUkE)**: James Coglan tries to show in this video how to use functional concepts in daily JavaScript programming.
     + **[PureScript](http://www.purescript.org/)**: PureScript is a strongly, statically typed language which compiles to JavaScript. It is written in and inspired by Haskell.
     + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
+    + **[Ramda Fantasy](https://github.com/ramda/ramda-fantasy)**: Fantasy Land compatible types for easy integration with Ramda. This is an experimental project and will probably merge with Sanctuary.
     + **[Sanctuary](http://sanctuary.js.org/)**: Sanctuary is a functional programming library inspired by Haskell and PureScript. It depends on and works nicely with Ramda. Sanctuary makes it possible to write safe code without null checks.
         + **[Sanctuary Build Script](https://github.com/sanctuary-js/sanctuary-site/blob/gh-pages/scripts/generate)**: A build script for generating the Sanctuary website.
     + **[The Little Idea of Functional Programming](http://jaysoo.ca/2016/01/13/functional-programming-little-ideas/)**: Jack Hsu tries to take a look at a couple of simple concepts that make up the little idea behind functional programming and to tie the concepts back to code examples in JavaScript.
@@ -260,25 +287,24 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Transducers are Coming](http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming)**: The first announcement by Rich Hickey.
         + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
         + **[Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.3lbq6d4yq)**: Roman Liutikov translated code examples from similar Clojure article into JavaScript. So you can still read the article and check code examples here.
-    + **[allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
-    + **[barely-functional](https://github.com/cullophid/barely-functional)**: tiny (2.7kb) functional programming library using native es5/6 operations.
-    + **[daggy](https://github.com/puffnfresh/daggy)**: Library for creating tagged constructors (catamorphisms).
-    + **[date-fp](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.
-    + **[fantasy-lenses](https://github.com/fantasyland/fantasy-lenses)**: Composable, immutable getters and setters.
-    + **[fp-dom](https://github.com/fp-dom/fp-dom)**: A collection of functions to favor functional programming in a DOM context.
-    + **[freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
-    + **[functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture)**: This repository is meant to document and explore the implementation of what is known as "the Elm architecture". A simple functional architecture for building frontend applications.
-    + **[functional.js](http://functionaljs.com/)**: functional.js is a functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
-    + **[functionize](https://github.com/paldepind/functionize)**: A collection of functions which aids in making non-functional libraries functional.
-    + **[immutable-sequence.js](https://github.com/qiao/immutable-sequence.js)**: High performance implementation of Immutable Sequence in JavaScript, based on Finger Tree.
-    + **[lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
-    + **[lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)**: The lodash/fp module is an instance of lodash with its methods wrapped to produce immutable auto-curried iteratee-first data-last methods.
-    + **[monet.js](https://github.com/cwmyers/monet.js)**: Monet is a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions.
-    + **[mori](http://swannodette.github.io/mori/)**: A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
-    + **[nanoscope](http://kovach.me/nanoscope/)**: nanoscope is a javascript library designed to make complex transformations of data much easier. It is a built on the idea of a functional Lens - a construct that enables focusing on sub-parts of data structures to get and modify.
-    + **[pointfree-fantasy](https://www.npmjs.com/package/pointfree-fantasy)**: Point-free wrappers for fantasy-land. Functions are curried using lodash's curry function, and receive their data last. Gives us aliases with our familar haskell names as well.
-    + **[ramda-fantasy](https://github.com/ramda/ramda-fantasy)**: Fantasy Land compatible types for easy integration with Ramda. This is an experimental project and will probably merge with Sanctuary.
-    + **[union-type](https://github.com/paldepind/union-type)**: Union types are a way to group different values together. Union-type is a small JavaScript library for defining and using union types.
+    + **[Union Type](https://github.com/paldepind/union-type)**: Union types are a way to group different values together. Union-type is a small JavaScript library for defining and using union types.
++ **[Functional Reactive Programming (FRP)](undefined)**: FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.
+    + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework for cleaner code.
+    + **[Stream Libraries](undefined)**: Libraries which help you compose asynchronous operations on streams of time-varying values and events.
+        + **[Bacon.js](http://baconjs.github.io/)**: A small functional reactive programming lib for JavaScript. Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional.
+        + **[Kefir.js](https://rpominov.github.io/kefir/)**: Kefir — is a Reactive Programming library for JavaScript inspired by Bacon.js and RxJS, with focus on high performance and low memory usage.
+        + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
+        + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
+            + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+            + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
+            + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
+            + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+            + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
+            + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
+        + **[Xstream](https://github.com/staltz/xstream)**: An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
+            + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
+    + **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
+    + **[What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
 
 ## Compatibility
 
@@ -517,6 +543,11 @@ curated by Zoran Jambor.
     + **[Alex Sexton](https://alexsexton.com/)**: Alex Sexton is an engineer at Stripe. He is on the Modernizr core team, the  jQuery Board of Directors, as well as the Dojo Foundation Board.
         + **[Modernizr](https://modernizr.com/)**: It’s a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.
     + **[André Staltz](http://staltz.com/)**: Founder of the cycle.js framework and important contributor to ReactiveX.
+        + **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
+        + **[What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
+        + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
+        + **[Xstream](https://github.com/staltz/xstream)**: An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
+            + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
     + **[Brad Frost](http://bradfrost.com/)**: Web designer, speaker, writer, consultant, musician, and artist in beautiful Pittsburgh.
         + **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
             + **[A More Seamless Workflow — Style Guides for Better Design and Development](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c)**: Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
@@ -525,15 +556,15 @@ curated by Zoran Jambor.
     + **[Brian Lonsdorf](https://github.com/DrBoolean)**: Lead UXE Engineer at Salesforce, JavaScript developer and speaker known for his work in functional programming community.
         + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
         + **[Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)**: This post will demonstrate a simple solution that can go a long way to enhance the debugging experience in functional JavaScript applications.
+        + **[Freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
         + **[Hey Underscore, You're Doing It Wrong!](http://functionaltalks.org/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/)**: In this talk Brian Lonsdorf gently takes a shot at underscore.js for not thinking about currying and partial function application in its library design.
         + **[JSAir - Functional and Immutable Design Patterns in JavaScript](https://javascriptair.com/episodes/2015-12-30/)**: An episode of JavaScript Air about "the how and why of functional programming and immutable design patterns in JavaScript" with Dab Abramov and Brian Lonsdorf as guests.
         + **[Lenses Quick n’ Dirty](https://vimeo.com/104807358)**: A video by Brian Lonsdorf that introduces lenses.
+        + **[Lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
         + **[Monad a day 1: Reader](https://vimeo.com/105300347)**: A video by Brian Lonsdorf explaining the Reader Monad.
         + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
         + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
         + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
-        + **[freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
-        + **[lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
     + **[Chris Coyier](http://chriscoyier.net/)**: Designer at Codepen. Writer at CSS-Tricks. Podcaster at ShopTalk.
         + **[Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)**: Several ideas by Chris Coyier on how to deal with responsive tables.
     + **[Douglas Crockford](http://www.crockford.com/)**: Computer programmer who is best known for his ongoing involvement in the development of the JavaScript language, for having popularized the data format JSON, and for developing JSLint and JSMin.
@@ -610,6 +641,13 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
     + **[Microsoft](http://www.microsoft.com/)**: Microsoft Corporation is an American multinational technology company, that develops, manufactures, licenses, supports and sells computer software, consumer electronics and personal computers and services.
         + **[Dev Tools by Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/)**: These tools allow you to test your product on different version of Internet Explorer and Microsoft Edge.
         + **[Knockout.js](http://knockoutjs.com/)**: Knockout is a standalone JavaScript implementation of the Model-View-ViewModel pattern with templates.
+        + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
+            + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+            + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
+            + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
+            + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+            + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
+            + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
         + **[Visual Studio Code](https://code.visualstudio.com/)**: Build and debug modern web and cloud applications. VS Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
     + **[Mozilla](https://www.mozilla.org/)**: Mozilla is a community, which uses, develops, spreads and supports free software products. It is supported institutionally by the Mozilla Foundation and its tax-paying subsidiary, the Mozilla Corporation.
         + **[Firefox](https://www.mozilla.org/en-US/firefox/products/)**: Firefox is the highly popular free web browser. It is available for Linux, Mac, Windows, handheld devices, and in more than 70 different languages.
