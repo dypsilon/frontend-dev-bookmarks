@@ -39,6 +39,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
         + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
+        + **Model-View-Intent with React and RxJS**: Satish Chilukuri shows an example implementation of MVI pattern with React.
         + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
         + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
         + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
@@ -50,6 +51,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)**: In this post James Long tries not to evangelize React specifically, but to explain why its technique is profound.
         + **[Retractor](https://github.com/LiquidLabsGmbH/retractor)**: Retractor exposes the internals of a React application for end-to-end testing purposes. This allows you to select DOM nodes based on the name of the React Component that rendered the node as well as its state or properties.
         + **[The Redux Ecosystem](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)**: Let’s take a look at most of the features that you’ll have to deal with when the time comes, — and where React & Redux themselves can’t help you.
+        + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
         + **[Why Did You Update?](https://github.com/garbles/why-did-you-update)**: A function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur.
         + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
 + **[Google](https://www.google.com/)**: Google’s mission is to organize the world’s information and make it universally accessible and useful.

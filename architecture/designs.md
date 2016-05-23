@@ -1,8 +1,8 @@
-# Functional Reactive Programming (FRP)
+# Designs
 
 **Context: [frontend-dev-bookmarks](../README.md) / Architecture**
 
-FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.
+Ready to use and well documented structures and frameworks for frontend development.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
@@ -13,6 +13,27 @@ FRP is a programming paradigm for asynchronous dataflow programming using the bu
 
 -----------------------------------------
 
++ **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
+    + **[A More Seamless Workflow — Style Guides for Better Design and Development](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c)**: Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
+    + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
++ **Authoring jQuery Plugins**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
+    + **[Advanced Plugin Concepts](http://learn.jquery.com/plugins/advanced-plugin-concepts/)**: A collection of best practices for jQuery plugin authoring.
+    + **[How to Create a Basic Plugin](http://learn.jquery.com/plugins/basic-plugin-creation/)**: The article describes basic plugin creation and provides a simple boilerplate.
+    + **[Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin)**: Collection of jQuery plugin antipatterns.
+    + **[The Ultimate Guide to Writing jQuery Plugins](https://websanova.com/blog/jquery/the-ultimate-guide-to-writing-jquery-plugins)**: A comprehensive guide on how to develop jQuery plugins including a simple boilerplate.
+    + **[Writing Stateful Plugins with the jQuery UI Widget Factory](http://learn.jquery.com/plugins/stateful-plugins-with-widget-factory/)**: The article demonstrates the capabilities of the Widget Factory by building a simple progress bar plugin.
+    + **[jQuery Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate)**: This project won't seek to provide a perfect solution to every possible pattern, but will attempt to cover a simple template for beginners and above.
+    + **[jQuery Plugin Patterns](https://github.com/jquery-boilerplate/jquery-patterns)**: This project won't seek to provide implementations for every possible pattern, but will attempt to cover popular patterns developers often use in the wild.
++ **[Block Element Modifier (BEM)](https://en.bem.info/method/)**: Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
+    + **[A New Front-End Methodology: BEM](http://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)**: An introduction by Varvara Stepanova at SmashingMagazine.
+    + **[An Introduction to the BEM Methodology](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)**: General introduction article on tutsplus.
+    + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
+    + **[Emmet filter for BEM](http://docs.emmet.io/filters/bem/)**: If you’re writing your HTML and CSS code in OOCSS-style, Yandex’s BEM style specifically, you will like this filter. It provides some aliases and automatic insertions of common block and element names in classes.
+    + **[Fifty Shades of BEM](http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)**: Article describes different flavors of BEM.
+    + **[Introduction To BEM Methodology (Toptal)](https://www.toptal.com/css/introduction-to-bem-methodology)**: General introduction to BEM methodology and platform.
+    + **[MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)**: Article on csswizardry explaining the BEM syntax for CSS classes.
+    + **[Support for BEM modules in Sass 3.3](http://mikefowler.me/2013/10/17/support-for-bem-modules-sass-3.3/)**: The next major release of Sass is poised for release and with it comes real support for BEM-style modules...
+    + **[To BEM or not to BEM](http://www.didoo.net/to-bem-or-not-to-bem/)**: A series of interviews on BEM methodology.
 + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
     + **[Async Driver](https://github.com/whitecolor/cycle-async-driver)**: Higher order factory for creating cycle.js async request based drivers. Allows you almost completely eliminate boilerplate code for this kind of drivers.
     + **[Cycle.js Was Built to Solve Problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E)**: In this video André Staltz shows how Cycle.js has a practical purpose, meant to solve problems your customers/business may relate to.
@@ -48,22 +69,13 @@ FRP is a programming paradigm for asynchronous dataflow programming using the bu
         + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
     + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
     + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
-+ **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
-+ **Stream Libraries**: Libraries which help you compose asynchronous operations on streams of time-varying values and events.
-    + **[Bacon.js](http://baconjs.github.io/)**: A small functional reactive programming lib for JavaScript. Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional.
-    + **[Kefir.js](https://rpominov.github.io/kefir/)**: Kefir — is a Reactive Programming library for JavaScript inspired by Bacon.js and RxJS, with focus on high performance and low memory usage.
-    + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
-    + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
-        + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
-        + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
-        + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
-        + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
-        + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
-        + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
-    + **[Xstream](https://github.com/staltz/xstream)**: An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
-        + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
-+ **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
-+ **[What if the User was a Function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
++ **[Polymer Project](https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html)**: The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web.
+    + **[Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)**: Web components evolve markup into something that’s meaningful, maintainable, and highly modular. Thanks to these new API primitives, not only do we have improved ergonomics when building apps, but we gain better overall structure, design, and reusability.
+    + **[ShadowDOM Visualizer](http://html5-demos.appspot.com/shadowdom-visualizer)**: This tools allows you to visualize how Shadow DOM renders in the browser.
+    + **[What is shady DOM?](https://www.polymer-project.org/1.0/articles/shadydom.html)**: On browsers that support shadow DOM, it’s possible to have an element that is rendered with complex DOM, but have that complexity hidden away as implementation detail.
++ **[SMACSS](https://smacss.com/book/)**: SMACSS (pronounced “smacks”) is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
++ **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
++ **[TodoMVC](http://todomvc.com/)**: A project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
 
 
 ------------------

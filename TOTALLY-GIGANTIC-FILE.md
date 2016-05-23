@@ -101,40 +101,13 @@ The outward or visible aspect of a website.
 
 High level structure of the frontend code and the discipline of creating such structures.
 
-+ **[Complete Systems](undefined)**: Ready to use and well documented structures and frameworks for frontend development.
-    + **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
-        + **[A More Seamless Workflow — Style Guides for Better Design and Development](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c)**: Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
-        + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
-    + **[Authoring jQuery Plugins](undefined)**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
-        + **[Advanced Plugin Concepts](http://learn.jquery.com/plugins/advanced-plugin-concepts/)**: A collection of best practices for jQuery plugin authoring.
-        + **[How to Create a Basic Plugin](http://learn.jquery.com/plugins/basic-plugin-creation/)**: The article describes basic plugin creation and provides a simple boilerplate.
-        + **[Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin)**: Collection of jQuery plugin antipatterns.
-        + **[The Ultimate Guide to Writing jQuery Plugins](https://websanova.com/blog/jquery/the-ultimate-guide-to-writing-jquery-plugins)**: A comprehensive guide on how to develop jQuery plugins including a simple boilerplate.
-        + **[Writing Stateful Plugins with the jQuery UI Widget Factory](http://learn.jquery.com/plugins/stateful-plugins-with-widget-factory/)**: The article demonstrates the capabilities of the Widget Factory by building a simple progress bar plugin.
-        + **[jQuery Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate)**: This project won't seek to provide a perfect solution to every possible pattern, but will attempt to cover a simple template for beginners and above.
-        + **[jQuery Plugin Patterns](https://github.com/jquery-boilerplate/jquery-patterns)**: This project won't seek to provide implementations for every possible pattern, but will attempt to cover popular patterns developers often use in the wild.
-    + **[Block Element Modifier (BEM)](https://en.bem.info/method/)**: Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
-        + **[A New Front-End Methodology: BEM](http://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)**: An introduction by Varvara Stepanova at SmashingMagazine.
-        + **[An Introduction to the BEM Methodology](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)**: General introduction article on tutsplus.
-        + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
-        + **[Emmet filter for BEM](http://docs.emmet.io/filters/bem/)**: If you’re writing your HTML and CSS code in OOCSS-style, Yandex’s BEM style specifically, you will like this filter. It provides some aliases and automatic insertions of common block and element names in classes.
-        + **[Fifty Shades of BEM](http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)**: Article describes different flavors of BEM.
-        + **[Introduction To BEM Methodology (Toptal)](https://www.toptal.com/css/introduction-to-bem-methodology)**: General introduction to BEM methodology and platform.
-        + **[MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)**: Article on csswizardry explaining the BEM syntax for CSS classes.
-        + **[Support for BEM modules in Sass 3.3](http://mikefowler.me/2013/10/17/support-for-bem-modules-sass-3.3/)**: The next major release of Sass is poised for release and with it comes real support for BEM-style modules...
-        + **[To BEM or not to BEM](http://www.didoo.net/to-bem-or-not-to-bem/)**: A series of interviews on BEM methodology.
-    + **[Polymer Project](https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html)**: The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web.
-        + **[Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)**: Web components evolve markup into something that’s meaningful, maintainable, and highly modular. Thanks to these new API primitives, not only do we have improved ergonomics when building apps, but we gain better overall structure, design, and reusability.
-        + **[ShadowDOM Visualizer](http://html5-demos.appspot.com/shadowdom-visualizer)**: This tools allows you to visualize how Shadow DOM renders in the browser.
-        + **[What is shady DOM?](https://www.polymer-project.org/1.0/articles/shadydom.html)**: On browsers that support shadow DOM, it’s possible to have an element that is rendered with complex DOM, but have that complexity hidden away as implementation detail.
-    + **[SMACSS](https://smacss.com/book/)**: SMACSS (pronounced “smacks”) is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
-    + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
-    + **[TodoMVC](http://todomvc.com/)**: A project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
 + **[Design Patterns](undefined)**: Best practices that the programmer can use to solve common problems when designing an application or system.
     + **[CSS Modules](https://github.com/css-modules)**: A CSS Module is a CSS file in which all class names and animation names are scoped locally by default.
         + **[CSS Modules Documentation](https://github.com/css-modules/css-modules)**: General overview and some implementations.
         + **[ES CSS Modules](https://github.com/jacobp100/es-css-modules)**: PostCSS plugin that combines CSS Modules and ES Imports.
         + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
+    + **[Components](undefined)**: Reusable and composable pieces of HTML, CSS and/or JavaScript code which are mostly used for GUI elements.
+        + **[Component Check](https://github.com/Mercateo/component-check)**: In this project Donald Pipowitch compares the usage and development of components in several frameworks such as Angular, Ember, Cycle.js and React.
     + **[Design Pattern Collections](undefined)**: Overview resources and collections of design patterns.
         + **[About HTML Semantics and Frontend Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)**: A collection of thoughts, experiences, ideas on HTML semantics, components and approaches to front-end architecture, class naming patterns, and HTTP compression.
         + **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
@@ -161,6 +134,11 @@ High level structure of the frontend code and the discipline of creating such st
             + **[uRequire](https://github.com/anodynos/urequire)**: The Ultimate JavaScript Module Builder & Automagical Task Runner.
         + **[UMD (Universal Module Definition)](https://github.com/umdjs/umd)**: This repository formalizes the design and implementation of the Universal Module Definition (UMD) API for JavaScript modules. These are modules which are capable of working everywhere, be it in the client, on the server or elsewhere.
         + **[Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)**: In this article Addy Osmani reviewes several of the options available for writing modular JavaScript using modern module formats AMD, CommonJS and ES6 Modules.
+    + **[Model-View-Intent (MVI)](undefined)**: MVI is a unidirectional data flow architecture pattern consisting of three parts: Intent (to listen to the user), Model (to process information), and View (to output back to the user).
+        + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
+        + **[Model-View-Intent with React and RxJS](undefined)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+        + **[Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)**: André Staltz describes the idea of Reactive Programming vs. Interactive Programming, proceeds with the MVI design pattern and compares it to React/Flux.
+        + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Observable](undefined)**: An Observable is an event stream which can emit zero or more events, and may or may not finish. If it finishes, then it does so by either emitting an error or a special “complete” event.
         + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
             + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
@@ -172,12 +150,13 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Routing](undefined)**: A routing system parses a string input (usually a URL) and decides which action should be executed by matching the string against multiple patterns.
         + **[Crossroads.js](http://millermedeiros.github.io/crossroads.js/)**: Crossroads.js is a powerful and flexible routing system. If used properly it can reduce code complexity by decoupling objects and also by abstracting navigation paths and server requests.
         + **[Director](https://github.com/flatiron/director)**: A tiny and isomorphic URL router for JavaScript.
+        + **[Hash.js](https://github.com/javve/hash.js)**: Hash.js is a 0.5 KB script that lets you manipulate everything behind # in urls.
+        + **[JQuery Address](http://www.asual.com/jquery/address/)**: The jQuery Address plugin provides powerful deep linking capabilities and allows the creation of unique virtual addresses that can point to a website section or an application state.
+        + **[Page.js](https://github.com/visionmedia/page.js)**: Micro client-side router inspired by the Express router.
         + **[Roadcrew.js](http://grobmeier.github.io/Roadcrew.js/)**: Roadcrew.js is a small JavaScript component which lets you switch pages of a single file website.
-        + **[hash.js](https://github.com/javve/hash.js)**: Hash.js is a 0.5 KB script that lets you manipulate everything behind # in urls.
-        + **[jQuery Address](http://www.asual.com/jquery/address/)**: The jQuery Address plugin provides powerful deep linking capabilities and allows the creation of unique virtual addresses that can point to a website section or an application state.
-        + **[page.js](https://github.com/visionmedia/page.js)**: Micro client-side router inspired by the Express router.
-        + **[route-recognizer](https://github.com/tildeio/route-recognizer)**: A lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers.
-        + **[router.js](https://github.com/tildeio/router.js)**: router.js is the routing microlib used by Ember.js.
+        + **[Route Recognizer](https://github.com/tildeio/route-recognizer)**: A lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers.
+        + **[Router.js (Ember)](https://github.com/tildeio/router.js)**: Router.js is the routing microlib used by Ember.js.
+        + **[Router5](https://github.com/router5/router5)**: A simple, powerful, modular and extensible router, organising your named routes in a tree and handling route transitions. In its simplest form, Router5 processes routing instructions and outputs state updates.
     + **[The Media Object](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)**: Extensive description with examples of popular design pattern "media object".
     + **[UI Data Binding](undefined)**: Binding of UI elements to an application domain model. Most frameworks employ the Observer pattern as the underlying binding mechanism.
         + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
@@ -202,6 +181,70 @@ High level structure of the frontend code and the discipline of creating such st
             + **[vdom-virtualize](https://github.com/marcelklehr/vdom-virtualize/)**: Turn a DOMNode into a virtual-dom node.
             + **[virtual-html](https://github.com/yoshuawuyts/virtual-html)**: Convert given HTML into Virtual DOM object.
             + **[vtree-select](https://github.com/parshap/vtree-select)**: Select vtree nodes (used by virtual-dom) using css selectors. Selector matching is done using cssauron. See the documentation for details on supported selectors.
++ **[Designs](undefined)**: Ready to use and well documented structures and frameworks for frontend development.
+    + **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
+        + **[A More Seamless Workflow — Style Guides for Better Design and Development](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c)**: Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
+        + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
+    + **[Authoring jQuery Plugins](undefined)**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
+        + **[Advanced Plugin Concepts](http://learn.jquery.com/plugins/advanced-plugin-concepts/)**: A collection of best practices for jQuery plugin authoring.
+        + **[How to Create a Basic Plugin](http://learn.jquery.com/plugins/basic-plugin-creation/)**: The article describes basic plugin creation and provides a simple boilerplate.
+        + **[Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin)**: Collection of jQuery plugin antipatterns.
+        + **[The Ultimate Guide to Writing jQuery Plugins](https://websanova.com/blog/jquery/the-ultimate-guide-to-writing-jquery-plugins)**: A comprehensive guide on how to develop jQuery plugins including a simple boilerplate.
+        + **[Writing Stateful Plugins with the jQuery UI Widget Factory](http://learn.jquery.com/plugins/stateful-plugins-with-widget-factory/)**: The article demonstrates the capabilities of the Widget Factory by building a simple progress bar plugin.
+        + **[jQuery Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate)**: This project won't seek to provide a perfect solution to every possible pattern, but will attempt to cover a simple template for beginners and above.
+        + **[jQuery Plugin Patterns](https://github.com/jquery-boilerplate/jquery-patterns)**: This project won't seek to provide implementations for every possible pattern, but will attempt to cover popular patterns developers often use in the wild.
+    + **[Block Element Modifier (BEM)](https://en.bem.info/method/)**: Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
+        + **[A New Front-End Methodology: BEM](http://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)**: An introduction by Varvara Stepanova at SmashingMagazine.
+        + **[An Introduction to the BEM Methodology](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)**: General introduction article on tutsplus.
+        + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
+        + **[Emmet filter for BEM](http://docs.emmet.io/filters/bem/)**: If you’re writing your HTML and CSS code in OOCSS-style, Yandex’s BEM style specifically, you will like this filter. It provides some aliases and automatic insertions of common block and element names in classes.
+        + **[Fifty Shades of BEM](http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)**: Article describes different flavors of BEM.
+        + **[Introduction To BEM Methodology (Toptal)](https://www.toptal.com/css/introduction-to-bem-methodology)**: General introduction to BEM methodology and platform.
+        + **[MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)**: Article on csswizardry explaining the BEM syntax for CSS classes.
+        + **[Support for BEM modules in Sass 3.3](http://mikefowler.me/2013/10/17/support-for-bem-modules-sass-3.3/)**: The next major release of Sass is poised for release and with it comes real support for BEM-style modules...
+        + **[To BEM or not to BEM](http://www.didoo.net/to-bem-or-not-to-bem/)**: A series of interviews on BEM methodology.
+    + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
+        + **[Async Driver](https://github.com/whitecolor/cycle-async-driver)**: Higher order factory for creating cycle.js async request based drivers. Allows you almost completely eliminate boilerplate code for this kind of drivers.
+        + **[Cycle.js Was Built to Solve Problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E)**: In this video André Staltz shows how Cycle.js has a practical purpose, meant to solve problems your customers/business may relate to.
+        + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
+        + **[Draw Cycle](https://glebbahmutov.com/draw-cycle/)**: Simple Cycle.js program visualized
+        + **[Drivers](http://cycle.js.org/drivers.html)**: Drivers are functions that listen to Observable sinks (their input), perform imperative side effects, and may return Observable sources (their output).
+            + **[Animation](https://github.com/Widdershin/cycle-animation-driver)**: A Cycle driver for requestAnimationFrame.
+            + **[Audio Graph Driver](https://github.com/benji6/cycle-audio-graph)**: Audio graph driver for Cycle.js based on virtual-audio-graph.
+            + **[Cookie](https://github.com/10clouds/cyclejs-cookie)**: Cycle.js Cookie Driver, based on cookie_js library.
+            + **[DOM](https://github.com/cyclejs/dom)**: The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers.
+            + **[Fetch](https://github.com/secobarbital/cycle-fetch-driver)**: A Cycle.js Driver for making HTTP requests, using the Fetch API.
+            + **[Fetcher](https://github.com/r7kamura/cycle-fetcher-driver)**: A Cycle.js Driver for making HTTP requests using stackable-fetcher.
+            + **[Firebase](https://github.com/dralletje/cycle-firebase)**: Thin layer around the firebase javascript API that allows you to query and declaratively update your favorite real-time database.
+            + **[HTTP](https://github.com/cyclejs/http)**: A Cycle.js Driver for making HTTP requests, based on superagent.
+            + **[Hammer.js](https://github.com/CyclicMaterials/cycle-hammer-driver)**: The driver incorporates the Hammer.js gesture library.
+            + **[History](https://github.com/cyclejs/history)**: Cycle.js URL Driver based on the rackt/history library.
+            + **[Keys](https://github.com/raquelxmoss/cycle-keys)**: A Cycle.js driver for keyboard events.
+            + **[Mongoose.js](https://github.com/whitecolor/cycle-mongoose/)**: A driver for using Mongoose with Cycle JS. Accepts both, write and read operations.
+            + **[Notification](https://github.com/cyclejs/cycle-notification-driver)**: A Cycle.js Driver for showing and responding to HTML5 Notifications.
+            + **[Router](https://github.com/TylorS/cycle-router)**: A router built from the ground up with Cycle.js in mind. Stands on the shoulders of battle-tested libraries switch-path for route matching and rackt/history for dealing with the History API.
+            + **[Router5](https://github.com/axefrog/cycle-router5)**: A source/sink router driver for Cycle.js, based on router5.
+            + **[Server-Sent Events](https://github.com/jessaustin/cycle-sse-driver)**: Cycle.js driver for Server-Sent Events (SSE), a browser feature also known as EventSource. Server-Sent Events allow the server to continuously update the page with new events, without resorting to hacks like long-polling.
+            + **[Snabbdom](https://github.com/TylorS/cycle-snabbdom)**: Alternative DOM driver utilizing the snabbdom library.
+            + **[Socket.IO](https://github.com/cgeorg/cycle-socket.io)**: A Cycle driver for applications using Socket.IO
+            + **[Storage](https://github.com/cyclejs/storage)**: A Cycle.js Driver for using localStorage and sessionStorage in the browser.
+        + **[Example Projects](undefined)**: Example applications built with Cycle.js
+            + **[Cycle.js Examples](https://github.com/cyclejs/examples)**: Browse and learn from examples of small Cycle.js apps using Core, DOM Driver, HTML Driver, HTTP Driver, JSONP Driver, and others.
+            + **[RX Marbles](https://github.com/staltz/rxmarbles)**: Interactive diagrams of Rx Observables.
+            + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
+            + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
+        + **[Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns)**: Nick Johnstone gives an introduction to developing with Cycle.js in this video presentation.
+        + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
+            + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
+        + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
+        + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
+    + **[Polymer Project](https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html)**: The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web.
+        + **[Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)**: Web components evolve markup into something that’s meaningful, maintainable, and highly modular. Thanks to these new API primitives, not only do we have improved ergonomics when building apps, but we gain better overall structure, design, and reusability.
+        + **[ShadowDOM Visualizer](http://html5-demos.appspot.com/shadowdom-visualizer)**: This tools allows you to visualize how Shadow DOM renders in the browser.
+        + **[What is shady DOM?](https://www.polymer-project.org/1.0/articles/shadydom.html)**: On browsers that support shadow DOM, it’s possible to have an element that is rendered with complex DOM, but have that complexity hidden away as implementation detail.
+    + **[SMACSS](https://smacss.com/book/)**: SMACSS (pronounced “smacks”) is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
+    + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
+    + **[TodoMVC](http://todomvc.com/)**: A project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
 + **[Event-Driven Programming](undefined)**: Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions, sensor outputs, or messages from other programs/threads.
     + **[Comparison Between Different Observer Pattern Implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)**: The comparison below is just about the basic features of subscribing to an event type, dispatching and removing an event listener.
     + **[Event Emitter, Pub Sub or Deferred Promises](https://otaqui.com/blog/1374/event-emitter-pub-sub-or-deferred-promises-which-should-you-choose/)**: In this post Pete Otaqui explores a little about how each pattern works with (very) basic implementations and looks at the reasons why you might choose one over another.
@@ -289,7 +332,42 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.3lbq6d4yq)**: Roman Liutikov translated code examples from similar Clojure article into JavaScript. So you can still read the article and check code examples here.
     + **[Union Type](https://github.com/paldepind/union-type)**: Union types are a way to group different values together. Union-type is a small JavaScript library for defining and using union types.
 + **[Functional Reactive Programming (FRP)](undefined)**: FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.
-    + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework for cleaner code.
+    + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
+        + **[Async Driver](https://github.com/whitecolor/cycle-async-driver)**: Higher order factory for creating cycle.js async request based drivers. Allows you almost completely eliminate boilerplate code for this kind of drivers.
+        + **[Cycle.js Was Built to Solve Problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E)**: In this video André Staltz shows how Cycle.js has a practical purpose, meant to solve problems your customers/business may relate to.
+        + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
+        + **[Draw Cycle](https://glebbahmutov.com/draw-cycle/)**: Simple Cycle.js program visualized
+        + **[Drivers](http://cycle.js.org/drivers.html)**: Drivers are functions that listen to Observable sinks (their input), perform imperative side effects, and may return Observable sources (their output).
+            + **[Animation](https://github.com/Widdershin/cycle-animation-driver)**: A Cycle driver for requestAnimationFrame.
+            + **[Audio Graph Driver](https://github.com/benji6/cycle-audio-graph)**: Audio graph driver for Cycle.js based on virtual-audio-graph.
+            + **[Cookie](https://github.com/10clouds/cyclejs-cookie)**: Cycle.js Cookie Driver, based on cookie_js library.
+            + **[DOM](https://github.com/cyclejs/dom)**: The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers.
+            + **[Fetch](https://github.com/secobarbital/cycle-fetch-driver)**: A Cycle.js Driver for making HTTP requests, using the Fetch API.
+            + **[Fetcher](https://github.com/r7kamura/cycle-fetcher-driver)**: A Cycle.js Driver for making HTTP requests using stackable-fetcher.
+            + **[Firebase](https://github.com/dralletje/cycle-firebase)**: Thin layer around the firebase javascript API that allows you to query and declaratively update your favorite real-time database.
+            + **[HTTP](https://github.com/cyclejs/http)**: A Cycle.js Driver for making HTTP requests, based on superagent.
+            + **[Hammer.js](https://github.com/CyclicMaterials/cycle-hammer-driver)**: The driver incorporates the Hammer.js gesture library.
+            + **[History](https://github.com/cyclejs/history)**: Cycle.js URL Driver based on the rackt/history library.
+            + **[Keys](https://github.com/raquelxmoss/cycle-keys)**: A Cycle.js driver for keyboard events.
+            + **[Mongoose.js](https://github.com/whitecolor/cycle-mongoose/)**: A driver for using Mongoose with Cycle JS. Accepts both, write and read operations.
+            + **[Notification](https://github.com/cyclejs/cycle-notification-driver)**: A Cycle.js Driver for showing and responding to HTML5 Notifications.
+            + **[Router](https://github.com/TylorS/cycle-router)**: A router built from the ground up with Cycle.js in mind. Stands on the shoulders of battle-tested libraries switch-path for route matching and rackt/history for dealing with the History API.
+            + **[Router5](https://github.com/axefrog/cycle-router5)**: A source/sink router driver for Cycle.js, based on router5.
+            + **[Server-Sent Events](https://github.com/jessaustin/cycle-sse-driver)**: Cycle.js driver for Server-Sent Events (SSE), a browser feature also known as EventSource. Server-Sent Events allow the server to continuously update the page with new events, without resorting to hacks like long-polling.
+            + **[Snabbdom](https://github.com/TylorS/cycle-snabbdom)**: Alternative DOM driver utilizing the snabbdom library.
+            + **[Socket.IO](https://github.com/cgeorg/cycle-socket.io)**: A Cycle driver for applications using Socket.IO
+            + **[Storage](https://github.com/cyclejs/storage)**: A Cycle.js Driver for using localStorage and sessionStorage in the browser.
+        + **[Example Projects](undefined)**: Example applications built with Cycle.js
+            + **[Cycle.js Examples](https://github.com/cyclejs/examples)**: Browse and learn from examples of small Cycle.js apps using Core, DOM Driver, HTML Driver, HTTP Driver, JSONP Driver, and others.
+            + **[RX Marbles](https://github.com/staltz/rxmarbles)**: Interactive diagrams of Rx Observables.
+            + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
+            + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
+        + **[Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns)**: Nick Johnstone gives an introduction to developing with Cycle.js in this video presentation.
+        + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
+            + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
+        + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
+        + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
+    + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
     + **[Stream Libraries](undefined)**: Libraries which help you compose asynchronous operations on streams of time-varying values and events.
         + **[Bacon.js](http://baconjs.github.io/)**: A small functional reactive programming lib for JavaScript. Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional.
         + **[Kefir.js](https://rpominov.github.io/kefir/)**: Kefir — is a Reactive Programming library for JavaScript inspired by Bacon.js and RxJS, with focus on high performance and low memory usage.
@@ -304,7 +382,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Xstream](https://github.com/staltz/xstream)**: An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
     + **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
-    + **[What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
+    + **[What if the User was a Function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
 
 ## Compatibility
 
@@ -413,8 +491,44 @@ Important developers, companies, organizations and news sources.
     + **[Backbone.js](http://backbonejs.org/)**: Backbone supplies structure to JavaScript-heavy applications by providing models, collections, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
     + **[Bootstrap](http://getbootstrap.com/)**: Bootstrap is a HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
         + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
+    + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
+        + **[Async Driver](https://github.com/whitecolor/cycle-async-driver)**: Higher order factory for creating cycle.js async request based drivers. Allows you almost completely eliminate boilerplate code for this kind of drivers.
+        + **[Cycle.js Was Built to Solve Problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E)**: In this video André Staltz shows how Cycle.js has a practical purpose, meant to solve problems your customers/business may relate to.
+        + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
+        + **[Draw Cycle](https://glebbahmutov.com/draw-cycle/)**: Simple Cycle.js program visualized
+        + **[Drivers](http://cycle.js.org/drivers.html)**: Drivers are functions that listen to Observable sinks (their input), perform imperative side effects, and may return Observable sources (their output).
+            + **[Animation](https://github.com/Widdershin/cycle-animation-driver)**: A Cycle driver for requestAnimationFrame.
+            + **[Audio Graph Driver](https://github.com/benji6/cycle-audio-graph)**: Audio graph driver for Cycle.js based on virtual-audio-graph.
+            + **[Cookie](https://github.com/10clouds/cyclejs-cookie)**: Cycle.js Cookie Driver, based on cookie_js library.
+            + **[DOM](https://github.com/cyclejs/dom)**: The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers.
+            + **[Fetch](https://github.com/secobarbital/cycle-fetch-driver)**: A Cycle.js Driver for making HTTP requests, using the Fetch API.
+            + **[Fetcher](https://github.com/r7kamura/cycle-fetcher-driver)**: A Cycle.js Driver for making HTTP requests using stackable-fetcher.
+            + **[Firebase](https://github.com/dralletje/cycle-firebase)**: Thin layer around the firebase javascript API that allows you to query and declaratively update your favorite real-time database.
+            + **[HTTP](https://github.com/cyclejs/http)**: A Cycle.js Driver for making HTTP requests, based on superagent.
+            + **[Hammer.js](https://github.com/CyclicMaterials/cycle-hammer-driver)**: The driver incorporates the Hammer.js gesture library.
+            + **[History](https://github.com/cyclejs/history)**: Cycle.js URL Driver based on the rackt/history library.
+            + **[Keys](https://github.com/raquelxmoss/cycle-keys)**: A Cycle.js driver for keyboard events.
+            + **[Mongoose.js](https://github.com/whitecolor/cycle-mongoose/)**: A driver for using Mongoose with Cycle JS. Accepts both, write and read operations.
+            + **[Notification](https://github.com/cyclejs/cycle-notification-driver)**: A Cycle.js Driver for showing and responding to HTML5 Notifications.
+            + **[Router](https://github.com/TylorS/cycle-router)**: A router built from the ground up with Cycle.js in mind. Stands on the shoulders of battle-tested libraries switch-path for route matching and rackt/history for dealing with the History API.
+            + **[Router5](https://github.com/axefrog/cycle-router5)**: A source/sink router driver for Cycle.js, based on router5.
+            + **[Server-Sent Events](https://github.com/jessaustin/cycle-sse-driver)**: Cycle.js driver for Server-Sent Events (SSE), a browser feature also known as EventSource. Server-Sent Events allow the server to continuously update the page with new events, without resorting to hacks like long-polling.
+            + **[Snabbdom](https://github.com/TylorS/cycle-snabbdom)**: Alternative DOM driver utilizing the snabbdom library.
+            + **[Socket.IO](https://github.com/cgeorg/cycle-socket.io)**: A Cycle driver for applications using Socket.IO
+            + **[Storage](https://github.com/cyclejs/storage)**: A Cycle.js Driver for using localStorage and sessionStorage in the browser.
+        + **[Example Projects](undefined)**: Example applications built with Cycle.js
+            + **[Cycle.js Examples](https://github.com/cyclejs/examples)**: Browse and learn from examples of small Cycle.js apps using Core, DOM Driver, HTML Driver, HTTP Driver, JSONP Driver, and others.
+            + **[RX Marbles](https://github.com/staltz/rxmarbles)**: Interactive diagrams of Rx Observables.
+            + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
+            + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
+        + **[Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns)**: Nick Johnstone gives an introduction to developing with Cycle.js in this video presentation.
+        + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
+            + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
+        + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
+        + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Dojo Toolkit](http://dojotoolkit.org/)**: A JavaScript toolkit that saves you time and scales with your development process. Provides everything you need to build a Web app. Language utilities, UI components, and more, all in one place, designed to work together perfectly.
     + **[Ember](http://emberjs.com/)**: Ember.js is an open-source JavaScript web framework, based on the MVC pattern. It allows developers to create scalable single-page web applications.
+        + **[Router.js (Ember)](https://github.com/tildeio/router.js)**: Router.js is the routing microlib used by Ember.js.
     + **[Foundation](http://foundation.zurb.com/)**: Foundation provides a responsive grid and HTML and CSS UI components, templates, and code snippets, including typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
     + **[Gulp](http://gulpjs.com/)**: Gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow. It's very fast, platform-agnostic and simple.
         + **[Articles & Tutorials](undefined)**: Publications about gulp or step by step guides for setting up and using gulp in a project.
@@ -489,6 +603,7 @@ Important developers, companies, organizations and news sources.
         + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
         + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
+        + **[Model-View-Intent with React and RxJS](undefined)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
         + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
         + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
         + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
@@ -500,6 +615,7 @@ Important developers, companies, organizations and news sources.
         + **[Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)**: In this post James Long tries not to evangelize React specifically, but to explain why its technique is profound.
         + **[Retractor](https://github.com/LiquidLabsGmbH/retractor)**: Retractor exposes the internals of a React application for end-to-end testing purposes. This allows you to select DOM nodes based on the name of the React Component that rendered the node as well as its state or properties.
         + **[The Redux Ecosystem](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)**: Let’s take a look at most of the features that you’ll have to deal with when the time comes, — and where React & Redux themselves can’t help you.
+        + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
         + **[Why Did You Update?](https://github.com/garbles/why-did-you-update)**: A function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur.
         + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
     + **[Yeoman](http://yeoman.io/)**: Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive. It provides a generator ecosystem.
@@ -543,8 +659,11 @@ curated by Zoran Jambor.
     + **[Alex Sexton](https://alexsexton.com/)**: Alex Sexton is an engineer at Stripe. He is on the Modernizr core team, the  jQuery Board of Directors, as well as the Dojo Foundation Board.
         + **[Modernizr](https://modernizr.com/)**: It’s a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.
     + **[André Staltz](http://staltz.com/)**: Founder of the cycle.js framework and important contributor to ReactiveX.
+        + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
+        + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
+        + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
         + **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
-        + **[What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
+        + **[What if the User was a Function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
         + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
         + **[Xstream](https://github.com/staltz/xstream)**: An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
@@ -619,6 +738,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
             + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
             + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
+            + **[Model-View-Intent with React and RxJS](undefined)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
             + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
             + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
             + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
@@ -630,6 +750,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)**: In this post James Long tries not to evangelize React specifically, but to explain why its technique is profound.
             + **[Retractor](https://github.com/LiquidLabsGmbH/retractor)**: Retractor exposes the internals of a React application for end-to-end testing purposes. This allows you to select DOM nodes based on the name of the React Component that rendered the node as well as its state or properties.
             + **[The Redux Ecosystem](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)**: Let’s take a look at most of the features that you’ll have to deal with when the time comes, — and where React & Redux themselves can’t help you.
+            + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
             + **[Why Did You Update?](https://github.com/garbles/why-did-you-update)**: A function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur.
             + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
     + **[Google](https://www.google.com/)**: Google’s mission is to organize the world’s information and make it universally accessible and useful.
