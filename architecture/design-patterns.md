@@ -47,7 +47,7 @@ Best practices that the programmer can use to solve common problems when designi
     + **[Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)**: In this article Addy Osmani reviewes several of the options available for writing modular JavaScript using modern module formats AMD, CommonJS and ES6 Modules.
 + **Model-View-Intent (MVI)**: MVI is a unidirectional data flow architecture pattern consisting of three parts: Intent (to listen to the user), Model (to process information), and View (to output back to the user).
     + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
-    + **Model-View-Intent with React and RxJS**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+    + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
     + **[Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)**: André Staltz describes the idea of Reactive Programming vs. Interactive Programming, proceeds with the MVI design pattern and compares it to React/Flux.
     + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
 + **Observable**: An Observable is an event stream which can emit zero or more events, and may or may not finish. If it finishes, then it does so by either emitting an error or a special “complete” event.
@@ -95,13 +95,6 @@ Best practices that the programmer can use to solve common problems when designi
 
 
 ------------------
-
-[![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
-[![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
-[![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 # License
 

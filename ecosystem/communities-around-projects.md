@@ -132,8 +132,9 @@ Successful open source projects attract many developers who produce plugins, lib
     + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
     + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
     + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
-    + **Model-View-Intent with React and RxJS**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+    + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
     + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
+    + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
     + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
     + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
     + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
@@ -168,13 +169,6 @@ Successful open source projects attract many developers who produce plugins, lib
 
 
 ------------------
-
-[![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
-[![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
-[![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 # License
 

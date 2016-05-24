@@ -84,6 +84,7 @@ Toolkits and their ecosystems, that help you automate painful and repeated tasks
         + **[vinyl-to-stream](https://www.npmjs.com/package/vinyl-to-stream)**: Convert a vinyl stream to a text stream.
         + **[vinyl-transform](https://www.npmjs.com/package/vinyl-transform)**: Wraps standard text transform streams so you can write fewer gulp plugins. Fulfills a similar use case to vinyl-map and vinyl-source-stream.
 + **[Mimosa](http://mimosajs.com)**: Mimosa is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
++ **[Plop](https://github.com/amwmedia/plop)**: Micro-generator framework that makes it easy for an entire team to create files with a level or uniformity.
 + **[Webpack](http://webpack.github.io/)**: Webpack is a module bundler. It takes modules with dependencies and generates static assets representing those modules.
     + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
     + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
@@ -91,13 +92,6 @@ Toolkits and their ecosystems, that help you automate painful and repeated tasks
 
 
 ------------------
-
-[![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
-[![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
-[![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 # License
 

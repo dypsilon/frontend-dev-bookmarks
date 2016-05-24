@@ -136,7 +136,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)**: In this article Addy Osmani reviewes several of the options available for writing modular JavaScript using modern module formats AMD, CommonJS and ES6 Modules.
     + **[Model-View-Intent (MVI)](undefined)**: MVI is a unidirectional data flow architecture pattern consisting of three parts: Intent (to listen to the user), Model (to process information), and View (to output back to the user).
         + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
-        + **[Model-View-Intent with React and RxJS](undefined)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+        + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
         + **[Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)**: André Staltz describes the idea of Reactive Programming vs. Interactive Programming, proceeds with the MVI design pattern and compares it to React/Flux.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Observable](undefined)**: An Observable is an event stream which can emit zero or more events, and may or may not finish. If it finishes, then it does so by either emitting an error or a special “complete” event.
@@ -603,8 +603,9 @@ Important developers, companies, organizations and news sources.
         + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
         + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
-        + **[Model-View-Intent with React and RxJS](undefined)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+        + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
         + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
+        + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
         + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
         + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
         + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
@@ -738,8 +739,9 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
             + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
             + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
-            + **[Model-View-Intent with React and RxJS](undefined)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+            + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
             + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
+            + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
             + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
             + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
             + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
@@ -1120,6 +1122,7 @@ against sets of codified UI Guidelines.
             + **[vinyl-to-stream](https://www.npmjs.com/package/vinyl-to-stream)**: Convert a vinyl stream to a text stream.
             + **[vinyl-transform](https://www.npmjs.com/package/vinyl-transform)**: Wraps standard text transform streams so you can write fewer gulp plugins. Fulfills a similar use case to vinyl-map and vinyl-source-stream.
     + **[Mimosa](http://mimosajs.com)**: Mimosa is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
+    + **[Plop](https://github.com/amwmedia/plop)**: Micro-generator framework that makes it easy for an entire team to create files with a level or uniformity.
     + **[Webpack](http://webpack.github.io/)**: Webpack is a module bundler. It takes modules with dependencies and generates static assets representing those modules.
         + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
         + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
@@ -1209,13 +1212,6 @@ against sets of codified UI Guidelines.
 
 
 ------------------
-
-[![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
-[![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
-[![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 # License
 
