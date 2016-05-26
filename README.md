@@ -96,7 +96,7 @@ Task automation and asset delivery.
 + **[JavaScript Tools](workflow/javascript-tools.md)**: Tools for static analysis, pre and post processing of JavaScript files.
 + **[Sourcemaps](workflow/sourcemaps.md)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
 + **[Tutorials](workflow/tutorials.md)**: Step by step guides for setting up a frontend development workflow.
-+ **[Version Control](workflow/version-control.md)**: Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
++ **[Version Control](workflow/version-control.md)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
 
 ------------------

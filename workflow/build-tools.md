@@ -87,6 +87,7 @@ Toolkits and their ecosystems, that help you automate painful and repeated tasks
 + **[Plop](https://github.com/amwmedia/plop)**: Micro-generator framework that makes it easy for an entire team to create files with a level or uniformity.
 + **[Webpack](http://webpack.github.io/)**: Webpack is a module bundler. It takes modules with dependencies and generates static assets representing those modules.
     + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
+    + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
     + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
 + **[Yeoman](http://yeoman.io/)**: Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive. It provides a generator ecosystem.
 

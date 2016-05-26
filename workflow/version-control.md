@@ -2,7 +2,7 @@
 
 **Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
-Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
@@ -14,6 +14,7 @@ Version control is a system that records changes to a file or set of files over 
 -----------------------------------------
 
 + **[Git](https://git-scm.com/)**: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+    + **[Become a Git Guru](https://www.atlassian.com/git/tutorials)**: A series of Git tutorials by Atlassian.
 + **[OctoLinker](https://github.com/OctoLinker/browser-extension)**: The OctoLinker is a browser extensions which makes references to other files in GitHub clickable.
 
 
