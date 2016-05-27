@@ -13,6 +13,7 @@ Automated software testing is a process in which software tools execute pre-scri
 
 -----------------------------------------
 
++ **[5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)**: Eric Elliott breaks down some common misconceptions and  explains how you can benefit the most from TDD & unit tests.
 + **[Anti-patterns and Their Fixes](https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/)**: Shane Tomlinson presents a sample application that contains several common anti-patterns and how these can be refactored to be more testable.
 + **[Chai](http://chaijs.com/)**: Chai is a BDD/TDD assertion library for node and the browser that can be paired with any JavaScript testing framework.
 + **[Cucumber](https://cucumber.io/)**: Cucumber is a software tool that computer programmers use for testing other software. It runs automated acceptance tests written in a behavior-driven development (BDD) style.
@@ -30,6 +31,7 @@ against sets of codified UI Guidelines.
 + **[Refactor Away Anti-Patterns](https://shanetomlinson.com/2013/writing-testable-javascript-part-2-refactor-away-anti-patterns/)**: Shane Tomlinson continues by refactoring the original application, including testing anti patterns, to be easier to read, easier to reuse, and easier to test.
 + **[Sinon.JS Assertions for Chai](https://github.com/domenic/sinon-chai)**: Sinon–Chai provides a set of custom assertions for using the Sinon.JS spy, stub, and mocking framework with the Chai assertion library. You get all the benefits of Chai with all the powerful tools of Sinon.JS.
 + **[Sinon.js](http://sinonjs.org/)**: Standalone test spies, stubs and mocks for JavaScript. No dependencies, works with any unit testing framework.
+    + **[How to Stub/Mock Complex Objects](http://codeutopia.net/blog/2016/05/23/sinon-js-quick-tip-how-to-stubmock-complex-objects-such-as-dom-objects/)**: In this article, we’ll look at how to stub objects which are deeply nested, and when functions have more complex return values and they interact with other objects.
 + **[Tape](https://github.com/substack/tape)**: Tap-producing test harness for node and browsers.
     + **[Testing JavaScript Modules with Tape](https://ponyfoo.com/articles/testing-javascript-modules-with-tape)**: In this article we will get an in-depth look at three modules:  tape, proxyquire, and sinon.
 + **Writing Testable JavaScript**: Rebecca Murphey discusses how to organize code to make JavaScript more testable in unit tests.

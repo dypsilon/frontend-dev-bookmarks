@@ -19,6 +19,23 @@ Best practices that the programmer can use to solve common problems when designi
     + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
 + **Components**: Reusable and composable pieces of HTML, CSS and/or JavaScript code which are mostly used for GUI elements.
     + **[Component Check](https://github.com/Mercateo/component-check)**: In this project Donald Pipowitch compares the usage and development of components in several frameworks such as Angular, Ember, Cycle.js and React.
++ **DOM Diffing & Patching**: Diffing & Patching is a pattern which allows faster and simpler rendering and updating of DOM trees as manual manipulation à la jQuery.
+    + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
+    + **[Cito.js](https://github.com/joelrich/citojs)**: The core of cito.js consists of a virtual DOM library inspired by React/Mithril. On top of that, it will provide a component framework which will make it easy to build well-encapsulated components.
+    + **[Incremental DOM](https://github.com/google/incremental-dom)**: Incremental DOM is a library for building up DOM trees and updating them in-place when data changes. It differs from the established virtual DOM approach in that no intermediate tree is created (the existing tree is mutated in-place).
+        + **[Introducing Incremental DOM](https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f)**: Incremental DOM is a library inspired by Virtual DOM developed at Google.
+    + **[Morphdom](https://github.com/patrick-steele-idem/morphdom)**: Lightweight module for morphing an existing DOM node tree to match a target DOM node tree. It's fast and works with the real DOM—no virtual DOM here!
+    + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
+    + **[React vs Incremental DOM vs Glimmer](https://auth0.com/blog/2015/11/20/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/)**: In this post we will explore three technologies to build dynamic DOMs. We will also run benchmarks and find out which one is faster.
+    + **[React-less Virtual DOM with Snabbdom: functions everywhere!](https://medium.com/@yelouafi/react-less-virtual-dom-with-snabbdom-functions-everywhere-53b672cb2fe3)**: Yassine Elouafi shows in this post how to write a virtual DOM based applications using a small and standalone library.
+    + **[Snabbdom](https://github.com/paldepind/snabbdom)**: A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+    + **[Virtual DOM](https://github.com/Matt-Esch/virtual-dom)**: Virtual-dom is a collection of modules designed to provide a declarative way of representing the DOM for your app. So instead of updating the DOM, you simply create a virtual tree or VTree, which looks like the DOM state that you want.
+        + **[html-to-vdom](https://github.com/TimBeyer/html-to-vdom)**: This is yet another library to convert HTML into a vtree. It's used in conjunction with virtual-dom to convert template based views into virtual-dom views.
+        + **[html2hyperscript](https://github.com/unframework/html2hyperscript)**: Automatically translate old HTML markup into the new Hyperscript markup embeddable directly inside your component Javascript code.
+        + **[vdom-to-html](https://github.com/nthtran/vdom-to-html/)**: Turn Virtual DOM nodes into HTML.
+        + **[vdom-virtualize](https://github.com/marcelklehr/vdom-virtualize/)**: Turn a DOMNode into a virtual-dom node.
+        + **[virtual-html](https://github.com/yoshuawuyts/virtual-html)**: Convert given HTML into Virtual DOM object.
+        + **[vtree-select](https://github.com/parshap/vtree-select)**: Select vtree nodes (used by virtual-dom) using css selectors. Selector matching is done using cssauron. See the documentation for details on supported selectors.
 + **Design Pattern Collections**: Overview resources and collections of design patterns.
     + **[About HTML Semantics and Frontend Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)**: A collection of thoughts, experiences, ideas on HTML semantics, components and approaches to front-end architecture, class naming patterns, and HTTP compression.
     + **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
@@ -78,22 +95,6 @@ Best practices that the programmer can use to solve common problems when designi
     + **[Knockout.js](http://knockoutjs.com/)**: Knockout is a standalone JavaScript implementation of the Model-View-ViewModel pattern with templates.
     + **[Rivets.js](http://rivetsjs.com/)**: Lightweight and powerful data binding + templating solution for building modern web applications.
     + **[Synapse](https://github.com/bruth/synapse/)**: Hooks to support data binding between virtually any object.
-+ **Virtual DOM**: Virtual DOM is a technique and set of libraries/algorithms that allow us to improve front end performance by avoiding direct work with DOM and work only with lightweight JavaScript object that mimic the DOM tree.
-    + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
-    + **[Incremental DOM](https://github.com/google/incremental-dom)**: Incremental DOM is a library for building up DOM trees and updating them in-place when data changes. It differs from the established virtual DOM approach in that no intermediate tree is created (the existing tree is mutated in-place).
-        + **[Introducing Incremental DOM](https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f)**: Incremental DOM is a library inspired by Virtual DOM developed at Google.
-    + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
-    + **[React vs Incremental DOM vs Glimmer](https://auth0.com/blog/2015/11/20/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/)**: In this post we will explore three technologies to build dynamic DOMs. We will also run benchmarks and find out which one is faster.
-    + **[React-less Virtual DOM with Snabbdom: functions everywhere!](https://medium.com/@yelouafi/react-less-virtual-dom-with-snabbdom-functions-everywhere-53b672cb2fe3)**: Yassine Elouafi shows in this post how to write a virtual DOM based applications using a small and standalone library.
-    + **[cito.js](https://github.com/joelrich/citojs)**: The core of cito.js consists of a virtual DOM library inspired by React/Mithril. On top of that, it will provide a component framework which will make it easy to build well-encapsulated components.
-    + **[snabbdom](https://github.com/paldepind/snabbdom)**: A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
-    + **[virtual-dom](https://github.com/Matt-Esch/virtual-dom)**: virtual-dom is a collection of modules designed to provide a declarative way of representing the DOM for your app. So instead of updating the DOM, you simply create a virtual tree or VTree, which looks like the DOM state that you want.
-        + **[html-to-vdom](https://github.com/TimBeyer/html-to-vdom)**: This is yet another library to convert HTML into a vtree. It's used in conjunction with virtual-dom to convert template based views into virtual-dom views.
-        + **[html2hyperscript](https://github.com/unframework/html2hyperscript)**: Automatically translate old HTML markup into the new Hyperscript markup embeddable directly inside your component Javascript code.
-        + **[vdom-to-html](https://github.com/nthtran/vdom-to-html/)**: Turn Virtual DOM nodes into HTML.
-        + **[vdom-virtualize](https://github.com/marcelklehr/vdom-virtualize/)**: Turn a DOMNode into a virtual-dom node.
-        + **[virtual-html](https://github.com/yoshuawuyts/virtual-html)**: Convert given HTML into Virtual DOM object.
-        + **[vtree-select](https://github.com/parshap/vtree-select)**: Select vtree nodes (used by virtual-dom) using css selectors. Selector matching is done using cssauron. See the documentation for details on supported selectors.
 
 
 ------------------
