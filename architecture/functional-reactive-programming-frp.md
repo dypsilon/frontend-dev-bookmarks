@@ -44,6 +44,7 @@ FRP is a programming paradigm for asynchronous dataflow programming using the bu
         + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
         + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
     + **[Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns)**: Nick Johnstone gives an introduction to developing with Cycle.js in this video presentation.
+    + **[Learning How to Ride: an Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)**: In this talk, Fernando Macias Pereznieto introduces us to the good, the bad, and the beautiful of using Cycle.js, whether you are a complete beginner or an experienced JS ninja.
     + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
         + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
     + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.

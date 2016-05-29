@@ -101,6 +101,8 @@ The outward or visible aspect of a website.
 
 High level structure of the frontend code and the discipline of creating such structures.
 
++ **[Algorithms](undefined)**: A self-contained step-by-step set of operations to be performed. Algorithms perform calculation, data processing, and/or automated reasoning tasks.
+    + **[Algorithm Visualizer](https://github.com/parkjs814/AlgorithmVisualizer)**: A collection of algorithms with code and visualizations for each one of them.
 + **[Design Patterns](undefined)**: Best practices that the programmer can use to solve common problems when designing an application or system.
     + **[CSS Modules](https://github.com/css-modules)**: A CSS Module is a CSS file in which all class names and animation names are scoped locally by default.
         + **[CSS Modules Documentation](https://github.com/css-modules/css-modules)**: General overview and some implementations.
@@ -237,6 +239,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
             + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
         + **[Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns)**: Nick Johnstone gives an introduction to developing with Cycle.js in this video presentation.
+        + **[Learning How to Ride: an Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)**: In this talk, Fernando Macias Pereznieto introduces us to the good, the bad, and the beautiful of using Cycle.js, whether you are a complete beginner or an experienced JS ninja.
         + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
             + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
         + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
@@ -366,6 +369,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
             + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
         + **[Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns)**: Nick Johnstone gives an introduction to developing with Cycle.js in this video presentation.
+        + **[Learning How to Ride: an Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)**: In this talk, Fernando Macias Pereznieto introduces us to the good, the bad, and the beautiful of using Cycle.js, whether you are a complete beginner or an experienced JS ninja.
         + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
             + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
         + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
@@ -527,6 +531,7 @@ Important developers, companies, organizations and news sources.
             + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
             + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
         + **[Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns)**: Nick Johnstone gives an introduction to developing with Cycle.js in this video presentation.
+        + **[Learning How to Ride: an Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)**: In this talk, Fernando Macias Pereznieto introduces us to the good, the bad, and the beautiful of using Cycle.js, whether you are a complete beginner or an experienced JS ninja.
         + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
             + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
         + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
@@ -872,6 +877,7 @@ Programming/mark-up languages and web related standards.
 + **[HyperText Markup Language (HTML)](https://www.w3.org/html/)**: HTML is the standard markup language used to create web pages and its elements form the building blocks of all websites.
     + **[Dive Into HTML5 (Book)](http://diveintohtml5.info/)**: Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards.
     + **[Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)**: This document defines formatting and style rules for HTML and CSS. It aims at improving collaboration, code quality, and enabling supporting infrastructure.
+    + **[HEAD](https://github.com/joshbuchea/HEAD)**: A list of everything that could go in the <head> of your document.
     + **[Idiomatic HTML](https://github.com/necolas/idiomatic-html)**: The following document outlines a reasonable style guide for HTML development. These guidelines strongly encourage the use of existing, common, sensible patterns. They should be adapted as needed to create your own style guide.
     + **[Video & Audio](undefined)**: Use the  HTML video and audio element to embed video content in a document.
         + **[Bringing Production Video To The Web](https://www.smashingmagazine.com/2016/04/html5-media-source-extensions-bringing-production-video-web/)**: Stefan Lederer gives you a good overview of the state and future of video on the web.
