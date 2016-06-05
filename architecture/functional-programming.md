@@ -35,6 +35,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Folktale](http://folktalejs.org/)**: Folktale is a suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
 + **[Freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
 + **[From Callback to Future -> Functor -> Monad](https://medium.com/@yelouafi/from-callback-to-future-functor-monad-6c86d9c16cb5)**: Yassine Elouafi goes through a simple implementation of Futures and compares them to Promises.
++ **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
 + **[Functional Frontend Architecture](https://github.com/paldepind/functional-frontend-architecture)**: This repository is meant to document and explore the implementation of what is known as "the Elm architecture". A simple functional architecture for building frontend applications.
 + **[Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop)**: The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript.
 + **[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)**: Jargon from the functional programming world in simple terms.
