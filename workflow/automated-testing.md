@@ -34,6 +34,7 @@ against sets of codified UI Guidelines.
     + **[How to Stub/Mock Complex Objects](http://codeutopia.net/blog/2016/05/23/sinon-js-quick-tip-how-to-stubmock-complex-objects-such-as-dom-objects/)**: In this article, we’ll look at how to stub objects which are deeply nested, and when functions have more complex return values and they interact with other objects.
 + **[Tape](https://github.com/substack/tape)**: Tap-producing test harness for node and browsers.
     + **[Testing JavaScript Modules with Tape](https://ponyfoo.com/articles/testing-javascript-modules-with-tape)**: In this article we will get an in-depth look at three modules:  tape, proxyquire, and sinon.
+    + **[Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.fjpja613n)**: Eric Elliott describes the advantages of Tape and compares it to more popular testing frameworks.
 + **Writing Testable JavaScript**: Rebecca Murphey discusses how to organize code to make JavaScript more testable in unit tests.
 
 

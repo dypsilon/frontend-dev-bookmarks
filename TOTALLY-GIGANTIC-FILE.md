@@ -271,6 +271,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
     + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
     + **[Barely Functional](https://github.com/cullophid/barely-functional)**: Tiny (2.7kb) functional programming library using native es5/6 operations.
+    + **[Bilby.js](http://bilby.brianmckenna.org/)**: A functional library based on category theory with immutable multimethods, functional data structures, functional operator overloading, automated specification testing.
     + **[Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)**: Eric Elliott describes the difference between partial application and curry.
     + **[Daggy](https://github.com/puffnfresh/daggy)**: Library for creating tagged constructors (catamorphisms).
     + **[Date FP](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.
@@ -294,6 +295,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Functional Frontend Architecture](https://github.com/paldepind/functional-frontend-architecture)**: This repository is meant to document and explore the implementation of what is known as "the Elm architecture". A simple functional architecture for building frontend applications.
     + **[Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop)**: The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript.
     + **[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)**: Jargon from the functional programming world in simple terms.
+    + **[Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504)**: Chet Corcos explains different features of functional programming like composition, currying, lazy evaluation, referential transparency and compares Clojure with Haskell.
     + **[Functional.js](http://functionaljs.com/)**: Functional.js is a functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
     + **[Functionize](https://github.com/paldepind/functionize)**: A collection of functions which aids in making non-functional libraries functional.
     + **[Futures and Monoids](https://medium.com/@yelouafi/futures-and-monoids-7e9f4574bd88)**: Yassine Elouafi explains the nature of Monoids using Futures, Numbers and Strings as examples.
@@ -1085,6 +1087,7 @@ against sets of codified UI Guidelines.
         + **[How to Stub/Mock Complex Objects](http://codeutopia.net/blog/2016/05/23/sinon-js-quick-tip-how-to-stubmock-complex-objects-such-as-dom-objects/)**: In this article, we’ll look at how to stub objects which are deeply nested, and when functions have more complex return values and they interact with other objects.
     + **[Tape](https://github.com/substack/tape)**: Tap-producing test harness for node and browsers.
         + **[Testing JavaScript Modules with Tape](https://ponyfoo.com/articles/testing-javascript-modules-with-tape)**: In this article we will get an in-depth look at three modules:  tape, proxyquire, and sinon.
+        + **[Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.fjpja613n)**: Eric Elliott describes the advantages of Tape and compares it to more popular testing frameworks.
     + **[Writing Testable JavaScript](undefined)**: Rebecca Murphey discusses how to organize code to make JavaScript more testable in unit tests.
 + **[Build Tools](undefined)**: Toolkits and their ecosystems, that help you automate painful and repeated tasks.
     + **[Automaton](http://indigounited.com/automaton/)**: Task automation tool built in JavaScript.
