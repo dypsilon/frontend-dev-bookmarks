@@ -24,6 +24,7 @@ CSS are a stylesheet language used to describe the presentation of a document wr
     + **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**: Chris Coyer provides a great reference to the flexbox features with code examples.
     + **[A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)**: Rather that explaining how the flex properties work, this guide will focus on how the flex properties affect the layout in a visual way.
     + **[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)**: W3C specification for CSS flexbox.
+    + **[Flexbox Patterns](http://www.flexboxpatterns.com/)**: These interactive examples will show you practical ways to use Flexbox to build UI components.
 + **[How To Center in CSS](http://howtocenterincss.com/)**: This tool consolidates the many ways of centering a div and gives you the code you need for each situation.
 + **[The Complete Guide to Centering a DIV](http://www.tipue.com/blog/center-a-div/)**: The aim of this article is to show how, with a few CSS tricks, any div can be centered; horizontally, vertically or both. And within the page or a div.
 + **[Understanding border-image](https://css-tricks.com/understanding-border-image/)**: The new CSS3 property border-image can allow you to create flexible boxes with custom borders with a single div and a single image.

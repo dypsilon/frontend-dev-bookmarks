@@ -41,9 +41,11 @@ Ability of a product to work with different input/output devices and rendering s
 
 + **[Cross Browser](compatibility/cross-browser.md)**: Cross-browser refers to the ability of a website, web application, HTML construct or client-side script to function in environments that provide its required features and to bow out or degrade gracefully when features are absent or lacking.
 + **[E-Mail](compatibility/e-mail.md)**: Preparing HTML based electronic mail.
++ **[Keyboard](compatibility/keyboard.md)**: Working with keyboard input in a web browser.
 + **[Mobile](compatibility/mobile.md)**: Development of websites optimized for viewing on smartphone and tablet devices.
 + **[Printers](compatibility/printers.md)**: Manipulation of printer output through CSS.
 + **[Responsive Web Design (RWD)](compatibility/responsive-web-design-rwd.md)**: RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.
++ **[Web Accessibility](compatibility/web-accessibility.md)**: Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
 
 ## Ecosystem
 
@@ -64,6 +66,7 @@ Programming/mark-up languages and web related standards.
 + **[HyperText Markup Language (HTML)](languages-protocols-browser-apis/hypertext-markup-language-html.md)**: HTML is the standard markup language used to create web pages and its elements form the building blocks of all websites.
 + **[Hypertext Transfer Protocol (HTTP)](languages-protocols-browser-apis/hypertext-transfer-protocol-http.md)**: This post talks about the design of the HTTP protocol, it's performance drawbacks and how to work around them.
 + **[JavaScript (EcmaScript)](languages-protocols-browser-apis/javascript-ecmascript.md)**: JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites. It is defined by ECMAScript standard.
++ **[JavaScript Object Notation (JSON)](languages-protocols-browser-apis/javascript-object-notation-json.md)**: JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language.
 + **[Scalable Vector Graphics (SVG)](languages-protocols-browser-apis/scalable-vector-graphics-svg.md)**: An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.
 + **[Templating Languages and Engines](languages-protocols-browser-apis/templating-languages-and-engines.md)**: Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
 + **[Transpiled Languages](languages-protocols-browser-apis/transpiled-languages.md)**: Abstract languages converted to native, browser supported standards like JavaScript or CSS.

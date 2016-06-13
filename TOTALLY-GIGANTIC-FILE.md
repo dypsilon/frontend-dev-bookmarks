@@ -110,6 +110,9 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
     + **[Components](undefined)**: Reusable and composable pieces of HTML, CSS and/or JavaScript code which are mostly used for GUI elements.
         + **[Component Check](https://github.com/Mercateo/component-check)**: In this project Donald Pipowitch compares the usage and development of components in several frameworks such as Angular, Ember, Cycle.js and React.
+        + **[Devbridge Styleguide](http://livingstyleguide.devbridge.com/)**: Devbridge Styleguide helps you create, share, and automate a living visual style library of your brand.
+        + **[Web Components](undefined)**: Web Components is a standard for encapsulated, reusable and composable widgets for the web platform.
+            + **[Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/)**: Tracking the progress of Web Components through standardisation, polyfillification and implementation.
     + **[DOM Diffing & Patching](undefined)**: Diffing & Patching is a pattern which allows faster and simpler rendering and updating of DOM trees as manual manipulation à la jQuery.
         + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
         + **[Cito.js](https://github.com/joelrich/citojs)**: The core of cito.js consists of a virtual DOM library inspired by React/Mithril. On top of that, it will provide a component framework which will make it easy to build well-encapsulated components.
@@ -137,6 +140,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[JavaScript Modules](undefined)**: Modules divide programs into clusters of code that, by some criterion, belong together.
         + **[Chapter 10 of Eloquent JavaScript: Modules](http://eloquentjavascript.net/10_modules.html)**: This chapter explores some of the benefits that division of code provides and shows techniques for building modules in JavaScript.
         + **[ES6 In Depth: Modules](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)**: This article highlights export and import keywords from ES6.
+        + **[Efficient Module Loading Without Bundling](https://mariusgundersen.net/module-pusher/)**: We can combine ES2015 modules, static analysis of those modules, HTTP/2, caching, Service Workers and a bloom-filter to create a server-client relationship where the client can efficiently load any module.
         + **[JavaScript Modules: A Beginner’s Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.i78m6tfs9)**: In this post, Preethi Kasireddy will unpack the buzzwords like module bundlers, AMD and CommonJS for you in plain English, including a few code samples.
         + **[Modern Modular JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modularjavascript)**: A chapter from Essential JavaScript Design Patterns on Modules.
         + **[Module Bundlers and Loaders](undefined)**: Libraries for bundling JavaScript Modules into one or several files.
@@ -176,6 +180,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Router.js (Ember)](https://github.com/tildeio/router.js)**: Router.js is the routing microlib used by Ember.js.
         + **[Router5](https://github.com/router5/router5)**: A simple, powerful, modular and extensible router, organising your named routes in a tree and handling route transitions. In its simplest form, Router5 processes routing instructions and outputs state updates.
     + **[UI Data Binding](undefined)**: Binding of UI elements to an application domain model. Most frameworks employ the Observer pattern as the underlying binding mechanism.
+        + **[Bindings in Ember](https://guides.emberjs.com/v2.6.0/object-model/bindings/)**: Unlike most other frameworks that include some sort of binding implementation, bindings in Ember.js can be used with any object.
         + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
         + **[Easy Two-Way Data Binding in JavaScript](http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/)**: Two-way data binding refers to the ability to bind changes to an object’s properties to changes in the UI, and viceversa. This article describes how to implement data binding with vanilla JavaScript.
         + **[Functional Reactive Bindings](https://github.com/kriskowal/frb)**: A CommonJS package that includes functional and generic building blocks to help incrementally ensure consistent state.
@@ -424,6 +429,8 @@ Ability of a product to work with different input/output devices and rendering s
     + **[Responsive Email Design](https://www.campaignmonitor.com/dev-resources/guides/mobile/)**: In this guide, the author will cover the fundamentals of designing and building a mobile-friendly email and back it all up with some neat tips and techniques.
     + **[Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)**: Zurb Studios put together this set of super awesome email templates so that you can make your email campaigns responsive.
     + **[The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)**: A complete breakdown of the CSS support for the top 10 most popular mobile, web and desktop email clients on the planet.
++ **[Keyboard](undefined)**: Working with keyboard input in a web browser.
+    + **[What’s New with KeyboardEvents? Keys and Codes!](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)**: Jeff Posnick talks about the code and key event attributes and how to use them in practice.
 + **[Mobile](undefined)**: Development of websites optimized for viewing on smartphone and tablet devices.
     + **[Emulation](undefined)**: Tools for emulating features of mobile devices on a desktop.
         + **[Responsinator](http://www.responsinator.com/)**: Quickly test any website in popular resolutions.
@@ -496,6 +503,8 @@ Ability of a product to work with different input/output devices and rendering s
         + **[Responsive Measure](http://jbrewer.github.com/Responsive-Measure/)**: A jQuery plugin for generating a responsive ideal measure.
         + **[Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)**: This article describes viewport units and other technics to achieve typography which resizes smoothly with the screen.
     + **[Viewport Component](https://github.com/pazguille/viewport)**: Viewport is a component to ease viewport management. You can get the dimensions of the viewport and beyond, which can be quite helpful to perform some checks with JavaScript.
++ **[Web Accessibility](undefined)**: Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
+    + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
 
 ## Ecosystem
 
@@ -509,6 +518,7 @@ Important developers, companies, organizations and news sources.
         + **[PrimeNG](http://www.primefaces.org/primeng/)**: PrimeNG is a collection of rich UI components for AngularJS2. PrimeNG is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
     + **[Backbone.js](http://backbonejs.org/)**: Backbone supplies structure to JavaScript-heavy applications by providing models, collections, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
     + **[Bootstrap](http://getbootstrap.com/)**: Bootstrap is a HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+        + **[Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)**: A quick reference for Bootstrap v4 by Alexander Rechsteiner.
         + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
     + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
         + **[Async Driver](https://github.com/whitecolor/cycle-async-driver)**: Higher order factory for creating cycle.js async request based drivers. Allows you almost completely eliminate boilerplate code for this kind of drivers.
@@ -548,6 +558,7 @@ Important developers, companies, organizations and news sources.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Dojo Toolkit](http://dojotoolkit.org/)**: A JavaScript toolkit that saves you time and scales with your development process. Provides everything you need to build a Web app. Language utilities, UI components, and more, all in one place, designed to work together perfectly.
     + **[Ember](http://emberjs.com/)**: Ember.js is an open-source JavaScript web framework, based on the MVC pattern. It allows developers to create scalable single-page web applications.
+        + **[Bindings in Ember](https://guides.emberjs.com/v2.6.0/object-model/bindings/)**: Unlike most other frameworks that include some sort of binding implementation, bindings in Ember.js can be used with any object.
         + **[Router.js (Ember)](https://github.com/tildeio/router.js)**: Router.js is the routing microlib used by Ember.js.
     + **[Foundation](http://foundation.zurb.com/)**: Foundation provides a responsive grid and HTML and CSS UI components, templates, and code snippets, including typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
     + **[Gulp](http://gulpjs.com/)**: Gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow. It's very fast, platform-agnostic and simple.
@@ -623,6 +634,7 @@ Important developers, companies, organizations and news sources.
         + **[Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)**: Learn how to test React components using a TDD approach with minimal setup, while learning exactly what to test and how to avoid common pitfalls.
         + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
         + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
+        + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
         + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
@@ -763,6 +775,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)**: Learn how to test React components using a TDD approach with minimal setup, while learning exactly what to test and how to avoid common pitfalls.
             + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
             + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
+            + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
             + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
             + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
             + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
@@ -832,6 +845,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)**: This architecture document by W3C discusses the core design components of the Web. They are identification of resources, representation of resource state, and the protocols that support the interaction between agents and resources in the space.
         + **[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)**: W3C specification for CSS flexbox.
         + **[Document Object Model (DOM) Technical Reports](https://www.w3.org/DOM/DOMTR)**: Specifications by the W3C.
+        + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
     + **[Yandex](https://www.yandex.com/)**: Yandex is one of the largest internet companies in Europe, operating Russia’s most popular search engine and its most visited website.
         + **[Block Element Modifier (BEM)](https://en.bem.info/method/)**: Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
             + **[A New Front-End Methodology: BEM](http://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)**: An introduction by Varvara Stepanova at SmashingMagazine.
@@ -873,6 +887,7 @@ Programming/mark-up languages and web related standards.
         + **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**: Chris Coyer provides a great reference to the flexbox features with code examples.
         + **[A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)**: Rather that explaining how the flex properties work, this guide will focus on how the flex properties affect the layout in a visual way.
         + **[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)**: W3C specification for CSS flexbox.
+        + **[Flexbox Patterns](http://www.flexboxpatterns.com/)**: These interactive examples will show you practical ways to use Flexbox to build UI components.
     + **[How To Center in CSS](http://howtocenterincss.com/)**: This tool consolidates the many ways of centering a div and gives you the code you need for each situation.
     + **[The Complete Guide to Centering a DIV](http://www.tipue.com/blog/center-a-div/)**: The aim of this article is to show how, with a few CSS tricks, any div can be centered; horizontally, vertically or both. And within the page or a div.
     + **[Understanding border-image](https://css-tricks.com/understanding-border-image/)**: The new CSS3 property border-image can allow you to create flexible boxes with custom borders with a single div and a single image.
@@ -897,6 +912,8 @@ Programming/mark-up languages and web related standards.
     + **[Wordpress HTML Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)**: Coding conventions for WordPress.
 + **[Hypertext Transfer Protocol (HTTP)](https://www.mnot.net/blog/2016/04/22/ideal-http)**: This post talks about the design of the HTTP protocol, it's performance drawbacks and how to work around them.
 + **[JavaScript (EcmaScript)](undefined)**: JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites. It is defined by ECMAScript standard.
+    + **[Control Flow & Error Handling](undefined)**: Statements, that you can use to incorporate interactivity in your application.
+        + **[A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)**: Camilo Reyes describes ways to handle Exceptions and asynchronous errors in JavaScript.
     + **[Enhancement Libraries](undefined)**: Libraries that attempt to improve and enhance the vanilla JavaScript language by providing utility functions.
         + **[MOUT](http://moutjs.com/)**: MOUT provides many helper methods similar to those found on other languages standard libraries (ie. Python, Ruby, PHP).
         + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
@@ -943,6 +960,8 @@ Programming/mark-up languages and web related standards.
         + **[The Promises/A+ Spec](https://promisesaplus.com/)**: An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
         + **[What is Promise.try, and why does it matter?](http://cryto.net/~joepie91/blog/)**: In this brief article Sven Slootweg provides a better explanation of what Promise.try is, and why you should always use it, without exceptions.
         + **[What's The Point Of Promises?](http://www.telerik.com/blogs/what-is-the-point-of-promises)**: The point of promises is to represent the eventual resulting value from an operation, but the reason to use them is to better parallel synchronous operations and to solve the callback hell.
++ **[JavaScript Object Notation (JSON)](http://www.json.org/)**: JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language.
+    + **[JSON-LD](http://json-ld.org/)**: JSON-LD is a lightweight Linked Data format. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale.
 + **[Scalable Vector Graphics (SVG)](undefined)**: An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.
     + **[Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)**: This article will provide you with tools and resources to simplify editing, converting, optimizing, and delivering SVGs.
 + **[Templating Languages and Engines](undefined)**: Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
@@ -1180,6 +1199,8 @@ against sets of codified UI Guidelines.
         + **[Improving the Quality of Your CSS with PostCSS](https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)**: In this article, we will explore how we can utilise PostCSS to help us maintain a higher quality in our CSS code.
         + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
         + **[Working with Images in Stylesheets](https://css-tricks.com/images-in-postcss/)**: Aleks Hudochenkov does a great job of showcasing what PostCSS is good at and the role it has grown into in the front end stack.
+    + **[Stylelint](http://stylelint.io/)**: Stylelint's ambitious goal is to supplement our discipline with automatic enforcement — to provide a core set of rules and a pluggable framework that CSS authors can use to enforce their own strategies.
+        + **[Lint your CSS with Stylelint](https://css-tricks.com/stylelint/)**: David Clark writes about reasons for using a CSS linter and advantages of Stylelint.
 + **[Code Editors](undefined)**: Text editor programs designed specifically for editing source code of a website.
     + **[Atom](https://atom.io/)**: Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
     + **[Brackets](http://brackets.io/)**: An open source code editor for the web, written in JavaScript, HTML and CSS.

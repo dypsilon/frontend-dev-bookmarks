@@ -24,6 +24,8 @@ Tools for analysis, pre and post processing of CSS files.
     + **[Improving the Quality of Your CSS with PostCSS](https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)**: In this article, we will explore how we can utilise PostCSS to help us maintain a higher quality in our CSS code.
     + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
     + **[Working with Images in Stylesheets](https://css-tricks.com/images-in-postcss/)**: Aleks Hudochenkov does a great job of showcasing what PostCSS is good at and the role it has grown into in the front end stack.
++ **[Stylelint](http://stylelint.io/)**: Stylelint's ambitious goal is to supplement our discipline with automatic enforcement — to provide a core set of rules and a pluggable framework that CSS authors can use to enforce their own strategies.
+    + **[Lint your CSS with Stylelint](https://css-tricks.com/stylelint/)**: David Clark writes about reasons for using a CSS linter and advantages of Stylelint.
 
 
 ------------------

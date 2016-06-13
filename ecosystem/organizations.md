@@ -39,6 +39,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)**: Learn how to test React components using a TDD approach with minimal setup, while learning exactly what to test and how to avoid common pitfalls.
         + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
         + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
+        + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
         + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
@@ -108,6 +109,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
     + **[Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)**: This architecture document by W3C discusses the core design components of the Web. They are identification of resources, representation of resource state, and the protocols that support the interaction between agents and resources in the space.
     + **[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)**: W3C specification for CSS flexbox.
     + **[Document Object Model (DOM) Technical Reports](https://www.w3.org/DOM/DOMTR)**: Specifications by the W3C.
+    + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
 + **[Yandex](https://www.yandex.com/)**: Yandex is one of the largest internet companies in Europe, operating Russia’s most popular search engine and its most visited website.
     + **[Block Element Modifier (BEM)](https://en.bem.info/method/)**: Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
         + **[A New Front-End Methodology: BEM](http://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)**: An introduction by Varvara Stepanova at SmashingMagazine.
