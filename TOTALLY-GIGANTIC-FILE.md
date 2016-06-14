@@ -1072,6 +1072,7 @@ It is completely themable via CSS.
 + **[Table Of Contents](undefined)**: Components for automatic table of contents generation.
     + **[Tocbot](http://tscanlin.github.io/tocbot/)**: Tocbot builds a table of contents (TOC) from headings in an HTML document.
 + **[UI Kits](undefined)**: Collections of ready to use components.
+    + **[CloudFlare Components](https://cloudflare.github.io/cf-ui/)**: A set of UI components built by CloudFlare and based on React.
     + **[Ink](http://ink.sapo.pt/)**: An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
     + **[PrimeNG](http://www.primefaces.org/primeng/)**: PrimeNG is a collection of rich UI components for AngularJS2. PrimeNG is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
     + **[Primer](http://primercss.io/)**: Primer is GitHub’s internal CSS framework. It includes basic global styling for typography, small components like buttons and tabs, and our general guidelines for writing HTML and CSS.
@@ -1233,6 +1234,11 @@ against sets of codified UI Guidelines.
     + **[Mononoki](https://github.com/madmalik/mononoki)**: Mononoki is a typeface by Matthias Tellen, created to enhance code formatting.
     + **[Profont](http://tobiasjung.name/profont/)**: Profont is a monospaced font created to be a most readable font for programming. It is designed to look good a really small sizes
     + **[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)**: Source Code Pro is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
++ **[Getting Started](undefined)**: Step by step guides for setting up a frontend development workflow.
+    + **[Front-end Process - Flat Builds and Automation (series)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)**: A flat build is basically the process of coding a static page (or pages) in HTML and CSS. The idea is to supply our developers with design assets such as style guides, pattern libraries or prototypes, including assets such as images, fonts, css, and javascript, as flat builds.
+        + **[CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)**: In this part the author introduces the inuit CSS framework and describes how to integrate the framework into the development process.
+        + **[Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)**: In this part the author outlines how to set up your dev environment, and how to scaffold a project using Yeoman.
+        + **[Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)**: The author outlined how to set up your dev environment, and how to scaffold a project using Yeoman. In this third part we will look at how to install and configure some grunt tasks.
 + **[HTML Tools](undefined)**: Tools for pre and post processing of the HTML source code.
     + **[html-inspector](https://www.npmjs.org/package/html-inspector)**: HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
     + **[html-minifier](https://www.npmjs.com/package/html-minifier)**: HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
@@ -1264,6 +1270,10 @@ against sets of codified UI Guidelines.
         + **[crapLoader](https://github.com/gregersrygg/crapLoader)**: The goal of crapLoader is to load ads, widgets or any JavaScript code with document.write in it. This library hijacks document.write and delegates the content loaded from each script into the correct position.
         + **[require.js](http://requirejs.org/)**: RequireJS is a JavaScript file and AMD module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.
         + **[uRequire](https://github.com/anodynos/urequire)**: The Ultimate JavaScript Module Builder & Automagical Task Runner.
++ **[Package Management](undefined)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
+    + **[Bower](https://github.com/bower/bower)**: Bower offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack.
+    + **[Lerna](https://github.com/lerna/lerna)**: Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
+    + **[NPM](undefined)**: NPM makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
 + **[Sourcemaps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
     + **[combine-source-map](https://www.npmjs.org/package/combine-source-map)**: Add source maps of multiple files, offset them and then combine them into one source map.
     + **[convert-source-map](https://www.npmjs.org/package/convert-source-map)**: Converts a source-map from/to different formats and allows adding/changing properties.
@@ -1272,11 +1282,6 @@ against sets of codified UI Guidelines.
     + **[inline-source-map](https://www.npmjs.org/package/inline-source-map)**: Adds source mappings and base64 encodes them, so they can be inlined in your generated file.
     + **[mold-source-map](https://www.npmjs.org/package/mold-source-map)**: Mold a source map that is almost perfect for you into one that is.
     + **[source-map-cjs](https://www.npmjs.org/package/source-map-cjs)**: Generates and consumes source maps. Adapted to be commonjs only and work in older browsers.
-+ **[Tutorials](undefined)**: Step by step guides for setting up a frontend development workflow.
-    + **[Front-end Process - Flat Builds and Automation (series)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)**: A flat build is basically the process of coding a static page (or pages) in HTML and CSS. The idea is to supply our developers with design assets such as style guides, pattern libraries or prototypes, including assets such as images, fonts, css, and javascript, as flat builds.
-        + **[CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)**: In this part the author introduces the inuit CSS framework and describes how to integrate the framework into the development process.
-        + **[Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)**: In this part the author outlines how to set up your dev environment, and how to scaffold a project using Yeoman.
-        + **[Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)**: The author outlined how to set up your dev environment, and how to scaffold a project using Yeoman. In this third part we will look at how to install and configure some grunt tasks.
 + **[Version Control](undefined)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
     + **[Git](https://git-scm.com/)**: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
         + **[Become a Git Guru](https://www.atlassian.com/git/tutorials)**: A series of Git tutorials by Atlassian.

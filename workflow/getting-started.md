@@ -1,8 +1,8 @@
-# UI Kits
+# Getting Started
 
-**Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
+**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
 
-Collections of ready to use components.
+Step by step guides for setting up a frontend development workflow.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
@@ -13,13 +13,10 @@ Collections of ready to use components.
 
 -----------------------------------------
 
-+ **[CloudFlare Components](https://cloudflare.github.io/cf-ui/)**: A set of UI components built by CloudFlare and based on React.
-+ **[Ink](http://ink.sapo.pt/)**: An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
-+ **[PrimeNG](http://www.primefaces.org/primeng/)**: PrimeNG is a collection of rich UI components for AngularJS2. PrimeNG is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
-+ **[Primer](http://primercss.io/)**: Primer is GitHub’s internal CSS framework. It includes basic global styling for typography, small components like buttons and tabs, and our general guidelines for writing HTML and CSS.
-+ **[Pure.css](http://purecss.io/)**: A set of small, responsive CSS modules that you can use in every web project.
-+ **[UIkit](http://getuikit.com/)**: A lightweight and modular front-end framework and a set of components for developing fast and powerful web interfaces.
-+ **[Vital](http://doximity.github.io/vital/)**: A minimally invasive CSS framework for modern web applications.
++ **[Front-end Process - Flat Builds and Automation (series)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)**: A flat build is basically the process of coding a static page (or pages) in HTML and CSS. The idea is to supply our developers with design assets such as style guides, pattern libraries or prototypes, including assets such as images, fonts, css, and javascript, as flat builds.
+    + **[CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)**: In this part the author introduces the inuit CSS framework and describes how to integrate the framework into the development process.
+    + **[Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)**: In this part the author outlines how to set up your dev environment, and how to scaffold a project using Yeoman.
+    + **[Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)**: The author outlined how to set up your dev environment, and how to scaffold a project using Yeoman. In this third part we will look at how to install and configure some grunt tasks.
 
 
 ------------------

@@ -95,11 +95,12 @@ Task automation and asset delivery.
 + **[Code Editors](workflow/code-editors.md)**: Text editor programs designed specifically for editing source code of a website.
 + **[Documentation](workflow/documentation.md)**: Writing, generating, publishing and consuming documentation for web deliverables.
 + **[Fonts for Programmers](workflow/fonts-for-programmers.md)**: Programmers need special fonts, which help align the code and distinguish between characters, that look alike.
++ **[Getting Started](workflow/getting-started.md)**: Step by step guides for setting up a frontend development workflow.
 + **[HTML Tools](workflow/html-tools.md)**: Tools for pre and post processing of the HTML source code.
 + **[Image Post Processing](workflow/image-post-processing.md)**: Tools for image conversion and optimization.
 + **[JavaScript Tools](workflow/javascript-tools.md)**: Tools for static analysis, pre and post processing of JavaScript files.
++ **[Package Management](workflow/package-management.md)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
 + **[Sourcemaps](workflow/sourcemaps.md)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
-+ **[Tutorials](workflow/tutorials.md)**: Step by step guides for setting up a frontend development workflow.
 + **[Version Control](workflow/version-control.md)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
 
