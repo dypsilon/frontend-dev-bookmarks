@@ -24,6 +24,7 @@ against sets of codified UI Guidelines.
 + **[Introducing BDD](https://dannorth.net/introducing-bdd/)**: Dan North introduces behaviour-driven development (BDD). A software development process that emerged from test-driven development (TDD).
 + **[Jasmine](https://github.com/jasmine/jasmine)**: Jasmine is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 + **[JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)**: Unit tests, integration tests, and functional tests are all types of automated tests which form essential cornerstones of continuous delivery, a development methodology that allows you to safely ship changes to production in days or hours rather than months or years.
++ **[Kakapo.js](http://devlucky.github.io/kakapo-js)**: Kakapo its a full featured http mocking library, he allows you to entirely replicate your backend logic in simple and declaritive way directly in the browser.
 + **[Karma](http://karma-runner.github.io/)**: A simple tool that allows you to execute JavaScript code in multiple real browsers.
 + **[Leche](https://github.com/box/leche)**: A JavaScript testing utility designed to work with Mocha and Sinon. This is intended for use both by Node.js and in browsers, so any changes must work in both locations.
 + **[PhantomCSS](https://github.com/Huddle/PhantomCSS)**: PhantomCSS takes screenshots and compares them to baseline images to test for RGB pixel differences. PhantomCSS then generates image diffs to help you find the cause.
@@ -35,6 +36,7 @@ against sets of codified UI Guidelines.
 + **[Tape](https://github.com/substack/tape)**: Tap-producing test harness for node and browsers.
     + **[Testing JavaScript Modules with Tape](https://ponyfoo.com/articles/testing-javascript-modules-with-tape)**: In this article we will get an in-depth look at three modules:  tape, proxyquire, and sinon.
     + **[Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.fjpja613n)**: Eric Elliott describes the advantages of Tape and compares it to more popular testing frameworks.
++ **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
 + **Writing Testable JavaScript**: Rebecca Murphey discusses how to organize code to make JavaScript more testable in unit tests.
 
 
