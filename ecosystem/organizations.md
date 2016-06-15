@@ -114,6 +114,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
     + **[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)**: W3C specification for CSS flexbox.
     + **[Document Object Model (DOM) Technical Reports](https://www.w3.org/DOM/DOMTR)**: Specifications by the W3C.
     + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
+    + **[Shadow DOM W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/shadow/)**: This specification describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
 + **[Yandex](https://www.yandex.com/)**: Yandex is one of the largest internet companies in Europe, operating Russia’s most popular search engine and its most visited website.
     + **[Block Element Modifier (BEM)](https://en.bem.info/method/)**: Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
         + **[A New Front-End Methodology: BEM](http://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)**: An introduction by Varvara Stepanova at SmashingMagazine.

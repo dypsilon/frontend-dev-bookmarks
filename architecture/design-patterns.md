@@ -20,8 +20,18 @@ Best practices that the programmer can use to solve common problems when designi
 + **Components**: Reusable and composable pieces of HTML, CSS and/or JavaScript code which are mostly used for GUI elements.
     + **[Component Check](https://github.com/Mercateo/component-check)**: In this project Donald Pipowitch compares the usage and development of components in several frameworks such as Angular, Ember, Cycle.js and React.
     + **[Devbridge Styleguide](http://livingstyleguide.devbridge.com/)**: Devbridge Styleguide helps you create, share, and automate a living visual style library of your brand.
-    + **Web Components**: Web Components is a standard for encapsulated, reusable and composable widgets for the web platform.
+    + **Web Components**: Web Components is a W3C standard for encapsulated, reusable and composable widgets for the web platform.
         + **[Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/)**: Tracking the progress of Web Components through standardisation, polyfillification and implementation.
+        + **[Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)**: Eric Bidelman describes how to create new HTML elements and manage their life cycle.
+        + **[Custom Elements W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/custom/)**: This specification describes the method for enabling the author to define and use new types of DOM elements in a document.
+        + **[HTML Imports W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/imports/)**: HTML Imports are a way to include and reuse HTML documents in other HTML documents.
+        + **[HTML Imports: #include for the web](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)**: Eric Bidelman describes how to use HTML imports and goes through several edge cases.
+        + **[HTML's New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)**: The template element allows you to declare fragments of DOM which are parsed, inert at page load, and instantiated later at runtime.
+        + **[Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)**: Dominic Cooney shows you how to use Shadow DOM in this tutorial.
+        + **[Shadow DOM 201](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)**: Eric Bidelman explains advanced topics related to styling of Shadow DOM elements.
+        + **[Shadow DOM 301](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)**: Eric Bidelman talks about advanced Shadow DOM topics like multiple shadow roots, insertion points, event model and Shadow DOM Visualizer.
+        + **[Shadow DOM W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/shadow/)**: This specification describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
+        + **[ShadowDOM Visualizer](http://html5-demos.appspot.com/static/shadowdom-visualizer/index.html)**: This tools allows you to visualize how Shadow DOM renders in the browser.
         + **[Why Web Components are so Important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)**: Leon Revill compares web components with concepts from different frameworks and explains why web components matter.
 + **DOM Diffing & Patching**: Diffing & Patching is a pattern which allows faster and simpler rendering and updating of DOM trees as manual manipulation à la jQuery.
     + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
