@@ -16,10 +16,11 @@ JavaScript is a full-fledged dynamic programming language that, when applied to 
 + **Control Flow & Error Handling**: Statements, that you can use to incorporate interactivity in your application.
     + **[A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)**: Camilo Reyes describes ways to handle Exceptions and asynchronous errors in JavaScript.
 + **Enhancement Libraries**: Libraries that attempt to improve and enhance the vanilla JavaScript language by providing utility functions.
+    + **[Flow](https://flowtype.org/)**: Flow is a static type checker for JavaScript. It can be used to catch common bugs in JavaScript programs before they run.
+    + **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance, & extras.
     + **[MOUT](http://moutjs.com/)**: MOUT provides many helper methods similar to those found on other languages standard libraries (ie. Python, Ruby, PHP).
     + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
     + **[RubyJS](http://rubyjs.org/)**: RubyJS is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
-    + **[lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance, & extras.
 + **Functions**: A function is a JavaScript procedure—a set of statements that performs a task or calculates a value.
     + **[Closures explained by Jim Ley](http://jibbering.com/faq/notes/closures/)**: Explanation of closures in JavaScript.
     + **[Let’s Learn JavaScript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44)**: So this post will be dedicated to the nuts and bolts of how and why closures work the way they do.
@@ -52,13 +53,15 @@ JavaScript is a full-fledged dynamic programming language that, when applied to 
     + **[Eloquent JavaScript (Book)](http://eloquentjavascript.net/)**: A comprehensive book about JavaScript, the language, the browser and Node.js.
     + **[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)**: JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs.
     + **[JavaScript Guide by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)**: The JavaScript Guide shows you how to use JavaScript and gives an overview of the language.
+    + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)**: Free (as in pay what you want) E-Book by Nicholas C. Zakas describing the new features in EcmaScript 6.
     + **[What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)**: Philip Roberts, in this video, tries to create an intuitive understanding of what happens when JavaScript runs. He talks about the call stack, event loop, callback queue and other concepts.
-+ **[Promises](https://www.promisejs.org/)**: The core idea behind promises is that a promise represents the result of an asynchronous operation.
++ **[Promises](https://www.promisejs.org/)**: A promise represents the result of an asynchronous operation.
     + **[Bluebird.js](http://bluebirdjs.com/)**: Bluebird is a full featured promise library with unmatched performance.
     + **[Difference between a Promise and a Task](https://glebbahmutov.com/blog/difference-between-promise-and-task/)**: Once you have a Promise instance the action has already started. Task instance does not run until someone calls .fork()
     + **[ECMAScript Promises Spec](https://tc39.github.io/ecma262/#sec-promise-objects)**: Standard ES specification for promises.
     + **[MDN page on Promises](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)**: The Promise object is used for deferred and asynchronous computations. A Promise represents an operation that hasn't completed yet, but is expected in the future.
     + **[The Promises/A+ Spec](https://promisesaplus.com/)**: An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
+    + **[Tracking Unhandled Rejected Promises](http://www.2ality.com/2016/04/unhandled-rejections.html)**: In Promise-based asynchronous code, rejections are used for error handling. One risk is that rejections may get lost, leading to silent failures.
     + **[What is Promise.try, and why does it matter?](http://cryto.net/~joepie91/blog/)**: In this brief article Sven Slootweg provides a better explanation of what Promise.try is, and why you should always use it, without exceptions.
     + **[What's The Point Of Promises?](http://www.telerik.com/blogs/what-is-the-point-of-promises)**: The point of promises is to represent the eventual resulting value from an operation, but the reason to use them is to better parallel synchronous operations and to solve the callback hell.
 

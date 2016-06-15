@@ -14,6 +14,7 @@ Automated software testing is a process in which software tools execute pre-scri
 -----------------------------------------
 
 + **[5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)**: Eric Elliott breaks down some common misconceptions and  explains how you can benefit the most from TDD & unit tests.
++ **[A Gentle Introduction to Javascript Test Driven Development](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)**: Over the course of the series, James Sinclair works through developing a full application in JavaScript that involves making network requests and manipulating the DOM.
 + **[Anti-patterns and Their Fixes](https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/)**: Shane Tomlinson presents a sample application that contains several common anti-patterns and how these can be refactored to be more testable.
 + **[Chai](http://chaijs.com/)**: Chai is a BDD/TDD assertion library for node and the browser that can be paired with any JavaScript testing framework.
 + **[Cucumber](https://cucumber.io/)**: Cucumber is a software tool that computer programmers use for testing other software. It runs automated acceptance tests written in a behavior-driven development (BDD) style.

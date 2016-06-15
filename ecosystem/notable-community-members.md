@@ -68,6 +68,7 @@ Important engineers, evangelists, architects and other celebrities.
     + **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
     + **[Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)**: In this video (2011) Nicholas Zakas discusses frontend architecture for complex, modular web applications with significant JavaScript elements.
     + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
+    + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)**: Free (as in pay what you want) E-Book by Nicholas C. Zakas describing the new features in EcmaScript 6.
 + **[Nicolas Gallagher](http://nicolasgallagher.com/)**: Frontend Engineer at Twitter.
     + **[Normalize.css](http://necolas.github.io/normalize.css/)**: A modern, HTML5-ready alternative to CSS resets.
 + **[Pete Hunt](https://github.com/petehunt)**: Co-founder & CEO @HelloSmyte. Ex-FB and Instagram. Worked on React.js.

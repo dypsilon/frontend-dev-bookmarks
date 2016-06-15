@@ -15,6 +15,7 @@ Tools for static analysis, pre and post processing of JavaScript files.
 
 + **[Babel](https://babeljs.io/)**: Babel is a generic multi-purpose compiler for JavaScript. Using Babel you can use (and create) the next generation of JavaScript, as well as the next generation of JavaScript tooling.
     + **[JavaScript Transpilers: What They Are & Why We Need Them](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)**: Learn how to use Babel, and what has to do with the future of JavaScript.
++ **[Flow](https://flowtype.org/)**: Flow is a static type checker for JavaScript. It can be used to catch common bugs in JavaScript programs before they run.
 + **[JSCodeshift](https://github.com/facebook/jscodeshift)**: Codemods are tools that assist large-scale, partially automatable codebase refactoring. JSCodeshift is a toolkit for running codemods over multiple JS files.
     + **[Turbocharged JavaScript Refactoring with Codemods](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9)**: Joe Lencioni describes how they used codemods to transform a large JavaScript code base at AirBnB
 + **JavaScript Code Linting**: Linting is the process of running a program that will analyse code for potential errors.

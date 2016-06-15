@@ -34,6 +34,7 @@ Placing data in a visual context.
 + **[Smoothie Charts](http://smoothiecharts.org/)**: A JavaScript Charting Library for Streaming Data.
 + **[TimelineJS](http://timeline.knightlab.com/)**: TimelineJS is an open-source tool that enables anyone to build visually rich, interactive timelines.
 + **[Timesheet.js](http://sbstjn.github.io/timesheet.js/)**: Visualize your data and events with sexy HTML5 and CSS3. Create simple time sheets with sneaky JavaScript. Style them with CSS and have mobile fun as well.
++ **[Treefun by Jim Blackler](https://github.com/jimblackler/treefun)**: This tool creates SVG (Standard Vector Graphics) files to illustrate information structured as a basic tree.
 + **[jQuery.Gantt](http://taitems.github.io/jQuery.Gantt/)**: Draw Gantt charts with the famous jQuery ease of development.
 + **[jStat](http://jstat.github.io/)**: jStat is a statistical library written in JavaScript that allows you to perform advanced statistical operations without the need of a dedicated statistical language (e.g. MATLAB or R).
 + **[morris.js](http://morrisjs.github.io/morris.js/)**: Morris.js is a very simple API for drawing line, bar, area and donut charts.

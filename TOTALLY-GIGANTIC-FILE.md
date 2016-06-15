@@ -90,6 +90,7 @@ The outward or visible aspect of a website.
     + **[Smoothie Charts](http://smoothiecharts.org/)**: A JavaScript Charting Library for Streaming Data.
     + **[TimelineJS](http://timeline.knightlab.com/)**: TimelineJS is an open-source tool that enables anyone to build visually rich, interactive timelines.
     + **[Timesheet.js](http://sbstjn.github.io/timesheet.js/)**: Visualize your data and events with sexy HTML5 and CSS3. Create simple time sheets with sneaky JavaScript. Style them with CSS and have mobile fun as well.
+    + **[Treefun by Jim Blackler](https://github.com/jimblackler/treefun)**: This tool creates SVG (Standard Vector Graphics) files to illustrate information structured as a basic tree.
     + **[jQuery.Gantt](http://taitems.github.io/jQuery.Gantt/)**: Draw Gantt charts with the famous jQuery ease of development.
     + **[jStat](http://jstat.github.io/)**: jStat is a statistical library written in JavaScript that allows you to perform advanced statistical operations without the need of a dedicated statistical language (e.g. MATLAB or R).
     + **[morris.js](http://morrisjs.github.io/morris.js/)**: Morris.js is a very simple API for drawing line, bar, area and donut charts.
@@ -168,6 +169,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Rx Training Games](https://github.com/JulienMoumne/rx-training-games)**: Rx Training Games is a coding playground that can be used to learn and practice Reactive Extensions coding grid-based games
             + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
             + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+            + **[RxState](https://www.npmjs.com/package/rxstate)**: Simple opinionated state management library based on RxJS and Immutable.js
             + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
     + **[Routing](undefined)**: A routing system parses a string input (usually a URL) and decides which action should be executed by matching the string against multiple patterns.
@@ -258,6 +260,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Polymer Project](https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html)**: The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web.
         + **[Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)**: Web components evolve markup into something that’s meaningful, maintainable, and highly modular. Thanks to these new API primitives, not only do we have improved ergonomics when building apps, but we gain better overall structure, design, and reusability.
         + **[ShadowDOM Visualizer](http://html5-demos.appspot.com/shadowdom-visualizer)**: This tools allows you to visualize how Shadow DOM renders in the browser.
+        + **[Using Elements](https://elements.polymer-project.org/guides/using-elements)**: This guide describes how to install and use standalone Polymer components in an existing project.
         + **[What is shady DOM?](https://www.polymer-project.org/1.0/articles/shadydom.html)**: On browsers that support shadow DOM, it’s possible to have an element that is rendered with complex DOM, but have that complexity hidden away as implementation detail.
     + **[SMACSS](https://smacss.com/book/)**: SMACSS (pronounced “smacks”) is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
     + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
@@ -328,6 +331,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Nanoscope](http://kovach.me/nanoscope/)**: Nanoscope is a javascript library designed to make complex transformations of data much easier. It is a built on the idea of a functional Lens - a construct that enables focusing on sub-parts of data structures to get and modify.
     + **[Pointfree Fantasy](https://www.npmjs.com/package/pointfree-fantasy)**: Point-free wrappers for fantasy-land. Functions are curried using lodash's curry function, and receive their data last. Gives us aliases with our familar haskell names as well.
     + **[Practical functional programming: pick two](https://www.youtube.com/watch?v=XcS-LdEBUkE)**: James Coglan tries to show in this video how to use functional concepts in daily JavaScript programming.
+    + **[Pure JavaScript](https://vimeo.com/49384334)**: Christian Johansen shows you how you can up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
     + **[PureScript](http://www.purescript.org/)**: PureScript is a strongly, statically typed language which compiles to JavaScript. It is written in and inspired by Haskell.
     + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
     + **[Ramda Fantasy](https://github.com/ramda/ramda-fantasy)**: Fantasy Land compatible types for easy integration with Ramda. This is an experimental project and will probably merge with Sanctuary.
@@ -390,6 +394,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
+    + **[Enemy of the State](https://vimeo.com/68987289)**: An introduction to Functional Reactive Programming and Bacon.js by Philip Roberts.
     + **[Stream Libraries](undefined)**: Libraries which help you compose asynchronous operations on streams of time-varying values and events.
         + **[Bacon.js](http://baconjs.github.io/)**: A small functional reactive programming lib for JavaScript. Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional.
         + **[Kefir.js](https://rpominov.github.io/kefir/)**: Kefir — is a Reactive Programming library for JavaScript inspired by Bacon.js and RxJS, with focus on high performance and low memory usage.
@@ -402,6 +407,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Rx Training Games](https://github.com/JulienMoumne/rx-training-games)**: Rx Training Games is a coding playground that can be used to learn and practice Reactive Extensions coding grid-based games
             + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
             + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+            + **[RxState](https://www.npmjs.com/package/rxstate)**: Simple opinionated state management library based on RxJS and Immutable.js
             + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
         + **[Xstream](https://github.com/staltz/xstream)**: An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
@@ -507,6 +513,7 @@ Ability of a product to work with different input/output devices and rendering s
     + **[Viewport Component](https://github.com/pazguille/viewport)**: Viewport is a component to ease viewport management. You can get the dimensions of the viewport and beyond, which can be quite helpful to perform some checks with JavaScript.
 + **[Web Accessibility](undefined)**: Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
     + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
+    + **[The A11Y Project](http://a11yproject.com/)**: A community-driven effort to make web accessibility easier.
 
 ## Ecosystem
 
@@ -747,6 +754,7 @@ curated by Zoran Jambor.
         + **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
         + **[Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)**: In this video (2011) Nicholas Zakas discusses frontend architecture for complex, modular web applications with significant JavaScript elements.
         + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
+        + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)**: Free (as in pay what you want) E-Book by Nicholas C. Zakas describing the new features in EcmaScript 6.
     + **[Nicolas Gallagher](http://nicolasgallagher.com/)**: Frontend Engineer at Twitter.
         + **[Normalize.css](http://necolas.github.io/normalize.css/)**: A modern, HTML5-ready alternative to CSS resets.
     + **[Pete Hunt](https://github.com/petehunt)**: Co-founder & CEO @HelloSmyte. Ex-FB and Instagram. Worked on React.js.
@@ -766,6 +774,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
             + **[Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)**: In this video (2011) Nicholas Zakas discusses frontend architecture for complex, modular web applications with significant JavaScript elements.
             + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
+            + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)**: Free (as in pay what you want) E-Book by Nicholas C. Zakas describing the new features in EcmaScript 6.
         + **[Shalam](https://github.com/box/shalam)**: A friendly tool for CSS spriting. Shalam allows you to add Retina-friendly, high-quality image sprites to your website without modifying any markup.
         + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
         + **[stalker](https://github.com/box/stalker)**: A jQuery plugin allowing elements to follow the user as they scroll a page.
@@ -818,6 +827,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Rx Training Games](https://github.com/JulienMoumne/rx-training-games)**: Rx Training Games is a coding playground that can be used to learn and practice Reactive Extensions coding grid-based games
             + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
             + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+            + **[RxState](https://www.npmjs.com/package/rxstate)**: Simple opinionated state management library based on RxJS and Immutable.js
             + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
         + **[Visual Studio Code](https://code.visualstudio.com/)**: Build and debug modern web and cloud applications. VS Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
@@ -921,10 +931,11 @@ Programming/mark-up languages and web related standards.
     + **[Control Flow & Error Handling](undefined)**: Statements, that you can use to incorporate interactivity in your application.
         + **[A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)**: Camilo Reyes describes ways to handle Exceptions and asynchronous errors in JavaScript.
     + **[Enhancement Libraries](undefined)**: Libraries that attempt to improve and enhance the vanilla JavaScript language by providing utility functions.
+        + **[Flow](https://flowtype.org/)**: Flow is a static type checker for JavaScript. It can be used to catch common bugs in JavaScript programs before they run.
+        + **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance, & extras.
         + **[MOUT](http://moutjs.com/)**: MOUT provides many helper methods similar to those found on other languages standard libraries (ie. Python, Ruby, PHP).
         + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
         + **[RubyJS](http://rubyjs.org/)**: RubyJS is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
-        + **[lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance, & extras.
     + **[Functions](undefined)**: A function is a JavaScript procedure—a set of statements that performs a task or calculates a value.
         + **[Closures explained by Jim Ley](http://jibbering.com/faq/notes/closures/)**: Explanation of closures in JavaScript.
         + **[Let’s Learn JavaScript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44)**: So this post will be dedicated to the nuts and bolts of how and why closures work the way they do.
@@ -957,13 +968,15 @@ Programming/mark-up languages and web related standards.
         + **[Eloquent JavaScript (Book)](http://eloquentjavascript.net/)**: A comprehensive book about JavaScript, the language, the browser and Node.js.
         + **[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)**: JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs.
         + **[JavaScript Guide by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)**: The JavaScript Guide shows you how to use JavaScript and gives an overview of the language.
+        + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)**: Free (as in pay what you want) E-Book by Nicholas C. Zakas describing the new features in EcmaScript 6.
         + **[What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)**: Philip Roberts, in this video, tries to create an intuitive understanding of what happens when JavaScript runs. He talks about the call stack, event loop, callback queue and other concepts.
-    + **[Promises](https://www.promisejs.org/)**: The core idea behind promises is that a promise represents the result of an asynchronous operation.
+    + **[Promises](https://www.promisejs.org/)**: A promise represents the result of an asynchronous operation.
         + **[Bluebird.js](http://bluebirdjs.com/)**: Bluebird is a full featured promise library with unmatched performance.
         + **[Difference between a Promise and a Task](https://glebbahmutov.com/blog/difference-between-promise-and-task/)**: Once you have a Promise instance the action has already started. Task instance does not run until someone calls .fork()
         + **[ECMAScript Promises Spec](https://tc39.github.io/ecma262/#sec-promise-objects)**: Standard ES specification for promises.
         + **[MDN page on Promises](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)**: The Promise object is used for deferred and asynchronous computations. A Promise represents an operation that hasn't completed yet, but is expected in the future.
         + **[The Promises/A+ Spec](https://promisesaplus.com/)**: An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
+        + **[Tracking Unhandled Rejected Promises](http://www.2ality.com/2016/04/unhandled-rejections.html)**: In Promise-based asynchronous code, rejections are used for error handling. One risk is that rejections may get lost, leading to silent failures.
         + **[What is Promise.try, and why does it matter?](http://cryto.net/~joepie91/blog/)**: In this brief article Sven Slootweg provides a better explanation of what Promise.try is, and why you should always use it, without exceptions.
         + **[What's The Point Of Promises?](http://www.telerik.com/blogs/what-is-the-point-of-promises)**: The point of promises is to represent the eventual resulting value from an operation, but the reason to use them is to better parallel synchronous operations and to solve the callback hell.
 + **[JavaScript Object Notation (JSON)](http://www.json.org/)**: JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language.
@@ -1093,6 +1106,7 @@ Task automation and asset delivery.
 
 + **[Automated Testing](undefined)**: Automated software testing is a process in which software tools execute pre-scripted tests on a software application before it is released into production.
     + **[5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)**: Eric Elliott breaks down some common misconceptions and  explains how you can benefit the most from TDD & unit tests.
+    + **[A Gentle Introduction to Javascript Test Driven Development](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)**: Over the course of the series, James Sinclair works through developing a full application in JavaScript that involves making network requests and manipulating the DOM.
     + **[Anti-patterns and Their Fixes](https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/)**: Shane Tomlinson presents a sample application that contains several common anti-patterns and how these can be refactored to be more testable.
     + **[Chai](http://chaijs.com/)**: Chai is a BDD/TDD assertion library for node and the browser that can be paired with any JavaScript testing framework.
     + **[Cucumber](https://cucumber.io/)**: Cucumber is a software tool that computer programmers use for testing other software. It runs automated acceptance tests written in a behavior-driven development (BDD) style.
@@ -1250,6 +1264,7 @@ against sets of codified UI Guidelines.
 + **[JavaScript Tools](undefined)**: Tools for static analysis, pre and post processing of JavaScript files.
     + **[Babel](https://babeljs.io/)**: Babel is a generic multi-purpose compiler for JavaScript. Using Babel you can use (and create) the next generation of JavaScript, as well as the next generation of JavaScript tooling.
         + **[JavaScript Transpilers: What They Are & Why We Need Them](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)**: Learn how to use Babel, and what has to do with the future of JavaScript.
+    + **[Flow](https://flowtype.org/)**: Flow is a static type checker for JavaScript. It can be used to catch common bugs in JavaScript programs before they run.
     + **[JSCodeshift](https://github.com/facebook/jscodeshift)**: Codemods are tools that assist large-scale, partially automatable codebase refactoring. JSCodeshift is a toolkit for running codemods over multiple JS files.
         + **[Turbocharged JavaScript Refactoring with Codemods](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9)**: Joe Lencioni describes how they used codemods to transform a large JavaScript code base at AirBnB
     + **[JavaScript Code Linting](undefined)**: Linting is the process of running a program that will analyse code for potential errors.
