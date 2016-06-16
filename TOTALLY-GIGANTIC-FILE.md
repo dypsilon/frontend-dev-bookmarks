@@ -123,8 +123,8 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Shadow DOM 201](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/)**: Eric Bidelman explains advanced topics related to styling of Shadow DOM elements.
             + **[Shadow DOM 301](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/)**: Eric Bidelman talks about advanced Shadow DOM topics like multiple shadow roots, insertion points, event model and Shadow DOM Visualizer.
             + **[Shadow DOM W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/shadow/)**: This specification describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
-            + **[ShadowDOM Visualizer](http://html5-demos.appspot.com/static/shadowdom-visualizer/index.html)**: This tools allows you to visualize how Shadow DOM renders in the browser.
-            + **[Why Web Components are so Important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)**: Leon Revill compares web components with concepts from different frameworks and explains why web components matter.
+            + **[ShadowDOM Visualizer](http://html5-demos.appspot.com/static/shadowdom-visualizer/index.html)**: This tool allows you to visualize how Shadow DOM renders in the browser.
+            + **[Why Web Components Are So Important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)**: Leon Revill compares web components with concepts from different frameworks and explains why web components matter.
     + **[DOM Diffing & Patching](undefined)**: Diffing & Patching is a pattern which allows faster and simpler rendering and updating of DOM trees as manual manipulation à la jQuery.
         + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
         + **[Cito.js](https://github.com/joelrich/citojs)**: The core of cito.js consists of a virtual DOM library inspired by React/Mithril. On top of that, it will provide a component framework which will make it easy to build well-encapsulated components.
@@ -742,6 +742,9 @@ curated by Zoran Jambor.
         + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
         + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
         + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
+    + **[Charles Max Wood](https://twitter.com/cmaxw)**: Podcaster of Devchat.tv, organizer of remote confs such as Angular RC, React RC, Rails RC. Software consultant and developer. Father of five.
+        + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
+        + **[JavaScript Jabber](https://devchat.tv/js-jabber/)**: A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
     + **[Chris Coyier](http://chriscoyier.net/)**: Designer at Codepen. Writer at CSS-Tricks. Podcaster at ShopTalk.
         + **[Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)**: Several ideas by Chris Coyier on how to deal with responsive tables.
     + **[Douglas Crockford](http://www.crockford.com/)**: Computer programmer who is best known for his ongoing involvement in the development of the JavaScript language, for having popularized the data format JSON, and for developing JSLint and JSMin.
@@ -890,13 +893,16 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Foundation for Emails 2](http://foundation.zurb.com/emails.html)**: Frontend Framework for E-Mails including a grid, global styles, aligment classes, buttons, callout panels, thumbnail styles, typography, visibility classes.
         + **[Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)**: Zurb Studios put together this set of super awesome email templates so that you can make your email campaigns responsive.
 + **[Podcasts](undefined)**: A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
+    + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
     + **[CDNify Podcasts](https://itunes.apple.com/us/podcast/cdnify/id786191888)**: The CDNify podcast covers all things tech, startup, web performance and acceleration.
     + **[JavaScript Air](https://javascriptair.com/)**: The live broadcast podcast all about JavaScript.
     + **[JavaScript Jabber](https://devchat.tv/js-jabber/)**: A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
+    + **[New Node](undefined)**: undefined
     + **[Non Breaking Space Show](http://goodstuff.fm/nbsp)**: Seeking out the best, brightest, and smartest creative people on digital art, design, and development. From workflows to life hacks, we examine why they do what they do and how they did it.
     + **[Shop Talk Show](http://shoptalkshow.com/)**: An internet radio show about the internet starring Dave Rupert and Chris Coyier.
     + **[The Big Web Show](http://5by5.tv/bigwebshow)**: The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
     + **[The Web Ahead](http://5by5.tv/webahead)**: Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
+    + **[Web Security Warrior](https://devchat.tv/web-sec-warriors)**: Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.
 
 ## Languages, Protocols, Browser APIs
 

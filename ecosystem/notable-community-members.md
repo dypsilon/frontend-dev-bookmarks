@@ -46,6 +46,9 @@ Important engineers, evangelists, architects and other celebrities.
     + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
     + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
     + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
++ **[Charles Max Wood](https://twitter.com/cmaxw)**: Podcaster of Devchat.tv, organizer of remote confs such as Angular RC, React RC, Rails RC. Software consultant and developer. Father of five.
+    + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
+    + **[JavaScript Jabber](https://devchat.tv/js-jabber/)**: A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 + **[Chris Coyier](http://chriscoyier.net/)**: Designer at Codepen. Writer at CSS-Tricks. Podcaster at ShopTalk.
     + **[Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)**: Several ideas by Chris Coyier on how to deal with responsive tables.
 + **[Douglas Crockford](http://www.crockford.com/)**: Computer programmer who is best known for his ongoing involvement in the development of the JavaScript language, for having popularized the data format JSON, and for developing JSLint and JSMin.
