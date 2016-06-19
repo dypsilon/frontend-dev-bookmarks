@@ -269,6 +269,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Polymer Project](https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html)**: The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web.
         + **[Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)**: Web components evolve markup into something that’s meaningful, maintainable, and highly modular. Thanks to these new API primitives, not only do we have improved ergonomics when building apps, but we gain better overall structure, design, and reusability.
+        + **[Lazy Loading of Pages](https://github.com/TimvdLippe/iron-lazy-pages)**: iron-lazy-pages is a Polymer component which allows to load pages on demand.
         + **[ShadowDOM Visualizer](http://html5-demos.appspot.com/shadowdom-visualizer)**: This tools allows you to visualize how Shadow DOM renders in the browser.
         + **[Using Elements](https://elements.polymer-project.org/guides/using-elements)**: This guide describes how to install and use standalone Polymer components in an existing project.
         + **[What is shady DOM?](https://www.polymer-project.org/1.0/articles/shadydom.html)**: On browsers that support shadow DOM, it’s possible to have an element that is rendered with complex DOM, but have that complexity hidden away as implementation detail.
@@ -742,7 +743,7 @@ curated by Zoran Jambor.
         + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
         + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
         + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
-    + **[Charles Max Wood](https://twitter.com/cmaxw)**: Podcaster at Devchat.tv, organizer of remote confs such as Angular RC, React RC, Rails RC. Software consultant and developer. Father of five.
+    + **[Charles Max Wood](https://twitter.com/cmaxw)**: Podcaster at Devchat.tv, organizer of remote confs such as Angular RC, React RC, Rails RC. Software consultant and developer.
         + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
         + **[JavaScript Jabber](https://devchat.tv/js-jabber/)**: A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
     + **[Chris Coyier](http://chriscoyier.net/)**: Designer at Codepen. Writer at CSS-Tricks. Podcaster at ShopTalk.
@@ -1265,6 +1266,7 @@ against sets of codified UI Guidelines.
     + **[Mononoki](https://github.com/madmalik/mononoki)**: Mononoki is a typeface by Matthias Tellen, created to enhance code formatting.
     + **[Profont](http://tobiasjung.name/profont/)**: Profont is a monospaced font created to be a most readable font for programming. It is designed to look good a really small sizes
     + **[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)**: Source Code Pro is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
+    + **[Space Mono](https://fonts.google.com/specimen/Space%20Mono)**: Space Mono is an original fixed-width type family designed by Colophon Foundry for Google Design.
 + **[Getting Started](undefined)**: Step by step guides for setting up a frontend development workflow.
     + **[Front-end Process - Flat Builds and Automation (series)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)**: A flat build is basically the process of coding a static page (or pages) in HTML and CSS. The idea is to supply our developers with design assets such as style guides, pattern libraries or prototypes, including assets such as images, fonts, css, and javascript, as flat builds.
         + **[CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)**: In this part the author introduces the inuit CSS framework and describes how to integrate the framework into the development process.
