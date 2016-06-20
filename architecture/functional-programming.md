@@ -39,6 +39,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Functional Concepts For JavaScript Developers: Currying](https://blog.simpleblend.net/functional-javascript-concepts-currying/)**: Andrew Robbins talks about what currying is and why it's useful.
 + **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
 + **[Functional Frontend Architecture](https://github.com/paldepind/functional-frontend-architecture)**: This repository is meant to document and explore the implementation of what is known as "the Elm architecture". A simple functional architecture for building frontend applications.
++ **[Functional JavaScript Mini Book](https://jcouyang.gitbooks.io/functional-javascript/content/en/index.html)**: Jichao Ouyang gives and introduction to functional programming with JavaScript and describes some Typeclasses like Functor and Monad.
 + **[Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop)**: The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript.
 + **[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)**: Jargon from the functional programming world in simple terms.
 + **[Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504)**: Chet Corcos explains different features of functional programming like composition, currying, lazy evaluation, referential transparency and compares Clojure with Haskell.
@@ -50,6 +51,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Immutable Sequence.js](https://github.com/qiao/immutable-sequence.js)**: High performance implementation of Immutable Sequence in JavaScript, based on Finger Tree.
 + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 + **[JSAir - Functional and Immutable Design Patterns in JavaScript](https://javascriptair.com/episodes/2015-12-30/)**: An episode of JavaScript Air about "the how and why of functional programming and immutable design patterns in JavaScript" with Dab Abramov and Brian Lonsdorf as guests.
++ **[JavaScript and Type Thinking](https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d)**: Yassine Elouafi introduces Algebraic Data Types with an example of a simple and a recursive type.
 + **[Lamda.js](https://github.com/loop-recur/lambdajs)**: This library takes all the methods on instances of strings, arrays, objects, numbers, and regexp's and turns them into functions that can be used in a pointfree way.
 + **[Lazy Either](https://www.npmjs.com/package/lazy-either)**: The LazyEither type is used to represent a lazy Either value. It is similar to the Future and Promise types.
 + **[Lenses Quick n’ Dirty](https://vimeo.com/104807358)**: A video by Brian Lonsdorf that introduces lenses.
@@ -60,13 +62,18 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
 + **[Monads and Gonads](https://www.youtube.com/watch?v=dkZFtimgAcM)**: In this video from YUIConf 2012, Douglas Crockford attempts to break the long-standing Monad tutorial curse by explaining the concept and applications of monads in a way that is actually understandable to the audience.
 + **[Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)**: This article explains monads and their usage in JavaScript including Identity, Maybe, List, Continuation, Do notation and Chaining.
++ **[Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)**: The article describes different popular Monads such as Identity, Maybe, List and Continuation. The author also explains the Do Notation and Chained calls.
 + **[Monat Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
 + **[Monet.js](https://github.com/cwmyers/monet.js)**: Monet is a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions.
 + **[Mori](http://swannodette.github.io/mori/)**: A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
 + **[Nanoscope](http://kovach.me/nanoscope/)**: Nanoscope is a javascript library designed to make complex transformations of data much easier. It is a built on the idea of a functional Lens - a construct that enables focusing on sub-parts of data structures to get and modify.
++ **New Node**: undefined
 + **[Pointfree Fantasy](https://www.npmjs.com/package/pointfree-fantasy)**: Point-free wrappers for fantasy-land. Functions are curried using lodash's curry function, and receive their data last. Gives us aliases with our familar haskell names as well.
++ **[Practical Intro to Monads in JavaScript](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)**: A simple, practical tutorial for JavaScript developers showing how some monads can be used.
++ **[Practical Intro to Monads in JavaScript: Either](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/)**: Jakub Strojewski describes the Either Monad, a tool for fast-failing, synchronous computation chains.
 + **[Practical functional programming: pick two](https://www.youtube.com/watch?v=XcS-LdEBUkE)**: James Coglan tries to show in this video how to use functional concepts in daily JavaScript programming.
++ **[Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179)**: Yassine Elouafi show how to use functional programming and algebraic data types to derive a pure functional definition of reactive programming like streams.
 + **[Pure JavaScript](https://vimeo.com/49384334)**: Christian Johansen shows you how you can up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
 + **[PureScript](http://www.purescript.org/)**: PureScript is a strongly, statically typed language which compiles to JavaScript. It is written in and inspired by Haskell.
 + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
