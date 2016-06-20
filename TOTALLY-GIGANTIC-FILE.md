@@ -337,7 +337,6 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
     + **[Monads and Gonads](https://www.youtube.com/watch?v=dkZFtimgAcM)**: In this video from YUIConf 2012, Douglas Crockford attempts to break the long-standing Monad tutorial curse by explaining the concept and applications of monads in a way that is actually understandable to the audience.
     + **[Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)**: This article explains monads and their usage in JavaScript including Identity, Maybe, List, Continuation, Do notation and Chaining.
-    + **[Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)**: The article describes different popular Monads such as Identity, Maybe, List and Continuation. The author also explains the Do Notation and Chained calls.
     + **[Monat Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
     + **[Monet.js](https://github.com/cwmyers/monet.js)**: Monet is a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions.
     + **[Mori](http://swannodette.github.io/mori/)**: A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
