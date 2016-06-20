@@ -343,7 +343,6 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Mori](http://swannodette.github.io/mori/)**: A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
     + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
     + **[Nanoscope](http://kovach.me/nanoscope/)**: Nanoscope is a javascript library designed to make complex transformations of data much easier. It is a built on the idea of a functional Lens - a construct that enables focusing on sub-parts of data structures to get and modify.
-    + **[New Node](undefined)**: undefined
     + **[Pointfree Fantasy](https://www.npmjs.com/package/pointfree-fantasy)**: Point-free wrappers for fantasy-land. Functions are curried using lodash's curry function, and receive their data last. Gives us aliases with our familar haskell names as well.
     + **[Practical Intro to Monads in JavaScript](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)**: A simple, practical tutorial for JavaScript developers showing how some monads can be used.
     + **[Practical Intro to Monads in JavaScript: Either](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/)**: Jakub Strojewski describes the Either Monad, a tool for fast-failing, synchronous computation chains.
