@@ -183,8 +183,10 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
     + **[Routing](undefined)**: A routing system parses a string input (usually a URL) and decides which action should be executed by matching the string against multiple patterns.
+        + **[A JavaScript router in 20 lines](http://joakim.beng.se/blog/posts/a-javascript-router-in-20-lines.html)**: Joakim Carlstein shows how to write a simple router with data binding.
         + **[Crossroads.js](http://millermedeiros.github.io/crossroads.js/)**: Crossroads.js is a powerful and flexible routing system. If used properly it can reduce code complexity by decoupling objects and also by abstracting navigation paths and server requests.
         + **[Director](https://github.com/flatiron/director)**: A tiny and isomorphic URL router for JavaScript.
+        + **[Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/blog/routing)**: Peter Burns describes a routing approach based on Polymer elements, that allow to create chained and modular routes.
         + **[Hash.js](https://github.com/javve/hash.js)**: Hash.js is a 0.5 KB script that lets you manipulate everything behind # in urls.
         + **[JQuery Address](http://www.asual.com/jquery/address/)**: The jQuery Address plugin provides powerful deep linking capabilities and allows the creation of unique virtual addresses that can point to a website section or an application state.
         + **[Page.js](https://github.com/visionmedia/page.js)**: Micro client-side router inspired by the Express router.
@@ -289,6 +291,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[pubsub.js](https://github.com/federico-lox/pubsub.js)**: A tiny (~600 bytes when minified, ~300 bytes when gzip'd) and robust pubsub implementation.
 + **[Functional Programming](undefined)**: Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
+    + **[A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)**: This article shows how the Maybe monad can be used for handling simple failure use cases. It then extrapolates into complex failure scenarios and shows how these cases can be modelled in terms of the Either monad.
     + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
     + **[Barely Functional](https://github.com/cullophid/barely-functional)**: Tiny (2.7kb) functional programming library using native es5/6 operations.
     + **[Bilby.js](http://bilby.brianmckenna.org/)**: A functional library based on category theory with immutable multimethods, functional data structures, functional operator overloading, automated specification testing.
@@ -343,13 +346,15 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
     + **[Nanoscope](http://kovach.me/nanoscope/)**: Nanoscope is a javascript library designed to make complex transformations of data much easier. It is a built on the idea of a functional Lens - a construct that enables focusing on sub-parts of data structures to get and modify.
     + **[Pointfree Fantasy](https://www.npmjs.com/package/pointfree-fantasy)**: Point-free wrappers for fantasy-land. Functions are curried using lodash's curry function, and receive their data last. Gives us aliases with our familar haskell names as well.
+    + **[Practical Functional Programming: Pick Two](https://www.youtube.com/watch?v=XcS-LdEBUkE)**: James Coglan tries to show in this video how to use functional concepts in daily JavaScript programming.
     + **[Practical Intro to Monads in JavaScript](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)**: A simple, practical tutorial for JavaScript developers showing how some monads can be used.
     + **[Practical Intro to Monads in JavaScript: Either](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/)**: Jakub Strojewski describes the Either Monad, a tool for fast-failing, synchronous computation chains.
-    + **[Practical functional programming: pick two](https://www.youtube.com/watch?v=XcS-LdEBUkE)**: James Coglan tries to show in this video how to use functional concepts in daily JavaScript programming.
+    + **[Practical Intro to Monads in JavaScript: Validation](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)**: Jakub Strojewski shows how to accumulate errors in a simple Validation use case.
     + **[Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179)**: Yassine Elouafi show how to use functional programming and algebraic data types to derive a pure functional definition of reactive programming like streams.
     + **[Pure JavaScript](https://vimeo.com/49384334)**: Christian Johansen shows you how you can up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
     + **[PureScript](http://www.purescript.org/)**: PureScript is a strongly, statically typed language which compiles to JavaScript. It is written in and inspired by Haskell.
     + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
+        + **[Practical Ramda - Functional Programming Examples](undefined)**: Tom MacWright gives some practical examples of Ramda usage.
     + **[Ramda Fantasy](https://github.com/ramda/ramda-fantasy)**: Fantasy Land compatible types for easy integration with Ramda. This is an experimental project and will probably merge with Sanctuary.
     + **[Sanctuary](http://sanctuary.js.org/)**: Sanctuary is a functional programming library inspired by Haskell and PureScript. It depends on and works nicely with Ramda. Sanctuary makes it possible to write safe code without null checks.
         + **[Sanctuary Build Script](https://github.com/sanctuary-js/sanctuary-site/blob/gh-pages/scripts/generate)**: A build script for generating the Sanctuary website.
@@ -373,6 +378,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.3lbq6d4yq)**: Roman Liutikov translated code examples from similar Clojure article into JavaScript. So you can still read the article and check code examples here.
     + **[Union Type](https://github.com/paldepind/union-type)**: Union types are a way to group different values together. Union-type is a small JavaScript library for defining and using union types.
 + **[Functional Reactive Programming (FRP)](undefined)**: FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.
+    + **[A General Theory of Reactivity](https://github.com/kriskowal/gtor)**: Kris Kowal describes popular primitives of Reactive Programming and some use cases.
     + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
         + **[Async Driver](https://github.com/whitecolor/cycle-async-driver)**: Higher order factory for creating cycle.js async request based drivers. Allows you almost completely eliminate boilerplate code for this kind of drivers.
         + **[Cycle.js Was Built to Solve Problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E)**: In this video André Staltz shows how Cycle.js has a practical purpose, meant to solve problems your customers/business may relate to.
@@ -663,6 +669,7 @@ Important developers, companies, organizations and news sources.
         + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+        + **[New Node](undefined)**: undefined
         + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
         + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
         + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
@@ -672,6 +679,7 @@ Important developers, companies, organizations and news sources.
         + **[React: Rethinking best practices (2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: A video introduction to React by Pete Hunt.
         + **[ReactPerfTool](https://github.com/RamonGebben/react-perf-tool)**: ReactPerfTool tries to give you a more visual way of debugging performance of your React application. It does this by using the addons delivered by the React team and community to get measurements and visualize this using graphs.
         + **[Redux Form](https://github.com/erikras/redux-form)**: A Higher Order Component using react-redux to keep form state in a Redux store.
+        + **[Redux Saga](https://github.com/yelouafi/redux-saga)**: An alternative Side Effects middleware for Redux applications. Instead of dispatching Thunks which get handled by the redux-thunk middleware, you create Sagas to gather all your Side Effects logic in a central place.
         + **[Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)**: In this post James Long tries not to evangelize React specifically, but to explain why its technique is profound.
         + **[Retractor](https://github.com/LiquidLabsGmbH/retractor)**: Retractor exposes the internals of a React application for end-to-end testing purposes. This allows you to select DOM nodes based on the name of the React Component that rendered the node as well as its state or properties.
         + **[Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)**: Cody Lindley lays out seven React setups in this article and explains the relation of React to BYOA (Bring Your Own Architecture) approach.
@@ -811,6 +819,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
             + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
             + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+            + **[New Node](undefined)**: undefined
             + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
             + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
             + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
@@ -820,6 +829,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[React: Rethinking best practices (2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: A video introduction to React by Pete Hunt.
             + **[ReactPerfTool](https://github.com/RamonGebben/react-perf-tool)**: ReactPerfTool tries to give you a more visual way of debugging performance of your React application. It does this by using the addons delivered by the React team and community to get measurements and visualize this using graphs.
             + **[Redux Form](https://github.com/erikras/redux-form)**: A Higher Order Component using react-redux to keep form state in a Redux store.
+            + **[Redux Saga](https://github.com/yelouafi/redux-saga)**: An alternative Side Effects middleware for Redux applications. Instead of dispatching Thunks which get handled by the redux-thunk middleware, you create Sagas to gather all your Side Effects logic in a central place.
             + **[Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)**: In this post James Long tries not to evangelize React specifically, but to explain why its technique is profound.
             + **[Retractor](https://github.com/LiquidLabsGmbH/retractor)**: Retractor exposes the internals of a React application for end-to-end testing purposes. This allows you to select DOM nodes based on the name of the React Component that rendered the node as well as its state or properties.
             + **[Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)**: Cody Lindley lays out seven React setups in this article and explains the relation of React to BYOA (Bring Your Own Architecture) approach.
@@ -960,6 +970,7 @@ Programming/mark-up languages and web related standards.
         + **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance, & extras.
         + **[MOUT](http://moutjs.com/)**: MOUT provides many helper methods similar to those found on other languages standard libraries (ie. Python, Ruby, PHP).
         + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
+            + **[Practical Ramda - Functional Programming Examples](undefined)**: Tom MacWright gives some practical examples of Ramda usage.
         + **[RubyJS](http://rubyjs.org/)**: RubyJS is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
     + **[Functions](undefined)**: A function is a JavaScript procedure—a set of statements that performs a task or calculates a value.
         + **[Closures explained by Jim Ley](http://jibbering.com/faq/notes/closures/)**: Explanation of closures in JavaScript.
@@ -1154,6 +1165,7 @@ against sets of codified UI Guidelines.
     + **[Tape](https://github.com/substack/tape)**: Tap-producing test harness for node and browsers.
         + **[Testing JavaScript Modules with Tape](https://ponyfoo.com/articles/testing-javascript-modules-with-tape)**: In this article we will get an in-depth look at three modules:  tape, proxyquire, and sinon.
         + **[Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.fjpja613n)**: Eric Elliott describes the advantages of Tape and compares it to more popular testing frameworks.
+    + **[TestCheck](https://github.com/leebyron/testcheck-js)**: TestCheck is a library for generative testing of program properties, ala QuickCheck.
     + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
     + **[Writing Testable JavaScript](undefined)**: Rebecca Murphey discusses how to organize code to make JavaScript more testable in unit tests.
 + **[Build Tools](undefined)**: Toolkits and their ecosystems, that help you automate painful and repeated tasks.

@@ -139,6 +139,7 @@ Successful open source projects attract many developers who produce plugins, lib
     + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
     + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
     + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+    + **New Node**: undefined
     + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
     + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
     + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
@@ -148,6 +149,7 @@ Successful open source projects attract many developers who produce plugins, lib
     + **[React: Rethinking best practices (2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: A video introduction to React by Pete Hunt.
     + **[ReactPerfTool](https://github.com/RamonGebben/react-perf-tool)**: ReactPerfTool tries to give you a more visual way of debugging performance of your React application. It does this by using the addons delivered by the React team and community to get measurements and visualize this using graphs.
     + **[Redux Form](https://github.com/erikras/redux-form)**: A Higher Order Component using react-redux to keep form state in a Redux store.
+    + **[Redux Saga](https://github.com/yelouafi/redux-saga)**: An alternative Side Effects middleware for Redux applications. Instead of dispatching Thunks which get handled by the redux-thunk middleware, you create Sagas to gather all your Side Effects logic in a central place.
     + **[Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)**: In this post James Long tries not to evangelize React specifically, but to explain why its technique is profound.
     + **[Retractor](https://github.com/LiquidLabsGmbH/retractor)**: Retractor exposes the internals of a React application for end-to-end testing purposes. This allows you to select DOM nodes based on the name of the React Component that rendered the node as well as its state or properties.
     + **[Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)**: Cody Lindley lays out seven React setups in this article and explains the relation of React to BYOA (Bring Your Own Architecture) approach.

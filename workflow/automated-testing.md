@@ -37,6 +37,7 @@ against sets of codified UI Guidelines.
 + **[Tape](https://github.com/substack/tape)**: Tap-producing test harness for node and browsers.
     + **[Testing JavaScript Modules with Tape](https://ponyfoo.com/articles/testing-javascript-modules-with-tape)**: In this article we will get an in-depth look at three modules:  tape, proxyquire, and sinon.
     + **[Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.fjpja613n)**: Eric Elliott describes the advantages of Tape and compares it to more popular testing frameworks.
++ **[TestCheck](https://github.com/leebyron/testcheck-js)**: TestCheck is a library for generative testing of program properties, ala QuickCheck.
 + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
 + **Writing Testable JavaScript**: Rebecca Murphey discusses how to organize code to make JavaScript more testable in unit tests.
 

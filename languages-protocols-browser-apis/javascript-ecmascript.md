@@ -20,6 +20,7 @@ JavaScript is a full-fledged dynamic programming language that, when applied to 
     + **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance, & extras.
     + **[MOUT](http://moutjs.com/)**: MOUT provides many helper methods similar to those found on other languages standard libraries (ie. Python, Ruby, PHP).
     + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
+        + **Practical Ramda - Functional Programming Examples**: Tom MacWright gives some practical examples of Ramda usage.
     + **[RubyJS](http://rubyjs.org/)**: RubyJS is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
 + **Functions**: A function is a JavaScript procedure—a set of statements that performs a task or calculates a value.
     + **[Closures explained by Jim Ley](http://jibbering.com/faq/notes/closures/)**: Explanation of closures in JavaScript.

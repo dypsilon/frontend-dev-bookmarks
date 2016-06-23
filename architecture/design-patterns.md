@@ -91,8 +91,10 @@ Best practices that the programmer can use to solve common problems when designi
         + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
         + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
 + **Routing**: A routing system parses a string input (usually a URL) and decides which action should be executed by matching the string against multiple patterns.
+    + **[A JavaScript router in 20 lines](http://joakim.beng.se/blog/posts/a-javascript-router-in-20-lines.html)**: Joakim Carlstein shows how to write a simple router with data binding.
     + **[Crossroads.js](http://millermedeiros.github.io/crossroads.js/)**: Crossroads.js is a powerful and flexible routing system. If used properly it can reduce code complexity by decoupling objects and also by abstracting navigation paths and server requests.
     + **[Director](https://github.com/flatiron/director)**: A tiny and isomorphic URL router for JavaScript.
+    + **[Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/blog/routing)**: Peter Burns describes a routing approach based on Polymer elements, that allow to create chained and modular routes.
     + **[Hash.js](https://github.com/javve/hash.js)**: Hash.js is a 0.5 KB script that lets you manipulate everything behind # in urls.
     + **[JQuery Address](http://www.asual.com/jquery/address/)**: The jQuery Address plugin provides powerful deep linking capabilities and allows the creation of unique virtual addresses that can point to a website section or an application state.
     + **[Page.js](https://github.com/visionmedia/page.js)**: Micro client-side router inspired by the Express router.

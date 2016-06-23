@@ -13,6 +13,7 @@ FRP is a programming paradigm for asynchronous dataflow programming using the bu
 
 -----------------------------------------
 
++ **[A General Theory of Reactivity](https://github.com/kriskowal/gtor)**: Kris Kowal describes popular primitives of Reactive Programming and some use cases.
 + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
     + **[Async Driver](https://github.com/whitecolor/cycle-async-driver)**: Higher order factory for creating cycle.js async request based drivers. Allows you almost completely eliminate boilerplate code for this kind of drivers.
     + **[Cycle.js Was Built to Solve Problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E)**: In this video André Staltz shows how Cycle.js has a practical purpose, meant to solve problems your customers/business may relate to.
