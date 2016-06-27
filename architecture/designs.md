@@ -78,6 +78,7 @@ Ready to use and well documented structures and frameworks for frontend developm
     + **[What is shady DOM?](https://www.polymer-project.org/1.0/articles/shadydom.html)**: On browsers that support shadow DOM, it’s possible to have an element that is rendered with complex DOM, but have that complexity hidden away as implementation detail.
 + **[SMACSS](https://smacss.com/book/)**: SMACSS (pronounced “smacks”) is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
 + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
++ **[The Elm Architecture](http://guide.elm-lang.org/architecture/index.html)**: The Elm Architecture is a simple pattern for infinitely nestable components. It is great for modularity, code reuse, and testing.
 + **[TodoMVC](http://todomvc.com/)**: A project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
 
 

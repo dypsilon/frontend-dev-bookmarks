@@ -1,8 +1,8 @@
-# Hypertext Transfer Protocol (HTTP)
+# Buttons
 
-**Context: [frontend-dev-bookmarks](../README.md) / Languages, Protocols, Browser APIs**
+**Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
 
-The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
+The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
@@ -13,8 +13,7 @@ The Hypertext Transfer Protocol (HTTP) is an application protocol for distribute
 
 -----------------------------------------
 
-+ **[Best Practice for HTTP2 Front-End Deployments](http://blog.cloud66.com/best-practice-for-http2-front-end-deployments/)**: This post describes how to set up and use the new HTTP/2 protocol.
-+ **[Ideal HTTP Performance](https://www.mnot.net/blog/2016/04/22/ideal-http)**: This post talks about the design of the HTTP protocol, it's performance drawbacks and how to work around them.
++ **[Quantum Paper Buttons](https://github.com/nashvail/Quttons)**: With this plugin you can hide any div behind a Quantum Paper Button or Qutton. Qunatum Paper is a digital paper that can change its size, shape and color to accommodate new content. Quantum paper is part of Google's new Material Design language.
 
 
 ------------------

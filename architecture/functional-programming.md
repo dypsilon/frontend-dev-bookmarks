@@ -17,11 +17,13 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)**: This article shows how the Maybe monad can be used for handling simple failure use cases. It then extrapolates into complex failure scenarios and shows how these cases can be modelled in terms of the Either monad.
 + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
 + **[Barely Functional](https://github.com/cullophid/barely-functional)**: Tiny (2.7kb) functional programming library using native es5/6 operations.
++ **[Basic Lazy Evaluation and Memoization in JavaScript](http://blog.gypsydave5.com/2015/03/21/lazy-eval-and-memo/)**: Memoization is a way of optimizing code so that it will return cached results for the same inputs.
 + **[Bilby.js](http://bilby.brianmckenna.org/)**: A functional library based on category theory with immutable multimethods, functional data structures, functional operator overloading, automated specification testing.
 + **[Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)**: Eric Elliott describes the difference between partial application and curry.
 + **[Daggy](https://github.com/puffnfresh/daggy)**: Library for creating tagged constructors (catamorphisms).
 + **[Date FP](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.
 + **[Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)**: This post will demonstrate a simple solution that can go a long way to enhance the debugging experience in functional JavaScript applications.
++ **[Don’t Fear the Reader](https://passy.svbtle.com/dont-fear-the-reader)**: Pascal Hartig explains how to use the reader monad in JavaScript.
 + **Example Projects**: Open source projects which use functional programming, preferably point-free and side-effect-free.
     + **[Async Problem](https://github.com/plaid/async-problem)**: This project considers various approaches to the problem of concurrently reading files inside a directory and concatenating their contents.
     + **[CommonJS module dependencies resolver](https://github.com/iamstarkov/es-deps-deep)**: The module and all related modules are written using point-free style.
@@ -45,6 +47,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Functional Principles In React](https://www.youtube.com/watch?v=1uRC3hmKQnM)**: Jessica Kerr talks about four functional principles: Composition, Declarative Style, Isolation and Flow Of Data, and their usage in React.
 + **[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)**: Jargon from the functional programming world in simple terms.
 + **[Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504)**: Chet Corcos explains different features of functional programming like composition, currying, lazy evaluation, referential transparency and compares Clojure with Haskell.
++ **[Functional Refactoring in JavaScript](http://victorsavkin.com/post/63551894251/functional-refactoring-in-javascript)**: In this article Victor Savkin shows how to apply functional thinking when refactoring JavaScript code. He does that by taking a simple function and transforming it into a more extendable one, which has no mutable state, and no if statements.
 + **[Functional.js](http://functionaljs.com/)**: Functional.js is a functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
 + **[Functionize](https://github.com/paldepind/functionize)**: A collection of functions which aids in making non-functional libraries functional.
 + **[Futures and Monoids](https://medium.com/@yelouafi/futures-and-monoids-7e9f4574bd88)**: Yassine Elouafi explains the nature of Monoids using Futures, Numbers and Strings as examples.
@@ -73,6 +76,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
 + **[Nanoscope](http://kovach.me/nanoscope/)**: Nanoscope is a javascript library designed to make complex transformations of data much easier. It is a built on the idea of a functional Lens - a construct that enables focusing on sub-parts of data structures to get and modify.
 + **[Pointfree Fantasy](https://www.npmjs.com/package/pointfree-fantasy)**: Point-free wrappers for fantasy-land. Functions are curried using lodash's curry function, and receive their data last. Gives us aliases with our familar haskell names as well.
++ **[Pointfree Javascript](http://lucasmreis.github.io/blog/pointfree-javascript/)**: In this post Lucas Reis presents what is called pointfree style programming and goes through some common scenarios to demonstrate its benefits.
 + **[Practical Functional Programming: Pick Two](https://www.youtube.com/watch?v=XcS-LdEBUkE)**: James Coglan tries to show in this video how to use functional concepts in daily JavaScript programming.
 + **[Practical Intro to Monads in JavaScript](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)**: A simple, practical tutorial for JavaScript developers showing how some monads can be used.
 + **[Practical Intro to Monads in JavaScript: Either](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/)**: Jakub Strojewski describes the Either Monad, a tool for fast-failing, synchronous computation chains.
@@ -103,6 +107,7 @@ Functional programming is a programming paradigm, that treats computation as the
     + **[Transducers are Coming](http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming)**: The first announcement by Rich Hickey.
     + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
     + **[Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.3lbq6d4yq)**: Roman Liutikov translated code examples from similar Clojure article into JavaScript. So you can still read the article and check code examples here.
++ **[Understanding Monads With JavaScript](http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html)**: The author starts with a problem of dealing with explicit immutable state and solves it with JavaScript using monads.
 + **[Union Type](https://github.com/paldepind/union-type)**: Union types are a way to group different values together. Union-type is a small JavaScript library for defining and using union types.
 
 

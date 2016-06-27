@@ -37,6 +37,7 @@ Tools for static analysis, pre and post processing of JavaScript files.
     + **[crapLoader](https://github.com/gregersrygg/crapLoader)**: The goal of crapLoader is to load ads, widgets or any JavaScript code with document.write in it. This library hijacks document.write and delegates the content loaded from each script into the correct position.
     + **[require.js](http://requirejs.org/)**: RequireJS is a JavaScript file and AMD module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.
     + **[uRequire](https://github.com/anodynos/urequire)**: The Ultimate JavaScript Module Builder & Automagical Task Runner.
++ **[Regenerator](https://github.com/facebook/regenerator)**: This package implements a source transformation that takes the proposed syntax for generators/yield from future versions of JS and spits out efficient JS-of-today (ES5) that behaves the same way.
 
 
 ------------------

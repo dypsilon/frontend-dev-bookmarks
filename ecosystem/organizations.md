@@ -64,6 +64,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
         + **[Why Did You Update?](https://github.com/garbles/why-did-you-update)**: A function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur.
         + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
+    + **[Regenerator](https://github.com/facebook/regenerator)**: This package implements a source transformation that takes the proposed syntax for generators/yield from future versions of JS and spits out efficient JS-of-today (ES5) that behaves the same way.
 + **[Google](https://www.google.com/)**: Google’s mission is to organize the world’s information and make it universally accessible and useful.
     + **[Addy Osmani](https://addyosmani.com/)**: Engineer at Google working on open web tooling.
         + **[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)**: In this free book Addy Osmani explores applying both classical and modern design patterns to the JavaScript programming language.
