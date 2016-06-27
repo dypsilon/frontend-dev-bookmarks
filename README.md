@@ -1,6 +1,6 @@
 # Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-** Manually curated collection of resources for frontend web developers. **
+**Manually curated collection of resources for frontend web developers.**
 
 You are viewing a browseable version, split by category in many small files. There is also a really huge file with every single resource on one page. Proceed to the [totally gigantic file](TOTALLY-GIGANTIC-FILE.md) if you are into this kind of thing.
 
