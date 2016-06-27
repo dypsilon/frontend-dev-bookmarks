@@ -18,7 +18,7 @@ You are viewing the TGF (Totally Gigantic File). Proceed to [frontend-dev-bookma
 
 The outward or visible aspect of a website.
 
-+ **[Animation](undefined)**: The process of creating motion and shape change.
++ **Animation**: The process of creating motion and shape change.
     + **[Animate.css](http://daneden.github.io/animate.css/)**: Just-add-water CSS animations.
     + **[Approach](http://srobbin.com/jquery-plugins/approach/)**: A jQuery plugin that allows you to animate CSS properties based on distance to an object.
     + **[CSS Spritesheet Animation Example](http://jsfiddle.net/simurai/CGmCe/light/)**: Sprite Sheet animation with CSS3 using the steps() feature.
@@ -48,7 +48,7 @@ The outward or visible aspect of a website.
     + **[scripty2](http://scripty2.com/)**: scripty2 is a powerful, flexible JavaScript framework to help you write your own          delicious visual effects & user interfaces.
     + **[textillate.js](http://jschr.github.io/textillate/)**: Textillate.js combines some awesome libraries to provide a ease-to-use plugin for applying CSS3 animations to any text.
     + **[tween.js](https://github.com/sole/tween.js)**: Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.
-+ **[Typography](undefined)**: The style, arrangement, or appearance of typeset matter.
++ **Typography**: The style, arrangement, or appearance of typeset matter.
     + **[Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/fonts)**: Edge Web Fonts is a free service that provides access to a large library of fonts for your website. It’s one of the Edge Tools & Services from Adobe. Use of the service is free and unlimited.
     + **[Baseline.js](https://github.com/daneden/Baseline.js)**: A simple jQuery plugin for restoring vertical baselines thrown off by odd image sizes.
     + **[CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography)**: Small roundup on CSS features that will enhance your web typography.
@@ -68,7 +68,7 @@ The outward or visible aspect of a website.
     + **[bacon](http://baconforme.com/)**: Bacon is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
     + **[slabText](https://github.com/freqDec/slabText/)**: A jQuery plugin for producing big, bold & responsive headlines.
     + **[trunk8](http://jrvis.com/trunk8/)**: trunk8 is an intelligent text truncation plugin to jQuery. When applied to a large block of text, trunk8 will cut off just enough text to prevent it from spilling over.
-+ **[Visualization](undefined)**: Placing data in a visual context.
++ **Visualization**: Placing data in a visual context.
     + **[Bonsai.js](http://bonsaijs.org/)**: A lightweight graphics library with an intuitive graphics API and an SVG renderer.
     + **[Chart.js](http://www.chartjs.org/)**: Simple, clean and engaging charts for designers and developers.
     + **[Crossfilter](http://square.github.io/crossfilter/)**: Crossfilter is a JavaScript library for exploring large multivariate datasets in the browser.
@@ -102,17 +102,17 @@ The outward or visible aspect of a website.
 
 High level structure of the frontend code and the discipline of creating such structures.
 
-+ **[Algorithms](undefined)**: A self-contained step-by-step set of operations to be performed. Algorithms perform calculation, data processing, and/or automated reasoning tasks.
++ **Algorithms**: A self-contained step-by-step set of operations to be performed. Algorithms perform calculation, data processing, and/or automated reasoning tasks.
     + **[Algorithm Visualizer](https://github.com/parkjs814/AlgorithmVisualizer)**: A collection of algorithms with code and visualizations for each one of them.
-+ **[Design Patterns](undefined)**: Best practices that the programmer can use to solve common problems when designing an application or system.
++ **Design Patterns**: Best practices that the programmer can use to solve common problems when designing an application or system.
     + **[CSS Modules](https://github.com/css-modules)**: A CSS Module is a CSS file in which all class names and animation names are scoped locally by default.
         + **[CSS Modules Documentation](https://github.com/css-modules/css-modules)**: General overview and some implementations.
         + **[ES CSS Modules](https://github.com/jacobp100/es-css-modules)**: PostCSS plugin that combines CSS Modules and ES Imports.
         + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
-    + **[Components](undefined)**: Reusable and composable pieces of HTML, CSS and/or JavaScript code which are mostly used for GUI elements.
+    + **Components**: Reusable and composable pieces of HTML, CSS and/or JavaScript code which are mostly used for GUI elements.
         + **[Component Check](https://github.com/Mercateo/component-check)**: In this project Donald Pipowitch compares the usage and development of components in several frameworks such as Angular, Ember, Cycle.js and React.
         + **[Devbridge Styleguide](http://livingstyleguide.devbridge.com/)**: Devbridge Styleguide helps you create, share, and automate a living visual style library of your brand.
-        + **[Web Components](undefined)**: Web Components is a W3C standard for encapsulated, reusable and composable widgets for the web platform.
+        + **Web Components**: Web Components is a W3C standard for encapsulated, reusable and composable widgets for the web platform.
             + **[Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/)**: Tracking the progress of Web Components through standardisation, polyfillification and implementation.
             + **[Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)**: Eric Bidelman describes how to create new HTML elements and manage their life cycle.
             + **[Custom Elements W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/custom/)**: This specification describes the method for enabling the author to define and use new types of DOM elements in a document.
@@ -125,7 +125,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Shadow DOM W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/shadow/)**: This specification describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
             + **[ShadowDOM Visualizer](http://html5-demos.appspot.com/static/shadowdom-visualizer/index.html)**: This tool allows you to visualize how Shadow DOM renders in the browser.
             + **[Why Web Components Are So Important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)**: Leon Revill compares web components with concepts from different frameworks and explains why web components matter.
-    + **[DOM Diffing & Patching](undefined)**: Diffing & Patching is a pattern which allows faster and simpler rendering and updating of DOM trees as manual manipulation à la jQuery.
+    + **DOM Diffing & Patching**: Diffing & Patching is a pattern which allows faster and simpler rendering and updating of DOM trees as manual manipulation à la jQuery.
         + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
         + **[Cito.js](https://github.com/joelrich/citojs)**: The core of cito.js consists of a virtual DOM library inspired by React/Mithril. On top of that, it will provide a component framework which will make it easy to build well-encapsulated components.
         + **[Incremental DOM](https://github.com/google/incremental-dom)**: Incremental DOM is a library for building up DOM trees and updating them in-place when data changes. It differs from the established virtual DOM approach in that no intermediate tree is created (the existing tree is mutated in-place).
@@ -142,20 +142,20 @@ High level structure of the frontend code and the discipline of creating such st
             + **[vdom-virtualize](https://github.com/marcelklehr/vdom-virtualize/)**: Turn a DOMNode into a virtual-dom node.
             + **[virtual-html](https://github.com/yoshuawuyts/virtual-html)**: Convert given HTML into Virtual DOM object.
             + **[vtree-select](https://github.com/parshap/vtree-select)**: Select vtree nodes (used by virtual-dom) using css selectors. Selector matching is done using cssauron. See the documentation for details on supported selectors.
-    + **[Design Pattern Collections](undefined)**: Overview resources and collections of design patterns.
+    + **Design Pattern Collections**: Overview resources and collections of design patterns.
         + **[About HTML Semantics and Frontend Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)**: A collection of thoughts, experiences, ideas on HTML semantics, components and approaches to front-end architecture, class naming patterns, and HTTP compression.
         + **[Box Tech Talk: Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=mKouqShWI4o)**: A video by Nicholas Zakas (2012) about JavaScript Architecture.
         + **[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)**: In this free book Addy Osmani explores applying both classical and modern design patterns to the JavaScript programming language.
         + **[Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)**: An extensive overview by Addy Osmani of existing architectural solutions in the frontend development field.
         + **[Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=vXjVFPosQHw)**: In this video (2011) Nicholas Zakas discusses frontend architecture for complex, modular web applications with significant JavaScript elements.
         + **[Single Page Apps in Depth](http://singlepageappbook.com/)**: This free book is what I wanted when I started working with single page apps. It's not an API reference on a particular framework, rather, the focus is on discussing patterns, implementation choices and decent practices.
-    + **[JavaScript Modules](undefined)**: Modules divide programs into clusters of code that, by some criterion, belong together.
+    + **JavaScript Modules**: Modules divide programs into clusters of code that, by some criterion, belong together.
         + **[Chapter 10 of Eloquent JavaScript: Modules](http://eloquentjavascript.net/10_modules.html)**: This chapter explores some of the benefits that division of code provides and shows techniques for building modules in JavaScript.
         + **[ES6 In Depth: Modules](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)**: This article highlights export and import keywords from ES6.
         + **[Efficient Module Loading Without Bundling](https://mariusgundersen.net/module-pusher/)**: We can combine ES2015 modules, static analysis of those modules, HTTP/2, caching, Service Workers and a bloom-filter to create a server-client relationship where the client can efficiently load any module.
         + **[JavaScript Modules: A Beginner’s Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.i78m6tfs9)**: In this post, Preethi Kasireddy will unpack the buzzwords like module bundlers, AMD and CommonJS for you in plain English, including a few code samples.
         + **[Modern Modular JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modularjavascript)**: A chapter from Essential JavaScript Design Patterns on Modules.
-        + **[Module Bundlers and Loaders](undefined)**: Libraries for bundling JavaScript Modules into one or several files.
+        + **Module Bundlers and Loaders**: Libraries for bundling JavaScript Modules into one or several files.
             + **[Browserify](http://browserify.org/)**: Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
                 + **[Watchify](https://www.npmjs.org/package/watchify)**: Watch mode for browserify builds.
             + **[Require1k](http://stuk.github.io/require1k/)**: CommonJS require for the browser in 1KB, with no build needed.
@@ -170,7 +170,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[uRequire](https://github.com/anodynos/urequire)**: The Ultimate JavaScript Module Builder & Automagical Task Runner.
         + **[UMD (Universal Module Definition)](https://github.com/umdjs/umd)**: This repository formalizes the design and implementation of the Universal Module Definition (UMD) API for JavaScript modules. These are modules which are capable of working everywhere, be it in the client, on the server or elsewhere.
         + **[Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)**: In this article Addy Osmani reviewes several of the options available for writing modular JavaScript using modern module formats AMD, CommonJS and ES6 Modules.
-    + **[Observable](undefined)**: An Observable is an event stream which can emit zero or more events, and may or may not finish. If it finishes, then it does so by either emitting an error or a special “complete” event.
+    + **Observable**: An Observable is an event stream which can emit zero or more events, and may or may not finish. If it finishes, then it does so by either emitting an error or a special “complete” event.
         + **[ECMAScript Observable](https://github.com/zenparsing/es-observable)**: This proposal introduces an Observable type to the ECMAScript standard library. The Observable type can be used to model push-based data sources such as DOM events, timer intervals, and sockets.
         + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
             + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
@@ -183,7 +183,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[RxState](https://www.npmjs.com/package/rxstate)**: Simple opinionated state management library based on RxJS and Immutable.js
             + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
-    + **[Routing](undefined)**: A routing system parses a string input (usually a URL) and decides which action should be executed by matching the string against multiple patterns.
+    + **Routing**: A routing system parses a string input (usually a URL) and decides which action should be executed by matching the string against multiple patterns.
         + **[A JavaScript router in 20 lines](http://joakim.beng.se/blog/posts/a-javascript-router-in-20-lines.html)**: Joakim Carlstein shows how to write a simple router with data binding.
         + **[Crossroads.js](http://millermedeiros.github.io/crossroads.js/)**: Crossroads.js is a powerful and flexible routing system. If used properly it can reduce code complexity by decoupling objects and also by abstracting navigation paths and server requests.
         + **[Director](https://github.com/flatiron/director)**: A tiny and isomorphic URL router for JavaScript.
@@ -195,7 +195,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Route Recognizer](https://github.com/tildeio/route-recognizer)**: A lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers.
         + **[Router.js (Ember)](https://github.com/tildeio/router.js)**: Router.js is the routing microlib used by Ember.js.
         + **[Router5](https://github.com/router5/router5)**: A simple, powerful, modular and extensible router, organising your named routes in a tree and handling route transitions. In its simplest form, Router5 processes routing instructions and outputs state updates.
-    + **[UI Data Binding](undefined)**: Binding of UI elements to an application domain model. Most frameworks employ the Observer pattern as the underlying binding mechanism.
+    + **UI Data Binding**: Binding of UI elements to an application domain model. Most frameworks employ the Observer pattern as the underlying binding mechanism.
         + **[Bindings in Ember](https://guides.emberjs.com/v2.6.0/object-model/bindings/)**: Unlike most other frameworks that include some sort of binding implementation, bindings in Ember.js can be used with any object.
         + **[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)**: This article explores several approaches to manage state: Ember's data binding, Angular's dirty checking, React's virtual DOM, and its relationship to immutable data structures.
         + **[Easy Two-Way Data Binding in JavaScript](http://www.lucaongaro.eu/blog/2012/12/02/easy-two-way-data-binding-in-javascript/)**: Two-way data binding refers to the ability to bind changes to an object’s properties to changes in the UI, and viceversa. This article describes how to implement data binding with vanilla JavaScript.
@@ -203,20 +203,20 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Knockout.js](http://knockoutjs.com/)**: Knockout is a standalone JavaScript implementation of the Model-View-ViewModel pattern with templates.
         + **[Rivets.js](http://rivetsjs.com/)**: Lightweight and powerful data binding + templating solution for building modern web applications.
         + **[Synapse](https://github.com/bruth/synapse/)**: Hooks to support data binding between virtually any object.
-    + **[Unidirectional Data Flow](undefined)**: An architecture design pattern which promotes a flow of data and events in a single direction, usually creating an interactive loop.
+    + **Unidirectional Data Flow**: An architecture design pattern which promotes a flow of data and events in a single direction, usually creating an interactive loop.
         + **[Immutable User Interfaces](https://vimeo.com/album/3953264/video/166790294)**: Lee Byron talks about unidirectional data flow architectures based on immutable data structures in contrast to traditional MVC based designs.
             + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-        + **[Model-View-Intent (MVI)](undefined)**: MVI is a unidirectional data flow architecture pattern consisting of three parts: Intent (to listen to the user), Model (to process information), and View (to output back to the user).
+        + **Model-View-Intent (MVI)**: MVI is a unidirectional data flow architecture pattern consisting of three parts: Intent (to listen to the user), Model (to process information), and View (to output back to the user).
             + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
             + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
             + **[Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)**: André Staltz describes the idea of Reactive Programming vs. Interactive Programming, proceeds with the MVI design pattern and compares it to React/Flux.
             + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
         + **[Unidirectional Data Flow Architectures (Talk)](https://vimeo.com/168652278)**: Andre Staltz compares modern architecture patterns including Flux, Redux, Model-View-Intent, Elm Arch and BEST.
-+ **[Designs](undefined)**: Ready to use and well documented structures and frameworks for frontend development.
++ **Designs**: Ready to use and well documented structures and frameworks for frontend development.
     + **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
         + **[A More Seamless Workflow — Style Guides for Better Design and Development](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c)**: Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
         + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
-    + **[Authoring jQuery Plugins](undefined)**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
+    + **Authoring jQuery Plugins**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
         + **[Advanced Plugin Concepts](http://learn.jquery.com/plugins/advanced-plugin-concepts/)**: A collection of best practices for jQuery plugin authoring.
         + **[How to Create a Basic Plugin](http://learn.jquery.com/plugins/basic-plugin-creation/)**: The article describes basic plugin creation and provides a simple boilerplate.
         + **[Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin)**: Collection of jQuery plugin antipatterns.
@@ -259,7 +259,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Snabbdom](https://github.com/TylorS/cycle-snabbdom)**: Alternative DOM driver utilizing the snabbdom library.
             + **[Socket.IO](https://github.com/cgeorg/cycle-socket.io)**: A Cycle driver for applications using Socket.IO
             + **[Storage](https://github.com/cyclejs/storage)**: A Cycle.js Driver for using localStorage and sessionStorage in the browser.
-        + **[Example Projects](undefined)**: Example applications built with Cycle.js
+        + **Example Projects**: Example applications built with Cycle.js
             + **[Cycle.js Examples](https://github.com/cyclejs/examples)**: Browse and learn from examples of small Cycle.js apps using Core, DOM Driver, HTML Driver, HTTP Driver, JSONP Driver, and others.
             + **[RX Marbles](https://github.com/staltz/rxmarbles)**: Interactive diagrams of Rx Observables.
             + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
@@ -280,10 +280,10 @@ High level structure of the frontend code and the discipline of creating such st
     + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
     + **[The Elm Architecture](http://guide.elm-lang.org/architecture/index.html)**: The Elm Architecture is a simple pattern for infinitely nestable components. It is great for modularity, code reuse, and testing.
     + **[TodoMVC](http://todomvc.com/)**: A project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
-+ **[Event-Driven Programming](undefined)**: Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions, sensor outputs, or messages from other programs/threads.
++ **Event-Driven Programming**: Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions, sensor outputs, or messages from other programs/threads.
     + **[Comparison Between Different Observer Pattern Implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)**: The comparison below is just about the basic features of subscribing to an event type, dispatching and removing an event listener.
     + **[Event Emitter, Pub Sub or Deferred Promises](https://otaqui.com/blog/1374/event-emitter-pub-sub-or-deferred-promises-which-should-you-choose/)**: In this post Pete Otaqui explores a little about how each pattern works with (very) basic implementations and looks at the reasons why you might choose one over another.
-    + **[Implementations](undefined)**: Libraries, frameworks and tools that use Event-Driven Programming paradigm.
+    + **Implementations**: Libraries, frameworks and tools that use Event-Driven Programming paradigm.
         + **[Bacon.js](https://baconjs.github.io/)**: A small functional reactive programming lib for JavaScript. Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional.
         + **[Flight](http://flightjs.github.io/)**: An event-driven web framework, from Twitter.
         + **[Mediator.js](http://thejacklawson.com/Mediator.js/)**: Mediator is a simple class that allows you to register, unregister, and call subscriber methods to help event-based, asyncronous programming.
@@ -291,7 +291,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Radio.js](http://radio.uxder.com/)**: Radio.js is a small dependency-free publish/subscribe JavaScript library. Use it to implement the observer pattern in your code to help decouple your application architecture for greater maintainability.
         + **[js-signals](http://millermedeiros.github.io/js-signals/)**: Custom Event/Messaging system for JavaScript.
         + **[pubsub.js](https://github.com/federico-lox/pubsub.js)**: A tiny (~600 bytes when minified, ~300 bytes when gzip'd) and robust pubsub implementation.
-+ **[Functional Programming](undefined)**: Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
++ **Functional Programming**: Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
     + **[A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)**: This article shows how the Maybe monad can be used for handling simple failure use cases. It then extrapolates into complex failure scenarios and shows how these cases can be modelled in terms of the Either monad.
     + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
@@ -303,7 +303,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Date FP](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.
     + **[Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)**: This post will demonstrate a simple solution that can go a long way to enhance the debugging experience in functional JavaScript applications.
     + **[Don’t Fear the Reader](https://passy.svbtle.com/dont-fear-the-reader)**: Pascal Hartig explains how to use the reader monad in JavaScript.
-    + **[Example Projects](undefined)**: Open source projects which use functional programming, preferably point-free and side-effect-free.
+    + **Example Projects**: Open source projects which use functional programming, preferably point-free and side-effect-free.
         + **[Async Problem](https://github.com/plaid/async-problem)**: This project considers various approaches to the problem of concurrently reading files inside a directory and concatenating their contents.
         + **[CommonJS module dependencies resolver](https://github.com/iamstarkov/es-deps-deep)**: The module and all related modules are written using point-free style.
         + **[Egg Hunt Server](https://github.com/Bradcomp/egghunt-server/tree/functional)**: A restful API written in FP style.
@@ -364,7 +364,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Pure JavaScript](https://vimeo.com/49384334)**: Christian Johansen shows you how you can up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
     + **[PureScript](http://www.purescript.org/)**: PureScript is a strongly, statically typed language which compiles to JavaScript. It is written in and inspired by Haskell.
     + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
-        + **[Practical Ramda - Functional Programming Examples](undefined)**: Tom MacWright gives some practical examples of Ramda usage.
+        + **Practical Ramda - Functional Programming Examples**: Tom MacWright gives some practical examples of Ramda usage.
     + **[Ramda Fantasy](https://github.com/ramda/ramda-fantasy)**: Fantasy Land compatible types for easy integration with Ramda. This is an experimental project and will probably merge with Sanctuary.
     + **[Sanctuary](http://sanctuary.js.org/)**: Sanctuary is a functional programming library inspired by Haskell and PureScript. It depends on and works nicely with Ramda. Sanctuary makes it possible to write safe code without null checks.
         + **[Sanctuary Build Script](https://github.com/sanctuary-js/sanctuary-site/blob/gh-pages/scripts/generate)**: A build script for generating the Sanctuary website.
@@ -373,7 +373,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Transducers](http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming)**: Transducers are a powerful and composable way to build algorithmic transformations that you can reuse in many contexts.
         + **["Transducers" Presentation at Strange Loop](https://www.youtube.com/watch?v=6mTbuzafcII)**: This talk will describe transducers, a new library feature for Clojure (but of interest to other languages) that emphasizes composable, context-free, intermediate-free notions like 'mapping' and 'filtering' and their concrete reuse across all of the contexts above.
         + **[Figuring out what transducers are good for](http://gfxmonk.net/2015/11/25/figuring-out-what-transducers-are-good-for.html)**: Tim Cuthbertson attempts some plausible but detailed examples with Transducers in JavaScript.
-        + **[Implementations](undefined)**: Libraries that implement Transducer protocoll and include ready to use transformers.
+        + **Implementations**: Libraries that implement Transducer protocoll and include ready to use transformers.
             + **[Transduce](https://github.com/transduce/transduce)**: Implementation by Kevin Beaty extracted from underarm.
             + **[Transducers-js by Cognitect Labs](https://github.com/cognitect-labs/transducers-js)**: A high performance Transducers implementation for JavaScript by Cognitect Labs.
             + **[Transducers.js Library by James Long](https://github.com/jlongster/transducers.js)**: A small library for generalized transformation of data (inspired by Clojure's transducers)
@@ -388,7 +388,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.3lbq6d4yq)**: Roman Liutikov translated code examples from similar Clojure article into JavaScript. So you can still read the article and check code examples here.
     + **[Understanding Monads With JavaScript](http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html)**: The author starts with a problem of dealing with explicit immutable state and solves it with JavaScript using monads.
     + **[Union Type](https://github.com/paldepind/union-type)**: Union types are a way to group different values together. Union-type is a small JavaScript library for defining and using union types.
-+ **[Functional Reactive Programming (FRP)](undefined)**: FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.
++ **Functional Reactive Programming (FRP)**: FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.
     + **[A General Theory of Reactivity](https://github.com/kriskowal/gtor)**: Kris Kowal describes popular primitives of Reactive Programming and some use cases.
     + **[A General Theory of Reactivity (Video)](https://www.youtube.com/watch?v=R9CGieinKVo)**: Kris Kowal talks about reactive primitives and their traits.
     + **[Controlling Time and Space](https://www.youtube.com/watch?v=Agu6jipKfYw)**: This talk will quickly cover the basics of FRP, and then go into a couple different formulations of FRP that people are beginning to use. We will explore how these formulations fit together historically and theoretically.
@@ -417,7 +417,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Snabbdom](https://github.com/TylorS/cycle-snabbdom)**: Alternative DOM driver utilizing the snabbdom library.
             + **[Socket.IO](https://github.com/cgeorg/cycle-socket.io)**: A Cycle driver for applications using Socket.IO
             + **[Storage](https://github.com/cyclejs/storage)**: A Cycle.js Driver for using localStorage and sessionStorage in the browser.
-        + **[Example Projects](undefined)**: Example applications built with Cycle.js
+        + **Example Projects**: Example applications built with Cycle.js
             + **[Cycle.js Examples](https://github.com/cyclejs/examples)**: Browse and learn from examples of small Cycle.js apps using Core, DOM Driver, HTML Driver, HTTP Driver, JSONP Driver, and others.
             + **[RX Marbles](https://github.com/staltz/rxmarbles)**: Interactive diagrams of Rx Observables.
             + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
@@ -431,7 +431,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
     + **[Enemy of the State](https://vimeo.com/68987289)**: An introduction to Functional Reactive Programming and Bacon.js by Philip Roberts.
     + **[Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179)**: Yassine Elouafi show how to use functional programming and algebraic data types to derive a pure functional definition of reactive programming like streams.
-    + **[Stream Libraries](undefined)**: Libraries which help you compose asynchronous operations on streams of time-varying values and events.
+    + **Stream Libraries**: Libraries which help you compose asynchronous operations on streams of time-varying values and events.
         + **[Bacon.js](http://baconjs.github.io/)**: A small functional reactive programming lib for JavaScript. Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional.
         + **[Kefir.js](https://rpominov.github.io/kefir/)**: Kefir — is a Reactive Programming library for JavaScript inspired by Bacon.js and RxJS, with focus on high performance and low memory usage.
         + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
@@ -455,14 +455,14 @@ High level structure of the frontend code and the discipline of creating such st
 
 Ability of a product to work with different input/output devices and rendering software. Including printers, email, mobile devices and different browsers.
 
-+ **[Cross Browser](undefined)**: Cross-browser refers to the ability of a website, web application, HTML construct or client-side script to function in environments that provide its required features and to bow out or degrade gracefully when features are absent or lacking.
++ **Cross Browser**: Cross-browser refers to the ability of a website, web application, HTML construct or client-side script to function in environments that provide its required features and to bow out or degrade gracefully when features are absent or lacking.
     + **[Can I use ... ?](http://caniuse.com/)**: "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
     + **[Dev Tools by Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/)**: These tools allow you to test your product on different version of Internet Explorer and Microsoft Edge.
     + **[HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)**: So here we're collecting all the shims, fallbacks, and polyfills in order to implant HTML5 functionality in browsers that don't natively support them.
     + **[HTML5 Please](http://html5please.com/)**: Look up HTML5, CSS3, etc features, know if they are ready for use, and if so find out how you should use them – with polyfills, fallbacks or as they are.
     + **[Modernizr](https://modernizr.com/)**: It’s a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.
     + **[Normalize.css](http://necolas.github.io/normalize.css/)**: A modern, HTML5-ready alternative to CSS resets.
-+ **[E-Mail](undefined)**: Preparing HTML based electronic mail.
++ **E-Mail**: Preparing HTML based electronic mail.
     + **[Bulletproof E-Mail Buttons](https://buttons.cm/)**: Design gorgeous buttons using progressively enhanced VML and CSS.
     + **[Email Lab](https://github.com/sparkbox/email-lab)**: This a project for developing and testing email templates. It uses Grunt to streamline and simplify the creation of email templates. Email template can be built with re-usable components.
     + **[Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)**: Use these code examples as a guideline for formatting your HTML email to avoid some of the major styling pitfalls in HTML email design.
@@ -473,27 +473,27 @@ Ability of a product to work with different input/output devices and rendering s
     + **[Responsive Email Design](https://www.campaignmonitor.com/dev-resources/guides/mobile/)**: In this guide, the author will cover the fundamentals of designing and building a mobile-friendly email and back it all up with some neat tips and techniques.
     + **[Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)**: Zurb Studios put together this set of super awesome email templates so that you can make your email campaigns responsive.
     + **[The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/)**: A complete breakdown of the CSS support for the top 10 most popular mobile, web and desktop email clients on the planet.
-+ **[Keyboard](undefined)**: Working with keyboard input in a web browser.
++ **Keyboard**: Working with keyboard input in a web browser.
     + **[What’s New with KeyboardEvents? Keys and Codes!](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)**: Jeff Posnick talks about the code and key event attributes and how to use them in practice.
-+ **[Mobile](undefined)**: Development of websites optimized for viewing on smartphone and tablet devices.
-    + **[Emulation](undefined)**: Tools for emulating features of mobile devices on a desktop.
++ **Mobile**: Development of websites optimized for viewing on smartphone and tablet devices.
+    + **Emulation**: Tools for emulating features of mobile devices on a desktop.
         + **[Responsinator](http://www.responsinator.com/)**: Quickly test any website in popular resolutions.
         + **[Simulate Mobile Devices with Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/?hl=en)**: Use Chrome DevTools' Device Mode to build mobile-first, fully responsive web sites. Learn how to use it to simulate a wide range of devices and their capabilities.
         + **[Touché](https://github.com/davidcalhoun/touche)**: Touché: bringing touch events to non-touch browsers (how touching!). No dependencies. No code bloat.
         + **[thumbs.js](http://mwbrooks.github.io/thumbs.js/)**: Adds touch support to your browser.
-    + **[Gestures](undefined)**: Resources for working with touch mechanics (what your fingers do on the screen) and touch activities (results of specific gestures).
+    + **Gestures**: Resources for working with touch mechanics (what your fingers do on the screen) and touch activities (results of specific gestures).
         + **[Hammer.js](http://hammerjs.github.io/)**: Hammer helps you add support for touch gestures to your page, and remove the 300ms delay from clicks.
         + **[Introduction to Gestures](https://www.google.com/design/spec/patterns/gestures.html)**: Descriptions of different gestures an their meanings.
         + **[Pointer Events Polyfill](https://github.com/jquery/PEP)**: PEP polyfills pointer events in all browsers that haven't yet implemented them, providing a unified, responsive input model for all devices and input types.
         + **[Touchy](https://github.com/HotStudio/touchy)**: Touchy is a jQuery plugin for managing touch events on W3C-compliant browsers, such as Mobile Safari or Android Browser, or any browser that supports the ontouchstart, ontouchmove and ontouchend events.
         + **[jGestures](http://jgestures.codeplex.com/)**: A jQuery plugin that enables you to add gesture events just like native jQuery events. Includes event substitution for mouse events.
-    + **[Layout](undefined)**: The way in which the parts of the website are arranged or laid out.
+    + **Layout**: The way in which the parts of the website are arranged or laid out.
         + **[Snap.js](https://github.com/jakiestfu/Snap.js)**: A Library for creating beautiful mobile shelfs (side menus) in Javascript.
         + **[Swipe](https://github.com/thebird/swipe)**: Swipe is the most accurate touch slider.
         + **[Swiper](http://idangero.us/swiper/)**: Swiper is a free mobile touch slider with hardware accelerated transitions and  native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps.
         + **[jqm-pagination](https://github.com/filamentgroup/jqm-pagination)**: A jQuery Mobile plugin for sequential pagination between pages with support for touch, mouse, and keyboard.
         + **[swipeslide](https://github.com/max-power/swipeslide)**: A Zepto Plugin for iOS like swipe navigation.
-    + **[Scrolling](undefined)**: Native scrolling of the browsers doesn't always fit for mobile websites. There are resources which solve this problem.
+    + **Scrolling**: Native scrolling of the browsers doesn't always fit for mobile websites. There are resources which solve this problem.
         + **[Overscroll](https://github.com/azoff/overscroll)**: Overscroll is a jQuery plug-in that mimics the iphone/ipad scrolling experience in a browser.
         + **[Overthrow](https://www.filamentgroup.com/lab/overthrow.html)**: A framework-independent, overflow: auto polyfill for use in responsive design.
         + **[Zynga Scroller](https://github.com/zynga/scroller)**: A pure logic component for scrolling/zooming. It is independent of any specific kind of rendering or event system.
@@ -501,25 +501,25 @@ Ability of a product to work with different input/output devices and rendering s
         + **[jQuery.pep.js](http://pep.briangonzalez.org/)**: A lightweight plugin for kinetic-drag on mobile/desktop.
         + **[jSwipeKinetic](http://jswipekinetic.codeplex.com/)**: A jQuery plugin that enables you to add kinetic scrolling on your touch optimized projects. jSwipeKinetic is build on top of jGestures.
         + **[pull-to-refresh.js](https://github.com/visiongeist/pull-to-refresh-js)**: This plugin enables a pull-to-refresh functionality in mobile safari for scrollable block elements with native scrolling on iOS.
-    + **[Tap Acceleration](undefined)**: Every touch-based mobile browser has an artificial ~300ms delay between you tapping a thing on the screen and the browser considering it a "click", but there are ways to work around this behavior.
+    + **Tap Acceleration**: Every touch-based mobile browser has an artificial ~300ms delay between you tapping a thing on the screen and the browser considering it a "click", but there are ways to work around this behavior.
         + **[300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away)**: An article by Google describing the 300ms delay and how Chrome 32+ on Anrdoid deals with it.
         + **[Hammer.js](http://hammerjs.github.io/)**: Hammer helps you add support for touch gestures to your page, and remove the 300ms delay from clicks.
         + **[Tappable](http://cheeaun.github.io/tappable/)**: Tappable is a simple, standalone library to invoke the tap event for touch-friendly web browsers.
         + **[fastclick](https://github.com/ftlabs/fastclick)**: FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a click event on mobile browsers.
-    + **[Touch Keyboard](undefined)**: Almost all modern smartphones provide a touch based keyboard for text input. There are some tactics to influence them and work around their quirks.
+    + **Touch Keyboard**: Almost all modern smartphones provide a touch based keyboard for text input. There are some tactics to influence them and work around their quirks.
         + **[A Guide To Designing Touch Keyboards](https://www.smashingmagazine.com/2013/08/guide-to-designing-touch-keyboards-with-cheat-sheet/)**: In this article, we will look a bit deeper into the usability issues surrounding touch keyboards, including five design guidelines that will alleviate some of these pains.
-    + **[Working With Sensors](undefined)**: All mobile devices are equipped with sensors like gyroscope, accelerometers, photometers, magnetometers and so on. Some of them are accessible in a browser through JavaScript.
+    + **Working With Sensors**: All mobile devices are equipped with sensors like gyroscope, accelerometers, photometers, magnetometers and so on. Some of them are accessible in a browser through JavaScript.
         + **[This End Up: Using Device Orientation](http://www.html5rocks.com/en/tutorials/device/orientation/)**: In this article, we’ll take a look at device orientation and motion events, and use CSS to rotate an image based on the orientation of the device.
         + **[lenticular.js](http://lenticular.attasi.com/)**: Tilt-controlled images in the browser.
-+ **[Printers](undefined)**: Manipulation of printer output through CSS.
++ **Printers**: Manipulation of printer output through CSS.
     + **[Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)**: A comprehensive guide for print optimization including background images and colors, expanding external links, QR codes, CSS3 filters for print quality.
-+ **[Responsive Web Design (RWD)](undefined)**: RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.
-    + **[Data Tables](undefined)**: Tables filled with data don't behave well on small screens. Here are some resources to tame them.
++ **Responsive Web Design (RWD)**: RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.
+    + **Data Tables**: Tables filled with data don't behave well on small screens. Here are some resources to tame them.
         + **[Responsive Data Tables](https://css-tricks.com/responsive-data-tables/)**: Several ideas by Chris Coyier on how to deal with responsive tables.
         + **[stacktable.js](http://johnpolacek.github.com/stacktable.js/)**: jQuery plugin for stacking tables on small screens.
     + **[Future Friendly Thinking](http://futurefriendlyweb.com/thinking.html)**: We want to make things that are future friendly. The following ideas have been on our minds recently. Help us explore them further or suggest new ones.
     + **[How to make a Responsive Newspaper-like layout](http://www.newnet-soft.com/blog/responsive-multi-column)**: The article describes several approaches for creating multi column websites.
-    + **[Images](undefined)**: Images pose a set of problems on responsive websites: scaling, performance, retina screens and file size.
+    + **Images**: Images pose a set of problems on responsive websites: scaling, performance, retina screens and file size.
         + **[Adaptive Images](http://adaptive-images.com/)**: Adaptive Images detects your visitor's screen size and automatically creates, caches, and delivers device appropriate re-scaled versions of your web page's embeded HTML images.
         + **[Choosing A Responsive Image Solution](https://www.smashingmagazine.com/2013/07/choosing-a-responsive-image-solution/)**: This article leads you through the basics, and then arms you with the information you’ll need to pick the best responsive image solution for your situation.
         + **[Clown Car Technique](https://github.com/estelle/clowncar)**: We can use media queries within SVG to serve up the right image. The beauty of the "Clown Car" technique is that all the logic remains in the SVG file.
@@ -529,25 +529,25 @@ Ability of a product to work with different input/output devices and rendering s
         + **[Why We Need Responsive Images](https://timkadlec.com/2013/06/why-we-need-responsive-images/)**: Tim Kadlec talks about page weight and responsive image solutions.
         + **[imgLiquid](https://github.com/karacas/imgLiquid)**: A jQuery Plugin to resize images to fit in a container.
         + **[jQuery Picture](http://jquerypicture.com/)**: jQuery Picture is a tiny (2kb) plugin to add support for responsive images to your layouts. It supports both figure elements with some custom data attributes and the new proposed picture format.
-    + **[Monitoring Breakpoints](undefined)**: Triggering JavaScript events on different breakpoints.
+    + **Monitoring Breakpoints**: Triggering JavaScript events on different breakpoints.
         + **[Breakpoints.js](http://xoxco.com/projects/code/breakpoints/)**: Define breakpoints for your responsive design, and Breakpoints.js will fire custom events when the browser enters and/or exits that breakpoint.
         + **[Harvey](http://harvesthq.github.io/harvey/)**: Harvey helps you monitor and manage behavior changes by firing an event whenever your media query is activated.
         + **[enquire.js](http://wicky.nillia.ms/enquire.js/)**: enquire.js is a lightweight, pure javascript library (with no dependencies) for programmatically responding to media queries.
-    + **[Navigation](undefined)**: Adapting the website navigation to different screen sizes.
+    + **Navigation**: Adapting the website navigation to different screen sizes.
         + **[Complex Navigation Patterns](http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/)**: The article describes some emerging patterns for dealing with complex, lengthy and/or multi-level navigations.
         + **[Responsive Navigation On Complex Websites](http://mobile.smashingmagazine.com/2013/09/11/responsive-navigation-on-complex-websites/)**: To illustrate the techniques involved in implementing responsive navigation on a large website, author refers to two actual clients.
         + **[Responsive Navigation Patterns](http://bradfrost.com/blog/web/responsive-nav-patterns/)**: The article describes some of the more popular techniques for handling navigation in responsive designs.
     + **[Responsive Design Workflow](http://vimeo.com/45915667)**: In this video, Stephen Hay explores at a content-based approach to design workflow which is grounded in our multiplatform reality, not fixed-width Photoshop comps and overproduced wireframes.
     + **[Responsive Elements](http://kumailht.com/responsive-elements/)**: Responsive elements makes it possible for any element to adapt and respond to the area they occupy. It's a tiny JavaScript library that you can drop into your projects today.
     + **[Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)**: A collection of patterns and modules for responsive designs.
-    + **[Text](undefined)**: Working with text in a context of different viewport sizes.
+    + **Text**: Working with text in a context of different viewport sizes.
         + **[FitText](http://fittextjs.com/)**: FitText makes font-sizes flexible. Use this plugin on your fluid or responsive layout to achieve scalable headlines that fill the width of a parent element.
         + **[Out Of Words!](http://starburst1977.github.io/out-of-words/)**: The responsive typography framework behind Words App.
         + **[Responsive Font Sizing](http://www.newnet-soft.com/blog/responsivefontsizing)**: Making your font size respond to your screen size, easy & maintainable.
         + **[Responsive Measure](http://jbrewer.github.com/Responsive-Measure/)**: A jQuery plugin for generating a responsive ideal measure.
         + **[Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)**: This article describes viewport units and other technics to achieve typography which resizes smoothly with the screen.
     + **[Viewport Component](https://github.com/pazguille/viewport)**: Viewport is a component to ease viewport management. You can get the dimensions of the viewport and beyond, which can be quite helpful to perform some checks with JavaScript.
-+ **[Web Accessibility](undefined)**: Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
++ **Web Accessibility**: Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
     + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
     + **[The A11Y Project](http://a11yproject.com/)**: A community-driven effort to make web accessibility easier.
 
@@ -555,7 +555,7 @@ Ability of a product to work with different input/output devices and rendering s
 
 Important developers, companies, organizations and news sources.
 
-+ **[Communities Around Projects](undefined)**: Successful open source projects attract many developers who produce plugins, libraries, tutorials and other resources. This section collects such resources.
++ **Communities Around Projects**: Successful open source projects attract many developers who produce plugins, libraries, tutorials and other resources. This section collects such resources.
     + **[Angular](https://angularjs.org/)**: AngularJS is a web application framework trying to address many of the challenges encountered in developing single-page applications.
         + **[Angular 2 ESNext Starter](https://github.com/blacksonic/angular2-esnext-starter)**: This repo stands as a starting point for those who try Angular 2 in Javascript. It shows techniques how easy development can be also without Typescript.
         + **[How to Prevent Name Collisions in Angular 2 Providers](http://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html)**: Opaque tokens are distinguishable and prevent us from running into naming collisions. Whenever we create a token that is not a type, OpaqueToken should be used.
@@ -590,7 +590,7 @@ Important developers, companies, organizations and news sources.
             + **[Snabbdom](https://github.com/TylorS/cycle-snabbdom)**: Alternative DOM driver utilizing the snabbdom library.
             + **[Socket.IO](https://github.com/cgeorg/cycle-socket.io)**: A Cycle driver for applications using Socket.IO
             + **[Storage](https://github.com/cyclejs/storage)**: A Cycle.js Driver for using localStorage and sessionStorage in the browser.
-        + **[Example Projects](undefined)**: Example applications built with Cycle.js
+        + **Example Projects**: Example applications built with Cycle.js
             + **[Cycle.js Examples](https://github.com/cyclejs/examples)**: Browse and learn from examples of small Cycle.js apps using Core, DOM Driver, HTML Driver, HTTP Driver, JSONP Driver, and others.
             + **[RX Marbles](https://github.com/staltz/rxmarbles)**: Interactive diagrams of Rx Observables.
             + **[TODO: Minimum Viable Pizza](https://github.com/cgeorg/todomvp)**: Minimum Viable Pizza implemented with Cycle.js
@@ -607,8 +607,8 @@ Important developers, companies, organizations and news sources.
         + **[Router.js (Ember)](https://github.com/tildeio/router.js)**: Router.js is the routing microlib used by Ember.js.
     + **[Foundation](http://foundation.zurb.com/)**: Foundation provides a responsive grid and HTML and CSS UI components, templates, and code snippets, including typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
     + **[Gulp](http://gulpjs.com/)**: Gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow. It's very fast, platform-agnostic and simple.
-        + **[Articles & Tutorials](undefined)**: Publications about gulp or step by step guides for setting up and using gulp in a project.
-            + **[Building with Gulp 3 and 4 (Series)](undefined)**: Great series of articles about single components and gulp as a whole.
+        + **Articles & Tutorials**: Publications about gulp or step by step guides for setting up and using gulp in a project.
+            + **Building with Gulp 3 and 4 (Series)**: Great series of articles about single components and gulp as a whole.
                 + **[Part 1: Examples](http://blog.reactandbethankful.com/posts/2015/04/23/building-with-gulp-3-and-4-part-1-examples/)**: Introduction to gulp and gulpfile.js.
                 + **[Part 2: Gulp's anatomy](http://blog.reactandbethankful.com/posts/2015/04/23/building-with-gulp-3-and-4-part-2-gulp-anatomy/)**: Orchestrator, Undertaker, Vinyl and Vinyl FS, Gulp Plugins.
                 + **[Part 3: Writing transformers](http://blog.reactandbethankful.com/posts/2015/04/28/building-with-gulp-3-and-4-part-3-writing-transformers/)**: Using map-stream, though2 and event-stream.
@@ -616,20 +616,20 @@ Important developers, companies, organizations and news sources.
                 + **[Part 5: Caveats](http://blog.reactandbethankful.com/posts/2015/05/05/building-with-gulp-part-5-caveats/)**: Error management in Gulp 3 and "MANY:1 disguised as a 1:1" problem.
             + **[The vision, history, and future of the project (Apr. 2014)](https://medium.com/@contrahacks/gulp-3828e8126466)**: The article talks about Streams, Vinyl, Vinyl Adapters, Orchestrator and Error Management in Gulp 4.
             + **[Why Gulp might not be the Answer](http://scm.io/blog/hack/2014/07/why-gulp-might-not-be-the-answer/)**: ... there is still a conceptual problem that Gulp has yet to address. Many build steps are not 1:1 (one file in, one file out) but rather n:1 or 1:n.
-        + **[CSS](undefined)**: Gulp plugins for working with CSS files.
+        + **CSS**: Gulp plugins for working with CSS files.
             + **[gulp-clean-css](https://github.com/scniro/gulp-clean-css)**: gulp plugin to minify CSS, using clean-css.
             + **[gulp-cssnano](https://www.npmjs.com/package/gulp-cssnano)**: Minify CSS with cssnano.
-        + **[Concatenation](undefined)**: Plugins for file concatenation. For example bundling CSS or JavaScript files.
+        + **Concatenation**: Plugins for file concatenation. For example bundling CSS or JavaScript files.
             + **[gulp-concat](https://www.npmjs.com/package/gulp-concat)**: This plugin will concat files by your operating systems newLine. It will take the base directory from the first file that passes through it.
             + **[gulp-group-concat](https://www.npmjs.com/package/gulp-group-concat)**: Concats groups of files into a smaller number of files
-        + **[Deployment](undefined)**: Plugins for pushing built files into production.
+        + **Deployment**: Plugins for pushing built files into production.
             + **[gulp-tar](https://github.com/sindresorhus/gulp-tar)**: Create tarball from files.
             + **[vinyl-ftp](https://github.com/morris/vinyl-ftp)**: Blazing fast vinyl adapter for FTP.
             + **[vinyl-s3](https://github.com/izaakschroeder/vinyl-s3)**: Use S3 as a source or destination of vinyl files.
-        + **[Ecosystem](undefined)**: The network of developers and plugins around gulp.
+        + **Ecosystem**: The network of developers and plugins around gulp.
             + **[@sindresorhus plugins](https://github.com/search?q=%40sindresorhus+gulp-)**: A collection of plugins by Sindre Sorhus.
             + **[Gulp Friendly NPM Packages](https://www.npmjs.com/browse/keyword/gulpfriendly)**: Normal node packages that work with gulp.
-        + **[Filters](undefined)**: Plugins for filtering files in a vinyl stream.
+        + **Filters**: Plugins for filtering files in a vinyl stream.
             + **[gulp-cache](https://www.npmjs.com/package/gulp-cache)**: A temp file based caching proxy task for gulp.
             + **[gulp-cached](https://www.npmjs.com/package/gulp-cached)**: A simple in-memory file cache for gulp.
             + **[gulp-changed](https://github.com/sindresorhus/gulp-changed)**: Only pass through changed files.
@@ -637,18 +637,18 @@ Important developers, companies, organizations and news sources.
             + **[gulp-newer](https://github.com/tschaub/gulp-newer)**: Pass through newer source files only.
             + **[gulp-remember](https://github.com/ahaurw01/gulp-remember)**: A plugin for gulp that remembers and recalls files passed through it.
             + **[vinyl-diff](https://www.npmjs.com/package/vinyl-diff)**: This library allows you to perform diffs between streams of vinyl.
-        + **[Images](undefined)**: Plugins for working with images.
+        + **Images**: Plugins for working with images.
             + **[gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin)**: Minify PNG, JPEG, GIF and SVG images.
             + **[gulp-webp](https://github.com/sindresorhus/gulp-webp)**: Convert PNG, JPEG, TIFF images to WebP.
-        + **[JavaScript](undefined)**: Module loaders, minifiers and other tools for working with JavaScript files.
+        + **JavaScript**: Module loaders, minifiers and other tools for working with JavaScript files.
             + **[gulp-pure-cjs](https://www.npmjs.com/package/gulp-pure-cjs)**: Gulp plugin for Pure CommonJS builder.
             + **[gulp-uglify](https://www.npmjs.com/package/gulp-uglify)**: Minify files with UglifyJS.
             + **[yoloader](https://www.npmjs.com/package/yoloader)**: A CommonJS module loader implementation. It provides tools to bundle a CommonJS based project and to load such bundles.
-        + **[SourceMaps](undefined)**: A source map provides a way of mapping code within a compressed file back to it’s original position in a source file.
+        + **SourceMaps**: A source map provides a way of mapping code within a compressed file back to it’s original position in a source file.
             + **[Plugins with gulp sourcemaps support](https://github.com/floridoo/gulp-sourcemaps/wiki/Plugins-with-gulp-sourcemaps-support)**: A list of plugins which support gulp-sourcemaps.
             + **[gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps)**: Source map support for Gulp.js
             + **[vinyl-sourcemaps-apply](https://www.npmjs.com/package/vinyl-sourcemaps-apply)**: Apply a source map to a vinyl file, merging it with preexisting source maps.
-        + **[Utility](undefined)**: Tools and parts for building gulp plugins.
+        + **Utility**: Tools and parts for building gulp plugins.
             + **[gulp-count](https://www.npmjs.com/package/gulp-count)**: Count files in a vinyl stream.
             + **[gulp-debug](https://www.npmjs.com/package/gulp-debug)**: Debug vinyl file streams to see what files are run through your gulp pipeline.
             + **[gulp-size](https://github.com/sindresorhus/gulp-size)**: Logs out the total size of files in the stream and optionally the individual file-sizes.
@@ -705,11 +705,11 @@ Important developers, companies, organizations and news sources.
         + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
     + **[Yeoman](http://yeoman.io/)**: Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive. It provides a generator ecosystem.
     + **[jQuery](https://jquery.com/)**: jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler.
-        + **[Alternatives](undefined)**: Other libraries which intend to replace jQuery in one way or another.
+        + **Alternatives**: Other libraries which intend to replace jQuery in one way or another.
             + **[Minified.js](http://minifiedjs.com/)**: Minified.js is a client-side JavaScript library that's both powerful and small. It offers jQuery-like features and utility functions with a single, consistent API.
             + **[Zepto.js](http://zeptojs.com/)**: Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.
             + **[chibi](https://github.com/kylebarrow/chibi)**: Chibi focuses on just the essentials, melted down and mixed with optimisation rainbows to create a really light micro-library that allows you to do awesome things.
-        + **[Authoring jQuery Plugins](undefined)**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
+        + **Authoring jQuery Plugins**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
             + **[Advanced Plugin Concepts](http://learn.jquery.com/plugins/advanced-plugin-concepts/)**: A collection of best practices for jQuery plugin authoring.
             + **[How to Create a Basic Plugin](http://learn.jquery.com/plugins/basic-plugin-creation/)**: The article describes basic plugin creation and provides a simple boilerplate.
             + **[Signs of a poorly written jQuery plugin](https://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin)**: Collection of jQuery plugin antipatterns.
@@ -721,7 +721,7 @@ Important developers, companies, organizations and news sources.
         + **[jQuery Fundamentals](http://jqfundamentals.com/)**: A guide to the basics of jQuery including a built-in editor for examples.
         + **[jQuery UI](http://jqueryui.com/)**: jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
             + **[Learning jQuery UI](http://learn.jquery.com/jquery-ui/)**: Series of articles about jQuery UI on learn.jquery.com.
-+ **[News](undefined)**: Websites & newsletters which provide daily and weekly news related to frontend web development.
++ **News**: Websites & newsletters which provide daily and weekly news related to frontend web development.
     + **[A Drip of JavaScript](http://adripofjavascript.com/)**: One quick JavaScript tip, delivered to your inbox every other week.
     + **[CSS Weekly](http://css-weekly.com/)**: Weekly E-Mail roundup of CSS articles, tutorials, experiments and tools
 curated by Zoran Jambor.
@@ -736,7 +736,7 @@ curated by Zoran Jambor.
     + **[Web Platform Daily](http://webplatformdaily.org/)**: Daily digest of web development news.
     + **[Web Tools Weekly](http://webtoolsweekly.com/)**: Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
     + **[echo.js](http://www.echojs.com/)**: Echo JS is a community-driven news site entirely focused on JavaScript development, HTML5, and front-end news.
-+ **[Notable Community Members](undefined)**: Important engineers, evangelists, architects and other celebrities.
++ **Notable Community Members**: Important engineers, evangelists, architects and other celebrities.
     + **[Addy Osmani](https://addyosmani.com/)**: Engineer at Google working on open web tooling.
         + **[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)**: In this free book Addy Osmani explores applying both classical and modern design patterns to the JavaScript programming language.
         + **[Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)**: An extensive overview by Addy Osmani of existing architectural solutions in the frontend development field.
@@ -801,7 +801,7 @@ curated by Zoran Jambor.
     + **[Pete Hunt](https://github.com/petehunt)**: Co-founder & CEO @HelloSmyte. Ex-FB and Instagram. Worked on React.js.
         + **[React: Rethinking best practices (2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: A video introduction to React by Pete Hunt.
         + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
-+ **[Organizations](undefined)**: Commercial companies and nonprofit organizations around web development.
++ **Organizations**: Commercial companies and nonprofit organizations around web development.
     + **[Airbnb](http://airbnb.io/projects/)**: Airbnb is a website for people to list, find, and rent lodging.
         + **[Airbnb CSS + Sass Style Guide](http://airbnb.io/projects/css/)**: This style guide covers Terminology, Rule Declaration, Selectors, Properties, Formatting, Comments, OOCSS and BEM, ID Selectors, JavaScript hooks
 Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
@@ -924,7 +924,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Foundation](http://foundation.zurb.com/)**: Foundation provides a responsive grid and HTML and CSS UI components, templates, and code snippets, including typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
         + **[Foundation for Emails 2](http://foundation.zurb.com/emails.html)**: Frontend Framework for E-Mails including a grid, global styles, aligment classes, buttons, callout panels, thumbnail styles, typography, visibility classes.
         + **[Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)**: Zurb Studios put together this set of super awesome email templates so that you can make your email campaigns responsive.
-+ **[Podcasts](undefined)**: A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
++ **Podcasts**: A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
     + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
     + **[CDNify Podcasts](https://itunes.apple.com/us/podcast/cdnify/id786191888)**: The CDNify podcast covers all things tech, startup, web performance and acceleration.
     + **[JavaScript Air](https://javascriptair.com/)**: The live broadcast podcast all about JavaScript.
@@ -940,14 +940,14 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
 Programming/mark-up languages and web related standards.
 
 + **[Cascading Style Sheets (CSS)](https://developer.mozilla.org/en-US/docs/Web/CSS)**: CSS are a stylesheet language used to describe the presentation of a document written in HTML or XML. It describes how elements should be rendered on screen, on paper, in speech, or on other media.
-    + **[CSS Coding Conventions](undefined)**: Coding conventions are a set of guidelines for a specific programming language that recommend programming style, practices and methods for each aspect of a piece program written in this language.
+    + **CSS Coding Conventions**: Coding conventions are a set of guidelines for a specific programming language that recommend programming style, practices and methods for each aspect of a piece program written in this language.
         + **[CSS Guidelines](http://cssguidelin.es/)**: High-level advice and guidelines for writing sane, manageable, scalable CSS.
         + **[Idiomatic CSS](https://github.com/necolas/idiomatic-css)**: The following document outlines a reasonable style guide for CSS development. These guidelines strongly encourage the use of existing, common, sensible patterns.
         + **[Maintainable CSS](http://maintainablecss.com/)**: MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.
         + **[Primer](http://primercss.io/)**: Primer is GitHub’s internal CSS framework. It includes basic global styling for typography, small components like buttons and tabs, and our general guidelines for writing HTML and CSS.
         + **[Wordpress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)**: The purpose of the WordPress CSS Coding Standards is to create a baseline for collaboration and review within various aspects of the WordPress open source project and community, from core code to themes to plugins.
     + **[CSS Variables W3C Editor's Draft](https://drafts.csswg.org/css-variables/)**: This module introduces cascading variables as a new primitive value type that is accepted by all CSS properties, and custom properties for defining them.
-    + **[Flexbox](undefined)**: The Flexbox Layout officially called CSS Flexible Box Layout Module is new layout module in CSS3 made to improve the items align, directions and order in the container even when they are with dynamic or even unknown size.
+    + **Flexbox**: The Flexbox Layout officially called CSS Flexible Box Layout Module is new layout module in CSS3 made to improve the items align, directions and order in the container even when they are with dynamic or even unknown size.
         + **[5 Flexbox Techniques You Need to Know About](http://tutorialzine.com/2016/04/5-flexbox-techniques-you-need-to-know-about/)**: In this article we’re going to take a look at five flexbox approaches to solving common CSS layout problems. We’ve also included practical examples to showcase real life scenarios in which these techniques are applied.
         + **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**: Chris Coyer provides a great reference to the flexbox features with code examples.
         + **[A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)**: Rather that explaining how the flex properties work, this guide will focus on how the flex properties affect the layout in a visual way.
@@ -957,12 +957,12 @@ Programming/mark-up languages and web related standards.
     + **[The Complete Guide to Centering a DIV](http://www.tipue.com/blog/center-a-div/)**: The aim of this article is to show how, with a few CSS tricks, any div can be centered; horizontally, vertically or both. And within the page or a div.
     + **[Understanding border-image](https://css-tricks.com/understanding-border-image/)**: The new CSS3 property border-image can allow you to create flexible boxes with custom borders with a single div and a single image.
     + **[What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)**: The problem with z-index is that it’s not complicated, but it if you’ve never taken the time to read its specification, there are almost certainly crucial aspects that you’re completely unaware of.
-+ **[Document Object Model (DOM)](undefined)**: The DOM is a programming interface for HTML, XML and SVG documents. It defines methods that allow access to the tree, so that they can change the document structure, style and content.
-    + **[Document Events](undefined)**: DOM event model is a generic event system and a set of standard modules of events for user interface control and document mutation notifications
++ **Document Object Model (DOM)**: The DOM is a programming interface for HTML, XML and SVG documents. It defines methods that allow access to the tree, so that they can change the document structure, style and content.
+    + **Document Events**: DOM event model is a generic event system and a set of standard modules of events for user interface control and document mutation notifications
         + **[An Introduction To DOM Events](https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)**: Wilson Page introduces the basics of working with DOM events, then delves into their inner workings, explaining how we can make use of them to solve common problems.
         + **[DOM Level 2 Event Model](https://www.w3.org/TR/DOM-Level-2-Events/events.html)**: W3C specification section for DOM Level 2 Events.
         + **[Gator](https://craig.is/riding/gators)**: Gator is a small (~0.8 kb minified + gzipped), simple, standalone, event delegation library.
-    + **[Overview](undefined)**: High level guides, articles and documents about DOM.
+    + **Overview**: High level guides, articles and documents about DOM.
         + **[DOM Features You Didn’t Know Existed](http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/)**: Louis Lazaris talks about DOM Features you probably don't know.
         + **[DOM Reference at the MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)**: Complete reference of the DOM provided by the Mozilla Development Network.
         + **[Document Object Model (DOM) Technical Reports](https://www.w3.org/DOM/DOMTR)**: Specifications by the W3C.
@@ -972,44 +972,44 @@ Programming/mark-up languages and web related standards.
     + **[Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)**: This document defines formatting and style rules for HTML and CSS. It aims at improving collaboration, code quality, and enabling supporting infrastructure.
     + **[HEAD](https://github.com/joshbuchea/HEAD)**: A list of everything that could go in the <head> of your document.
     + **[Idiomatic HTML](https://github.com/necolas/idiomatic-html)**: The following document outlines a reasonable style guide for HTML development. These guidelines strongly encourage the use of existing, common, sensible patterns. They should be adapted as needed to create your own style guide.
-    + **[Video & Audio](undefined)**: Use the  HTML video and audio element to embed video content in a document.
+    + **Video & Audio**: Use the  HTML video and audio element to embed video content in a document.
         + **[Bringing Production Video To The Web](https://www.smashingmagazine.com/2016/04/html5-media-source-extensions-bringing-production-video-web/)**: Stefan Lederer gives you a good overview of the state and future of video on the web.
     + **[Wordpress HTML Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)**: Coding conventions for WordPress.
 + **[Hypertext Transfer Protocol (HTTP)](https://www.mnot.net/blog/2016/04/22/ideal-http)**: The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
     + **[Best Practice for HTTP2 Front-End Deployments](http://blog.cloud66.com/best-practice-for-http2-front-end-deployments/)**: This post describes how to set up and use the new HTTP/2 protocol.
     + **[Ideal HTTP Performance](https://www.mnot.net/blog/2016/04/22/ideal-http)**: This post talks about the design of the HTTP protocol, it's performance drawbacks and how to work around them.
-+ **[JavaScript (EcmaScript)](undefined)**: JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites. It is defined by ECMAScript standard.
-    + **[Control Flow & Error Handling](undefined)**: Statements, that you can use to incorporate interactivity in your application.
++ **JavaScript (EcmaScript)**: JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites. It is defined by ECMAScript standard.
+    + **Control Flow & Error Handling**: Statements, that you can use to incorporate interactivity in your application.
         + **[A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)**: Camilo Reyes describes ways to handle Exceptions and asynchronous errors in JavaScript.
-    + **[Enhancement Libraries](undefined)**: Libraries that attempt to improve and enhance the vanilla JavaScript language by providing utility functions.
+    + **Enhancement Libraries**: Libraries that attempt to improve and enhance the vanilla JavaScript language by providing utility functions.
         + **[Flow](https://flowtype.org/)**: Flow is a static type checker for JavaScript. It can be used to catch common bugs in JavaScript programs before they run.
         + **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance, & extras.
         + **[MOUT](http://moutjs.com/)**: MOUT provides many helper methods similar to those found on other languages standard libraries (ie. Python, Ruby, PHP).
         + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
-            + **[Practical Ramda - Functional Programming Examples](undefined)**: Tom MacWright gives some practical examples of Ramda usage.
+            + **Practical Ramda - Functional Programming Examples**: Tom MacWright gives some practical examples of Ramda usage.
         + **[RubyJS](http://rubyjs.org/)**: RubyJS is a JavaScript implementation of all methods from Ruby classes like Array, String, Numbers, Time and more.
-    + **[Functions](undefined)**: A function is a JavaScript procedure—a set of statements that performs a task or calculates a value.
+    + **Functions**: A function is a JavaScript procedure—a set of statements that performs a task or calculates a value.
         + **[Closures explained by Jim Ley](http://jibbering.com/faq/notes/closures/)**: Explanation of closures in JavaScript.
         + **[Let’s Learn JavaScript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44)**: So this post will be dedicated to the nuts and bolts of how and why closures work the way they do.
         + **[MDN Guide Chapter about Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)**: Defining functions, scope, closures, arguments, parameters, arrow functions and predefined functions.
         + **[MDN Reference for Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)**: Defining functions, arguments, parameters, methods, block-level functions and browser compatibility.
-    + **[Generators](undefined)**: Generators allow you to define an iterative algorithm by writing a single function which can maintain its own state.
+    + **Generators**: Generators allow you to define an iterative algorithm by writing a single function which can maintain its own state.
         + **[A Closer Look at Generators Without Promises](http://jlongster.com/A-Closer-Look-at-Generators-Without-Promises)**: Author looks at libraries for asynchronous programming with generators but without promises.
         + **[A Study on Solving Callbacks with JavaScript Generators](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)**: This article describes how Generators help fight callback hell.
         + **[Callbacks vs Coroutines](https://medium.com/@tjholowaychuk/callbacks-vs-coroutines-174f1fe66127)**: In this post TJ Holowaychuk goes through hist experiences with coroutines and why he thinks they’re a great tool.
         + **[Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines/)**: An intriguing use of coroutines is to implement event loops as an alternative to callback functions. This is particularly relevant to Javascript, where the use of callbacks is pervasive.
         + **[Coroutine vs Continuation vs Generator](http://stackoverflow.com/questions/715758/coroutine-vs-continuation-vs-generator)**: StackOverflow Discussion about the difference between Couroutines, Continuations and Generators.
         + **[Regenerator](https://github.com/facebook/regenerator)**: This package implements a source transformation that takes the proposed syntax for generators/yield from future versions of JS and spits out efficient JS-of-today (ES5) that behaves the same way.
-    + **[Grammar and Types](undefined)**: JavaScript's basic grammar, variable declarations, data types scope, hoisting and literals.
+    + **Grammar and Types**: JavaScript's basic grammar, variable declarations, data types scope, hoisting and literals.
         + **[Grammar and Types Chapter on the MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)**: This chapter discusses JavaScript's basic grammar, variable declarations, data types and literals.
         + **[Variable Hoisting Explained](http://bytearcher.com/articles/variable-hoisting-explained/)**: The author explains how hoisting works in JavaScript including variable declarations and ES6 let operator.
-    + **[JS Coding Conventions](undefined)**: Coding conventions are a set of guidelines for a specific programming language that recommend programming style, practices and methods for each aspect of a piece program written in this language.
+    + **JS Coding Conventions**: Coding conventions are a set of guidelines for a specific programming language that recommend programming style, practices and methods for each aspect of a piece program written in this language.
         + **[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)**: A reasonable approach to JavaScript by Airbnb.
         + **[Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)**: JavaScript is the main client-side scripting language used by many of Google's open-source projects. This style guide is a list of dos and don'ts for JavaScript programs.
         + **[Idiomatic.js](https://github.com/rwaldron/idiomatic.js/)**: The following list outlines the practices that Rick Waldron uses in all code that he is the original author of.
         + **[JavaScript Standard Style](http://standardjs.com/)**: A set of modules to check and improve the style of your code.
         + **[WordPress JavaScript Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/)**: JavaScript has become a critical component in developing WordPress-based applications (themes and plugins) as well as WordPress core. Standards are needed for formatting and styling JavaScript code.
-    + **[Objects](undefined)**: An object is a software bundle of related state and behavior. Software objects are often used to model the real-world objects that you find in everyday life.
+    + **Objects**: An object is a software bundle of related state and behavior. Software objects are often used to model the real-world objects that you find in everyday life.
         + **[ECMA-262-3 in detail: OOP - The general theory](http://dmitrysoshnikov.com/ecmascript/chapter-7-1-oop-general-theory/)**: In this article we consider major aspects of object-oriented programming in ECMAScript. Much attention is given to theoretical aspects to see these processes from within.
         + **[Gentle explanation of this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)**: This article is focused on the invocation explanation, how the function call influences this and demonstrates the common pitfalls of identifying the context.
         + **[OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)**: In this article, we are concerned with only Inheritance and Encapsulation since only these two concepts apply to OOP in JavaScript.
@@ -1017,7 +1017,7 @@ Programming/mark-up languages and web related standards.
         + **[Prototypal Inheritance in JavaScript](http://javascript.crockford.com/prototypal.html)**: An article by Douglas Crockford introducing the Object.create() method and describing the rational behind it.
         + **[Prototypal Object-Oriented Programming using JavaScript](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript)**: Mehdi Maujood describes the prototypical OO style and compares it to classes in JavaScript.
         + **[Prototypes and Inheritance in JavaScript](https://msdn.microsoft.com/en-us/magazine/ff852808.aspx)**: This article tries to demystify the concept of prototypes in JavaScript. It shows how prototypes allow objects to inherit functionality from other objects, an approach to building objects using the new operator and a constructor function.
-    + **[Overview](undefined)**: General, high level guides and introductions to the JavaScript language.
+    + **Overview**: General, high level guides and introductions to the JavaScript language.
         + **[Eloquent JavaScript (Book)](http://eloquentjavascript.net/)**: A comprehensive book about JavaScript, the language, the browser and Node.js.
         + **[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)**: JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs.
         + **[JavaScript Guide by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)**: The JavaScript Guide shows you how to use JavaScript and gives an overview of the language.
@@ -1034,9 +1034,9 @@ Programming/mark-up languages and web related standards.
         + **[What's The Point Of Promises?](http://www.telerik.com/blogs/what-is-the-point-of-promises)**: The point of promises is to represent the eventual resulting value from an operation, but the reason to use them is to better parallel synchronous operations and to solve the callback hell.
 + **[JavaScript Object Notation (JSON)](http://www.json.org/)**: JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language.
     + **[JSON-LD](http://json-ld.org/)**: JSON-LD is a lightweight Linked Data format. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale.
-+ **[Scalable Vector Graphics (SVG)](undefined)**: An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.
++ **Scalable Vector Graphics (SVG)**: An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.
     + **[Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)**: This article will provide you with tools and resources to simplify editing, converting, optimizing, and delivering SVGs.
-+ **[Templating Languages and Engines](undefined)**: Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
++ **Templating Languages and Engines**: Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
     + **[Dust.js by LinkedIn](http://www.dustjs.com/)**: Dust is a Javascript templating engine. It inherits its look from the ctemplate family of languages, and is designed to run asynchronously on both the server and the browser.
     + **[HyperScript](https://github.com/dominictarr/hyperscript)**: Create HyperText with JavaScript, on client or server.
     + **[Mustache](http://mustache.github.io/)**: Mustache is a Logic-less template language. There are no if statements, else clauses, or for loops. Instead there are only tags.
@@ -1054,7 +1054,7 @@ but with a couple of important differences in philosophy and style.
     + **[doT.js](http://olado.github.io/doT/)**: The fastest + concise javascript template engine for Node.js and browsers.
     + **[dōmo](http://jed.github.io/domo/)**: dōmo lets you write HTML markup and CSS styles in JavaScript syntax. It is a simpler and easier alternative to template engines and CSS pre-processors.
     + **[pithy](https://github.com/caolan/pithy)**: An internal DSL for generating HTML in JavaScript.
-+ **[Transpiled Languages](undefined)**: Abstract languages converted to native, browser supported standards like JavaScript or CSS.
++ **Transpiled Languages**: Abstract languages converted to native, browser supported standards like JavaScript or CSS.
     + **[ClojureScript](https://github.com/clojure/clojurescript)**: ClojureScript is a compiler for Clojure that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the Google Closure optimizing compiler.
     + **[Dart](https://www.dartlang.org/)**: Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps compiled to JavaScript
     + **[Elm](http://elm-lang.org/)**: Elm is a functional programming language for declaratively creating web browser-based graphical user interfaces.
@@ -1064,20 +1064,20 @@ but with a couple of important differences in philosophy and style.
     + **[Sass](http://sass-lang.com/)**: Sass is an extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
     + **[Scala.js](http://www.scala-js.org/)**: A Scala to JavaScript compiler.
     + **[Stylus](http://stylus-lang.com/)**: Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.
-+ **[Uniform Resource Identifier (URI)](undefined)**: URI is a string of characters used to identify a resource. The most common form of URI is the Uniform Resource Locator (URL).
++ **Uniform Resource Identifier (URI)**: URI is a string of characters used to identify a resource. The most common form of URI is the Uniform Resource Locator (URL).
     + **[Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)**: This architecture document by W3C discusses the core design components of the Web. They are identification of resources, representation of resource state, and the protocols that support the interaction between agents and resources in the space.
     + **[SpeakingURL](https://github.com/pid/speakingurl)**: This module aims to transliterate the input string and create a so-called Semantic  or Speaking URL.
     + **[URI.js](http://medialize.github.io/URI.js/)**: URI.js is a javascript library for working with URLs. It offers a "jQuery-style" API to read and write all regular components and a number of convenience methods.
-+ **[WebAssembly](undefined)**: WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
++ **WebAssembly**: WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
     + **[7 Things You Should Know About WebAssembly](https://auth0.com/blog/2015/10/14/7-things-you-should-know-about-web-assembly/)**: In this post we will explore seven key facts about WebAssembly, one of the biggest changes the web will experience in the coming years.
 
 ## User Interface Components
 
 Drop-in UI components for web sites and applications.
 
-+ **[Buttons](undefined)**: The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
++ **Buttons**: The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
     + **[Quantum Paper Buttons](https://github.com/nashvail/Quttons)**: With this plugin you can hide any div behind a Quantum Paper Button or Qutton. Qunatum Paper is a digital paper that can change its size, shape and color to accommodate new content. Quantum paper is part of Google's new Material Design language.
-+ **[Code](undefined)**: Code viewers and editors designed for embedding inside a website.
++ **Code**: Code viewers and editors designed for embedding inside a website.
     + **[Behave.js](http://jakiestfu.github.io/Behave.js/)**: Behave.js is a lightweight library for adding IDE style behaviors to plain text areas, making it much more enjoyable to write code in.
     + **[CodeMirror](http://codemirror.net/)**: CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with a number of language modes and addons that implement more advanced editing functionality.
     + **[Intelligist](http://srobbin.com/jquery-plugins/intelligist/)**: A jQuery plugin that makes it easy to share and demo code in-page, using GitHub gists.
@@ -1087,7 +1087,7 @@ It was designed to be lightweight, easy to use, and extendable.
 It is completely themable via CSS.
     + **[ansi_up](https://github.com/drudru/ansi_up)**: A javascript library that converts text with ANSI terminal codes into colorful HTML
     + **[tabIndent.js](http://julianlam.github.io/tabIndent.js/)**: tabIndent.js enhances a textarea, so that the tab key no longer takes you to the next input, but rather, acts like a text editor by inserting a tab character.
-+ **[Forms](undefined)**: A HTML form on a web page allows a user to enter data that is sent to a server for processing. Web users fill out the forms using checkboxes, radio buttons, or text fields.
++ **Forms**: A HTML form on a web page allows a user to enter data that is sent to a server for processing. Web users fill out the forms using checkboxes, radio buttons, or text fields.
     + **[ALAJAX](https://github.com/alaabadran/ALAJAX)**: A jQuery plugin to convert normal HTML forms into AJAX forms simply. It Ajaxifys your HTML Form with this plugin. No change will be required on Server-Side.
     + **[Fields.js](http://schneiderik.github.io/fields/)**: An abstract way of interacting with fields. Fields.js creates collections of fields. Each field is constantly evaluated for validity, and is accessible through the collection.
     + **[Grid Forms](http://kumailht.com/gridforms/)**: A tiny Javascript/CSS framework that helps you make forms on grids with ease.
@@ -1095,31 +1095,31 @@ It is completely themable via CSS.
     + **[Ladda](https://github.com/hakimel/Ladda)**: Buttons with built-in loading indicators.
     + **[Native form elements](http://nativeformelements.com/)**: This is what every HTML5 form element looks like on your current operating system and browser.
     + **[Redux Form](https://github.com/erikras/redux-form)**: A Higher Order Component using react-redux to keep form state in a Redux store.
-    + **[Serializers](undefined)**: Libraries for collecting form data in JavaScript.
+    + **Serializers**: Libraries for collecting form data in JavaScript.
         + **[form2js](https://github.com/maxatwork/form2js)**: Convenient way to collect structured form data into JavaScript object.
         + **[jQuery.serializeObject](https://github.com/hongymagic/jQuery.serializeObject)**: Encode a set of form elements as a JSON object for manipulation/submission.
         + **[jquery-serialize-object](https://github.com/macek/jquery-serialize-object)**: Adds the method serializeObject to jQuery, to perform complex form serialization into JavaScript objects.
         + **[jquery.serializeJSON](https://github.com/danheberden/jquery-serializeForm)**: Make an object out of form elements.
         + **[serializeForm](https://github.com/danheberden/jquery-serializeForm)**: jQuery plugin to serialize form elements into an object.
-    + **[Validation](undefined)**: A form validation behavior checks data against a set of criteria before passing it along to the server.
+    + **Validation**: A form validation behavior checks data against a set of criteria before passing it along to the server.
         + **[Parsley](https://github.com/guillaumepotier/Parsley.js)**: JavaScript form validation, without actually writing a single line of JavaScript!
         + **[mailcheck.js](https://github.com/mailcheck/mailcheck)**: The Javascript library and jQuery plugin that suggests a right domain when your users misspell it in an email address.
         + **[one-validation](https://github.com/One-com/one-validation)**: This is a collection of regular expressions for general validation purposes. The basic design concept is to split up the regexes into semantic parts of the pattern to match.
     + **[jQuery Super Labels Plugin](https://github.com/remybach/jQuery.superLabels)**: This plugin was born out of the need to use the label-over-field method for forms.
-+ **[Grid](undefined)**: CSS Grid Layout Systems.
++ **Grid**: CSS Grid Layout Systems.
     + **[Bourbon Neat](http://neat.bourbon.io/)**: A lightweight semantic grid framework for Sass and Bourbon.
     + **[Profound Grid](http://www.profoundgrid.com/)**: A responsive grid system for fixed and fluid layouts. Built in SCSS, it gives you flexibility and full control.
     + **[RWDGrid](http://rwdgrid.com/)**: 2kb, Mobile First Grid System, HTML5 Boilerplate Head, 960grid like naming convention. PSD Grid included.
     + **[Simple Grid](http://thisisdallas.github.io/Simple-Grid/)**: Simple Grid was created for developers who need a barebones grid. With fluid columns, Simple Grid is responsive down to mobile.
-+ **[Rich Text Editors](undefined)**: A rich text editor is the interface for editing rich text within web browsers. The aim is to reduce the effort for users trying to express their formatting directly as valid HTML markup.
-    + **[Content Sanitizers](undefined)**: Rich text editors often produce unclean input when you copy & paste some content into them. Content sanitizers help you clean up the text.
++ **Rich Text Editors**: A rich text editor is the interface for editing rich text within web browsers. The aim is to reduce the effort for users trying to express their formatting directly as valid HTML markup.
+    + **Content Sanitizers**: Rich text editors often produce unclean input when you copy & paste some content into them. Content sanitizers help you clean up the text.
         + **[FilteredPaste.js](http://willemmulder.github.io/FilteredPaste.js/)**: A jQuery plugin that filters any pasted input so that your application gets clean input, without any tags or attributes that you don't want.
         + **[Sanitize.js](https://github.com/gbirke/sanitize.js)**: Sanitize.js is a whitelist-based HTML sanitizer. Given a list of acceptable elements and attributes, Sanitize.js will remove all unacceptable HTML from a DOM node.
         + **[html-janitor](https://github.com/guardian/html-janitor)**: Cleans up your markup and allows you to take control of your HTML. HTMLJanitor uses a defined whitelist to limit HTML it is given to a defined subset.
     + **[Create.js](http://createjs.org/)**: Create.js is a comprehensive web editing interface for Content Management Systems. It is designed to provide a modern, fully browser-based HTML5 environment for managing content
     + **[Demarcate](http://will-hart.github.io/demarcate.js/)**: demarcate.js lets you edit directly in a page and generate Markdown back from the HTML elements.
     + **[Hallo](http://hallojs.org/)**: Hallo is the simplest web editor imaginable. Instead of cluttered forms or toolbars, you edit your web content as it is. Just you, your web design, and your content.
-    + **[Inspired by Medium](undefined)**: Medium.com has a great and simple rich text editor built in. This libraries try to clone its behavior.
+    + **Inspired by Medium**: Medium.com has a great and simple rich text editor built in. This libraries try to clone its behavior.
         + **[Medium.js](https://github.com/jakiestfu/Medium.js)**: A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
         + **[Pen](http://sofish.github.io/pen/)**: Rich text editor inspired by Medium and backed by Markdown.
         + **[grande.js](https://github.com/mduvall/grande.js)**: A small Javascript library that implements features from Medium's editing experience.
@@ -1138,9 +1138,9 @@ It is completely themable via CSS.
         + **[WYSIHTML5 Enhanced](https://github.com/zohararad/wysihtml5n)**: WYSIHTML5 Enhanced is a rich-text editor, based on the wonderful wysihtml5 editor, with a bit of help from Twitter Bootstrap, Font-Awesome, Jcrop and HTML5's Drag & Drop and File API.
         + **[bootstrap3-wysiwyg](https://github.com/bootstrap-wysiwyg/bootstrap3-wysiwyg)**: Bootstrap-wysihtml5 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of wysihtml5 and Twitter Bootstrap.
     + **[X-editable](http://vitalets.github.io/x-editable/)**: This library allows you to create editable elements on your page. It can be used with any engine (bootstrap, jquery-ui, jquery only) and includes both popup and inline modes.
-+ **[Table Of Contents](undefined)**: Components for automatic table of contents generation.
++ **Table Of Contents**: Components for automatic table of contents generation.
     + **[Tocbot](http://tscanlin.github.io/tocbot/)**: Tocbot builds a table of contents (TOC) from headings in an HTML document.
-+ **[UI Kits](undefined)**: Collections of ready to use components.
++ **UI Kits**: Collections of ready to use components.
     + **[CloudFlare Components](https://cloudflare.github.io/cf-ui/)**: A set of UI components built by CloudFlare and based on React.
     + **[Ink](http://ink.sapo.pt/)**: An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
     + **[PrimeNG](http://www.primefaces.org/primeng/)**: PrimeNG is a collection of rich UI components for AngularJS2. PrimeNG is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
@@ -1148,7 +1148,7 @@ It is completely themable via CSS.
     + **[Pure.css](http://purecss.io/)**: A set of small, responsive CSS modules that you can use in every web project.
     + **[UIkit](http://getuikit.com/)**: A lightweight and modular front-end framework and a set of components for developing fast and powerful web interfaces.
     + **[Vital](http://doximity.github.io/vital/)**: A minimally invasive CSS framework for modern web applications.
-+ **[Video & Audio](undefined)**: Components for playing audio and video files on a website.
++ **Video & Audio**: Components for playing audio and video files on a website.
     + **[Audio.js](http://kolber.github.io/audiojs/)**: audio.js is a drop-in javascript library that allows HTML5’s audio tag to be used anywhere.
     + **[Howler.js](https://github.com/goldfire/howler.js)**: howler.js is an audio library for the modern web. It defaults to Web Audio API and falls back to HTML5 Audio.
     + **[JPlayer](http://jplayer.org/)**: jPlayer a media library written in JavaScript. A jQuery plugin, jPlayer allows you to rapidly weave cross platform audio and video into your web pages.
@@ -1160,7 +1160,7 @@ It is completely themable via CSS.
 
 Task automation and asset delivery.
 
-+ **[Automated Testing](undefined)**: Automated software testing is a process in which software tools execute pre-scripted tests on a software application before it is released into production.
++ **Automated Testing**: Automated software testing is a process in which software tools execute pre-scripted tests on a software application before it is released into production.
     + **[5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)**: Eric Elliott breaks down some common misconceptions and  explains how you can benefit the most from TDD & unit tests.
     + **[A Gentle Introduction to Javascript Test Driven Development](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)**: Over the course of the series, James Sinclair works through developing a full application in JavaScript that involves making network requests and manipulating the DOM.
     + **[Anti-patterns and Their Fixes](https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/)**: Shane Tomlinson presents a sample application that contains several common anti-patterns and how these can be refactored to be more testable.
@@ -1187,8 +1187,8 @@ against sets of codified UI Guidelines.
         + **[Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.fjpja613n)**: Eric Elliott describes the advantages of Tape and compares it to more popular testing frameworks.
     + **[TestCheck](https://github.com/leebyron/testcheck-js)**: TestCheck is a library for generative testing of program properties, ala QuickCheck.
     + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
-    + **[Writing Testable JavaScript](undefined)**: Rebecca Murphey discusses how to organize code to make JavaScript more testable in unit tests.
-+ **[Build Tools](undefined)**: Toolkits and their ecosystems, that help you automate painful and repeated tasks.
+    + **Writing Testable JavaScript**: Rebecca Murphey discusses how to organize code to make JavaScript more testable in unit tests.
++ **Build Tools**: Toolkits and their ecosystems, that help you automate painful and repeated tasks.
     + **[Automaton](http://indigounited.com/automaton/)**: Task automation tool built in JavaScript.
     + **[Grunt](http://gruntjs.com/)**: Grunt is a task-based command line build tool for JavaScript projects.
         + **[A beginner’s guide to Grunt: Redux](http://mattbailey.io/a-beginners-guide-to-grunt-redux.html)**: Simple Grunt boilerplate for frontend workflow with detailed instructions.
@@ -1196,8 +1196,8 @@ against sets of codified UI Guidelines.
         + **[Synchronised Testing Between Browsers/Devices](http://mattbailey.io/grunt-synchronised-testing-between-browsers-devices)**: The article describes an easy way to test your projects on your devices.
         + **[Web development is getting complex. Let's go shopping.](http://ruudud.github.io/2012/12/22/grunt/)**: A step by step tutorial for building a new project with grunt.
     + **[Gulp](http://gulpjs.com/)**: Gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow. It's very fast, platform-agnostic and simple.
-        + **[Articles & Tutorials](undefined)**: Publications about gulp or step by step guides for setting up and using gulp in a project.
-            + **[Building with Gulp 3 and 4 (Series)](undefined)**: Great series of articles about single components and gulp as a whole.
+        + **Articles & Tutorials**: Publications about gulp or step by step guides for setting up and using gulp in a project.
+            + **Building with Gulp 3 and 4 (Series)**: Great series of articles about single components and gulp as a whole.
                 + **[Part 1: Examples](http://blog.reactandbethankful.com/posts/2015/04/23/building-with-gulp-3-and-4-part-1-examples/)**: Introduction to gulp and gulpfile.js.
                 + **[Part 2: Gulp's anatomy](http://blog.reactandbethankful.com/posts/2015/04/23/building-with-gulp-3-and-4-part-2-gulp-anatomy/)**: Orchestrator, Undertaker, Vinyl and Vinyl FS, Gulp Plugins.
                 + **[Part 3: Writing transformers](http://blog.reactandbethankful.com/posts/2015/04/28/building-with-gulp-3-and-4-part-3-writing-transformers/)**: Using map-stream, though2 and event-stream.
@@ -1205,20 +1205,20 @@ against sets of codified UI Guidelines.
                 + **[Part 5: Caveats](http://blog.reactandbethankful.com/posts/2015/05/05/building-with-gulp-part-5-caveats/)**: Error management in Gulp 3 and "MANY:1 disguised as a 1:1" problem.
             + **[The vision, history, and future of the project (Apr. 2014)](https://medium.com/@contrahacks/gulp-3828e8126466)**: The article talks about Streams, Vinyl, Vinyl Adapters, Orchestrator and Error Management in Gulp 4.
             + **[Why Gulp might not be the Answer](http://scm.io/blog/hack/2014/07/why-gulp-might-not-be-the-answer/)**: ... there is still a conceptual problem that Gulp has yet to address. Many build steps are not 1:1 (one file in, one file out) but rather n:1 or 1:n.
-        + **[CSS](undefined)**: Gulp plugins for working with CSS files.
+        + **CSS**: Gulp plugins for working with CSS files.
             + **[gulp-clean-css](https://github.com/scniro/gulp-clean-css)**: gulp plugin to minify CSS, using clean-css.
             + **[gulp-cssnano](https://www.npmjs.com/package/gulp-cssnano)**: Minify CSS with cssnano.
-        + **[Concatenation](undefined)**: Plugins for file concatenation. For example bundling CSS or JavaScript files.
+        + **Concatenation**: Plugins for file concatenation. For example bundling CSS or JavaScript files.
             + **[gulp-concat](https://www.npmjs.com/package/gulp-concat)**: This plugin will concat files by your operating systems newLine. It will take the base directory from the first file that passes through it.
             + **[gulp-group-concat](https://www.npmjs.com/package/gulp-group-concat)**: Concats groups of files into a smaller number of files
-        + **[Deployment](undefined)**: Plugins for pushing built files into production.
+        + **Deployment**: Plugins for pushing built files into production.
             + **[gulp-tar](https://github.com/sindresorhus/gulp-tar)**: Create tarball from files.
             + **[vinyl-ftp](https://github.com/morris/vinyl-ftp)**: Blazing fast vinyl adapter for FTP.
             + **[vinyl-s3](https://github.com/izaakschroeder/vinyl-s3)**: Use S3 as a source or destination of vinyl files.
-        + **[Ecosystem](undefined)**: The network of developers and plugins around gulp.
+        + **Ecosystem**: The network of developers and plugins around gulp.
             + **[@sindresorhus plugins](https://github.com/search?q=%40sindresorhus+gulp-)**: A collection of plugins by Sindre Sorhus.
             + **[Gulp Friendly NPM Packages](https://www.npmjs.com/browse/keyword/gulpfriendly)**: Normal node packages that work with gulp.
-        + **[Filters](undefined)**: Plugins for filtering files in a vinyl stream.
+        + **Filters**: Plugins for filtering files in a vinyl stream.
             + **[gulp-cache](https://www.npmjs.com/package/gulp-cache)**: A temp file based caching proxy task for gulp.
             + **[gulp-cached](https://www.npmjs.com/package/gulp-cached)**: A simple in-memory file cache for gulp.
             + **[gulp-changed](https://github.com/sindresorhus/gulp-changed)**: Only pass through changed files.
@@ -1226,18 +1226,18 @@ against sets of codified UI Guidelines.
             + **[gulp-newer](https://github.com/tschaub/gulp-newer)**: Pass through newer source files only.
             + **[gulp-remember](https://github.com/ahaurw01/gulp-remember)**: A plugin for gulp that remembers and recalls files passed through it.
             + **[vinyl-diff](https://www.npmjs.com/package/vinyl-diff)**: This library allows you to perform diffs between streams of vinyl.
-        + **[Images](undefined)**: Plugins for working with images.
+        + **Images**: Plugins for working with images.
             + **[gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin)**: Minify PNG, JPEG, GIF and SVG images.
             + **[gulp-webp](https://github.com/sindresorhus/gulp-webp)**: Convert PNG, JPEG, TIFF images to WebP.
-        + **[JavaScript](undefined)**: Module loaders, minifiers and other tools for working with JavaScript files.
+        + **JavaScript**: Module loaders, minifiers and other tools for working with JavaScript files.
             + **[gulp-pure-cjs](https://www.npmjs.com/package/gulp-pure-cjs)**: Gulp plugin for Pure CommonJS builder.
             + **[gulp-uglify](https://www.npmjs.com/package/gulp-uglify)**: Minify files with UglifyJS.
             + **[yoloader](https://www.npmjs.com/package/yoloader)**: A CommonJS module loader implementation. It provides tools to bundle a CommonJS based project and to load such bundles.
-        + **[SourceMaps](undefined)**: A source map provides a way of mapping code within a compressed file back to it’s original position in a source file.
+        + **SourceMaps**: A source map provides a way of mapping code within a compressed file back to it’s original position in a source file.
             + **[Plugins with gulp sourcemaps support](https://github.com/floridoo/gulp-sourcemaps/wiki/Plugins-with-gulp-sourcemaps-support)**: A list of plugins which support gulp-sourcemaps.
             + **[gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps)**: Source map support for Gulp.js
             + **[vinyl-sourcemaps-apply](https://www.npmjs.com/package/vinyl-sourcemaps-apply)**: Apply a source map to a vinyl file, merging it with preexisting source maps.
-        + **[Utility](undefined)**: Tools and parts for building gulp plugins.
+        + **Utility**: Tools and parts for building gulp plugins.
             + **[gulp-count](https://www.npmjs.com/package/gulp-count)**: Count files in a vinyl stream.
             + **[gulp-debug](https://www.npmjs.com/package/gulp-debug)**: Debug vinyl file streams to see what files are run through your gulp pipeline.
             + **[gulp-size](https://github.com/sindresorhus/gulp-size)**: Logs out the total size of files in the stream and optionally the individual file-sizes.
@@ -1267,13 +1267,13 @@ against sets of codified UI Guidelines.
         + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
         + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
     + **[Yeoman](http://yeoman.io/)**: Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive. It provides a generator ecosystem.
-+ **[CSS Tools](undefined)**: Tools for analysis, pre and post processing of CSS files.
++ **CSS Tools**: Tools for analysis, pre and post processing of CSS files.
     + **[CSS Pack](https://www.npmjs.com/package/css-pack)**: Packs CSS dependency graphs produced from dgraph or module-deps into a single CSS bundle, assuming every node in the graph contains CSS source and the graph itself is sorted with deps-sort
     + **[CSS Stringify](https://github.com/reworkcss/css-stringify)**: CSS stringifier using the AST from 'css.parse'
     + **[CSSCSS](http://zmoazeni.github.io/csscss/)**: A CSS redundancy analyzer that analyzes redundancy.
     + **[Clean CSS](https://www.npmjs.com/package/clean-css)**: Clean-css is a fast and efficient Node.js library for minifying CSS files.
     + **[Helium CSS](https://github.com/geuis/helium-css)**: Helium is a tool for discovering unused CSS across many pages on a web site.
-    + **[PostCSS](undefined)**: PostCSS parses CSS into an abstract syntax tree (AST), passes it through a series of plugins, and then concatenates back into a string.
+    + **PostCSS**: PostCSS parses CSS into an abstract syntax tree (AST), passes it through a series of plugins, and then concatenates back into a string.
         + **[An Introduction to PostCSS](https://www.sitepoint.com/an-introduction-to-postcss/)**: This article describes what PostCSS is and how to get started.
         + **[ES CSS Modules](https://github.com/jacobp100/es-css-modules)**: PostCSS plugin that combines CSS Modules and ES Imports.
         + **[Improving the Quality of Your CSS with PostCSS](https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)**: In this article, we will explore how we can utilise PostCSS to help us maintain a higher quality in our CSS code.
@@ -1281,12 +1281,12 @@ against sets of codified UI Guidelines.
         + **[Working with Images in Stylesheets](https://css-tricks.com/images-in-postcss/)**: Aleks Hudochenkov does a great job of showcasing what PostCSS is good at and the role it has grown into in the front end stack.
     + **[Stylelint](http://stylelint.io/)**: Stylelint's ambitious goal is to supplement our discipline with automatic enforcement — to provide a core set of rules and a pluggable framework that CSS authors can use to enforce their own strategies.
         + **[Lint your CSS with Stylelint](https://css-tricks.com/stylelint/)**: David Clark writes about reasons for using a CSS linter and advantages of Stylelint.
-+ **[Code Editors](undefined)**: Text editor programs designed specifically for editing source code of a website.
++ **Code Editors**: Text editor programs designed specifically for editing source code of a website.
     + **[Atom](https://atom.io/)**: Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
     + **[Brackets](http://brackets.io/)**: An open source code editor for the web, written in JavaScript, HTML and CSS.
     + **[Notepad++](https://notepad-plus-plus.org/)**: Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GPL License
     + **[Visual Studio Code](https://code.visualstudio.com/)**: Build and debug modern web and cloud applications. VS Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
-+ **[Documentation](undefined)**: Writing, generating, publishing and consuming documentation for web deliverables.
++ **Documentation**: Writing, generating, publishing and consuming documentation for web deliverables.
     + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
     + **[Daux](http://daux.io/)**: Daux.io is a documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
     + **[Dexy](http://www.dexy.it/)**: Dexy makes it easier to create technical documents by doing the repetitive parts for you. Dexy provides a consistent interface to tools and scripts so you don't have to run them manually.
@@ -1299,39 +1299,39 @@ against sets of codified UI Guidelines.
     + **[devdocs.io](http://devdocs.io/)**: Devdocs is an all-in-one API documentation reader with a fast, organized, and consistent interface.
     + **[dox](https://github.com/visionmedia/dox)**: JavaScript documentation generator for node using markdown and jsdoc.
     + **[styledocco](http://jacobrask.github.io/styledocco/)**: StyleDocco generates documentation and style guide documents from your stylesheets.
-+ **[Fonts for Programmers](undefined)**: Programmers need special fonts, which help align the code and distinguish between characters, that look alike.
++ **Fonts for Programmers**: Programmers need special fonts, which help align the code and distinguish between characters, that look alike.
     + **[Droid Sans Mono](https://www.google.com/fonts/specimen/Droid+Sans+Mono)**: Droid Sans Mono makes for a great programming font. Its only real flaw is the lack of a slashed zero.
     + **[Free Programming Fonts](http://cdn.sixrevisions.com/0441-01_programming-fonts/demo/programming-fonts.html)**: A demonstration of beautiful fonts for people who love to code.
     + **[Mononoki](https://github.com/madmalik/mononoki)**: Mononoki is a typeface by Matthias Tellen, created to enhance code formatting.
     + **[Profont](http://tobiasjung.name/profont/)**: Profont is a monospaced font created to be a most readable font for programming. It is designed to look good a really small sizes
     + **[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)**: Source Code Pro is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
     + **[Space Mono](https://fonts.google.com/specimen/Space%20Mono)**: Space Mono is an original fixed-width type family designed by Colophon Foundry for Google Design.
-+ **[Getting Started](undefined)**: Step by step guides for setting up a frontend development workflow.
++ **Getting Started**: Step by step guides for setting up a frontend development workflow.
     + **[Front-end Process - Flat Builds and Automation (series)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-1-introduction/)**: A flat build is basically the process of coding a static page (or pages) in HTML and CSS. The idea is to supply our developers with design assets such as style guides, pattern libraries or prototypes, including assets such as images, fonts, css, and javascript, as flat builds.
         + **[CSS Framework (Inuit)](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-4-css-framework/)**: In this part the author introduces the inuit CSS framework and describes how to integrate the framework into the development process.
         + **[Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)**: In this part the author outlines how to set up your dev environment, and how to scaffold a project using Yeoman.
         + **[Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)**: The author outlined how to set up your dev environment, and how to scaffold a project using Yeoman. In this third part we will look at how to install and configure some grunt tasks.
-+ **[HTML Tools](undefined)**: Tools for pre and post processing of the HTML source code.
++ **HTML Tools**: Tools for pre and post processing of the HTML source code.
     + **[html-inspector](https://www.npmjs.org/package/html-inspector)**: HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
     + **[html-minifier](https://www.npmjs.com/package/html-minifier)**: HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
-+ **[Image Post Processing](undefined)**: Tools for image conversion and optimization.
++ **Image Post Processing**: Tools for image conversion and optimization.
     + **[ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)**: Make lossless optimisation of images part of your automated build process.
     + **[Pngcrush](http://pmt.sourceforge.net/pngcrush/)**: Pngcrush is an optimizer for PNG (Portable Network Graphics) files.
     + **[SMLR](https://github.com/jasonmoo/smlr)**: Re-encode jpeg images with no perceivable quality loss. Uses the butteraugli psychovisual comparison and k-ary search to determine the best jpeg quality setting.
     + **[jpegoptim](https://github.com/tjko/jpegoptim)**: Utility to optimize/compress JPEG files.
-+ **[JavaScript Tools](undefined)**: Tools for static analysis, pre and post processing of JavaScript files.
++ **JavaScript Tools**: Tools for static analysis, pre and post processing of JavaScript files.
     + **[Babel](https://babeljs.io/)**: Babel is a generic multi-purpose compiler for JavaScript. Using Babel you can use (and create) the next generation of JavaScript, as well as the next generation of JavaScript tooling.
         + **[JavaScript Transpilers: What They Are & Why We Need Them](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)**: Learn how to use Babel, and what has to do with the future of JavaScript.
     + **[Closure Compiler](https://developers.google.com/closure/compiler/)**: The Closure Compiler parses your JavaScript, analyzes it, removes dead code and rewrites and minimizes what's left. It also checks syntax, variable references, and types, and warns about common JavaScript pitfalls.
     + **[Flow](https://flowtype.org/)**: Flow is a static type checker for JavaScript. It can be used to catch common bugs in JavaScript programs before they run.
     + **[JSCodeshift](https://github.com/facebook/jscodeshift)**: Codemods are tools that assist large-scale, partially automatable codebase refactoring. JSCodeshift is a toolkit for running codemods over multiple JS files.
         + **[Turbocharged JavaScript Refactoring with Codemods](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9)**: Joe Lencioni describes how they used codemods to transform a large JavaScript code base at AirBnB
-    + **[JavaScript Code Linting](undefined)**: Linting is the process of running a program that will analyse code for potential errors.
+    + **JavaScript Code Linting**: Linting is the process of running a program that will analyse code for potential errors.
         + **[ESLint](http://eslint.org/)**: The pluggable linting utility for JavaScript and JSX.
         + **[JSHint](http://jshint.com/)**: JSHint is a tool for more flexible static analysis of JavaScript programs.
         + **[JSLint](http://jslint.com/)**: JSLint is a tool for detecting errors or problems by static analysis of JavaScript programs.
         + **[JSLint, JSHint and ESLint Error Explanations](http://jslinterrors.com)**: JSLint Error Explanations is designed to help you improve your JavaScript by understanding the sometimes cryptic error messages produced by JSLint, JSHint and ESLint, and teaching you how to avoid such errors.
-    + **[Module Bundlers and Loaders](undefined)**: Libraries for bundling JavaScript Modules into one or several files.
+    + **Module Bundlers and Loaders**: Libraries for bundling JavaScript Modules into one or several files.
         + **[Browserify](http://browserify.org/)**: Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
             + **[Watchify](https://www.npmjs.org/package/watchify)**: Watch mode for browserify builds.
         + **[Require1k](http://stuk.github.io/require1k/)**: CommonJS require for the browser in 1KB, with no build needed.
@@ -1345,10 +1345,10 @@ against sets of codified UI Guidelines.
         + **[require.js](http://requirejs.org/)**: RequireJS is a JavaScript file and AMD module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.
         + **[uRequire](https://github.com/anodynos/urequire)**: The Ultimate JavaScript Module Builder & Automagical Task Runner.
     + **[Regenerator](https://github.com/facebook/regenerator)**: This package implements a source transformation that takes the proposed syntax for generators/yield from future versions of JS and spits out efficient JS-of-today (ES5) that behaves the same way.
-+ **[Package Management](undefined)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
++ **Package Management**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
     + **[Bower](https://github.com/bower/bower)**: Bower offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack.
     + **[Lerna](https://github.com/lerna/lerna)**: Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
-    + **[NPM](undefined)**: NPM makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
+    + **NPM**: NPM makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
 + **[Sourcemaps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
     + **[combine-source-map](https://www.npmjs.org/package/combine-source-map)**: Add source maps of multiple files, offset them and then combine them into one source map.
     + **[convert-source-map](https://www.npmjs.org/package/convert-source-map)**: Converts a source-map from/to different formats and allows adding/changing properties.
@@ -1357,7 +1357,7 @@ against sets of codified UI Guidelines.
     + **[inline-source-map](https://www.npmjs.org/package/inline-source-map)**: Adds source mappings and base64 encodes them, so they can be inlined in your generated file.
     + **[mold-source-map](https://www.npmjs.org/package/mold-source-map)**: Mold a source map that is almost perfect for you into one that is.
     + **[source-map-cjs](https://www.npmjs.org/package/source-map-cjs)**: Generates and consumes source maps. Adapted to be commonjs only and work in older browsers.
-+ **[Version Control](undefined)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
++ **Version Control**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
     + **[Git](https://git-scm.com/)**: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
         + **[Become a Git Guru](https://www.atlassian.com/git/tutorials)**: A series of Git tutorials by Atlassian.
     + **[OctoLinker](https://github.com/OctoLinker/browser-extension)**: The OctoLinker is a browser extensions which makes references to other files in GitHub clickable.
