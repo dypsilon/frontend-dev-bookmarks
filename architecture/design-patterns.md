@@ -127,6 +127,7 @@ Best practices that the programmer can use to solve common problems when designi
         + **[Normalizr](https://github.com/paularmstrong/normalizr)**: Normalizes deeply nested JSON API responses according to a schema for Flux and Redux apps.
         + **[Redux Actions](https://github.com/acdlite/redux-actions)**: Flux Standard Action utilities for Redux.
         + **[Redux Form](https://github.com/erikras/redux-form)**: A Higher Order Component using react-redux to keep form state in a Redux store.
+        + **[Redux Loop](https://github.com/raisemarketplace/redux-loop)**: A port of elm-effects and the Elm Architecture to Redux that allows you to sequence your effects naturally and purely by returning them from your reducers.
         + **[Redux Saga](https://github.com/yelouafi/redux-saga)**: An alternative Side Effects middleware for Redux applications. Instead of dispatching Thunks which get handled by the redux-thunk middleware, you create Sagas to gather all your Side Effects logic in a central place.
         + **[Reselect](https://github.com/reactjs/reselect)**: Simple “selector” library for Redux inspired by getters in NuclearJS and subscriptions in re-frame.
         + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.

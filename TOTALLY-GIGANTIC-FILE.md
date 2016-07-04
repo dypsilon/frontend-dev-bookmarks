@@ -219,6 +219,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Normalizr](https://github.com/paularmstrong/normalizr)**: Normalizes deeply nested JSON API responses according to a schema for Flux and Redux apps.
             + **[Redux Actions](https://github.com/acdlite/redux-actions)**: Flux Standard Action utilities for Redux.
             + **[Redux Form](https://github.com/erikras/redux-form)**: A Higher Order Component using react-redux to keep form state in a Redux store.
+            + **[Redux Loop](https://github.com/raisemarketplace/redux-loop)**: A port of elm-effects and the Elm Architecture to Redux that allows you to sequence your effects naturally and purely by returning them from your reducers.
             + **[Redux Saga](https://github.com/yelouafi/redux-saga)**: An alternative Side Effects middleware for Redux applications. Instead of dispatching Thunks which get handled by the redux-thunk middleware, you create Sagas to gather all your Side Effects logic in a central place.
             + **[Reselect](https://github.com/reactjs/reselect)**: Simple “selector” library for Redux inspired by getters in NuclearJS and subscriptions in re-frame.
             + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
@@ -963,6 +964,8 @@ Programming/mark-up languages and web related standards.
         + **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**: Chris Coyer provides a great reference to the flexbox features with code examples.
         + **[A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)**: Rather that explaining how the flex properties work, this guide will focus on how the flex properties affect the layout in a visual way.
         + **[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)**: W3C specification for CSS flexbox.
+        + **[Flex-Grow is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/)**: Manuel Matuzovic describes how flex-grow works, including it's weird quirks. Then he goes into several examples on how common layout patterns may be implemented using flex-grow and flex-basis.
+        + **[Flexbox Forggy](http://flexboxfroggy.com/)**: A fun way to learn Flexbox by playing a game where you help Froggy and friends to arrive at a lilypad.
         + **[Flexbox Patterns](http://www.flexboxpatterns.com/)**: These interactive examples will show you practical ways to use Flexbox to build UI components.
     + **[How To Center in CSS](http://howtocenterincss.com/)**: This tool consolidates the many ways of centering a div and gives you the code you need for each situation.
     + **[The Complete Guide to Centering a DIV](http://www.tipue.com/blog/center-a-div/)**: The aim of this article is to show how, with a few CSS tricks, any div can be centered; horizontally, vertically or both. And within the page or a div.
