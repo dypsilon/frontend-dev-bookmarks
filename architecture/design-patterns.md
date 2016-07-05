@@ -67,6 +67,7 @@ Best practices that the programmer can use to solve common problems when designi
     + **[Modern Modular JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modularjavascript)**: A chapter from Essential JavaScript Design Patterns on Modules.
     + **Module Bundlers and Loaders**: Libraries for bundling JavaScript Modules into one or several files.
         + **[Browserify](http://browserify.org/)**: Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
+            + **[Budo](https://github.com/mattdesl/budo)**: A browserify development server, focused on incremental reloading, LiveReload integration (including CSS injection), and other high-level features.
             + **[Watchify](https://www.npmjs.org/package/watchify)**: Watch mode for browserify builds.
         + **[CrapLoader](https://github.com/gregersrygg/crapLoader)**: The goal of crapLoader is to load ads, widgets or any JavaScript code with document.write in it. This library hijacks document.write and delegates the content loaded from each script into the correct position.
         + **[Require.js](http://requirejs.org/)**: RequireJS is a JavaScript file and AMD module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.
@@ -117,11 +118,13 @@ Best practices that the programmer can use to solve common problems when designi
 + **Unidirectional Data Flow**: An architecture design pattern which promotes a flow of data and events in a single direction, usually creating an interactive loop.
     + **[Immutable User Interfaces](https://vimeo.com/album/3953264/video/166790294)**: Lee Byron talks about unidirectional data flow architectures based on immutable data structures in contrast to traditional MVC based designs.
         + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+    + **[MobX](https://github.com/mobxjs/mobx)**: MobX is a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
     + **Model-View-Intent (MVI)**: MVI is a unidirectional data flow architecture pattern consisting of three parts: Intent (to listen to the user), Model (to process information), and View (to output back to the user).
         + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
         + **[Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)**: André Staltz describes the idea of Reactive Programming vs. Interactive Programming, proceeds with the MVI design pattern and compares it to React/Flux.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
+    + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
     + **[Redux](http://redux.js.org/)**: Redux is a predictable state container for JavaScript apps. It attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen.
         + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
         + **[Normalizr](https://github.com/paularmstrong/normalizr)**: Normalizes deeply nested JSON API responses according to a schema for Flux and Redux apps.
@@ -132,6 +135,7 @@ Best practices that the programmer can use to solve common problems when designi
         + **[Reselect](https://github.com/reactjs/reselect)**: Simple “selector” library for Redux inspired by getters in NuclearJS and subscriptions in re-frame.
         + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
         + **[The Redux Ecosystem](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)**: Let’s take a look at most of the features that you’ll have to deal with when the time comes, — and where React & Redux themselves can’t help you.
+        + **[Tic-Tac-Toe.js: Redux Pattern in Plain JavaScript](http://ramonvictor.github.io/tic-tac-toe-js/)**: Ramon Victor describes how to use Redux with vanilla JavaScript. No React, no jQuery, no micro-library, it doesn't rely on anything else. It's just plain JS.
     + **[Unidirectional Data Flow Architectures (Talk)](https://vimeo.com/168652278)**: Andre Staltz compares modern architecture patterns including Flux, Redux, Model-View-Intent, Elm Arch and BEST.
 
 

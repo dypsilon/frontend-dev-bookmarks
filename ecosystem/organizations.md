@@ -44,6 +44,9 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+        + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
+        + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
+        + **[React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)**: Sebastian Markbage attempts to formally explain his mental model of React. The intention is to describe this in terms of deductive reasoning that lead us to this design.
         + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
         + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
         + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.

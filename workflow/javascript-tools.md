@@ -26,6 +26,7 @@ Tools for static analysis, pre and post processing of JavaScript files.
     + **[JSLint, JSHint and ESLint Error Explanations](http://jslinterrors.com)**: JSLint Error Explanations is designed to help you improve your JavaScript by understanding the sometimes cryptic error messages produced by JSLint, JSHint and ESLint, and teaching you how to avoid such errors.
 + **Module Bundlers and Loaders**: Libraries for bundling JavaScript Modules into one or several files.
     + **[Browserify](http://browserify.org/)**: Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
+        + **[Budo](https://github.com/mattdesl/budo)**: A browserify development server, focused on incremental reloading, LiveReload integration (including CSS injection), and other high-level features.
         + **[Watchify](https://www.npmjs.org/package/watchify)**: Watch mode for browserify builds.
     + **[CrapLoader](https://github.com/gregersrygg/crapLoader)**: The goal of crapLoader is to load ads, widgets or any JavaScript code with document.write in it. This library hijacks document.write and delegates the content loaded from each script into the correct position.
     + **[Require.js](http://requirejs.org/)**: RequireJS is a JavaScript file and AMD module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.

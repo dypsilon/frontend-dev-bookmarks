@@ -15,6 +15,7 @@ Successful open source projects attract many developers who produce plugins, lib
 
 + **[Angular](https://angularjs.org/)**: AngularJS is a web application framework trying to address many of the challenges encountered in developing single-page applications.
     + **[Angular 2 ESNext Starter](https://github.com/blacksonic/angular2-esnext-starter)**: This repo stands as a starting point for those who try Angular 2 in Javascript. It shows techniques how easy development can be also without Typescript.
+    + **[Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)**: In this article Victor Savkin talks in depth about the Angular 2 change detection system.
     + **[How to Prevent Name Collisions in Angular 2 Providers](http://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html)**: Opaque tokens are distinguishable and prevent us from running into naming collisions. Whenever we create a token that is not a type, OpaqueToken should be used.
     + **[Ng-Newsletter](http://www.ng-newsletter.com/)**: The free, weekly newsletter of the best AngularJS content on the web.
     + **[PrimeNG](http://www.primefaces.org/primeng/)**: PrimeNG is a collection of rich UI components for AngularJS2. PrimeNG is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
@@ -140,6 +141,9 @@ Successful open source projects attract many developers who produce plugins, lib
     + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
     + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
     + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+    + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
+    + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
+    + **[React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)**: Sebastian Markbage attempts to formally explain his mental model of React. The intention is to describe this in terms of deductive reasoning that lead us to this design.
     + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
     + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
     + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.

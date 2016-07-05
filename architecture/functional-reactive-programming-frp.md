@@ -54,6 +54,7 @@ FRP is a programming paradigm for asynchronous dataflow programming using the bu
     + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
 + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
 + **[Enemy of the State](https://vimeo.com/68987289)**: An introduction to Functional Reactive Programming and Bacon.js by Philip Roberts.
++ **[MobX](https://github.com/mobxjs/mobx)**: MobX is a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
 + **[Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179)**: Yassine Elouafi show how to use functional programming and algebraic data types to derive a pure functional definition of reactive programming like streams.
 + **Stream Libraries**: Libraries which help you compose asynchronous operations on streams of time-varying values and events.
     + **[Bacon.js](http://baconjs.github.io/)**: A small functional reactive programming lib for JavaScript. Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional.

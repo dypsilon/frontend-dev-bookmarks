@@ -22,6 +22,7 @@ Important engineers, evangelists, architects and other celebrities.
 + **[André Staltz](http://staltz.com/)**: Founder of the cycle.js framework and important contributor to ReactiveX.
     + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
     + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
+    + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
     + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
     + **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
     + **[Unidirectional Data Flow Architectures (Talk)](https://vimeo.com/168652278)**: Andre Staltz compares modern architecture patterns including Flux, Redux, Model-View-Intent, Elm Arch and BEST.

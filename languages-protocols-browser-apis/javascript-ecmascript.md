@@ -55,6 +55,7 @@ JavaScript is a full-fledged dynamic programming language that, when applied to 
     + **[Eloquent JavaScript (Book)](http://eloquentjavascript.net/)**: A comprehensive book about JavaScript, the language, the browser and Node.js.
     + **[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)**: JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs.
     + **[JavaScript Guide by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)**: The JavaScript Guide shows you how to use JavaScript and gives an overview of the language.
+    + **[Simplified JavaScript Jargon](http://jargon.js.org/)**: A community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
     + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)**: Free (as in pay what you want) E-Book by Nicholas C. Zakas describing the new features in EcmaScript 6.
     + **[What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)**: Philip Roberts, in this video, tries to create an intuitive understanding of what happens when JavaScript runs. He talks about the call stack, event loop, callback queue and other concepts.
 + **[Promises](https://www.promisejs.org/)**: A promise represents the result of an asynchronous operation.

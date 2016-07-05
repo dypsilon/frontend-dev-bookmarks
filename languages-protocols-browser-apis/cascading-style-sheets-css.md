@@ -26,8 +26,9 @@ CSS are a stylesheet language used to describe the presentation of a document wr
     + **[A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)**: Rather that explaining how the flex properties work, this guide will focus on how the flex properties affect the layout in a visual way.
     + **[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)**: W3C specification for CSS flexbox.
     + **[Flex-Grow is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/)**: Manuel Matuzovic describes how flex-grow works, including it's weird quirks. Then he goes into several examples on how common layout patterns may be implemented using flex-grow and flex-basis.
-    + **[Flexbox Forggy](http://flexboxfroggy.com/)**: A fun way to learn Flexbox by playing a game where you help Froggy and friends to arrive at a lilypad.
+    + **[Flexbox Froggy](http://flexboxfroggy.com/)**: A fun way to learn Flexbox by playing a game where you help Froggy and friends to arrive at a lilypad.
     + **[Flexbox Patterns](http://www.flexboxpatterns.com/)**: These interactive examples will show you practical ways to use Flexbox to build UI components.
+    + **[Flexbugs](https://github.com/philipwalton/flexbugs)**: This repository is a community-curated list of flexbox issues and cross-browser workarounds for them.
 + **[How To Center in CSS](http://howtocenterincss.com/)**: This tool consolidates the many ways of centering a div and gives you the code you need for each situation.
 + **[The Complete Guide to Centering a DIV](http://www.tipue.com/blog/center-a-div/)**: The aim of this article is to show how, with a few CSS tricks, any div can be centered; horizontally, vertically or both. And within the page or a div.
 + **[Understanding border-image](https://css-tricks.com/understanding-border-image/)**: The new CSS3 property border-image can allow you to create flexible boxes with custom borders with a single div and a single image.

@@ -83,6 +83,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Practical Intro to Monads in JavaScript: Validation](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)**: Jakub Strojewski shows how to accumulate errors in a simple Validation use case.
 + **[Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179)**: Yassine Elouafi show how to use functional programming and algebraic data types to derive a pure functional definition of reactive programming like streams.
 + **[Pure JavaScript](https://vimeo.com/49384334)**: Christian Johansen shows you how you can up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
++ **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
 + **[PureScript](http://www.purescript.org/)**: PureScript is a strongly, statically typed language which compiles to JavaScript. It is written in and inspired by Haskell.
 + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
     + **Practical Ramda - Functional Programming Examples**: Tom MacWright gives some practical examples of Ramda usage.

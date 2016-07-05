@@ -159,6 +159,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Modern Modular JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modularjavascript)**: A chapter from Essential JavaScript Design Patterns on Modules.
         + **Module Bundlers and Loaders**: Libraries for bundling JavaScript Modules into one or several files.
             + **[Browserify](http://browserify.org/)**: Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
+                + **[Budo](https://github.com/mattdesl/budo)**: A browserify development server, focused on incremental reloading, LiveReload integration (including CSS injection), and other high-level features.
                 + **[Watchify](https://www.npmjs.org/package/watchify)**: Watch mode for browserify builds.
             + **[CrapLoader](https://github.com/gregersrygg/crapLoader)**: The goal of crapLoader is to load ads, widgets or any JavaScript code with document.write in it. This library hijacks document.write and delegates the content loaded from each script into the correct position.
             + **[Require.js](http://requirejs.org/)**: RequireJS is a JavaScript file and AMD module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.
@@ -209,11 +210,13 @@ High level structure of the frontend code and the discipline of creating such st
     + **Unidirectional Data Flow**: An architecture design pattern which promotes a flow of data and events in a single direction, usually creating an interactive loop.
         + **[Immutable User Interfaces](https://vimeo.com/album/3953264/video/166790294)**: Lee Byron talks about unidirectional data flow architectures based on immutable data structures in contrast to traditional MVC based designs.
             + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+        + **[MobX](https://github.com/mobxjs/mobx)**: MobX is a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
         + **Model-View-Intent (MVI)**: MVI is a unidirectional data flow architecture pattern consisting of three parts: Intent (to listen to the user), Model (to process information), and View (to output back to the user).
             + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
             + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
             + **[Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)**: André Staltz describes the idea of Reactive Programming vs. Interactive Programming, proceeds with the MVI design pattern and compares it to React/Flux.
             + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
+        + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
         + **[Redux](http://redux.js.org/)**: Redux is a predictable state container for JavaScript apps. It attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen.
             + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
             + **[Normalizr](https://github.com/paularmstrong/normalizr)**: Normalizes deeply nested JSON API responses according to a schema for Flux and Redux apps.
@@ -224,6 +227,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Reselect](https://github.com/reactjs/reselect)**: Simple “selector” library for Redux inspired by getters in NuclearJS and subscriptions in re-frame.
             + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
             + **[The Redux Ecosystem](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)**: Let’s take a look at most of the features that you’ll have to deal with when the time comes, — and where React & Redux themselves can’t help you.
+            + **[Tic-Tac-Toe.js: Redux Pattern in Plain JavaScript](http://ramonvictor.github.io/tic-tac-toe-js/)**: Ramon Victor describes how to use Redux with vanilla JavaScript. No React, no jQuery, no micro-library, it doesn't rely on anything else. It's just plain JS.
         + **[Unidirectional Data Flow Architectures (Talk)](https://vimeo.com/168652278)**: Andre Staltz compares modern architecture patterns including Flux, Redux, Model-View-Intent, Elm Arch and BEST.
 + **Designs**: Ready to use and well documented structures and frameworks for frontend development.
     + **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
@@ -378,6 +382,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Practical Intro to Monads in JavaScript: Validation](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)**: Jakub Strojewski shows how to accumulate errors in a simple Validation use case.
     + **[Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179)**: Yassine Elouafi show how to use functional programming and algebraic data types to derive a pure functional definition of reactive programming like streams.
     + **[Pure JavaScript](https://vimeo.com/49384334)**: Christian Johansen shows you how you can up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
+    + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
     + **[PureScript](http://www.purescript.org/)**: PureScript is a strongly, statically typed language which compiles to JavaScript. It is written in and inspired by Haskell.
     + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
         + **Practical Ramda - Functional Programming Examples**: Tom MacWright gives some practical examples of Ramda usage.
@@ -446,6 +451,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
     + **[Enemy of the State](https://vimeo.com/68987289)**: An introduction to Functional Reactive Programming and Bacon.js by Philip Roberts.
+    + **[MobX](https://github.com/mobxjs/mobx)**: MobX is a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
     + **[Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179)**: Yassine Elouafi show how to use functional programming and algebraic data types to derive a pure functional definition of reactive programming like streams.
     + **Stream Libraries**: Libraries which help you compose asynchronous operations on streams of time-varying values and events.
         + **[Bacon.js](http://baconjs.github.io/)**: A small functional reactive programming lib for JavaScript. Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional.
@@ -574,6 +580,7 @@ Important developers, companies, organizations and news sources.
 + **Communities Around Projects**: Successful open source projects attract many developers who produce plugins, libraries, tutorials and other resources. This section collects such resources.
     + **[Angular](https://angularjs.org/)**: AngularJS is a web application framework trying to address many of the challenges encountered in developing single-page applications.
         + **[Angular 2 ESNext Starter](https://github.com/blacksonic/angular2-esnext-starter)**: This repo stands as a starting point for those who try Angular 2 in Javascript. It shows techniques how easy development can be also without Typescript.
+        + **[Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)**: In this article Victor Savkin talks in depth about the Angular 2 change detection system.
         + **[How to Prevent Name Collisions in Angular 2 Providers](http://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html)**: Opaque tokens are distinguishable and prevent us from running into naming collisions. Whenever we create a token that is not a type, OpaqueToken should be used.
         + **[Ng-Newsletter](http://www.ng-newsletter.com/)**: The free, weekly newsletter of the best AngularJS content on the web.
         + **[PrimeNG](http://www.primefaces.org/primeng/)**: PrimeNG is a collection of rich UI components for AngularJS2. PrimeNG is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
@@ -699,6 +706,9 @@ Important developers, companies, organizations and news sources.
         + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+        + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
+        + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
+        + **[React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)**: Sebastian Markbage attempts to formally explain his mental model of React. The intention is to describe this in terms of deductive reasoning that lead us to this design.
         + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
         + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
         + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
@@ -760,6 +770,7 @@ curated by Zoran Jambor.
     + **[André Staltz](http://staltz.com/)**: Founder of the cycle.js framework and important contributor to ReactiveX.
         + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
         + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
+        + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
         + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
         + **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
         + **[Unidirectional Data Flow Architectures (Talk)](https://vimeo.com/168652278)**: Andre Staltz compares modern architecture patterns including Flux, Redux, Model-View-Intent, Elm Arch and BEST.
@@ -847,6 +858,9 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
             + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
             + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+            + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
+            + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
+            + **[React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)**: Sebastian Markbage attempts to formally explain his mental model of React. The intention is to describe this in terms of deductive reasoning that lead us to this design.
             + **[React App](https://github.com/kriasoft/react-app)**: React App is a small library powered by React, Universal Router and History that handles routing, navigation and rendering logic in isomorphic (universal) and single-page applications.
             + **[React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.9208ahtfb)**: Dan Abramov explains the Virtual DOM dictionary in React.
             + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
@@ -965,8 +979,9 @@ Programming/mark-up languages and web related standards.
         + **[A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)**: Rather that explaining how the flex properties work, this guide will focus on how the flex properties affect the layout in a visual way.
         + **[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)**: W3C specification for CSS flexbox.
         + **[Flex-Grow is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/)**: Manuel Matuzovic describes how flex-grow works, including it's weird quirks. Then he goes into several examples on how common layout patterns may be implemented using flex-grow and flex-basis.
-        + **[Flexbox Forggy](http://flexboxfroggy.com/)**: A fun way to learn Flexbox by playing a game where you help Froggy and friends to arrive at a lilypad.
+        + **[Flexbox Froggy](http://flexboxfroggy.com/)**: A fun way to learn Flexbox by playing a game where you help Froggy and friends to arrive at a lilypad.
         + **[Flexbox Patterns](http://www.flexboxpatterns.com/)**: These interactive examples will show you practical ways to use Flexbox to build UI components.
+        + **[Flexbugs](https://github.com/philipwalton/flexbugs)**: This repository is a community-curated list of flexbox issues and cross-browser workarounds for them.
     + **[How To Center in CSS](http://howtocenterincss.com/)**: This tool consolidates the many ways of centering a div and gives you the code you need for each situation.
     + **[The Complete Guide to Centering a DIV](http://www.tipue.com/blog/center-a-div/)**: The aim of this article is to show how, with a few CSS tricks, any div can be centered; horizontally, vertically or both. And within the page or a div.
     + **[Understanding border-image](https://css-tricks.com/understanding-border-image/)**: The new CSS3 property border-image can allow you to create flexible boxes with custom borders with a single div and a single image.
@@ -1035,6 +1050,7 @@ Programming/mark-up languages and web related standards.
         + **[Eloquent JavaScript (Book)](http://eloquentjavascript.net/)**: A comprehensive book about JavaScript, the language, the browser and Node.js.
         + **[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)**: JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs.
         + **[JavaScript Guide by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)**: The JavaScript Guide shows you how to use JavaScript and gives an overview of the language.
+        + **[Simplified JavaScript Jargon](http://jargon.js.org/)**: A community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
         + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)**: Free (as in pay what you want) E-Book by Nicholas C. Zakas describing the new features in EcmaScript 6.
         + **[What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)**: Philip Roberts, in this video, tries to create an intuitive understanding of what happens when JavaScript runs. He talks about the call stack, event loop, callback queue and other concepts.
     + **[Promises](https://www.promisejs.org/)**: A promise represents the result of an asynchronous operation.
@@ -1287,7 +1303,7 @@ against sets of codified UI Guidelines.
     + **[CSSCSS](http://zmoazeni.github.io/csscss/)**: A CSS redundancy analyzer that analyzes redundancy.
     + **[Clean CSS](https://www.npmjs.com/package/clean-css)**: Clean-css is a fast and efficient Node.js library for minifying CSS files.
     + **[Helium CSS](https://github.com/geuis/helium-css)**: Helium is a tool for discovering unused CSS across many pages on a web site.
-    + **PostCSS**: PostCSS parses CSS into an abstract syntax tree (AST), passes it through a series of plugins, and then concatenates back into a string.
+    + **[PostCSS](http://postcss.org/)**: PostCSS parses CSS into an abstract syntax tree (AST), passes it through a series of plugins, and then concatenates back into a string.
         + **[An Introduction to PostCSS](https://www.sitepoint.com/an-introduction-to-postcss/)**: This article describes what PostCSS is and how to get started.
         + **[ES CSS Modules](https://github.com/jacobp100/es-css-modules)**: PostCSS plugin that combines CSS Modules and ES Imports.
         + **[Improving the Quality of Your CSS with PostCSS](https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)**: In this article, we will explore how we can utilise PostCSS to help us maintain a higher quality in our CSS code.
@@ -1330,9 +1346,10 @@ against sets of codified UI Guidelines.
     + **[html-minifier](https://www.npmjs.com/package/html-minifier)**: HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
 + **Image Post Processing**: Tools for image conversion and optimization.
     + **[ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)**: Make lossless optimisation of images part of your automated build process.
+    + **[Jpegoptim](https://github.com/tjko/jpegoptim)**: Utility to optimize/compress JPEG files.
+    + **[Optimize Images for Web – Ultimate Guide](https://www.keycdn.com/blog/optimize-images-for-web/)**: We will discuss the three areas in which you can better optimize images for web: better web performance, rank and index better in search engines, better social media engagement and CTR.
     + **[Pngcrush](http://pmt.sourceforge.net/pngcrush/)**: Pngcrush is an optimizer for PNG (Portable Network Graphics) files.
     + **[SMLR](https://github.com/jasonmoo/smlr)**: Re-encode jpeg images with no perceivable quality loss. Uses the butteraugli psychovisual comparison and k-ary search to determine the best jpeg quality setting.
-    + **[jpegoptim](https://github.com/tjko/jpegoptim)**: Utility to optimize/compress JPEG files.
 + **JavaScript Tools**: Tools for static analysis, pre and post processing of JavaScript files.
     + **[Babel](https://babeljs.io/)**: Babel is a generic multi-purpose compiler for JavaScript. Using Babel you can use (and create) the next generation of JavaScript, as well as the next generation of JavaScript tooling.
         + **[JavaScript Transpilers: What They Are & Why We Need Them](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)**: Learn how to use Babel, and what has to do with the future of JavaScript.
@@ -1347,6 +1364,7 @@ against sets of codified UI Guidelines.
         + **[JSLint, JSHint and ESLint Error Explanations](http://jslinterrors.com)**: JSLint Error Explanations is designed to help you improve your JavaScript by understanding the sometimes cryptic error messages produced by JSLint, JSHint and ESLint, and teaching you how to avoid such errors.
     + **Module Bundlers and Loaders**: Libraries for bundling JavaScript Modules into one or several files.
         + **[Browserify](http://browserify.org/)**: Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
+            + **[Budo](https://github.com/mattdesl/budo)**: A browserify development server, focused on incremental reloading, LiveReload integration (including CSS injection), and other high-level features.
             + **[Watchify](https://www.npmjs.org/package/watchify)**: Watch mode for browserify builds.
         + **[CrapLoader](https://github.com/gregersrygg/crapLoader)**: The goal of crapLoader is to load ads, widgets or any JavaScript code with document.write in it. This library hijacks document.write and delegates the content loaded from each script into the correct position.
         + **[Require.js](http://requirejs.org/)**: RequireJS is a JavaScript file and AMD module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.
