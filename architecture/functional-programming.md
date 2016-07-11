@@ -19,6 +19,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Barely Functional](https://github.com/cullophid/barely-functional)**: Tiny (2.7kb) functional programming library using native es5/6 operations.
 + **[Basic Lazy Evaluation and Memoization in JavaScript](http://blog.gypsydave5.com/2015/03/21/lazy-eval-and-memo/)**: Memoization is a way of optimizing code so that it will return cached results for the same inputs.
 + **[Bilby.js](http://bilby.brianmckenna.org/)**: A functional library based on category theory with immutable multimethods, functional data structures, functional operator overloading, automated specification testing.
++ **[Composability: from Callbacks to Categories in ES6](https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e)**: The author borrows some ideas from functional languages to explore a different approach for addressing the callback hell.
 + **[Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)**: Eric Elliott describes the difference between partial application and curry.
 + **[Daggy](https://github.com/puffnfresh/daggy)**: Library for creating tagged constructors (catamorphisms).
 + **[Date FP](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.

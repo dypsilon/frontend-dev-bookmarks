@@ -20,34 +20,38 @@ The outward or visible aspect of a website.
 
 + **Animation**: The process of creating motion and shape change.
     + **[Animate.css](http://daneden.github.io/animate.css/)**: Just-add-water CSS animations.
+    + **[Animate.less](https://github.com/machito/animate.less)**: A bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects.
     + **[Approach](http://srobbin.com/jquery-plugins/approach/)**: A jQuery plugin that allows you to animate CSS properties based on distance to an object.
     + **[CSS Spritesheet Animation Example](http://jsfiddle.net/simurai/CGmCe/light/)**: Sprite Sheet animation with CSS3 using the steps() feature.
     + **[Caat](http://hyperandroid.github.io/CAAT/)**: Scene graph director-based animation framework for javascript.
     + **[CanvasScript3](http://www.arahaya.com/canvasscript3/)**: CanvasScript3 is a Javascript library for the new HTML5 Canvas with an interface similar to ActionScript3. This library enables Sprite Groups, Layers, Mouse Events, Keyboard Events, Bitmap Effects, Tween Animations etc.
     + **[Collie](http://jindo.dev.naver.com/collie/)**: Collie is a Javascript library that helps to create highly optimized animations and games using HTML 5. Collie runs on both PC and mobile using HTML 5 canvas and DOM.
+    + **[Emile.js](https://github.com/madrobby/emile)**: Emile.js is a no-frills stand-alone CSS animation JavaScript framework.
     + **[Firmin](http://extralogical.net/projects/firmin/)**: Firmin is a JavaScript animation library using CSS transforms and transitions.
     + **[GreenSock Animation Platform](http://www.greensock.com/get-started-js/)**: GreenSock Animation Platform is a suite of tools for scripted animation.
         + **[Codepen Repository](http://codepen.io/GreenSock/)**: Codepen repository with examples of Greensock usage and code.
         + **[Examples](http://ahrengot.com/tutorials/greensock-javascript-animation/)**: Here are a couple of examples demonstrating the core features of the Greensock Animation Platform.
         + **[Learning Center](http://www.greensock.com/learning/)**: Tutorials and videos for GreenSock Animation Platform.
+    + **[JQuery Transit](http://ricostacruz.com/jquery.transit/)**: Super-smooth CSS3 transformations and transitions for jQuery.
     + **[Janis](https://github.com/MikeMcTiernan/Janis)**: Janis is a lightweight Javascript framework that provides simple animations via CSS transitions for modern browsers on the web as well as mobile devices.
     + **[Keanu](https://github.com/wambotron/Keanu)**: Keanu is a micro-lib for animation on Canvas/JS.
     + **[Magic](https://github.com/miniMAC/magic)**: CSS3 Animations with special effects.
     + **[Move.js](http://visionmedia.github.com/move.js/)**: Move.js is a small JavaScript library making CSS3 backed animation extremely simple and elegant.
+    + **[Ramjet](http://www.rich-harris.co.uk/ramjet/)**: Ramjet makes it looks as though one DOM element is capable of transforming into another, no matter where the two elements sit in the DOM tree.
     + **[Rekapi](http://rekapi.com/)**: A keyframe animation library for JavaScript.
     + **[SVG.js](http://svgjs.com/)**: A lightweight library for manipulating and animating SVG.
+    + **[Scripty2](http://scripty2.com/)**: scripty2 is a powerful, flexible JavaScript framework to help you write your own          delicious visual effects & user interfaces.
     + **[Shifty](http://jeremyckahn.github.com/shifty/)**: Shifty is a tweening engine built in JavaScript.  It is designed to fit any number of tweening needs.
     + **[Snap.svg](http://snapsvg.io/)**: Snap.svg JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.
     + **[Stylie](http://jeremyckahn.github.io/stylie/)**: Stylie is a fun tool for easily creating complex CSS animations. Quickly design your animation graphically, grab the generated code and go!
+    + **[Textillate.js](http://jschr.github.io/textillate/)**: Textillate.js combines some awesome libraries to provide a ease-to-use plugin for applying CSS3 animations to any text.
+    + **[Tween.js](https://github.com/sole/tween.js)**: Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.
     + **[Twitter Fave Animation](https://cssanimation.rocks/twitter-fave/)**: Rather than rely on CSS transitions, the new animation makes use of a series of images. Here’s how to recreate the animation using the CSS animation steps timing function.
     + **[Web Animation Past, Present, and Future (2016)](http://alistapart.com/article/web-animation-past-present-and-future)**: Rachel Nabors explores the world of web animation standards, platforms and tools in 2016: SVG, SMIL, GreenSock AP, Framer, Browser Tooling etc.
-    + **[animate.less](https://github.com/machito/animate.less)**: A bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects.
-    + **[emile.js](https://github.com/madrobby/emile)**: emile.js is a no-frills stand-alone CSS animation JavaScript framework.
-    + **[jQuery Transit](http://ricostacruz.com/jquery.transit/)**: Super-smooth CSS3 transformations and transitions for jQuery.
-    + **[ramjet](http://www.rich-harris.co.uk/ramjet/)**: Ramjet makes it looks as though one DOM element is capable of transforming into another, no matter where the two elements sit in the DOM tree.
-    + **[scripty2](http://scripty2.com/)**: scripty2 is a powerful, flexible JavaScript framework to help you write your own          delicious visual effects & user interfaces.
-    + **[textillate.js](http://jschr.github.io/textillate/)**: Textillate.js combines some awesome libraries to provide a ease-to-use plugin for applying CSS3 animations to any text.
-    + **[tween.js](https://github.com/sole/tween.js)**: Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.
+    + **[Web Animations API](http://w3c.github.io/web-animations/)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
+        + **[Are we animated yet?](https://birtles.github.io/areweanimatedyet/)**: This page tracks the progress of implementing the Web Animations API in Firefox.
+        + **[WAAPI Browser Support Test (+ Polyfill)](http://codepen.io/danwilson/pen/XmWraY)**: This codepen tests whether and to which extend your browser supports Web Animations API. The test is run after including the Polyfill.
+        + **[Web Animations Polyfill](https://github.com/web-animations/web-animations-js)**: JavaScript implementation of the Web Animations API.
 + **Typography**: The style, arrangement, or appearance of typeset matter.
     + **[Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/fonts)**: Edge Web Fonts is a free service that provides access to a large library of fonts for your website. It’s one of the Edge Tools & Services from Adobe. Use of the service is free and unlimited.
     + **[Baseline.js](https://github.com/daneden/Baseline.js)**: A simple jQuery plugin for restoring vertical baselines thrown off by odd image sizes.
@@ -245,6 +249,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Block Element Modifier (BEM)](https://en.bem.info/method/)**: Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
         + **[A New Front-End Methodology: BEM](http://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)**: An introduction by Varvara Stepanova at SmashingMagazine.
         + **[An Introduction to the BEM Methodology](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)**: General introduction article on tutsplus.
+        + **[Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)**: This article aims to be useful for people who are already BEM enthusiasts and wish to use it more effectively or people who are curious to learn more about it.
         + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
         + **[Emmet filter for BEM](http://docs.emmet.io/filters/bem/)**: If you’re writing your HTML and CSS code in OOCSS-style, Yandex’s BEM style specifically, you will like this filter. It provides some aliases and automatic insertions of common block and element names in classes.
         + **[Fifty Shades of BEM](http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)**: Article describes different flavors of BEM.
@@ -286,6 +291,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Learning How to Ride: an Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)**: In this talk, Fernando Macias Pereznieto introduces us to the good, the bad, and the beautiful of using Cycle.js, whether you are a complete beginner or an experienced JS ninja.
         + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
             + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
+        + **[Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872)**: Frederik Krautwald explains the principles behind Cycle.js, it's inner workings and how to use it to create a simple program with drivers.
         + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Polymer Project](https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html)**: The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web.
@@ -319,6 +325,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Barely Functional](https://github.com/cullophid/barely-functional)**: Tiny (2.7kb) functional programming library using native es5/6 operations.
     + **[Basic Lazy Evaluation and Memoization in JavaScript](http://blog.gypsydave5.com/2015/03/21/lazy-eval-and-memo/)**: Memoization is a way of optimizing code so that it will return cached results for the same inputs.
     + **[Bilby.js](http://bilby.brianmckenna.org/)**: A functional library based on category theory with immutable multimethods, functional data structures, functional operator overloading, automated specification testing.
+    + **[Composability: from Callbacks to Categories in ES6](https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e)**: The author borrows some ideas from functional languages to explore a different approach for addressing the callback hell.
     + **[Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)**: Eric Elliott describes the difference between partial application and curry.
     + **[Daggy](https://github.com/puffnfresh/daggy)**: Library for creating tagged constructors (catamorphisms).
     + **[Date FP](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.
@@ -448,6 +455,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Learning How to Ride: an Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)**: In this talk, Fernando Macias Pereznieto introduces us to the good, the bad, and the beautiful of using Cycle.js, whether you are a complete beginner or an experienced JS ninja.
         + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
             + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
+        + **[Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872)**: Frederik Krautwald explains the principles behind Cycle.js, it's inner workings and how to use it to create a simple program with drivers.
         + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
@@ -623,6 +631,7 @@ Important developers, companies, organizations and news sources.
         + **[Learning How to Ride: an Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)**: In this talk, Fernando Macias Pereznieto introduces us to the good, the bad, and the beautiful of using Cycle.js, whether you are a complete beginner or an experienced JS ninja.
         + **[Motorcycle.js](https://github.com/motorcyclejs/core)**: This is a sister project that will continue to evolve and grow alongside Cycle.js for the foreseeable future. The primary focus of this project is to tune it for performance as much as possible.
             + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
+        + **[Plug and Play All Your Observable Streams With Cycle.js](https://medium.com/@fkrautwald/plug-and-play-all-your-observable-streams-with-cycle-js-e543fc287872)**: Frederik Krautwald explains the principles behind Cycle.js, it's inner workings and how to use it to create a simple program with drivers.
         + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Dojo Toolkit](http://dojotoolkit.org/)**: A JavaScript toolkit that saves you time and scales with your development process. Provides everything you need to build a Web app. Language utilities, UI components, and more, all in one place, designed to work together perfectly.
@@ -725,6 +734,7 @@ Important developers, companies, organizations and news sources.
         + **[The Bare Minimum to Work with React](http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React)**: Krasimir Tsonev describes how to start working with React after installing only 7 dependencies and learning only three commands.
         + **[The Redux Ecosystem](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)**: Let’s take a look at most of the features that you’ll have to deal with when the time comes, — and where React & Redux themselves can’t help you.
         + **[Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)**: This post will guide you through building a full React app, even with little to no experience in the framework. We are going to build a Yelp clone in React.
+        + **[Using React to Sync Updates and Offline Activity](https://medium.com/@firasd/interface-from-data-using-react-to-sync-updates-and-offline-activity-across-devices-f672b213701c)**: Firas Durri describes how React based architectures make syncing state across devices much easier.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
         + **[Why Did You Update?](https://github.com/garbles/why-did-you-update)**: A function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur.
         + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
@@ -877,6 +887,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[The Bare Minimum to Work with React](http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React)**: Krasimir Tsonev describes how to start working with React after installing only 7 dependencies and learning only three commands.
             + **[The Redux Ecosystem](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)**: Let’s take a look at most of the features that you’ll have to deal with when the time comes, — and where React & Redux themselves can’t help you.
             + **[Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)**: This post will guide you through building a full React app, even with little to no experience in the framework. We are going to build a Yelp clone in React.
+            + **[Using React to Sync Updates and Offline Activity](https://medium.com/@firasd/interface-from-data-using-react-to-sync-updates-and-offline-activity-across-devices-f672b213701c)**: Firas Durri describes how React based architectures make syncing state across devices much easier.
             + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
             + **[Why Did You Update?](https://github.com/garbles/why-did-you-update)**: A function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur.
             + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
@@ -934,11 +945,16 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)**: W3C specification for CSS flexbox.
         + **[Document Object Model (DOM) Technical Reports](https://www.w3.org/DOM/DOMTR)**: Specifications by the W3C.
         + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
+        + **[Service Workers](https://www.w3.org/TR/service-workers/)**: A method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.
+            + **[Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)**: Addy Osmani describes how to leverage the Service Worker API to drastically improve the loading speed of your web application.
+            + **[Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)**: Matt Gaunt introduces the main features of Service Worker API in this article.
+            + **[Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)**: Tracks the implementation status across the main browsers.
         + **[Shadow DOM W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/shadow/)**: This specification describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
     + **[Yandex](https://www.yandex.com/)**: Yandex is one of the largest internet companies in Europe, operating Russia’s most popular search engine and its most visited website.
         + **[Block Element Modifier (BEM)](https://en.bem.info/method/)**: Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
             + **[A New Front-End Methodology: BEM](http://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)**: An introduction by Varvara Stepanova at SmashingMagazine.
             + **[An Introduction to the BEM Methodology](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)**: General introduction article on tutsplus.
+            + **[Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)**: This article aims to be useful for people who are already BEM enthusiasts and wish to use it more effectively or people who are curious to learn more about it.
             + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
             + **[Emmet filter for BEM](http://docs.emmet.io/filters/bem/)**: If you’re writing your HTML and CSS code in OOCSS-style, Yandex’s BEM style specifically, you will like this filter. It provides some aliases and automatic insertions of common block and element names in classes.
             + **[Fifty Shades of BEM](http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)**: Article describes different flavors of BEM.
@@ -1067,6 +1083,10 @@ Programming/mark-up languages and web related standards.
     + **[JSON-LD](http://json-ld.org/)**: JSON-LD is a lightweight Linked Data format. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale.
 + **Scalable Vector Graphics (SVG)**: An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.
     + **[Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)**: This article will provide you with tools and resources to simplify editing, converting, optimizing, and delivering SVGs.
++ **[Service Workers](https://www.w3.org/TR/service-workers/)**: A method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.
+    + **[Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)**: Addy Osmani describes how to leverage the Service Worker API to drastically improve the loading speed of your web application.
+    + **[Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)**: Matt Gaunt introduces the main features of Service Worker API in this article.
+    + **[Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)**: Tracks the implementation status across the main browsers.
 + **Templating Languages and Engines**: Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
     + **[Dust.js by LinkedIn](http://www.dustjs.com/)**: Dust is a Javascript templating engine. It inherits its look from the ctemplate family of languages, and is designed to run asynchronously on both the server and the browser.
     + **[HyperScript](https://github.com/dominictarr/hyperscript)**: Create HyperText with JavaScript, on client or server.
@@ -1099,6 +1119,10 @@ but with a couple of important differences in philosophy and style.
     + **[Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)**: This architecture document by W3C discusses the core design components of the Web. They are identification of resources, representation of resource state, and the protocols that support the interaction between agents and resources in the space.
     + **[SpeakingURL](https://github.com/pid/speakingurl)**: This module aims to transliterate the input string and create a so-called Semantic  or Speaking URL.
     + **[URI.js](http://medialize.github.io/URI.js/)**: URI.js is a javascript library for working with URLs. It offers a "jQuery-style" API to read and write all regular components and a number of convenience methods.
++ **[Web Animations API](http://w3c.github.io/web-animations/)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
+    + **[Are we animated yet?](https://birtles.github.io/areweanimatedyet/)**: This page tracks the progress of implementing the Web Animations API in Firefox.
+    + **[WAAPI Browser Support Test (+ Polyfill)](http://codepen.io/danwilson/pen/XmWraY)**: This codepen tests whether and to which extend your browser supports Web Animations API. The test is run after including the Polyfill.
+    + **[Web Animations Polyfill](https://github.com/web-animations/web-animations-js)**: JavaScript implementation of the Web Animations API.
 + **WebAssembly**: WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
     + **[7 Things You Should Know About WebAssembly](https://auth0.com/blog/2015/10/14/7-things-you-should-know-about-web-assembly/)**: In this post we will explore seven key facts about WebAssembly, one of the biggest changes the web will experience in the coming years.
 

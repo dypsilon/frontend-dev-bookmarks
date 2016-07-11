@@ -14,34 +14,38 @@ The process of creating motion and shape change.
 -----------------------------------------
 
 + **[Animate.css](http://daneden.github.io/animate.css/)**: Just-add-water CSS animations.
++ **[Animate.less](https://github.com/machito/animate.less)**: A bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects.
 + **[Approach](http://srobbin.com/jquery-plugins/approach/)**: A jQuery plugin that allows you to animate CSS properties based on distance to an object.
 + **[CSS Spritesheet Animation Example](http://jsfiddle.net/simurai/CGmCe/light/)**: Sprite Sheet animation with CSS3 using the steps() feature.
 + **[Caat](http://hyperandroid.github.io/CAAT/)**: Scene graph director-based animation framework for javascript.
 + **[CanvasScript3](http://www.arahaya.com/canvasscript3/)**: CanvasScript3 is a Javascript library for the new HTML5 Canvas with an interface similar to ActionScript3. This library enables Sprite Groups, Layers, Mouse Events, Keyboard Events, Bitmap Effects, Tween Animations etc.
 + **[Collie](http://jindo.dev.naver.com/collie/)**: Collie is a Javascript library that helps to create highly optimized animations and games using HTML 5. Collie runs on both PC and mobile using HTML 5 canvas and DOM.
++ **[Emile.js](https://github.com/madrobby/emile)**: Emile.js is a no-frills stand-alone CSS animation JavaScript framework.
 + **[Firmin](http://extralogical.net/projects/firmin/)**: Firmin is a JavaScript animation library using CSS transforms and transitions.
 + **[GreenSock Animation Platform](http://www.greensock.com/get-started-js/)**: GreenSock Animation Platform is a suite of tools for scripted animation.
     + **[Codepen Repository](http://codepen.io/GreenSock/)**: Codepen repository with examples of Greensock usage and code.
     + **[Examples](http://ahrengot.com/tutorials/greensock-javascript-animation/)**: Here are a couple of examples demonstrating the core features of the Greensock Animation Platform.
     + **[Learning Center](http://www.greensock.com/learning/)**: Tutorials and videos for GreenSock Animation Platform.
++ **[JQuery Transit](http://ricostacruz.com/jquery.transit/)**: Super-smooth CSS3 transformations and transitions for jQuery.
 + **[Janis](https://github.com/MikeMcTiernan/Janis)**: Janis is a lightweight Javascript framework that provides simple animations via CSS transitions for modern browsers on the web as well as mobile devices.
 + **[Keanu](https://github.com/wambotron/Keanu)**: Keanu is a micro-lib for animation on Canvas/JS.
 + **[Magic](https://github.com/miniMAC/magic)**: CSS3 Animations with special effects.
 + **[Move.js](http://visionmedia.github.com/move.js/)**: Move.js is a small JavaScript library making CSS3 backed animation extremely simple and elegant.
++ **[Ramjet](http://www.rich-harris.co.uk/ramjet/)**: Ramjet makes it looks as though one DOM element is capable of transforming into another, no matter where the two elements sit in the DOM tree.
 + **[Rekapi](http://rekapi.com/)**: A keyframe animation library for JavaScript.
 + **[SVG.js](http://svgjs.com/)**: A lightweight library for manipulating and animating SVG.
++ **[Scripty2](http://scripty2.com/)**: scripty2 is a powerful, flexible JavaScript framework to help you write your own          delicious visual effects & user interfaces.
 + **[Shifty](http://jeremyckahn.github.com/shifty/)**: Shifty is a tweening engine built in JavaScript.  It is designed to fit any number of tweening needs.
 + **[Snap.svg](http://snapsvg.io/)**: Snap.svg JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.
 + **[Stylie](http://jeremyckahn.github.io/stylie/)**: Stylie is a fun tool for easily creating complex CSS animations. Quickly design your animation graphically, grab the generated code and go!
++ **[Textillate.js](http://jschr.github.io/textillate/)**: Textillate.js combines some awesome libraries to provide a ease-to-use plugin for applying CSS3 animations to any text.
++ **[Tween.js](https://github.com/sole/tween.js)**: Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.
 + **[Twitter Fave Animation](https://cssanimation.rocks/twitter-fave/)**: Rather than rely on CSS transitions, the new animation makes use of a series of images. Here’s how to recreate the animation using the CSS animation steps timing function.
 + **[Web Animation Past, Present, and Future (2016)](http://alistapart.com/article/web-animation-past-present-and-future)**: Rachel Nabors explores the world of web animation standards, platforms and tools in 2016: SVG, SMIL, GreenSock AP, Framer, Browser Tooling etc.
-+ **[animate.less](https://github.com/machito/animate.less)**: A bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects.
-+ **[emile.js](https://github.com/madrobby/emile)**: emile.js is a no-frills stand-alone CSS animation JavaScript framework.
-+ **[jQuery Transit](http://ricostacruz.com/jquery.transit/)**: Super-smooth CSS3 transformations and transitions for jQuery.
-+ **[ramjet](http://www.rich-harris.co.uk/ramjet/)**: Ramjet makes it looks as though one DOM element is capable of transforming into another, no matter where the two elements sit in the DOM tree.
-+ **[scripty2](http://scripty2.com/)**: scripty2 is a powerful, flexible JavaScript framework to help you write your own          delicious visual effects & user interfaces.
-+ **[textillate.js](http://jschr.github.io/textillate/)**: Textillate.js combines some awesome libraries to provide a ease-to-use plugin for applying CSS3 animations to any text.
-+ **[tween.js](https://github.com/sole/tween.js)**: Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.
++ **[Web Animations API](http://w3c.github.io/web-animations/)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
+    + **[Are we animated yet?](https://birtles.github.io/areweanimatedyet/)**: This page tracks the progress of implementing the Web Animations API in Firefox.
+    + **[WAAPI Browser Support Test (+ Polyfill)](http://codepen.io/danwilson/pen/XmWraY)**: This codepen tests whether and to which extend your browser supports Web Animations API. The test is run after including the Polyfill.
+    + **[Web Animations Polyfill](https://github.com/web-animations/web-animations-js)**: JavaScript implementation of the Web Animations API.
 
 
 ------------------
