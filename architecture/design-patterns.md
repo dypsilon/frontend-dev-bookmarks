@@ -127,6 +127,7 @@ Best practices that the programmer can use to solve common problems when designi
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
     + **[Redux](http://redux.js.org/)**: Redux is a predictable state container for JavaScript apps. It attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen.
+        + **[Exploring Redux Middleware](http://blog.krawaller.se/posts/exploring-redux-middleware/)**: The author explains how to author your own middleware for Redux. He dives into the execution path of each middleware function in the chain and shows some examples.
         + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
         + **[Normalizr](https://github.com/paularmstrong/normalizr)**: Normalizes deeply nested JSON API responses according to a schema for Flux and Redux apps.
         + **[Redux Actions](https://github.com/acdlite/redux-actions)**: Flux Standard Action utilities for Redux.
@@ -137,6 +138,7 @@ Best practices that the programmer can use to solve common problems when designi
         + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
         + **[The Redux Ecosystem](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)**: Let’s take a look at most of the features that you’ll have to deal with when the time comes, — and where React & Redux themselves can’t help you.
         + **[Tic-Tac-Toe.js: Redux Pattern in Plain JavaScript](http://ramonvictor.github.io/tic-tac-toe-js/)**: Ramon Victor describes how to use Redux with vanilla JavaScript. No React, no jQuery, no micro-library, it doesn't rely on anything else. It's just plain JS.
+        + **[Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)**: The author describes the functional programming concepts involved in the creation and application of middleware functions.
     + **[Unidirectional Data Flow Architectures (Talk)](https://vimeo.com/168652278)**: Andre Staltz compares modern architecture patterns including Flux, Redux, Model-View-Intent, Elm Arch and BEST.
 
 
