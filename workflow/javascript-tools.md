@@ -38,7 +38,9 @@ Tools for static analysis, pre and post processing of JavaScript files.
     + **[Webpack](http://webpack.github.io/)**: Webpack is a module bundler. It takes modules with dependencies and generates static assets representing those modules.
         + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
         + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
+        + **[The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)**: After finishing this step by step tutorial you will be able to author your own React + Redux project with Webpack and Babel.
         + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
+        + **[Why I think Webpack is the Right Approach To Build Pipelines](http://devlog.disco.zone/2016/06/01/webpack/)**: Thomas Boyt compares how Grunt, Gulp, Broccoli and Webpack discover dependencies.
 + **[Regenerator](https://github.com/facebook/regenerator)**: This package implements a source transformation that takes the proposed syntax for generators/yield from future versions of JS and spits out efficient JS-of-today (ES5) that behaves the same way.
 
 

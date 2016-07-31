@@ -65,6 +65,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Lenses Quick n’ Dirty](https://vimeo.com/104807358)**: A video by Brian Lonsdorf that introduces lenses.
 + **[Lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
 + **[Lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)**: The lodash/fp module is an instance of lodash with its methods wrapped to produce immutable auto-curried iteratee-first data-last methods.
++ **[Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)**: Jack Franklin compares pure and impure functions and describes how to leverage functional programming principles in JavaScript.
 + **[Monad Transformers](https://github.com/boris-marinov/monad-transformers)**: Monad transformers are tricky, they require an excessive amount of type juggling. One of the aims of this package is to reduce the amount of wrapping and unwrapping needed for making a new transformer and to provide an easy way to define and combine transformers.
 + **[Monad a day 1: Reader](https://vimeo.com/105300347)**: A video by Brian Lonsdorf explaining the Reader Monad.
 + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
