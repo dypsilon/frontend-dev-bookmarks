@@ -13,6 +13,7 @@ Functional programming is a programming paradigm, that treats computation as the
 
 -----------------------------------------
 
++ **[A Gentle Introduction to Functional JavaScript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)**: Chet Harrison provides a broad overview of functional programming concepts and a step by step tutorial for building Monads.
 + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
 + **[A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)**: This article shows how the Maybe monad can be used for handling simple failure use cases. It then extrapolates into complex failure scenarios and shows how these cases can be modelled in terms of the Either monad.
 + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
@@ -24,6 +25,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Daggy](https://github.com/puffnfresh/daggy)**: Library for creating tagged constructors (catamorphisms).
 + **[Date FP](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.
 + **[Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)**: This post will demonstrate a simple solution that can go a long way to enhance the debugging experience in functional JavaScript applications.
++ **[Deterministic](https://deterministic.curated.co/)**: A weekly digest of interesting news and articles covering functional programming for the web, especially on the front end.
 + **[Don’t Fear the Reader](https://passy.svbtle.com/dont-fear-the-reader)**: Pascal Hartig explains how to use the reader monad in JavaScript.
 + **Example Projects**: Open source projects which use functional programming, preferably point-free and side-effect-free.
     + **[Async Problem](https://github.com/plaid/async-problem)**: This project considers various approaches to the problem of concurrently reading files inside a directory and concatenating their contents.
@@ -51,6 +53,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Functional Refactoring in JavaScript](http://victorsavkin.com/post/63551894251/functional-refactoring-in-javascript)**: In this article Victor Savkin shows how to apply functional thinking when refactoring JavaScript code. He does that by taking a simple function and transforming it into a more extendable one, which has no mutable state, and no if statements.
 + **[Functional.js](http://functionaljs.com/)**: Functional.js is a functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
 + **[Functionize](https://github.com/paldepind/functionize)**: A collection of functions which aids in making non-functional libraries functional.
++ **[Future IO](https://github.com/futurize/future-io)**: A fantasy-land compliant monadic IO library for Node.js.
 + **[Futures and Monoids](https://medium.com/@yelouafi/futures-and-monoids-7e9f4574bd88)**: Yassine Elouafi explains the nature of Monoids using Futures, Numbers and Strings as examples.
 + **[Futurizer](https://github.com/arcseldon/futurizer)**: Turn callback-style functions or promises into futures!
 + **[Hey Underscore, You're Doing It Wrong!](http://functionaltalks.org/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/)**: In this talk Brian Lonsdorf gently takes a shot at underscore.js for not thinking about currying and partial function application in its library design.
@@ -63,6 +66,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Lamda.js](https://github.com/loop-recur/lambdajs)**: This library takes all the methods on instances of strings, arrays, objects, numbers, and regexp's and turns them into functions that can be used in a pointfree way.
 + **[Lazy Either](https://www.npmjs.com/package/lazy-either)**: The LazyEither type is used to represent a lazy Either value. It is similar to the Future and Promise types.
 + **[Lenses Quick n’ Dirty](https://vimeo.com/104807358)**: A video by Brian Lonsdorf that introduces lenses.
++ **[Lenses and Virtual DOM Support Open Closed](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)**: Hardy Jones explains how Lenses work using a simple example of working with Virtual DOM.
 + **[Lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
 + **[Lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)**: The lodash/fp module is an instance of lodash with its methods wrapped to produce immutable auto-curried iteratee-first data-last methods.
 + **[Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)**: Jack Franklin compares pure and impure functions and describes how to leverage functional programming principles in JavaScript.

@@ -135,9 +135,12 @@ Successful open source projects attract many developers who produce plugins, lib
     + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
     + **[CSS Modules To The Rescue.jsx](https://medium.com/@kadmil/css-modules-to-the-rescue-jsx-ded2db874d34)**: If you use react-like templates/components, use webpack CSS loader to enable CSS Modules and forget about global CSS problems.
     + **[Find Your Perfect React Starter Project](http://andrewhfarmer.com/starter-project/)**: A simple search engine for React boilerplates with the ability to pick the ingredients.
+    + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
+    + **[Functional DOM Programming](https://medium.com/@floydophone/functional-dom-programming-67d81637d43)**: One of the earliest intros to React and its purpose by Pete Hunt.
     + **[Functional Principles In React](https://www.youtube.com/watch?v=1uRC3hmKQnM)**: Jessica Kerr talks about four functional principles: Composition, Declarative Style, Isolation and Flow Of Data, and their usage in React.
     + **[Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)**: Learn how to test React components using a TDD approach with minimal setup, while learning exactly what to test and how to avoid common pitfalls.
     + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
+    + **[How to Handle State in React. The Missing FAQ](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c)**: Osmel Mora challenges the common misconception that you always need a Flux-like architecture in your React apps.
     + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
     + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
     + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
@@ -151,12 +154,14 @@ Successful open source projects attract many developers who produce plugins, lib
     + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
     + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
     + **[React Workshop](https://github.com/jesstelford/react-workshop)**: This is a self-directed workshop. Follow along to the steps at your own pace, and feel free to ask your instructors questions as you go.
+    + **[React in Patterns](https://github.com/krasimir/react-in-patterns)**: List of design patterns/techniques used while developing with React.
     + **[React vs Incremental DOM vs Glimmer](https://auth0.com/blog/2015/11/20/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/)**: In this post we will explore three technologies to build dynamic DOMs. We will also run benchmarks and find out which one is faster.
     + **[React: Rethinking best practices (2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: A video introduction to React by Pete Hunt.
     + **[ReactPerfTool](https://github.com/RamonGebben/react-perf-tool)**: ReactPerfTool tries to give you a more visual way of debugging performance of your React application. It does this by using the addons delivered by the React team and community to get measurements and visualize this using graphs.
     + **[Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)**: In this post James Long tries not to evangelize React specifically, but to explain why its technique is profound.
     + **[Rethinking Best Practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: Pete Hunt talks about React's design decisions challenging established best practices.
     + **[Retractor](https://github.com/LiquidLabsGmbH/retractor)**: Retractor exposes the internals of a React application for end-to-end testing purposes. This allows you to select DOM nodes based on the name of the React Component that rendered the node as well as its state or properties.
+    + **[Some Problems with React/Redux](http://staltz.com/some-problems-with-react-redux.html)**: André Staltz goes through the pros and cons of React + Redux.
     + **[Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)**: Cody Lindley lays out seven React setups in this article and explains the relation of React to BYOA (Bring Your Own Architecture) approach.
     + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
     + **[The Bare Minimum to Work with React](http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React)**: Krasimir Tsonev describes how to start working with React after installing only 7 dependencies and learning only three commands.
@@ -170,9 +175,12 @@ Successful open source projects attract many developers who produce plugins, lib
 + **[Yeoman](http://yeoman.io/)**: Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive. It provides a generator ecosystem.
 + **[jQuery](https://jquery.com/)**: jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler.
     + **Alternatives**: Other libraries which intend to replace jQuery in one way or another.
+        + **[Cash](https://github.com/kenwheeler/cash)**: Cash is a small library for modern browsers that provides jQuery style syntax for manipulating the DOM.
+        + **[Chibi](https://github.com/kylebarrow/chibi)**: Chibi focuses on just the essentials, melted down and mixed with optimisation rainbows to create a really light micro-library that allows you to do awesome things.
+        + **[DOM CSS](https://github.com/mattdesl/dom-css)**: Small module for fast and reliable DOM styling.
         + **[Minified.js](http://minifiedjs.com/)**: Minified.js is a client-side JavaScript library that's both powerful and small. It offers jQuery-like features and utility functions with a single, consistent API.
+        + **[Plain.js](https://plainjs.com/javascript/)**: Vanilla JS utilities for writing powerful web applications without jQuery.
         + **[Zepto.js](http://zeptojs.com/)**: Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.
-        + **[chibi](https://github.com/kylebarrow/chibi)**: Chibi focuses on just the essentials, melted down and mixed with optimisation rainbows to create a really light micro-library that allows you to do awesome things.
     + **Authoring jQuery Plugins**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
         + **[Advanced Plugin Concepts](http://learn.jquery.com/plugins/advanced-plugin-concepts/)**: A collection of best practices for jQuery plugin authoring.
         + **[How to Create a Basic Plugin](http://learn.jquery.com/plugins/basic-plugin-creation/)**: The article describes basic plugin creation and provides a simple boilerplate.

@@ -13,6 +13,7 @@ The style, arrangement, or appearance of typeset matter.
 
 -----------------------------------------
 
++ **[A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)**: Zach Leatherman describes different approaches to loading of web fonts.
 + **[Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/fonts)**: Edge Web Fonts is a free service that provides access to a large library of fonts for your website. It’s one of the Edge Tools & Services from Adobe. Use of the service is free and unlimited.
 + **[Baseline.js](https://github.com/daneden/Baseline.js)**: A simple jQuery plugin for restoring vertical baselines thrown off by odd image sizes.
 + **[CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography)**: Small roundup on CSS features that will enhance your web typography.
@@ -28,7 +29,8 @@ The style, arrangement, or appearance of typeset matter.
 + **[Quick guide to webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/)**: The @font-face feature from CSS3 allows us to use custom typefaces on the web in an accessible, manipulable, and scalable way.
 + **[Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)**: This article describes viewport units and other technics to achieve typography which resizes smoothly with the screen.
 + **[TypeButter](https://github.com/hudsonfoo/typebutter)**: TypeButter allows you to set optical kerning for any font on your website. If you're longing for beautifully laid out text that today' browsers just don't provide, this is the plugin for you.
-+ **[Typeset.css](http://joshuarudd.github.io/typeset.css/)**: A no-nonsense CSS typography reset for styling user-generated content like blog posts, comments, and forum content.
++ **[Typeset.css](https://github.com/joshuarudd/typeset.css)**: A no-nonsense CSS typography reset for styling user-generated content like blog posts, comments, and forum content.
++ **[Typeset.css](http://stormwarning.github.io/typeset.css/)**: A Sass library that provides some sensible default styles, optional classes to use & extend as needed, and some utility functions & mixins to make elevating your typography simpler.
 + **[bacon](http://baconforme.com/)**: Bacon is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
 + **[slabText](https://github.com/freqDec/slabText/)**: A jQuery plugin for producing big, bold & responsive headlines.
 + **[trunk8](http://jrvis.com/trunk8/)**: trunk8 is an intelligent text truncation plugin to jQuery. When applied to a large block of text, trunk8 will cut off just enough text to prevent it from spilling over.

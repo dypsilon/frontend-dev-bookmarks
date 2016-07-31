@@ -36,6 +36,7 @@ Ready to use and well documented structures and frameworks for frontend developm
     + **[How We Use BEM to Modularise Our CSS](https://m.alphasights.com/how-we-use-bem-to-modularise-our-css-82a0c39463b0)**: Andrei Popa describes the challenges, AlphaSights team had, implementing BEM in their projects.
     + **[Introduction To BEM Methodology (Toptal)](https://www.toptal.com/css/introduction-to-bem-methodology)**: General introduction to BEM methodology and platform.
     + **[MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)**: Article on csswizardry explaining the BEM syntax for CSS classes.
+    + **[Pobem](https://github.com/bem-contrib/pobem)**: PostCSS plugin for BEM syntax.
     + **[Support for BEM modules in Sass 3.3](http://mikefowler.me/2013/10/17/support-for-bem-modules-sass-3.3/)**: The next major release of Sass is poised for release and with it comes real support for BEM-style modules...
     + **[To BEM or not to BEM](http://www.didoo.net/to-bem-or-not-to-bem/)**: A series of interviews on BEM methodology.
 + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.

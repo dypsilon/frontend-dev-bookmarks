@@ -58,6 +58,7 @@ JavaScript is a full-fledged dynamic programming language that, when applied to 
     + **[Simplified JavaScript Jargon](http://jargon.js.org/)**: A community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
     + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)**: Free (as in pay what you want) E-Book by Nicholas C. Zakas describing the new features in EcmaScript 6.
     + **[What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)**: Philip Roberts, in this video, tries to create an intuitive understanding of what happens when JavaScript runs. He talks about the call stack, event loop, callback queue and other concepts.
+    + **[You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)**: These books each take on specific core parts of the language which are most commonly misunderstood or under-understood, and dive very deep and exhaustively into them.
 + **[Promises](https://www.promisejs.org/)**: A promise represents the result of an asynchronous operation.
     + **[Bluebird.js](http://bluebirdjs.com/)**: Bluebird is a full featured promise library with unmatched performance.
     + **[Difference between a Promise and a Task](https://glebbahmutov.com/blog/difference-between-promise-and-task/)**: Once you have a Promise instance the action has already started. Task instance does not run until someone calls .fork()

@@ -21,6 +21,7 @@ The outward or visible aspect of a website.
 + **Animation**: The process of creating motion and shape change.
     + **[Animate.css](http://daneden.github.io/animate.css/)**: Just-add-water CSS animations.
     + **[Animate.less](https://github.com/machito/animate.less)**: A bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects.
+    + **[Anime.js](https://github.com/juliangarnier/anime)**: Anime is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
     + **[Approach](http://srobbin.com/jquery-plugins/approach/)**: A jQuery plugin that allows you to animate CSS properties based on distance to an object.
     + **[CSS Spritesheet Animation Example](http://jsfiddle.net/simurai/CGmCe/light/)**: Sprite Sheet animation with CSS3 using the steps() feature.
     + **[Caat](http://hyperandroid.github.io/CAAT/)**: Scene graph director-based animation framework for javascript.
@@ -53,6 +54,7 @@ The outward or visible aspect of a website.
         + **[WAAPI Browser Support Test (+ Polyfill)](http://codepen.io/danwilson/pen/XmWraY)**: This codepen tests whether and to which extend your browser supports Web Animations API. The test is run after including the Polyfill.
         + **[Web Animations Polyfill](https://github.com/web-animations/web-animations-js)**: JavaScript implementation of the Web Animations API.
 + **Typography**: The style, arrangement, or appearance of typeset matter.
+    + **[A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)**: Zach Leatherman describes different approaches to loading of web fonts.
     + **[Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/fonts)**: Edge Web Fonts is a free service that provides access to a large library of fonts for your website. It’s one of the Edge Tools & Services from Adobe. Use of the service is free and unlimited.
     + **[Baseline.js](https://github.com/daneden/Baseline.js)**: A simple jQuery plugin for restoring vertical baselines thrown off by odd image sizes.
     + **[CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography)**: Small roundup on CSS features that will enhance your web typography.
@@ -68,7 +70,8 @@ The outward or visible aspect of a website.
     + **[Quick guide to webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/)**: The @font-face feature from CSS3 allows us to use custom typefaces on the web in an accessible, manipulable, and scalable way.
     + **[Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)**: This article describes viewport units and other technics to achieve typography which resizes smoothly with the screen.
     + **[TypeButter](https://github.com/hudsonfoo/typebutter)**: TypeButter allows you to set optical kerning for any font on your website. If you're longing for beautifully laid out text that today' browsers just don't provide, this is the plugin for you.
-    + **[Typeset.css](http://joshuarudd.github.io/typeset.css/)**: A no-nonsense CSS typography reset for styling user-generated content like blog posts, comments, and forum content.
+    + **[Typeset.css](https://github.com/joshuarudd/typeset.css)**: A no-nonsense CSS typography reset for styling user-generated content like blog posts, comments, and forum content.
+    + **[Typeset.css](http://stormwarning.github.io/typeset.css/)**: A Sass library that provides some sensible default styles, optional classes to use & extend as needed, and some utility functions & mixins to make elevating your typography simpler.
     + **[bacon](http://baconforme.com/)**: Bacon is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
     + **[slabText](https://github.com/freqDec/slabText/)**: A jQuery plugin for producing big, bold & responsive headlines.
     + **[trunk8](http://jrvis.com/trunk8/)**: trunk8 is an intelligent text truncation plugin to jQuery. When applied to a large block of text, trunk8 will cut off just enough text to prevent it from spilling over.
@@ -177,7 +180,9 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Webpack](http://webpack.github.io/)**: Webpack is a module bundler. It takes modules with dependencies and generates static assets representing those modules.
                 + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
                 + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
+                + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
                 + **[The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)**: After finishing this step by step tutorial you will be able to author your own React + Redux project with Webpack and Babel.
+                + **[Webpack from Apprentice to Master](http://survivejs.com/webpack/)**: The purpose of this guide is to help you get started with Webpack and then go beyond basics.
                 + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
                 + **[Why I think Webpack is the Right Approach To Build Pipelines](http://devlog.disco.zone/2016/06/01/webpack/)**: Thomas Boyt compares how Grunt, Gulp, Broccoli and Webpack discover dependencies.
         + **[UMD (Universal Module Definition)](https://github.com/umdjs/umd)**: This repository formalizes the design and implementation of the Universal Module Definition (UMD) API for JavaScript modules. These are modules which are capable of working everywhere, be it in the client, on the server or elsewhere.
@@ -188,6 +193,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
             + **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
             + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
+            + **[Learn RxJS](http://www.learnrxjs.io/)**: This site focuses on making RxJS concepts approachable, the examples clear and easy to explore, and features references throughout to the best RxJS related material on the web.
             + **[Real World Observables](https://medium.com/@sergimansilla/real-world-observables-1f65748c8f9)**: Sergi Mansilla writes an FTP client to use it as an example for a real world application based on RxJS.
             + **[Rx Training Games](https://github.com/JulienMoumne/rx-training-games)**: Rx Training Games is a coding playground that can be used to learn and practice Reactive Extensions coding grid-based games
             + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
@@ -227,6 +233,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
         + **[Redux](http://redux.js.org/)**: Redux is a predictable state container for JavaScript apps. It attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen.
             + **[Exploring Redux Middleware](http://blog.krawaller.se/posts/exploring-redux-middleware/)**: The author explains how to author your own middleware for Redux. He dives into the execution path of each middleware function in the chain and shows some examples.
+            + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
             + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
             + **[Learn Redux](https://youtu.be/hmwBow1PUuo)**: A video series by Wes Bos, teaching Redux. From setting up Webpack to using Dev Tools.
             + **[Normalizr](https://github.com/paularmstrong/normalizr)**: Normalizes deeply nested JSON API responses according to a schema for Flux and Redux apps.
@@ -234,9 +241,13 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Redux Form](https://github.com/erikras/redux-form)**: A Higher Order Component using react-redux to keep form state in a Redux store.
             + **[Redux Loop](https://github.com/raisemarketplace/redux-loop)**: A port of elm-effects and the Elm Architecture to Redux that allows you to sequence your effects naturally and purely by returning them from your reducers.
             + **[Redux Saga](https://github.com/yelouafi/redux-saga)**: An alternative Side Effects middleware for Redux applications. Instead of dispatching Thunks which get handled by the redux-thunk middleware, you create Sagas to gather all your Side Effects logic in a central place.
+            + **[Redux Tutorial](https://github.com/happypoulp/redux-tutorial)**: This repository contains a step by step tutorial to help grasp flux and more specifically Redux.
+            + **[Reinventing Flux - Interview with Dan Abramov](http://survivejs.com/blog/redux-interview/)**: Dan talks about why he developed Redux.
             + **[Reselect](https://github.com/reactjs/reselect)**: Simple “selector” library for Redux inspired by getters in NuclearJS and subscriptions in re-frame.
+            + **[Some Problems with React/Redux](http://staltz.com/some-problems-with-react-redux.html)**: André Staltz goes through the pros and cons of React + Redux.
             + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
             + **[The Redux Ecosystem](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521)**: Let’s take a look at most of the features that you’ll have to deal with when the time comes, — and where React & Redux themselves can’t help you.
+            + **[The Redux Journey at react-europe 2016](https://www.youtube.com/watch?v=uvAXVMwHJXU)**: In this talk, Dan Abramov reflects on the past, present, and future of Redux.
             + **[The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)**: After finishing this step by step tutorial you will be able to author your own React + Redux project with Webpack and Babel.
             + **[Tic-Tac-Toe.js: Redux Pattern in Plain JavaScript](http://ramonvictor.github.io/tic-tac-toe-js/)**: Ramon Victor describes how to use Redux with vanilla JavaScript. No React, no jQuery, no micro-library, it doesn't rely on anything else. It's just plain JS.
             + **[Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)**: The author describes the functional programming concepts involved in the creation and application of middleware functions.
@@ -265,6 +276,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[How We Use BEM to Modularise Our CSS](https://m.alphasights.com/how-we-use-bem-to-modularise-our-css-82a0c39463b0)**: Andrei Popa describes the challenges, AlphaSights team had, implementing BEM in their projects.
         + **[Introduction To BEM Methodology (Toptal)](https://www.toptal.com/css/introduction-to-bem-methodology)**: General introduction to BEM methodology and platform.
         + **[MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)**: Article on csswizardry explaining the BEM syntax for CSS classes.
+        + **[Pobem](https://github.com/bem-contrib/pobem)**: PostCSS plugin for BEM syntax.
         + **[Support for BEM modules in Sass 3.3](http://mikefowler.me/2013/10/17/support-for-bem-modules-sass-3.3/)**: The next major release of Sass is poised for release and with it comes real support for BEM-style modules...
         + **[To BEM or not to BEM](http://www.didoo.net/to-bem-or-not-to-bem/)**: A series of interviews on BEM methodology.
     + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
@@ -330,6 +342,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[js-signals](http://millermedeiros.github.io/js-signals/)**: Custom Event/Messaging system for JavaScript.
         + **[pubsub.js](https://github.com/federico-lox/pubsub.js)**: A tiny (~600 bytes when minified, ~300 bytes when gzip'd) and robust pubsub implementation.
 + **Functional Programming**: Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
+    + **[A Gentle Introduction to Functional JavaScript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)**: Chet Harrison provides a broad overview of functional programming concepts and a step by step tutorial for building Monads.
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
     + **[A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)**: This article shows how the Maybe monad can be used for handling simple failure use cases. It then extrapolates into complex failure scenarios and shows how these cases can be modelled in terms of the Either monad.
     + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
@@ -341,6 +354,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Daggy](https://github.com/puffnfresh/daggy)**: Library for creating tagged constructors (catamorphisms).
     + **[Date FP](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.
     + **[Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)**: This post will demonstrate a simple solution that can go a long way to enhance the debugging experience in functional JavaScript applications.
+    + **[Deterministic](https://deterministic.curated.co/)**: A weekly digest of interesting news and articles covering functional programming for the web, especially on the front end.
     + **[Don’t Fear the Reader](https://passy.svbtle.com/dont-fear-the-reader)**: Pascal Hartig explains how to use the reader monad in JavaScript.
     + **Example Projects**: Open source projects which use functional programming, preferably point-free and side-effect-free.
         + **[Async Problem](https://github.com/plaid/async-problem)**: This project considers various approaches to the problem of concurrently reading files inside a directory and concatenating their contents.
@@ -368,6 +382,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Functional Refactoring in JavaScript](http://victorsavkin.com/post/63551894251/functional-refactoring-in-javascript)**: In this article Victor Savkin shows how to apply functional thinking when refactoring JavaScript code. He does that by taking a simple function and transforming it into a more extendable one, which has no mutable state, and no if statements.
     + **[Functional.js](http://functionaljs.com/)**: Functional.js is a functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
     + **[Functionize](https://github.com/paldepind/functionize)**: A collection of functions which aids in making non-functional libraries functional.
+    + **[Future IO](https://github.com/futurize/future-io)**: A fantasy-land compliant monadic IO library for Node.js.
     + **[Futures and Monoids](https://medium.com/@yelouafi/futures-and-monoids-7e9f4574bd88)**: Yassine Elouafi explains the nature of Monoids using Futures, Numbers and Strings as examples.
     + **[Futurizer](https://github.com/arcseldon/futurizer)**: Turn callback-style functions or promises into futures!
     + **[Hey Underscore, You're Doing It Wrong!](http://functionaltalks.org/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/)**: In this talk Brian Lonsdorf gently takes a shot at underscore.js for not thinking about currying and partial function application in its library design.
@@ -380,6 +395,7 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Lamda.js](https://github.com/loop-recur/lambdajs)**: This library takes all the methods on instances of strings, arrays, objects, numbers, and regexp's and turns them into functions that can be used in a pointfree way.
     + **[Lazy Either](https://www.npmjs.com/package/lazy-either)**: The LazyEither type is used to represent a lazy Either value. It is similar to the Future and Promise types.
     + **[Lenses Quick n’ Dirty](https://vimeo.com/104807358)**: A video by Brian Lonsdorf that introduces lenses.
+    + **[Lenses and Virtual DOM Support Open Closed](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)**: Hardy Jones explains how Lenses work using a simple example of working with Virtual DOM.
     + **[Lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
     + **[Lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)**: The lodash/fp module is an instance of lodash with its methods wrapped to produce immutable auto-curried iteratee-first data-last methods.
     + **[Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)**: Jack Franklin compares pure and impure functions and describes how to leverage functional programming principles in JavaScript.
@@ -471,6 +487,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Tricycle](https://github.com/Widdershin/tricycle)**: A scratchpad for trying out Cycle.js.
         + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
+    + **[Dynamics of Change: why Reactivity Matters](https://www.youtube.com/watch?v=v68ppDlvHqs)**: In this talk we will see when passive or reactive strategy is advantageous, and how the reactive strategy is a sensible default.
     + **[Enemy of the State](https://vimeo.com/68987289)**: An introduction to Functional Reactive Programming and Bacon.js by Philip Roberts.
     + **[MobX](https://github.com/mobxjs/mobx)**: MobX is a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
     + **[Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179)**: Yassine Elouafi show how to use functional programming and algebraic data types to derive a pure functional definition of reactive programming like streams.
@@ -482,6 +499,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
             + **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
             + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
+            + **[Learn RxJS](http://www.learnrxjs.io/)**: This site focuses on making RxJS concepts approachable, the examples clear and easy to explore, and features references throughout to the best RxJS related material on the web.
             + **[Real World Observables](https://medium.com/@sergimansilla/real-world-observables-1f65748c8f9)**: Sergi Mansilla writes an FTP client to use it as an example for a real world application based on RxJS.
             + **[Rx Training Games](https://github.com/JulienMoumne/rx-training-games)**: Rx Training Games is a coding playground that can be used to learn and practice Reactive Extensions coding grid-based games
             + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
@@ -505,11 +523,13 @@ Ability of a product to work with different input/output devices and rendering s
     + **[HTML5 Please](http://html5please.com/)**: Look up HTML5, CSS3, etc features, know if they are ready for use, and if so find out how you should use them – with polyfills, fallbacks or as they are.
     + **[Modernizr](https://modernizr.com/)**: It’s a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.
     + **[Normalize.css](http://necolas.github.io/normalize.css/)**: A modern, HTML5-ready alternative to CSS resets.
+    + **[Polyfill.io](https://polyfill.io/)**: Just the polyfills you need for your site, tailored to each browser.
 + **E-Mail**: Preparing HTML based electronic mail.
     + **[Bulletproof E-Mail Buttons](https://buttons.cm/)**: Design gorgeous buttons using progressively enhanced VML and CSS.
     + **[Email Lab](https://github.com/sparkbox/email-lab)**: This a project for developing and testing email templates. It uses Grunt to streamline and simplify the creation of email templates. Email template can be built with re-usable components.
     + **[Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)**: Use these code examples as a guideline for formatting your HTML email to avoid some of the major styling pitfalls in HTML email design.
     + **[Foundation for Emails 2](http://foundation.zurb.com/emails.html)**: Frontend Framework for E-Mails including a grid, global styles, aligment classes, buttons, callout panels, thumbnail styles, typography, visibility classes.
+    + **[MJML](https://mjml.io/)**: MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase.
     + **[MailChimp E-Mail Blueprints](https://github.com/mailchimp/Email-Blueprints)**: Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
     + **[Open Source Email Templates](https://www.sendwithus.com/resources/templates)**: The sendwithus Open Source Template Project is a collection of free email templates created and managed by the sendwithus team and community.
     + **[Really Simple Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)**: Sometimes all you want is a really simple HTML email template. Here it is.
@@ -721,9 +741,12 @@ Important developers, companies, organizations and news sources.
         + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
         + **[CSS Modules To The Rescue.jsx](https://medium.com/@kadmil/css-modules-to-the-rescue-jsx-ded2db874d34)**: If you use react-like templates/components, use webpack CSS loader to enable CSS Modules and forget about global CSS problems.
         + **[Find Your Perfect React Starter Project](http://andrewhfarmer.com/starter-project/)**: A simple search engine for React boilerplates with the ability to pick the ingredients.
+        + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
+        + **[Functional DOM Programming](https://medium.com/@floydophone/functional-dom-programming-67d81637d43)**: One of the earliest intros to React and its purpose by Pete Hunt.
         + **[Functional Principles In React](https://www.youtube.com/watch?v=1uRC3hmKQnM)**: Jessica Kerr talks about four functional principles: Composition, Declarative Style, Isolation and Flow Of Data, and their usage in React.
         + **[Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)**: Learn how to test React components using a TDD approach with minimal setup, while learning exactly what to test and how to avoid common pitfalls.
         + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
+        + **[How to Handle State in React. The Missing FAQ](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c)**: Osmel Mora challenges the common misconception that you always need a Flux-like architecture in your React apps.
         + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
         + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
@@ -737,12 +760,14 @@ Important developers, companies, organizations and news sources.
         + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
         + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
         + **[React Workshop](https://github.com/jesstelford/react-workshop)**: This is a self-directed workshop. Follow along to the steps at your own pace, and feel free to ask your instructors questions as you go.
+        + **[React in Patterns](https://github.com/krasimir/react-in-patterns)**: List of design patterns/techniques used while developing with React.
         + **[React vs Incremental DOM vs Glimmer](https://auth0.com/blog/2015/11/20/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/)**: In this post we will explore three technologies to build dynamic DOMs. We will also run benchmarks and find out which one is faster.
         + **[React: Rethinking best practices (2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: A video introduction to React by Pete Hunt.
         + **[ReactPerfTool](https://github.com/RamonGebben/react-perf-tool)**: ReactPerfTool tries to give you a more visual way of debugging performance of your React application. It does this by using the addons delivered by the React team and community to get measurements and visualize this using graphs.
         + **[Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)**: In this post James Long tries not to evangelize React specifically, but to explain why its technique is profound.
         + **[Rethinking Best Practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: Pete Hunt talks about React's design decisions challenging established best practices.
         + **[Retractor](https://github.com/LiquidLabsGmbH/retractor)**: Retractor exposes the internals of a React application for end-to-end testing purposes. This allows you to select DOM nodes based on the name of the React Component that rendered the node as well as its state or properties.
+        + **[Some Problems with React/Redux](http://staltz.com/some-problems-with-react-redux.html)**: André Staltz goes through the pros and cons of React + Redux.
         + **[Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)**: Cody Lindley lays out seven React setups in this article and explains the relation of React to BYOA (Bring Your Own Architecture) approach.
         + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
         + **[The Bare Minimum to Work with React](http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React)**: Krasimir Tsonev describes how to start working with React after installing only 7 dependencies and learning only three commands.
@@ -756,9 +781,12 @@ Important developers, companies, organizations and news sources.
     + **[Yeoman](http://yeoman.io/)**: Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive. It provides a generator ecosystem.
     + **[jQuery](https://jquery.com/)**: jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler.
         + **Alternatives**: Other libraries which intend to replace jQuery in one way or another.
+            + **[Cash](https://github.com/kenwheeler/cash)**: Cash is a small library for modern browsers that provides jQuery style syntax for manipulating the DOM.
+            + **[Chibi](https://github.com/kylebarrow/chibi)**: Chibi focuses on just the essentials, melted down and mixed with optimisation rainbows to create a really light micro-library that allows you to do awesome things.
+            + **[DOM CSS](https://github.com/mattdesl/dom-css)**: Small module for fast and reliable DOM styling.
             + **[Minified.js](http://minifiedjs.com/)**: Minified.js is a client-side JavaScript library that's both powerful and small. It offers jQuery-like features and utility functions with a single, consistent API.
+            + **[Plain.js](https://plainjs.com/javascript/)**: Vanilla JS utilities for writing powerful web applications without jQuery.
             + **[Zepto.js](http://zeptojs.com/)**: Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.
-            + **[chibi](https://github.com/kylebarrow/chibi)**: Chibi focuses on just the essentials, melted down and mixed with optimisation rainbows to create a really light micro-library that allows you to do awesome things.
         + **Authoring jQuery Plugins**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
             + **[Advanced Plugin Concepts](http://learn.jquery.com/plugins/advanced-plugin-concepts/)**: A collection of best practices for jQuery plugin authoring.
             + **[How to Create a Basic Plugin](http://learn.jquery.com/plugins/basic-plugin-creation/)**: The article describes basic plugin creation and provides a simple boilerplate.
@@ -775,6 +803,7 @@ Important developers, companies, organizations and news sources.
     + **[A Drip of JavaScript](http://adripofjavascript.com/)**: One quick JavaScript tip, delivered to your inbox every other week.
     + **[CSS Weekly](http://css-weekly.com/)**: Weekly E-Mail roundup of CSS articles, tutorials, experiments and tools
 curated by Zoran Jambor.
+    + **[Deterministic](https://deterministic.curated.co/)**: A weekly digest of interesting news and articles covering functional programming for the web, especially on the front end.
     + **[Frontend Dev Weekly](http://frontenddevweekly.com/)**: Front-end developer news, tools and inspiration hand-picked each week.
     + **[HTML5 Bookmarks](http://html5bookmarks.com/)**: Daily bookmarks of HTML5 related resources.
     + **[HTML5 Weekly](http://html5weekly.com/)**: A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
@@ -795,9 +824,11 @@ curated by Zoran Jambor.
         + **[Modernizr](https://modernizr.com/)**: It’s a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.
     + **[André Staltz](http://staltz.com/)**: Founder of the cycle.js framework and important contributor to ReactiveX.
         + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
+        + **[Dynamics of Change: why Reactivity Matters](https://www.youtube.com/watch?v=v68ppDlvHqs)**: In this talk we will see when passive or reactive strategy is advantageous, and how the reactive strategy is a sensible default.
         + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
         + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
         + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+        + **[Some Problems with React/Redux](http://staltz.com/some-problems-with-react-redux.html)**: André Staltz goes through the pros and cons of React + Redux.
         + **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
         + **[Unidirectional Data Flow Architectures (Talk)](https://vimeo.com/168652278)**: Andre Staltz compares modern architecture patterns including Flux, Redux, Model-View-Intent, Elm Arch and BEST.
         + **[What if the User was a Function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
@@ -850,6 +881,7 @@ curated by Zoran Jambor.
     + **[Nicolas Gallagher](http://nicolasgallagher.com/)**: Frontend Engineer at Twitter.
         + **[Normalize.css](http://necolas.github.io/normalize.css/)**: A modern, HTML5-ready alternative to CSS resets.
     + **[Pete Hunt](https://github.com/petehunt)**: Co-founder & CEO @HelloSmyte. Ex-FB and Instagram. Worked on React.js.
+        + **[Functional DOM Programming](https://medium.com/@floydophone/functional-dom-programming-67d81637d43)**: One of the earliest intros to React and its purpose by Pete Hunt.
         + **[React: Rethinking best practices (2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: A video introduction to React by Pete Hunt.
         + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
 + **Organizations**: Commercial companies and nonprofit organizations around web development.
@@ -877,9 +909,12 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
             + **[CSS Modules To The Rescue.jsx](https://medium.com/@kadmil/css-modules-to-the-rescue-jsx-ded2db874d34)**: If you use react-like templates/components, use webpack CSS loader to enable CSS Modules and forget about global CSS problems.
             + **[Find Your Perfect React Starter Project](http://andrewhfarmer.com/starter-project/)**: A simple search engine for React boilerplates with the ability to pick the ingredients.
+            + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
+            + **[Functional DOM Programming](https://medium.com/@floydophone/functional-dom-programming-67d81637d43)**: One of the earliest intros to React and its purpose by Pete Hunt.
             + **[Functional Principles In React](https://www.youtube.com/watch?v=1uRC3hmKQnM)**: Jessica Kerr talks about four functional principles: Composition, Declarative Style, Isolation and Flow Of Data, and their usage in React.
             + **[Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)**: Learn how to test React components using a TDD approach with minimal setup, while learning exactly what to test and how to avoid common pitfalls.
             + **[Getting to Grips with React (as an Angular developer)](https://daveceddia.com/to-react-from-angular/)**: In a series of posts Dave Ceddia tries to help you apply your hard-won knowledge of “Angularisms” to React.
+            + **[How to Handle State in React. The Missing FAQ](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c)**: Osmel Mora challenges the common misconception that you always need a Flux-like architecture in your React apps.
             + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
             + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
             + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
@@ -893,12 +928,14 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
             + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
             + **[React Workshop](https://github.com/jesstelford/react-workshop)**: This is a self-directed workshop. Follow along to the steps at your own pace, and feel free to ask your instructors questions as you go.
+            + **[React in Patterns](https://github.com/krasimir/react-in-patterns)**: List of design patterns/techniques used while developing with React.
             + **[React vs Incremental DOM vs Glimmer](https://auth0.com/blog/2015/11/20/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/)**: In this post we will explore three technologies to build dynamic DOMs. We will also run benchmarks and find out which one is faster.
             + **[React: Rethinking best practices (2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: A video introduction to React by Pete Hunt.
             + **[ReactPerfTool](https://github.com/RamonGebben/react-perf-tool)**: ReactPerfTool tries to give you a more visual way of debugging performance of your React application. It does this by using the addons delivered by the React team and community to get measurements and visualize this using graphs.
             + **[Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)**: In this post James Long tries not to evangelize React specifically, but to explain why its technique is profound.
             + **[Rethinking Best Practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: Pete Hunt talks about React's design decisions challenging established best practices.
             + **[Retractor](https://github.com/LiquidLabsGmbH/retractor)**: Retractor exposes the internals of a React application for end-to-end testing purposes. This allows you to select DOM nodes based on the name of the React Component that rendered the node as well as its state or properties.
+            + **[Some Problems with React/Redux](http://staltz.com/some-problems-with-react-redux.html)**: André Staltz goes through the pros and cons of React + Redux.
             + **[Taming the React Setup](http://developer.telerik.com/featured/taming-react-setup/)**: Cody Lindley lays out seven React setups in this article and explains the relation of React to BYOA (Bring Your Own Architecture) approach.
             + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
             + **[The Bare Minimum to Work with React](http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React)**: Krasimir Tsonev describes how to start working with React after installing only 7 dependencies and learning only three commands.
@@ -924,6 +961,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
             + **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
             + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
+            + **[Learn RxJS](http://www.learnrxjs.io/)**: This site focuses on making RxJS concepts approachable, the examples clear and easy to explore, and features references throughout to the best RxJS related material on the web.
             + **[Real World Observables](https://medium.com/@sergimansilla/real-world-observables-1f65748c8f9)**: Sergi Mansilla writes an FTP client to use it as an example for a real world application based on RxJS.
             + **[Rx Training Games](https://github.com/JulienMoumne/rx-training-games)**: Rx Training Games is a coding playground that can be used to learn and practice Reactive Extensions coding grid-based games
             + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
@@ -981,6 +1019,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[How We Use BEM to Modularise Our CSS](https://m.alphasights.com/how-we-use-bem-to-modularise-our-css-82a0c39463b0)**: Andrei Popa describes the challenges, AlphaSights team had, implementing BEM in their projects.
             + **[Introduction To BEM Methodology (Toptal)](https://www.toptal.com/css/introduction-to-bem-methodology)**: General introduction to BEM methodology and platform.
             + **[MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)**: Article on csswizardry explaining the BEM syntax for CSS classes.
+            + **[Pobem](https://github.com/bem-contrib/pobem)**: PostCSS plugin for BEM syntax.
             + **[Support for BEM modules in Sass 3.3](http://mikefowler.me/2013/10/17/support-for-bem-modules-sass-3.3/)**: The next major release of Sass is poised for release and with it comes real support for BEM-style modules...
             + **[To BEM or not to BEM](http://www.didoo.net/to-bem-or-not-to-bem/)**: A series of interviews on BEM methodology.
         + **[Yandex Browser](https://browser.yandex.com/)**: Chromium based browser developed by Yandex.
@@ -1091,6 +1130,7 @@ Programming/mark-up languages and web related standards.
         + **[Simplified JavaScript Jargon](http://jargon.js.org/)**: A community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
         + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)**: Free (as in pay what you want) E-Book by Nicholas C. Zakas describing the new features in EcmaScript 6.
         + **[What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)**: Philip Roberts, in this video, tries to create an intuitive understanding of what happens when JavaScript runs. He talks about the call stack, event loop, callback queue and other concepts.
+        + **[You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)**: These books each take on specific core parts of the language which are most commonly misunderstood or under-understood, and dive very deep and exhaustively into them.
     + **[Promises](https://www.promisejs.org/)**: A promise represents the result of an asynchronous operation.
         + **[Bluebird.js](http://bluebirdjs.com/)**: Bluebird is a full featured promise library with unmatched performance.
         + **[Difference between a Promise and a Task](https://glebbahmutov.com/blog/difference-between-promise-and-task/)**: Once you have a Promise instance the action has already started. Task instance does not run until someone calls .fork()
@@ -1109,8 +1149,11 @@ Programming/mark-up languages and web related standards.
     + **[Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)**: Matt Gaunt introduces the main features of Service Worker API in this article.
     + **[Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)**: Tracks the implementation status across the main browsers.
 + **Templating Languages and Engines**: Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
+    + **[Dot.js](http://olado.github.io/doT/)**: The fastest + concise javascript template engine for Node.js and browsers.
     + **[Dust.js by LinkedIn](http://www.dustjs.com/)**: Dust is a Javascript templating engine. It inherits its look from the ctemplate family of languages, and is designed to run asynchronously on both the server and the browser.
+    + **[Dōmo](http://jed.github.io/domo/)**: dōmo lets you write HTML markup and CSS styles in JavaScript syntax. It is a simpler and easier alternative to template engines and CSS pre-processors.
     + **[HyperScript](https://github.com/dominictarr/hyperscript)**: Create HyperText with JavaScript, on client or server.
+    + **[Marko](https://github.com/marko-js/marko)**: Marko is a really fast and lightweight HTML-based templating engine from eBay. Marko runs on Node.js and in the browser and it supports streaming, async rendering and custom tags.
     + **[Mustache](http://mustache.github.io/)**: Mustache is a Logic-less template language. There are no if statements, else clauses, or for loops. Instead there are only tags.
         + **[Handlebars.js](https://github.com/wycats/handlebars.js/)**: Handlebars.js is an extension to the Mustache templating language. Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be.
         + **[Hogan.js](http://twitter.github.io/hogan.js/)**: Hogan.js is a 3.4k JS templating engine developed at Twitter. It was developed against the mustache test suite.
@@ -1120,12 +1163,11 @@ but with a couple of important differences in philosophy and style.
         + **[mustache.js](https://github.com/janl/mustache.js)**: mustache.js is an implementation of the mustache template system in JavaScript.
         + **[templayed.js](http://archan937.github.io/templayed.js/)**: The fastest and smallest Mustache compliant Javascript templating library written in 1806 bytes.
     + **[Nunjucks](http://mozilla.github.io/nunjucks/)**: A rich and powerful templating language for JavaScript.
+    + **[Pithy](https://github.com/caolan/pithy)**: An internal DSL for generating HTML in JavaScript.
     + **[T](https://github.com/gcao/T.js)**: T.js is a template engine that uses simple Javascript data structure to represent html/xml data.
+    + **[Template7](http://idangero.us/template7/)**: Template7 is a mobile-first JavaScript template engine with Handlebars-like syntax. It is used as default template engine in Framework7.
     + **[Transparency](http://leonidas.github.io/transparency/)**: Transparency is a minimal template engine for jQuery. It maps JSON objects to DOM elements with zero configuration.
     + **[Weld](https://github.com/tmpvar/weld)**: Weld binds data to markup, and can generate markup based on your data. There's no special syntax or data reshaping required.
-    + **[doT.js](http://olado.github.io/doT/)**: The fastest + concise javascript template engine for Node.js and browsers.
-    + **[dōmo](http://jed.github.io/domo/)**: dōmo lets you write HTML markup and CSS styles in JavaScript syntax. It is a simpler and easier alternative to template engines and CSS pre-processors.
-    + **[pithy](https://github.com/caolan/pithy)**: An internal DSL for generating HTML in JavaScript.
 + **Transpiled Languages**: Abstract languages converted to native, browser supported standards like JavaScript or CSS.
     + **[ClojureScript](https://github.com/clojure/clojurescript)**: ClojureScript is a compiler for Clojure that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the Google Closure optimizing compiler.
     + **[Dart](https://www.dartlang.org/)**: Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps compiled to JavaScript
@@ -1342,7 +1384,9 @@ against sets of codified UI Guidelines.
     + **[Webpack](http://webpack.github.io/)**: Webpack is a module bundler. It takes modules with dependencies and generates static assets representing those modules.
         + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
         + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
+        + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
         + **[The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)**: After finishing this step by step tutorial you will be able to author your own React + Redux project with Webpack and Babel.
+        + **[Webpack from Apprentice to Master](http://survivejs.com/webpack/)**: The purpose of this guide is to help you get started with Webpack and then go beyond basics.
         + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
         + **[Why I think Webpack is the Right Approach To Build Pipelines](http://devlog.disco.zone/2016/06/01/webpack/)**: Thomas Boyt compares how Grunt, Gulp, Broccoli and Webpack discover dependencies.
     + **[Yeoman](http://yeoman.io/)**: Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive. It provides a generator ecosystem.
@@ -1401,6 +1445,7 @@ against sets of codified UI Guidelines.
     + **[SMLR](https://github.com/jasonmoo/smlr)**: Re-encode jpeg images with no perceivable quality loss. Uses the butteraugli psychovisual comparison and k-ary search to determine the best jpeg quality setting.
 + **JavaScript Tools**: Tools for static analysis, pre and post processing of JavaScript files.
     + **[Babel](https://babeljs.io/)**: Babel is a generic multi-purpose compiler for JavaScript. Using Babel you can use (and create) the next generation of JavaScript, as well as the next generation of JavaScript tooling.
+        + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
         + **[JavaScript Transpilers: What They Are & Why We Need Them](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)**: Learn how to use Babel, and what has to do with the future of JavaScript.
     + **[Closure Compiler](https://developers.google.com/closure/compiler/)**: The Closure Compiler parses your JavaScript, analyzes it, removes dead code and rewrites and minimizes what's left. It also checks syntax, variable references, and types, and warns about common JavaScript pitfalls.
     + **[Flow](https://flowtype.org/)**: Flow is a static type checker for JavaScript. It can be used to catch common bugs in JavaScript programs before they run.
@@ -1425,7 +1470,9 @@ against sets of codified UI Guidelines.
         + **[Webpack](http://webpack.github.io/)**: Webpack is a module bundler. It takes modules with dependencies and generates static assets representing those modules.
             + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
             + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
+            + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
             + **[The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)**: After finishing this step by step tutorial you will be able to author your own React + Redux project with Webpack and Babel.
+            + **[Webpack from Apprentice to Master](http://survivejs.com/webpack/)**: The purpose of this guide is to help you get started with Webpack and then go beyond basics.
             + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
             + **[Why I think Webpack is the Right Approach To Build Pipelines](http://devlog.disco.zone/2016/06/01/webpack/)**: Thomas Boyt compares how Grunt, Gulp, Broccoli and Webpack discover dependencies.
     + **[Regenerator](https://github.com/facebook/regenerator)**: This package implements a source transformation that takes the proposed syntax for generators/yield from future versions of JS and spits out efficient JS-of-today (ES5) that behaves the same way.

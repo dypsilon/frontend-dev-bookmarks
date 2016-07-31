@@ -21,9 +21,11 @@ Important engineers, evangelists, architects and other celebrities.
     + **[Modernizr](https://modernizr.com/)**: It’s a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.
 + **[André Staltz](http://staltz.com/)**: Founder of the cycle.js framework and important contributor to ReactiveX.
     + **[Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)**: In this talk we will discover how Cycle.js is purely reactive and functional, and why it's an interesting alternative to React.
+    + **[Dynamics of Change: why Reactivity Matters](https://www.youtube.com/watch?v=v68ppDlvHqs)**: In this talk we will see when passive or reactive strategy is advantageous, and how the reactive strategy is a sensible default.
     + **[MVI in Cycle.js Docs](http://cycle.js.org/model-view-intent.html)**: André Staltz describes how to refactor an application into MVI pattern.
     + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
     + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
+    + **[Some Problems with React/Redux](http://staltz.com/some-problems-with-react-redux.html)**: André Staltz goes through the pros and cons of React + Redux.
     + **[The Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**: André Staltz provides a complete introduction to the Reactive Programming and RxJS.
     + **[Unidirectional Data Flow Architectures (Talk)](https://vimeo.com/168652278)**: Andre Staltz compares modern architecture patterns including Flux, Redux, Model-View-Intent, Elm Arch and BEST.
     + **[What if the User was a Function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)**: In this video André Staltz talks about the input/output cycle between humans and computers and how to take advantage of this model by using FRP and event streams.
@@ -76,6 +78,7 @@ Important engineers, evangelists, architects and other celebrities.
 + **[Nicolas Gallagher](http://nicolasgallagher.com/)**: Frontend Engineer at Twitter.
     + **[Normalize.css](http://necolas.github.io/normalize.css/)**: A modern, HTML5-ready alternative to CSS resets.
 + **[Pete Hunt](https://github.com/petehunt)**: Co-founder & CEO @HelloSmyte. Ex-FB and Instagram. Worked on React.js.
+    + **[Functional DOM Programming](https://medium.com/@floydophone/functional-dom-programming-67d81637d43)**: One of the earliest intros to React and its purpose by Pete Hunt.
     + **[React: Rethinking best practices (2013)](https://www.youtube.com/watch?v=x7cQ3mrcKaY)**: A video introduction to React by Pete Hunt.
     + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
 

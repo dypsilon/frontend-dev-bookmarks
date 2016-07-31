@@ -15,6 +15,7 @@ The process of creating motion and shape change.
 
 + **[Animate.css](http://daneden.github.io/animate.css/)**: Just-add-water CSS animations.
 + **[Animate.less](https://github.com/machito/animate.less)**: A bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects.
++ **[Anime.js](https://github.com/juliangarnier/anime)**: Anime is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
 + **[Approach](http://srobbin.com/jquery-plugins/approach/)**: A jQuery plugin that allows you to animate CSS properties based on distance to an object.
 + **[CSS Spritesheet Animation Example](http://jsfiddle.net/simurai/CGmCe/light/)**: Sprite Sheet animation with CSS3 using the steps() feature.
 + **[Caat](http://hyperandroid.github.io/CAAT/)**: Scene graph director-based animation framework for javascript.
