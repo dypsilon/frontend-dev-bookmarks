@@ -181,6 +181,7 @@ High level structure of the frontend code and the discipline of creating such st
                 + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
                 + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
                 + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
+                + **[How to Set Up Webpack Image Loader](http://www.davidmeents.com/how-to-set-up-webpack-image-loader/)**: This brief tutorial will help you set up an image loader in Webpack.
                 + **[The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)**: After finishing this step by step tutorial you will be able to author your own React + Redux project with Webpack and Babel.
                 + **[Webpack from Apprentice to Master](http://survivejs.com/webpack/)**: The purpose of this guide is to help you get started with Webpack and then go beyond basics.
                 + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
@@ -191,6 +192,8 @@ High level structure of the frontend code and the discipline of creating such st
         + **[ECMAScript Observable](https://github.com/zenparsing/es-observable)**: This proposal introduces an Observable type to the ECMAScript standard library. The Observable type can be used to model push-based data sources such as DOM events, timer intervals, and sockets.
         + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
             + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+            + **[Exploring Rx Operators: FlatMap](http://blog.thoughtram.io/rx/2016/08/01/exploring-rx-operators-flatmap.html)**: Christoph Burgdorf introduces the FlatMap operator and its usage for collections and observables.
+            + **[Exploring Rx Operators: Map](http://blog.thoughtram.io/angular/2016/05/16/exploring-rx-operators-map.html)**: Christoph Burgdorf explains how to use the map operator in RxJS.
             + **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
             + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
             + **[Learn RxJS](http://www.learnrxjs.io/)**: This site focuses on making RxJS concepts approachable, the examples clear and easy to explore, and features references throughout to the best RxJS related material on the web.
@@ -199,6 +202,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
             + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
             + **[RxState](https://www.npmjs.com/package/rxstate)**: Simple opinionated state management library based on RxJS and Immutable.js
+            + **[Taking Advantage of Observables in Angular 2](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)**: Christoph Burgdorf describes the advantages of Observables and how you can use them in Angular 2 context.
             + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
     + **Routing**: A routing system parses a string input (usually a URL) and decides which action should be executed by matching the string against multiple patterns.
@@ -232,6 +236,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
         + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
         + **[Redux](http://redux.js.org/)**: Redux is a predictable state container for JavaScript apps. It attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen.
+            + **[Building Redux in TypeScript with Angular 2](http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/)**: In this post we’re going to discuss the ideas behind Redux. How to build our own mini version of the Redux Store and hook it up to Angular 2.
             + **[Exploring Redux Middleware](http://blog.krawaller.se/posts/exploring-redux-middleware/)**: The author explains how to author your own middleware for Redux. He dives into the execution path of each middleware function in the chain and shows some examples.
             + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
             + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
@@ -342,7 +347,10 @@ High level structure of the frontend code and the discipline of creating such st
         + **[js-signals](http://millermedeiros.github.io/js-signals/)**: Custom Event/Messaging system for JavaScript.
         + **[pubsub.js](https://github.com/federico-lox/pubsub.js)**: A tiny (~600 bytes when minified, ~300 bytes when gzip'd) and robust pubsub implementation.
 + **Functional Programming**: Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
-    + **[A Gentle Introduction to Functional JavaScript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)**: Chet Harrison provides a broad overview of functional programming concepts and a step by step tutorial for building Monads.
+    + **A Gentle Introduction to Functional JavaScript**: A 3 part series, by Derick Bailey featuring Chet Harrison, about functional programming with many examples in JavaScript.
+        + **[Monads, Monoids and Composition with Functional JavaScript](https://www.youtube.com/watch?v=ZQSU4geXAxM)**: Chet Harrison explains monads using form validation as an example.
+        + **[Notes and Code from the Crowdcast](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)**: Chet Harrison provides a broad overview of functional programming concepts and a step by step tutorial for building Monads.
+        + **[The Basics of Functional Programming](https://www.youtube.com/watch?v=myISHtMMeyU)**: In this first episode, you'll learn the basics of why functional programming, what it is, where it came from and what the core of it is. You'll see function composition, function purity, currying, higher order functions and first-class functions.
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
     + **[A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)**: This article shows how the Maybe monad can be used for handling simple failure use cases. It then extrapolates into complex failure scenarios and shows how these cases can be modelled in terms of the Either monad.
     + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
@@ -400,12 +408,12 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)**: The lodash/fp module is an instance of lodash with its methods wrapped to produce immutable auto-curried iteratee-first data-last methods.
     + **[Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)**: Jack Franklin compares pure and impure functions and describes how to leverage functional programming principles in JavaScript.
     + **[Monad Transformers](https://github.com/boris-marinov/monad-transformers)**: Monad transformers are tricky, they require an excessive amount of type juggling. One of the aims of this package is to reduce the amount of wrapping and unwrapping needed for making a new transformer and to provide an easy way to define and combine transformers.
+    + **[Monad Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
     + **[Monad a day 1: Reader](https://vimeo.com/105300347)**: A video by Brian Lonsdorf explaining the Reader Monad.
     + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
     + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
     + **[Monads and Gonads](https://www.youtube.com/watch?v=dkZFtimgAcM)**: In this video from YUIConf 2012, Douglas Crockford attempts to break the long-standing Monad tutorial curse by explaining the concept and applications of monads in a way that is actually understandable to the audience.
     + **[Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)**: This article explains monads and their usage in JavaScript including Identity, Maybe, List, Continuation, Do notation and Chaining.
-    + **[Monat Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
     + **[Monet.js](https://github.com/cwmyers/monet.js)**: Monet is a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions.
     + **[Mori](http://swannodette.github.io/mori/)**: A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
     + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
@@ -497,6 +505,8 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
         + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
             + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+            + **[Exploring Rx Operators: FlatMap](http://blog.thoughtram.io/rx/2016/08/01/exploring-rx-operators-flatmap.html)**: Christoph Burgdorf introduces the FlatMap operator and its usage for collections and observables.
+            + **[Exploring Rx Operators: Map](http://blog.thoughtram.io/angular/2016/05/16/exploring-rx-operators-map.html)**: Christoph Burgdorf explains how to use the map operator in RxJS.
             + **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
             + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
             + **[Learn RxJS](http://www.learnrxjs.io/)**: This site focuses on making RxJS concepts approachable, the examples clear and easy to explore, and features references throughout to the best RxJS related material on the web.
@@ -505,6 +515,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
             + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
             + **[RxState](https://www.npmjs.com/package/rxstate)**: Simple opinionated state management library based on RxJS and Immutable.js
+            + **[Taking Advantage of Observables in Angular 2](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)**: Christoph Burgdorf describes the advantages of Observables and how you can use them in Angular 2 context.
             + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
         + **[Xstream](https://github.com/staltz/xstream)**: An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
@@ -620,11 +631,15 @@ Important developers, companies, organizations and news sources.
 
 + **Communities Around Projects**: Successful open source projects attract many developers who produce plugins, libraries, tutorials and other resources. This section collects such resources.
     + **[Angular](https://angularjs.org/)**: AngularJS is a web application framework trying to address many of the challenges encountered in developing single-page applications.
+        + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
         + **[Angular 2 ESNext Starter](https://github.com/blacksonic/angular2-esnext-starter)**: This repo stands as a starting point for those who try Angular 2 in Javascript. It shows techniques how easy development can be also without Typescript.
+        + **[Building Redux in TypeScript with Angular 2](http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/)**: In this post we’re going to discuss the ideas behind Redux. How to build our own mini version of the Redux Store and hook it up to Angular 2.
         + **[Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)**: In this article Victor Savkin talks in depth about the Angular 2 change detection system.
+        + **[How to Implement Conditional Validation in Model-driven Forms](https://scotch.io/tutorials/how-to-implement-conditional-validation-in-angular-2-model-driven-forms)**: In this article, we will learn about how to handle conditional validation in our model-driven form using the latest forms module.
         + **[How to Prevent Name Collisions in Angular 2 Providers](http://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html)**: Opaque tokens are distinguishable and prevent us from running into naming collisions. Whenever we create a token that is not a type, OpaqueToken should be used.
         + **[Ng-Newsletter](http://www.ng-newsletter.com/)**: The free, weekly newsletter of the best AngularJS content on the web.
         + **[PrimeNG](http://www.primefaces.org/primeng/)**: PrimeNG is a collection of rich UI components for AngularJS2. PrimeNG is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
+        + **[Using Model-Driven Forms with FormGroup and FormControl](https://scotch.io/tutorials/using-angular-2s-model-driven-forms-with-formgroup-and-formcontrol)**: In this article, we will learn about building model-driven form with validation using the latest forms module, then we will talk about what are the advantages / disadvantages of using model driven form as compared to template-driven form.
     + **[Backbone.js](http://backbonejs.org/)**: Backbone supplies structure to JavaScript-heavy applications by providing models, collections, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
     + **[Bootstrap](http://getbootstrap.com/)**: Bootstrap is a HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
         + **[Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)**: A quick reference for Bootstrap v4 by Alexander Rechsteiner.
@@ -738,6 +753,7 @@ Important developers, companies, organizations and news sources.
     + **[Meteor](https://www.meteor.com/)**: Meteor is a full-stack JavaScript platform for developing modern web and mobile applications. Meteor includes a key set of technologies for building connected-client reactive applications, a build tool, and a curated set of packages.
     + **[React](http://facebook.github.io/react/)**: React is a JavaScript library for creating user interfaces. Many people choose to think of React as the V in MVC. We built React to solve one problem: building large applications with data that changes over time.
         + **[3 Lightweight React Alternatives](https://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/)**: Dan Prince explores Preact, VirtualDom & Deku.
+        + **[A Stateless React App?](http://jamesknelson.com/state-react-1-stateless-react-app/)**: James K Nelson describes how to avoid state in React Components.
         + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
         + **[CSS Modules To The Rescue.jsx](https://medium.com/@kadmil/css-modules-to-the-rescue-jsx-ded2db874d34)**: If you use react-like templates/components, use webpack CSS loader to enable CSS Modules and forget about global CSS problems.
         + **[Find Your Perfect React Starter Project](http://andrewhfarmer.com/starter-project/)**: A simple search engine for React boilerplates with the ability to pick the ingredients.
@@ -751,6 +767,7 @@ Important developers, companies, organizations and news sources.
         + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+        + **[Monocle](https://github.com/team-gryff/react-monocle)**: A developer tool for generating visual representations of your React app's component hierarchy.
         + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
         + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
         + **[React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)**: Sebastian Markbage attempts to formally explain his mental model of React. The intention is to describe this in terms of deductive reasoning that lead us to this design.
@@ -906,6 +923,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
         + **[React](http://facebook.github.io/react/)**: React is a JavaScript library for creating user interfaces. Many people choose to think of React as the V in MVC. We built React to solve one problem: building large applications with data that changes over time.
             + **[3 Lightweight React Alternatives](https://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/)**: Dan Prince explores Preact, VirtualDom & Deku.
+            + **[A Stateless React App?](http://jamesknelson.com/state-react-1-stateless-react-app/)**: James K Nelson describes how to avoid state in React Components.
             + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
             + **[CSS Modules To The Rescue.jsx](https://medium.com/@kadmil/css-modules-to-the-rescue-jsx-ded2db874d34)**: If you use react-like templates/components, use webpack CSS loader to enable CSS Modules and forget about global CSS problems.
             + **[Find Your Perfect React Starter Project](http://andrewhfarmer.com/starter-project/)**: A simple search engine for React boilerplates with the ability to pick the ingredients.
@@ -919,6 +937,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
             + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
             + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+            + **[Monocle](https://github.com/team-gryff/react-monocle)**: A developer tool for generating visual representations of your React app's component hierarchy.
             + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
             + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
             + **[React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)**: Sebastian Markbage attempts to formally explain his mental model of React. The intention is to describe this in terms of deductive reasoning that lead us to this design.
@@ -959,6 +978,8 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Knockout.js](http://knockoutjs.com/)**: Knockout is a standalone JavaScript implementation of the Model-View-ViewModel pattern with templates.
         + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
             + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+            + **[Exploring Rx Operators: FlatMap](http://blog.thoughtram.io/rx/2016/08/01/exploring-rx-operators-flatmap.html)**: Christoph Burgdorf introduces the FlatMap operator and its usage for collections and observables.
+            + **[Exploring Rx Operators: Map](http://blog.thoughtram.io/angular/2016/05/16/exploring-rx-operators-map.html)**: Christoph Burgdorf explains how to use the map operator in RxJS.
             + **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
             + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
             + **[Learn RxJS](http://www.learnrxjs.io/)**: This site focuses on making RxJS concepts approachable, the examples clear and easy to explore, and features references throughout to the best RxJS related material on the web.
@@ -967,6 +988,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
             + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
             + **[RxState](https://www.npmjs.com/package/rxstate)**: Simple opinionated state management library based on RxJS and Immutable.js
+            + **[Taking Advantage of Observables in Angular 2](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)**: Christoph Burgdorf describes the advantages of Observables and how you can use them in Angular 2 context.
             + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
             + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
         + **[Visual Studio Code](https://code.visualstudio.com/)**: Build and debug modern web and cloud applications. VS Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
@@ -1109,6 +1131,7 @@ Programming/mark-up languages and web related standards.
     + **Grammar and Types**: JavaScript's basic grammar, variable declarations, data types scope, hoisting and literals.
         + **[Grammar and Types Chapter on the MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)**: This chapter discusses JavaScript's basic grammar, variable declarations, data types and literals.
         + **[Variable Hoisting Explained](http://bytearcher.com/articles/variable-hoisting-explained/)**: The author explains how hoisting works in JavaScript including variable declarations and ES6 let operator.
+        + **[Variables Lifecycle: Why Let is not Hoisted](https://rainsoft.io/variables-lifecycle-and-why-let-is-not-hoisted/)**: ES2015 provides a different and improved mechanism for let. It demands stricter variable declaration practices and as result better code quality. Let's dive into more details about this process.
     + **JS Coding Conventions**: Coding conventions are a set of guidelines for a specific programming language that recommend programming style, practices and methods for each aspect of a piece program written in this language.
         + **[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)**: A reasonable approach to JavaScript by Airbnb.
         + **[Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)**: JavaScript is the main client-side scripting language used by many of Google's open-source projects. This style guide is a list of dos and don'ts for JavaScript programs.
@@ -1225,6 +1248,8 @@ It is completely themable via CSS.
         + **[One Validation](https://github.com/One-com/one-validation)**: This is a collection of regular expressions for general validation purposes. The basic design concept is to split up the regexes into semantic parts of the pattern to match.
         + **[Parsley](https://github.com/guillaumepotier/Parsley.js)**: JavaScript form validation, without actually writing a single line of JavaScript!
     + **[jQuery Super Labels Plugin](https://github.com/remybach/jQuery.superLabels)**: This plugin was born out of the need to use the label-over-field method for forms.
++ **Galeries & Image Sliders**: A sophisticated way to present a collection of images on your website.
+    + **[Lightgallery.js](https://github.com/sachinchoolur/lightgallery.js/)**: Full featured JavaScript Lightbox gallery without any dependencies.
 + **Grid**: CSS Grid Layout Systems.
     + **[Bourbon Neat](http://neat.bourbon.io/)**: A lightweight semantic grid framework for Sass and Bourbon.
     + **[Profound Grid](http://www.profoundgrid.com/)**: A responsive grid system for fixed and fluid layouts. Built in SCSS, it gives you flexibility and full control.
@@ -1385,6 +1410,7 @@ against sets of codified UI Guidelines.
         + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
         + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
         + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
+        + **[How to Set Up Webpack Image Loader](http://www.davidmeents.com/how-to-set-up-webpack-image-loader/)**: This brief tutorial will help you set up an image loader in Webpack.
         + **[The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)**: After finishing this step by step tutorial you will be able to author your own React + Redux project with Webpack and Babel.
         + **[Webpack from Apprentice to Master](http://survivejs.com/webpack/)**: The purpose of this guide is to help you get started with Webpack and then go beyond basics.
         + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
@@ -1471,6 +1497,7 @@ against sets of codified UI Guidelines.
             + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
             + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
             + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
+            + **[How to Set Up Webpack Image Loader](http://www.davidmeents.com/how-to-set-up-webpack-image-loader/)**: This brief tutorial will help you set up an image loader in Webpack.
             + **[The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)**: After finishing this step by step tutorial you will be able to author your own React + Redux project with Webpack and Babel.
             + **[Webpack from Apprentice to Master](http://survivejs.com/webpack/)**: The purpose of this guide is to help you get started with Webpack and then go beyond basics.
             + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
@@ -1479,7 +1506,7 @@ against sets of codified UI Guidelines.
 + **Package Management**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
     + **[Bower](https://github.com/bower/bower)**: Bower offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack.
     + **[Lerna](https://github.com/lerna/lerna)**: Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
-    + **NPM**: NPM makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
+    + **[NPM](https://www.npmjs.com/)**: NPM makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
 + **[Sourcemaps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
     + **[combine-source-map](https://www.npmjs.org/package/combine-source-map)**: Add source maps of multiple files, offset them and then combine them into one source map.
     + **[convert-source-map](https://www.npmjs.org/package/convert-source-map)**: Converts a source-map from/to different formats and allows adding/changing properties.

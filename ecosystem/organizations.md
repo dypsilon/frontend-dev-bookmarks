@@ -34,6 +34,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
     + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
     + **[React](http://facebook.github.io/react/)**: React is a JavaScript library for creating user interfaces. Many people choose to think of React as the V in MVC. We built React to solve one problem: building large applications with data that changes over time.
         + **[3 Lightweight React Alternatives](https://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/)**: Dan Prince explores Preact, VirtualDom & Deku.
+        + **[A Stateless React App?](http://jamesknelson.com/state-react-1-stateless-react-app/)**: James K Nelson describes how to avoid state in React Components.
         + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
         + **[CSS Modules To The Rescue.jsx](https://medium.com/@kadmil/css-modules-to-the-rescue-jsx-ded2db874d34)**: If you use react-like templates/components, use webpack CSS loader to enable CSS Modules and forget about global CSS problems.
         + **[Find Your Perfect React Starter Project](http://andrewhfarmer.com/starter-project/)**: A simple search engine for React boilerplates with the ability to pick the ingredients.
@@ -47,6 +48,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+        + **[Monocle](https://github.com/team-gryff/react-monocle)**: A developer tool for generating visual representations of your React app's component hierarchy.
         + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
         + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
         + **[React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)**: Sebastian Markbage attempts to formally explain his mental model of React. The intention is to describe this in terms of deductive reasoning that lead us to this design.
@@ -87,6 +89,8 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
     + **[Knockout.js](http://knockoutjs.com/)**: Knockout is a standalone JavaScript implementation of the Model-View-ViewModel pattern with templates.
     + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
         + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+        + **[Exploring Rx Operators: FlatMap](http://blog.thoughtram.io/rx/2016/08/01/exploring-rx-operators-flatmap.html)**: Christoph Burgdorf introduces the FlatMap operator and its usage for collections and observables.
+        + **[Exploring Rx Operators: Map](http://blog.thoughtram.io/angular/2016/05/16/exploring-rx-operators-map.html)**: Christoph Burgdorf explains how to use the map operator in RxJS.
         + **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
         + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
         + **[Learn RxJS](http://www.learnrxjs.io/)**: This site focuses on making RxJS concepts approachable, the examples clear and easy to explore, and features references throughout to the best RxJS related material on the web.
@@ -95,6 +99,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
         + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
         + **[RxState](https://www.npmjs.com/package/rxstate)**: Simple opinionated state management library based on RxJS and Immutable.js
+        + **[Taking Advantage of Observables in Angular 2](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)**: Christoph Burgdorf describes the advantages of Observables and how you can use them in Angular 2 context.
         + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
         + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
     + **[Visual Studio Code](https://code.visualstudio.com/)**: Build and debug modern web and cloud applications. VS Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.

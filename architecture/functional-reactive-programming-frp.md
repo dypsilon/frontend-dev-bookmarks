@@ -64,6 +64,8 @@ FRP is a programming paradigm for asynchronous dataflow programming using the bu
     + **[Most](https://github.com/cujojs/most)**: Monadic reactive streams with high performance.
     + **[Reactive Extensions (RxJS)](https://github.com/Reactive-Extensions/RxJS)**: RxJS is a set of libraries for composing asynchronous and event-based programs using observable sequences and fluent query operators.
         + **[Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)**: Jafar Husain explains in this video how Netflix uses the Reactive Extensions (Rx) library to build responsive user experiences that strive to be event-driven, scalable and resilient.
+        + **[Exploring Rx Operators: FlatMap](http://blog.thoughtram.io/rx/2016/08/01/exploring-rx-operators-flatmap.html)**: Christoph Burgdorf introduces the FlatMap operator and its usage for collections and observables.
+        + **[Exploring Rx Operators: Map](http://blog.thoughtram.io/angular/2016/05/16/exploring-rx-operators-map.html)**: Christoph Burgdorf explains how to use the map operator in RxJS.
         + **[Functional Core Reactive Shell](http://www.mokacoding.com/blog/functional-core-reactive-shell/)**: Giovanni Lodi makes an overview of different architecture meta-patterns and describes his current findings about functional programming and observables as a way to control side effects.
         + **[Learn RX](http://reactivex.io/learnrx/)**: A series of interactive exercises for learning Microsoft's Reactive Extensions (Rx) Library for Javascript.
         + **[Learn RxJS](http://www.learnrxjs.io/)**: This site focuses on making RxJS concepts approachable, the examples clear and easy to explore, and features references throughout to the best RxJS related material on the web.
@@ -72,6 +74,7 @@ FRP is a programming paradigm for asynchronous dataflow programming using the bu
         + **[Rx-Book](http://xgrommx.github.io/rx-book/index.html)**: A complete book about RxJS v.4.0.
         + **[RxMarbles](http://rxmarbles.com/)**: A webapp for experimenting with diagrams of Rx Observables, for learning purposes.
         + **[RxState](https://www.npmjs.com/package/rxstate)**: Simple opinionated state management library based on RxJS and Immutable.js
+        + **[Taking Advantage of Observables in Angular 2](http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)**: Christoph Burgdorf describes the advantages of Observables and how you can use them in Angular 2 context.
         + **[Transducers with Observable Sequences](https://xgrommx.github.io/rx-book/content/getting_started_with_rxjs/creating_and_querying_observable_sequences/transducers.html)**: A chapter from the RxJS Book describing Transducers.
         + **[Why We Built Xstream](http://staltz.com/why-we-built-xstream.html)**: The authors needed a stream library tailored for Cycle.js. It needs to be “hot” only, small in kB size and it should have only a few and intuitive operators.
     + **[Xstream](https://github.com/staltz/xstream)**: An extremely intuitive, small, and fast functional reactive stream library for JavaScript.

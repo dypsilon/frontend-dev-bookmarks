@@ -1,8 +1,8 @@
-# Package Management
+# Galeries &amp; Image Sliders
 
-**Context: [frontend-dev-bookmarks](../README.md) / Workflow**
+**Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
 
-A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
+A sophisticated way to present a collection of images on your website.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
@@ -13,9 +13,7 @@ A package manager or package management system is a collection of software tools
 
 -----------------------------------------
 
-+ **[Bower](https://github.com/bower/bower)**: Bower offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack.
-+ **[Lerna](https://github.com/lerna/lerna)**: Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
-+ **[NPM](https://www.npmjs.com/)**: NPM makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
++ **[Lightgallery.js](https://github.com/sachinchoolur/lightgallery.js/)**: Full featured JavaScript Lightbox gallery without any dependencies.
 
 
 ------------------

@@ -90,6 +90,7 @@ Toolkits and their ecosystems, that help you automate painful and repeated tasks
     + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
     + **[Developing with Docker and Webpack](http://dapperdeveloper.com/2016/05/18/developing-with-docker-and-webpack/)**: Chris Harrington explains how to create a development environment with Webpack and Docker to match the production as much as possible.
     + **[Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)**: We will go through all the steps of constructing a Node+Redux backend and a React+Redux frontend for a real-world application, using test-first development.
+    + **[How to Set Up Webpack Image Loader](http://www.davidmeents.com/how-to-set-up-webpack-image-loader/)**: This brief tutorial will help you set up an image loader in Webpack.
     + **[The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)**: After finishing this step by step tutorial you will be able to author your own React + Redux project with Webpack and Babel.
     + **[Webpack from Apprentice to Master](http://survivejs.com/webpack/)**: The purpose of this guide is to help you get started with Webpack and then go beyond basics.
     + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.

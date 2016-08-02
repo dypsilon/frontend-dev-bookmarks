@@ -14,11 +14,15 @@ Successful open source projects attract many developers who produce plugins, lib
 -----------------------------------------
 
 + **[Angular](https://angularjs.org/)**: AngularJS is a web application framework trying to address many of the challenges encountered in developing single-page applications.
+    + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
     + **[Angular 2 ESNext Starter](https://github.com/blacksonic/angular2-esnext-starter)**: This repo stands as a starting point for those who try Angular 2 in Javascript. It shows techniques how easy development can be also without Typescript.
+    + **[Building Redux in TypeScript with Angular 2](http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/)**: In this post we’re going to discuss the ideas behind Redux. How to build our own mini version of the Redux Store and hook it up to Angular 2.
     + **[Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)**: In this article Victor Savkin talks in depth about the Angular 2 change detection system.
+    + **[How to Implement Conditional Validation in Model-driven Forms](https://scotch.io/tutorials/how-to-implement-conditional-validation-in-angular-2-model-driven-forms)**: In this article, we will learn about how to handle conditional validation in our model-driven form using the latest forms module.
     + **[How to Prevent Name Collisions in Angular 2 Providers](http://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html)**: Opaque tokens are distinguishable and prevent us from running into naming collisions. Whenever we create a token that is not a type, OpaqueToken should be used.
     + **[Ng-Newsletter](http://www.ng-newsletter.com/)**: The free, weekly newsletter of the best AngularJS content on the web.
     + **[PrimeNG](http://www.primefaces.org/primeng/)**: PrimeNG is a collection of rich UI components for AngularJS2. PrimeNG is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
+    + **[Using Model-Driven Forms with FormGroup and FormControl](https://scotch.io/tutorials/using-angular-2s-model-driven-forms-with-formgroup-and-formcontrol)**: In this article, we will learn about building model-driven form with validation using the latest forms module, then we will talk about what are the advantages / disadvantages of using model driven form as compared to template-driven form.
 + **[Backbone.js](http://backbonejs.org/)**: Backbone supplies structure to JavaScript-heavy applications by providing models, collections, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
 + **[Bootstrap](http://getbootstrap.com/)**: Bootstrap is a HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
     + **[Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)**: A quick reference for Bootstrap v4 by Alexander Rechsteiner.
@@ -132,6 +136,7 @@ Successful open source projects attract many developers who produce plugins, lib
 + **[Meteor](https://www.meteor.com/)**: Meteor is a full-stack JavaScript platform for developing modern web and mobile applications. Meteor includes a key set of technologies for building connected-client reactive applications, a build tool, and a curated set of packages.
 + **[React](http://facebook.github.io/react/)**: React is a JavaScript library for creating user interfaces. Many people choose to think of React as the V in MVC. We built React to solve one problem: building large applications with data that changes over time.
     + **[3 Lightweight React Alternatives](https://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/)**: Dan Prince explores Preact, VirtualDom & Deku.
+    + **[A Stateless React App?](http://jamesknelson.com/state-react-1-stateless-react-app/)**: James K Nelson describes how to avoid state in React Components.
     + **[Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b)**: Mark Dalgleish is discussing how to organize React code with BEM and build everything with Webpack.
     + **[CSS Modules To The Rescue.jsx](https://medium.com/@kadmil/css-modules-to-the-rescue-jsx-ded2db874d34)**: If you use react-like templates/components, use webpack CSS loader to enable CSS Modules and forget about global CSS problems.
     + **[Find Your Perfect React Starter Project](http://andrewhfarmer.com/starter-project/)**: A simple search engine for React boilerplates with the ability to pick the ingredients.
@@ -145,6 +150,7 @@ Successful open source projects attract many developers who produce plugins, lib
     + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
     + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
     + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
+    + **[Monocle](https://github.com/team-gryff/react-monocle)**: A developer tool for generating visual representations of your React app's component hierarchy.
     + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
     + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
     + **[React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)**: Sebastian Markbage attempts to formally explain his mental model of React. The intention is to describe this in terms of deductive reasoning that lead us to this design.

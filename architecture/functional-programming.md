@@ -13,7 +13,10 @@ Functional programming is a programming paradigm, that treats computation as the
 
 -----------------------------------------
 
-+ **[A Gentle Introduction to Functional JavaScript](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)**: Chet Harrison provides a broad overview of functional programming concepts and a step by step tutorial for building Monads.
++ **A Gentle Introduction to Functional JavaScript**: A 3 part series, by Derick Bailey featuring Chet Harrison, about functional programming with many examples in JavaScript.
+    + **[Monads, Monoids and Composition with Functional JavaScript](https://www.youtube.com/watch?v=ZQSU4geXAxM)**: Chet Harrison explains monads using form validation as an example.
+    + **[Notes and Code from the Crowdcast](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)**: Chet Harrison provides a broad overview of functional programming concepts and a step by step tutorial for building Monads.
+    + **[The Basics of Functional Programming](https://www.youtube.com/watch?v=myISHtMMeyU)**: In this first episode, you'll learn the basics of why functional programming, what it is, where it came from and what the core of it is. You'll see function composition, function purity, currying, higher order functions and first-class functions.
 + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
 + **[A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)**: This article shows how the Maybe monad can be used for handling simple failure use cases. It then extrapolates into complex failure scenarios and shows how these cases can be modelled in terms of the Either monad.
 + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
@@ -71,12 +74,12 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)**: The lodash/fp module is an instance of lodash with its methods wrapped to produce immutable auto-curried iteratee-first data-last methods.
 + **[Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)**: Jack Franklin compares pure and impure functions and describes how to leverage functional programming principles in JavaScript.
 + **[Monad Transformers](https://github.com/boris-marinov/monad-transformers)**: Monad transformers are tricky, they require an excessive amount of type juggling. One of the aims of this package is to reduce the amount of wrapping and unwrapping needed for making a new transformer and to provide an easy way to define and combine transformers.
++ **[Monad Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
 + **[Monad a day 1: Reader](https://vimeo.com/105300347)**: A video by Brian Lonsdorf explaining the Reader Monad.
 + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
 + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
 + **[Monads and Gonads](https://www.youtube.com/watch?v=dkZFtimgAcM)**: In this video from YUIConf 2012, Douglas Crockford attempts to break the long-standing Monad tutorial curse by explaining the concept and applications of monads in a way that is actually understandable to the audience.
 + **[Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)**: This article explains monads and their usage in JavaScript including Identity, Maybe, List, Continuation, Do notation and Chaining.
-+ **[Monat Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
 + **[Monet.js](https://github.com/cwmyers/monet.js)**: Monet is a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions.
 + **[Mori](http://swannodette.github.io/mori/)**: A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
