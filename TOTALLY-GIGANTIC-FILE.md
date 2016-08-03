@@ -226,6 +226,8 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Rivets.js](http://rivetsjs.com/)**: Lightweight and powerful data binding + templating solution for building modern web applications.
         + **[Synapse](https://github.com/bruth/synapse/)**: Hooks to support data binding between virtually any object.
     + **Unidirectional Data Flow**: An architecture design pattern which promotes a flow of data and events in a single direction, usually creating an interactive loop.
+        + **[Flux](https://facebook.github.io/flux/)**: Flux is the application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow. It's more of a pattern rather than a formal framework, and you can start using Flux immediately without a lot of new code.
+            + **[Fluxiny](https://github.com/krasimir/fluxiny)**: ~1K implementation of flux architecture
         + **[Immutable User Interfaces](https://vimeo.com/album/3953264/video/166790294)**: Lee Byron talks about unidirectional data flow architectures based on immutable data structures in contrast to traditional MVC based designs.
             + **[Immutable.js](https://github.com/facebook/immutable-js/)**: Immutable persistent data collections for Javascript which increase efficiency and simplicity.
         + **[MobX](https://github.com/mobxjs/mobx)**: MobX is a battle tested library that makes state management simple and scalable by transparently applying functional reactive programming.
@@ -634,6 +636,8 @@ Important developers, companies, organizations and news sources.
     + **[Angular](https://angularjs.org/)**: AngularJS is a web application framework trying to address many of the challenges encountered in developing single-page applications.
         + **[Adventures in Angular](https://devchat.tv/adv-in-angular)**: Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
         + **[Angular 2 ESNext Starter](https://github.com/blacksonic/angular2-esnext-starter)**: This repo stands as a starting point for those who try Angular 2 in Javascript. It shows techniques how easy development can be also without Typescript.
+        + **[Angular 2 Template Syntax](https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a)**: Victor Savkin writes about Angular 2 Templates including bindings, interpolation, syntax sugar, web component support and much more.
+        + **[Angular 2 Upgrade Strategies from Angular 1.x](http://developer.telerik.com/featured/angular-2-upgrade-strategies-angular-1-x/)**: Some thoughts on general upgrading to Angular 2 and what you/your team can do to prepare.
         + **[Building Redux in TypeScript with Angular 2](http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/)**: In this post we’re going to discuss the ideas behind Redux. How to build our own mini version of the Redux Store and hook it up to Angular 2.
         + **[Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)**: In this article Victor Savkin talks in depth about the Angular 2 change detection system.
         + **[How to Implement Conditional Validation in Model-driven Forms](https://scotch.io/tutorials/how-to-implement-conditional-validation-in-angular-2-model-driven-forms)**: In this article, we will learn about how to handle conditional validation in our model-driven form using the latest forms module.
@@ -768,6 +772,7 @@ Important developers, companies, organizations and news sources.
         + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
         + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
+        + **[Jest](https://github.com/facebook/jest)**: A JavaScript unit testing framework, used by Facebook to test services and React applications.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
         + **[Monocle](https://github.com/team-gryff/react-monocle)**: A developer tool for generating visual representations of your React app's component hierarchy.
         + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
@@ -940,6 +945,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
             + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
             + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
+            + **[Jest](https://github.com/facebook/jest)**: A JavaScript unit testing framework, used by Facebook to test services and React applications.
             + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
             + **[Monocle](https://github.com/team-gryff/react-monocle)**: A developer tool for generating visual representations of your React app's component hierarchy.
             + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
@@ -1328,6 +1334,7 @@ against sets of codified UI Guidelines.
     + **[Introducing BDD](https://dannorth.net/introducing-bdd/)**: Dan North introduces behaviour-driven development (BDD). A software development process that emerged from test-driven development (TDD).
     + **[Jasmine](https://github.com/jasmine/jasmine)**: Jasmine is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
     + **[JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)**: Unit tests, integration tests, and functional tests are all types of automated tests which form essential cornerstones of continuous delivery, a development methodology that allows you to safely ship changes to production in days or hours rather than months or years.
+    + **[Jest](https://github.com/facebook/jest)**: A JavaScript unit testing framework, used by Facebook to test services and React applications.
     + **[Kakapo.js](http://devlucky.github.io/kakapo-js)**: Kakapo its a full featured http mocking library, he allows you to entirely replicate your backend logic in simple and declaritive way directly in the browser.
     + **[Karma](http://karma-runner.github.io/)**: A simple tool that allows you to execute JavaScript code in multiple real browsers.
     + **[Leche](https://github.com/box/leche)**: A JavaScript testing utility designed to work with Mocha and Sinon. This is intended for use both by Node.js and in browsers, so any changes must work in both locations.

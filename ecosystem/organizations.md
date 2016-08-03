@@ -47,6 +47,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
         + **[How we use the Flux architecture in Delve](https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc)**: Øystein Hallaråker describes how Delve utilizes the Flux application architecture.
         + **[Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)**: Lee Byron talks about how persistent immutable data structures work, and techniques for using them in a React applications with Immutable.js.
         + **[JSX Transform](https://github.com/alexmingoia/jsx-transform)**: JSX transpiler. A standard and configurable implementation of JSX decoupled from React.
+        + **[Jest](https://github.com/facebook/jest)**: A JavaScript unit testing framework, used by Facebook to test services and React applications.
         + **[Model-View-Intent with React and RxJS](https://satishchilukuri.com/blog/entry/model-view-intent-with-react-and-rxjs)**: Satish Chilukuri shows an example implementation of MVI pattern with React.
         + **[Monocle](https://github.com/team-gryff/react-monocle)**: A developer tool for generating visual representations of your React app's component hierarchy.
         + **[Nothing New in React and Flux Except One Thing](http://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html)**: Andre Staltz talks about aspects of React and Flux which make them innovative and compelling.
