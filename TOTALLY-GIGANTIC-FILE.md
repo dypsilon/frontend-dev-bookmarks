@@ -261,6 +261,8 @@ High level structure of the frontend code and the discipline of creating such st
     + **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
         + **[A More Seamless Workflow — Style Guides for Better Design and Development](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c)**: Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
         + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
+        + **[Atomic Lab](http://steelydylan.github.io/atomic-lab/)**: Template sharing and coding environment based on atomic design.
+        + **New Node**: undefined
     + **Authoring jQuery Plugins**: jQuery is an utility library and a plugin framework. This section collects resources about creating such plugins.
         + **[Advanced Plugin Concepts](http://learn.jquery.com/plugins/advanced-plugin-concepts/)**: A collection of best practices for jQuery plugin authoring.
         + **[How to Create a Basic Plugin](http://learn.jquery.com/plugins/basic-plugin-creation/)**: The article describes basic plugin creation and provides a simple boilerplate.
@@ -639,6 +641,7 @@ Important developers, companies, organizations and news sources.
         + **[How to Prevent Name Collisions in Angular 2 Providers](http://blog.thoughtram.io/angular/2016/05/23/opaque-tokens-in-angular-2.html)**: Opaque tokens are distinguishable and prevent us from running into naming collisions. Whenever we create a token that is not a type, OpaqueToken should be used.
         + **[Ng-Newsletter](http://www.ng-newsletter.com/)**: The free, weekly newsletter of the best AngularJS content on the web.
         + **[PrimeNG](http://www.primefaces.org/primeng/)**: PrimeNG is a collection of rich UI components for AngularJS2. PrimeNG is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
+        + **[Simple Language Translation](https://medium.com/@jecelynyeen/simple-language-translation-in-angular-2-part-1-a14087f50431)**: Create a pipe that we can use to translate words in the HTML view and a service that we can use to translate our words in JS / Typescript.
         + **[Using Model-Driven Forms with FormGroup and FormControl](https://scotch.io/tutorials/using-angular-2s-model-driven-forms-with-formgroup-and-formcontrol)**: In this article, we will learn about building model-driven form with validation using the latest forms module, then we will talk about what are the advantages / disadvantages of using model driven form as compared to template-driven form.
     + **[Backbone.js](http://backbonejs.org/)**: Backbone supplies structure to JavaScript-heavy applications by providing models, collections, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
     + **[Bootstrap](http://getbootstrap.com/)**: Bootstrap is a HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
@@ -776,6 +779,7 @@ Important developers, companies, organizations and news sources.
         + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
         + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
         + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
+        + **[React Storybook](https://github.com/kadirahq/react-storybook)**: Isolate your React UI Component development from the main app.
         + **[React Workshop](https://github.com/jesstelford/react-workshop)**: This is a self-directed workshop. Follow along to the steps at your own pace, and feel free to ask your instructors questions as you go.
         + **[React in Patterns](https://github.com/krasimir/react-in-patterns)**: List of design patterns/techniques used while developing with React.
         + **[React vs Incremental DOM vs Glimmer](https://auth0.com/blog/2015/11/20/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/)**: In this post we will explore three technologies to build dynamic DOMs. We will also run benchmarks and find out which one is faster.
@@ -856,6 +860,8 @@ curated by Zoran Jambor.
         + **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
             + **[A More Seamless Workflow — Style Guides for Better Design and Development](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c)**: Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
             + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
+            + **[Atomic Lab](http://steelydylan.github.io/atomic-lab/)**: Template sharing and coding environment based on atomic design.
+            + **New Node**: undefined
         + **[Responsive Navigation Patterns](http://bradfrost.com/blog/web/responsive-nav-patterns/)**: The article describes some of the more popular techniques for handling navigation in responsive designs.
     + **[Brian Lonsdorf](https://github.com/DrBoolean)**: Lead UXE Engineer at Salesforce, JavaScript developer and speaker known for his work in functional programming community.
         + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
@@ -946,6 +952,7 @@ Sass, Syntax, Ordering, Mixins, Placeholders, Nested selectors.
             + **[React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)**: This article is an attempt to explain the core ideas behind React.js and Virtual DOM.
             + **[React Native for Web](https://github.com/necolas/react-native-web)**: This project allows components built upon React Native to be run on the Web, and it manages all component styling out-of-the-box.
             + **[React Starter Kit](https://www.reactstarterkit.com/)**: Isomorphic web app boilerplate including Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync.
+            + **[React Storybook](https://github.com/kadirahq/react-storybook)**: Isolate your React UI Component development from the main app.
             + **[React Workshop](https://github.com/jesstelford/react-workshop)**: This is a self-directed workshop. Follow along to the steps at your own pace, and feel free to ask your instructors questions as you go.
             + **[React in Patterns](https://github.com/krasimir/react-in-patterns)**: List of design patterns/techniques used while developing with React.
             + **[React vs Incremental DOM vs Glimmer](https://auth0.com/blog/2015/11/20/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/)**: In this post we will explore three technologies to build dynamic DOMs. We will also run benchmarks and find out which one is faster.
@@ -1129,6 +1136,7 @@ Programming/mark-up languages and web related standards.
         + **[Coroutine vs Continuation vs Generator](http://stackoverflow.com/questions/715758/coroutine-vs-continuation-vs-generator)**: StackOverflow Discussion about the difference between Couroutines, Continuations and Generators.
         + **[Regenerator](https://github.com/facebook/regenerator)**: This package implements a source transformation that takes the proposed syntax for generators/yield from future versions of JS and spits out efficient JS-of-today (ES5) that behaves the same way.
     + **Grammar and Types**: JavaScript's basic grammar, variable declarations, data types scope, hoisting and literals.
+        + **[Detailed Overview of Well-Known Symbols](https://rainsoft.io/detailed-overview-of-well-known-symbols/)**: Well-known symbols are used by built-in JavaScript algorithms. This article guides through the list of well-known symbols and explains how to use them comfortable in your code.
         + **[Grammar and Types Chapter on the MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)**: This chapter discusses JavaScript's basic grammar, variable declarations, data types and literals.
         + **[Variable Hoisting Explained](http://bytearcher.com/articles/variable-hoisting-explained/)**: The author explains how hoisting works in JavaScript including variable declarations and ES6 let operator.
         + **[Variables Lifecycle: Why Let is not Hoisted](https://rainsoft.io/variables-lifecycle-and-why-let-is-not-hoisted/)**: ES2015 provides a different and improved mechanism for let. It demands stricter variable declaration practices and as result better code quality. Let's dive into more details about this process.
@@ -1201,6 +1209,10 @@ but with a couple of important differences in philosophy and style.
     + **[Sass](http://sass-lang.com/)**: Sass is an extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
     + **[Scala.js](http://www.scala-js.org/)**: A Scala to JavaScript compiler.
     + **[Stylus](http://stylus-lang.com/)**: Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.
+    + **[TypeScript](https://www.typescriptlang.org/)**: A typed superset of JavaScript that compiles to plain JavaScript. Popular in the Angular and Microsoft community.
+        + **[Angular 2: Why TypeScript?](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)**: Angular 2 is written in TypeScript. In this article Victor Savkin talks about why they made the decision.
+        + **[InversifyJS](https://github.com/inversify/InversifyJS)**: A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+        + **[Safety in the Absence of Types](https://vsavkin.com/typescript-how-to-be-safe-even-if-you-cannot-type-it-31eb08485fe6)**: Victor Savking talks about the limitation of TypeScript's static type checker and how to mitigate them.
 + **Uniform Resource Identifier (URI)**: URI is a string of characters used to identify a resource. The most common form of URI is the Uniform Resource Locator (URL).
     + **[Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)**: This architecture document by W3C discusses the core design components of the Web. They are identification of resources, representation of resource state, and the protocols that support the interaction between agents and resources in the space.
     + **[SpeakingURL](https://github.com/pid/speakingurl)**: This module aims to transliterate the input string and create a so-called Semantic  or Speaking URL.
@@ -1218,6 +1230,7 @@ Drop-in UI components for web sites and applications.
 
 + **Buttons**: The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
     + **[Quantum Paper Buttons](https://github.com/nashvail/Quttons)**: With this plugin you can hide any div behind a Quantum Paper Button or Qutton. Qunatum Paper is a digital paper that can change its size, shape and color to accommodate new content. Quantum paper is part of Google's new Material Design language.
+    + **[Sharingbuttons.io](http://sharingbuttons.io/)**: This generator outputs social media sharing buttons that do not use JavaScript, don't block your website from rendering, are accessible and don't track the user.
 + **Code**: Code viewers and editors designed for embedding inside a website.
     + **[Behave.js](http://jakiestfu.github.io/Behave.js/)**: Behave.js is a lightweight library for adding IDE style behaviors to plain text areas, making it much more enjoyable to write code in.
     + **[CodeMirror](http://codemirror.net/)**: CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with a number of language modes and addons that implement more advanced editing functionality.

@@ -36,6 +36,8 @@ Important engineers, evangelists, architects and other celebrities.
     + **[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)**: Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
         + **[A More Seamless Workflow — Style Guides for Better Design and Development](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c)**: Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
         + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
+        + **[Atomic Lab](http://steelydylan.github.io/atomic-lab/)**: Template sharing and coding environment based on atomic design.
+        + **New Node**: undefined
     + **[Responsive Navigation Patterns](http://bradfrost.com/blog/web/responsive-nav-patterns/)**: The article describes some of the more popular techniques for handling navigation in responsive designs.
 + **[Brian Lonsdorf](https://github.com/DrBoolean)**: Lead UXE Engineer at Salesforce, JavaScript developer and speaker known for his work in functional programming community.
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.

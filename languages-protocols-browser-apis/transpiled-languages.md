@@ -22,6 +22,10 @@ Abstract languages converted to native, browser supported standards like JavaScr
 + **[Sass](http://sass-lang.com/)**: Sass is an extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 + **[Scala.js](http://www.scala-js.org/)**: A Scala to JavaScript compiler.
 + **[Stylus](http://stylus-lang.com/)**: Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.
++ **[TypeScript](https://www.typescriptlang.org/)**: A typed superset of JavaScript that compiles to plain JavaScript. Popular in the Angular and Microsoft community.
+    + **[Angular 2: Why TypeScript?](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)**: Angular 2 is written in TypeScript. In this article Victor Savkin talks about why they made the decision.
+    + **[InversifyJS](https://github.com/inversify/InversifyJS)**: A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+    + **[Safety in the Absence of Types](https://vsavkin.com/typescript-how-to-be-safe-even-if-you-cannot-type-it-31eb08485fe6)**: Victor Savking talks about the limitation of TypeScript's static type checker and how to mitigate them.
 
 
 ------------------
