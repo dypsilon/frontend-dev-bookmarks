@@ -41,6 +41,7 @@ Important engineers, evangelists, architects and other celebrities.
 + **[Brian Lonsdorf](https://github.com/DrBoolean)**: Lead UXE Engineer at Salesforce, JavaScript developer and speaker known for his work in functional programming community.
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
     + **[Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)**: This post will demonstrate a simple solution that can go a long way to enhance the debugging experience in functional JavaScript applications.
+    + **[Free Monads Video Series](https://www.youtube.com/watch?v=WH5BrkzGgQY&list=PLK_hdtAJ4KqUWp5LJdLOgkD_8qKW0iAHi&index=1)**: A video series on free monads by Brian Lonsdorf explaining Coyoneda, Free Monad and Interpretors.
     + **[Freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
     + **[Hey Underscore, You're Doing It Wrong!](http://functionaltalks.org/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/)**: In this talk Brian Lonsdorf gently takes a shot at underscore.js for not thinking about currying and partial function application in its library design.
     + **[JSAir - Functional and Immutable Design Patterns in JavaScript](https://javascriptair.com/episodes/2015-12-30/)**: An episode of JavaScript Air about "the how and why of functional programming and immutable design patterns in JavaScript" with Dab Abramov and Brian Lonsdorf as guests.
