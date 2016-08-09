@@ -65,30 +65,46 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide)**: The lodash/fp module is an instance of lodash with its methods wrapped to produce immutable auto-curried iteratee-first data-last methods.
 + **[Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)**: Jack Franklin compares pure and impure functions and describes how to leverage functional programming principles in JavaScript.
 + **Monads**: Composable computation descriptions. The essence of monad is thus separation of composition timeline from the composed computation's execution timeline, as well as the ability of computation to implicitly carry extra data.
-    + **[A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)**: This article shows how the Maybe monad can be used for handling simple failure use cases. It then extrapolates into complex failure scenarios and shows how these cases can be modelled in terms of the Either monad.
-    + **[Akh](http://akh-js.com/)**: Akh includes a basic set of common monad transformers, along with monads derived from these transformers. Akh structures implement the Fantasy Land specification.
+    + **Collections of Monads**: Libraries of monad implementations.
+        + **[Akh](http://akh-js.com/)**: Akh includes a basic set of common monad transformers, along with monads derived from these transformers. Akh structures implement the Fantasy Land specification.
+        + **[Folktale](http://folktalejs.org/)**: Folktale is a suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
+        + **[Monet.js](https://github.com/cwmyers/monet.js)**: Monet is a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions.
     + **Continuation Monad**: Represents computations in continuation-passing style (CPS). In continuation-passing style function result is not returned, but instead is passed to another function, received as a parameter (continuation).
         + **[The Delimited Continuation Monad in Javascript](http://blog.mattbierner.com/the-delimited-continuation-monad-in-javascript/)**: This post overviews continuations in Atum and covers the implementation of the delimited continuation monad in JavaScript.
-    + **[Don’t Fear the Reader](https://passy.svbtle.com/dont-fear-the-reader)**: Pascal Hartig explains how to use the reader monad in JavaScript.
-    + **[Fluture](https://github.com/Avaq/Fluture)**: The debuggable Fantasy Land Future library.
-    + **[Folktale](http://folktalejs.org/)**: Folktale is a suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
+    + **Either Monad**: The Either type represents values with two possibilities: a value of type Either a b is either Left a or Right b. It is often used for error handling.
+        + **[Lazy Either](https://www.npmjs.com/package/lazy-either)**: The LazyEither type is used to represent a lazy Either value. It is similar to the Future and Promise types.
+        + **[Practical Intro to Monads in JavaScript: Either](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/)**: Jakub Strojewski describes the Either Monad, a tool for fast-failing, synchronous computation chains.
     + **Free Monad**: A free monad satisfies all the Monad laws, but does not do any computation. It just builds up a nested series of contexts. The user who creates such a free monadic value is responsible for doing something with those nested contexts.
         + **[Fantasy Frees](https://github.com/fantasyland/fantasy-frees)**: An implementation of Coyoneda, Yoneda, Trampoline, Free Monad and Free Applicative with usage examples.
         + **[Free Monad Experiments by Hardy Jones](https://github.com/joneshf/abstractions/tree/master/src)**: Coyoneda, Coproduct, Either, Free, State, AJAX and so on.
         + **[Free Monads Video Series](https://www.youtube.com/watch?v=WH5BrkzGgQY&list=PLK_hdtAJ4KqUWp5LJdLOgkD_8qKW0iAHi&index=1)**: A video series on free monads by Brian Lonsdorf explaining Coyoneda, Free Monad and Interpretors.
         + **[Freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
-    + **[From Callback to Future -> Functor -> Monad](https://medium.com/@yelouafi/from-callback-to-future-functor-monad-6c86d9c16cb5)**: Yassine Elouafi goes through a simple implementation of Futures and compares them to Promises.
-    + **[Future IO](https://github.com/futurize/future-io)**: A fantasy-land compliant monadic IO library for Node.js.
-    + **[Futurizer](https://github.com/arcseldon/futurizer)**: Turn callback-style functions or promises into futures!
-    + **[Lazy Either](https://www.npmjs.com/package/lazy-either)**: The LazyEither type is used to represent a lazy Either value. It is similar to the Future and Promise types.
-    + **[Monad Transformers](https://github.com/boris-marinov/monad-transformers)**: Monad transformers are tricky, they require an excessive amount of type juggling. One of the aims of this package is to reduce the amount of wrapping and unwrapping needed for making a new transformer and to provide an easy way to define and combine transformers.
-    + **[Monad Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
-    + **[Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)**: This article explains monads and their usage in JavaScript including Identity, Maybe, List, Continuation, Do notation and Chaining.
-    + **[Monet.js](https://github.com/cwmyers/monet.js)**: Monet is a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions.
-    + **[Practical Intro to Monads in JavaScript](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)**: A simple, practical tutorial for JavaScript developers showing how some monads can be used.
-    + **[Practical Intro to Monads in JavaScript: Either](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/)**: Jakub Strojewski describes the Either Monad, a tool for fast-failing, synchronous computation chains.
-    + **[Practical Intro to Monads in JavaScript: Validation](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)**: Jakub Strojewski shows how to accumulate errors in a simple Validation use case.
-    + **[Understanding Monads With JavaScript](http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html)**: The author starts with a problem of dealing with explicit immutable state and solves it with JavaScript using monads.
+    + **Futures**: Futures represent the value arising from the success or failure of an asynchronous operation (I/O).
+        + **[Fluture](https://github.com/Avaq/Fluture)**: The debuggable Fantasy Land Future library.
+        + **[Folktale Data.Task](http://docs.folktalejs.org/en/latest/api/data/task/index.html#module-data.task)**: A structure for time-dependent values, providing explicit effects for delayed computations, latency, etc.
+        + **[From Callback to Future -> Functor -> Monad](https://medium.com/@yelouafi/from-callback-to-future-functor-monad-6c86d9c16cb5)**: Yassine Elouafi goes through a simple implementation of Futures and compares them to Promises.
+        + **[Future IO](https://github.com/futurize/future-io)**: A fantasy-land compliant monadic IO library for Node.js.
+        + **[Futurizer](https://github.com/arcseldon/futurizer)**: Turn callback-style functions or promises into futures!
+    + **Introduction**: Introductory materials about monads.
+        + **[Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)**: This article explains monads and their usage in JavaScript including Identity, Maybe, List, Continuation, Do notation and Chaining.
+        + **[Practical Intro to Monads in JavaScript](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)**: A simple, practical tutorial for JavaScript developers showing how some monads can be used.
+        + **[Understanding Monads With JavaScript](http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html)**: The author starts with a problem of dealing with explicit immutable state and solves it with JavaScript using monads.
+    + **Maybe Monad**: Using Maybe is a good way to deal with errors or exceptional cases without resorting to drastic measures such as error. It is a simple kind of error monad, where all errors are represented by Nothing. A richer error monad can be built using the Either type.
+        + **[A Gentle Intro to Monads … Maybe?](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/)**: A short introduction to Maybe and the world of monads.
+        + **[A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)**: This article shows how the Maybe monad can be used for handling simple failure use cases. It then extrapolates into complex failure scenarios and shows how these cases can be modelled in terms of the Either monad.
+        + **[Practical Intro to Monads in JavaScript](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)**: A simple, practical tutorial for JavaScript developers showing how some monads can be used.
+    + **Reader Monad**: Represents a computation, which can read values from a shared environment, pass values from function to function, and execute sub-computations in a modified environment.
+        + **[Don’t Fear the Reader](https://passy.svbtle.com/dont-fear-the-reader)**: Pascal Hartig explains how to use the reader monad in JavaScript.
+        + **[Fantasy Readers](https://github.com/fantasyland/fantasy-readers)**: Fantasy Land compatible implementation of the Reader Monad.
+        + **[LiveCoding Video of Reader Monad Implementation](https://www.livecoding.tv/evilsoft/videos/WojoB-functional-js-reader-monad)**: In this video you will learn how to use and implement a Reader from scratch.
+    + **Transformers**: Special types that allow us to roll two monads into a single one that shares the behavior of both.
+        + **[Akh](http://akh-js.com/)**: Akh includes a basic set of common monad transformers, along with monads derived from these transformers. Akh structures implement the Fantasy Land specification.
+        + **[Fantasy ArrayT](https://github.com/quarterto-archive/fantasy-arrayt)**: Monad transformer for JavaScript Arrays.
+        + **[Monad Transformers](https://github.com/boris-marinov/monad-transformers)**: Monad transformers are tricky, they require an excessive amount of type juggling. One of the aims of this package is to reduce the amount of wrapping and unwrapping needed for making a new transformer and to provide an easy way to define and combine transformers.
+        + **[Monad Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
+    + **Validation Monad**: A disjunction that is appropriate for validating inputs and aggregating failures.
+        + **[Folktale Data.Validation](http://docs.folktalejs.org/en/latest/api/data/validation/index.html#module-data.validation)**: Validation Monad implementation of Folktale Library.
+        + **[Practical Intro to Monads in JavaScript: Validation](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)**: Jakub Strojewski shows how to accumulate errors in a simple Validation use case.
 + **[Mori](http://swannodette.github.io/mori/)**: A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
 + **[Nanoscope](http://kovach.me/nanoscope/)**: Nanoscope is a javascript library designed to make complex transformations of data much easier. It is a built on the idea of a functional Lens - a construct that enables focusing on sub-parts of data structures to get and modify.
