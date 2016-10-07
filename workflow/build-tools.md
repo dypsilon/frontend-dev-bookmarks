@@ -33,7 +33,7 @@ Toolkits and their ecosystems, that help you automate painful and repeated tasks
         + **[gulp-clean-css](https://github.com/scniro/gulp-clean-css)**: gulp plugin to minify CSS, using clean-css.
         + **[gulp-cssnano](https://www.npmjs.com/package/gulp-cssnano)**: Minify CSS with cssnano.
     + **Sass**: Gulp plugins for working with Sass files.
-        + **[gulp-sass](https://github.com/scniro/gulp-clean-css)**: Gulp plugin for compiling sass files.
+        + **[gulp-sass](https://www.npmjs.com/package/gulp-sass)**: Gulp plugin for compiling sass files.
     + **Concatenation**: Plugins for file concatenation. For example bundling CSS or JavaScript files.
         + **[gulp-concat](https://www.npmjs.com/package/gulp-concat)**: This plugin will concat files by your operating systems newLine. It will take the base directory from the first file that passes through it.
         + **[gulp-group-concat](https://www.npmjs.com/package/gulp-group-concat)**: Concats groups of files into a smaller number of files
