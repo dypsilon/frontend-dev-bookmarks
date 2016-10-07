@@ -32,6 +32,8 @@ Toolkits and their ecosystems, that help you automate painful and repeated tasks
     + **CSS**: Gulp plugins for working with CSS files.
         + **[gulp-clean-css](https://github.com/scniro/gulp-clean-css)**: gulp plugin to minify CSS, using clean-css.
         + **[gulp-cssnano](https://www.npmjs.com/package/gulp-cssnano)**: Minify CSS with cssnano.
+    + **Sass**: Gulp plugins for working with Sass files.
+        + **[gulp-sass](https://github.com/scniro/gulp-clean-css)**: Gulp plugin for compiling sass files.
     + **Concatenation**: Plugins for file concatenation. For example bundling CSS or JavaScript files.
         + **[gulp-concat](https://www.npmjs.com/package/gulp-concat)**: This plugin will concat files by your operating systems newLine. It will take the base directory from the first file that passes through it.
         + **[gulp-group-concat](https://www.npmjs.com/package/gulp-group-concat)**: Concats groups of files into a smaller number of files
@@ -57,6 +59,7 @@ Toolkits and their ecosystems, that help you automate painful and repeated tasks
         + **[gulp-pure-cjs](https://www.npmjs.com/package/gulp-pure-cjs)**: Gulp plugin for Pure CommonJS builder.
         + **[gulp-uglify](https://www.npmjs.com/package/gulp-uglify)**: Minify files with UglifyJS.
         + **[yoloader](https://www.npmjs.com/package/yoloader)**: A CommonJS module loader implementation. It provides tools to bundle a CommonJS based project and to load such bundles.
+        + **[gulp-jslint](https://www.npmjs.com/package/gulp-jslint)**: The classic and strict javascript lint-tool for gulp.js.
     + **SourceMaps**: A source map provides a way of mapping code within a compressed file back to it’s original position in a source file.
         + **[Plugins with gulp sourcemaps support](https://github.com/floridoo/gulp-sourcemaps/wiki/Plugins-with-gulp-sourcemaps-support)**: A list of plugins which support gulp-sourcemaps.
         + **[gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps)**: Source map support for Gulp.js
