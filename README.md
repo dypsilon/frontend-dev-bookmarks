@@ -25,7 +25,6 @@
     + [Book: Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
     + [Book: Single page apps in depth](http://singlepageappbook.com/index.html)
     + [Book: Scalable and Modular Architecture for CSS](http://smacss.com/book/)
-    + [jQuery Application Architecture Chart](http://addyosmani.com/resources/toolschart/chart.pdf)
     + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
 + Workflow
