@@ -31,6 +31,7 @@ A HTML form on a web page allows a user to enter data that is sent to a server f
     + **[Mailcheck.js](https://github.com/mailcheck/mailcheck)**: The Javascript library and jQuery plugin that suggests a right domain when your users misspell it in an email address.
     + **[One Validation](https://github.com/One-com/one-validation)**: This is a collection of regular expressions for general validation purposes. The basic design concept is to split up the regexes into semantic parts of the pattern to match.
     + **[Parsley](https://github.com/guillaumepotier/Parsley.js)**: JavaScript form validation, without actually writing a single line of JavaScript!
+    + **[Simple Form Validation in React](https://learnetto.com/blog/how-to-do-simple-form-validation-in-reactjs)**: A step-by-step tutorial that will show you how to do basic form validation in React
 + **[jQuery Super Labels Plugin](https://github.com/remybach/jQuery.superLabels)**: This plugin was born out of the need to use the label-over-field method for forms.
 
 
