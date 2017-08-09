@@ -27,6 +27,7 @@ Placing data in a visual context.
 + **[Easy Pie Chart](http://rendro.github.io/easy-pie-chart/)**: Easy pie chart is a jQuery plugin that uses the canvas element to render simple pie charts for single values
 + **[Flot](http://www.flotcharts.org/)**: Flot is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.
 + **[Google Chart Tools](https://developers.google.com/chart/)**: The Google Visualization API allows you to create charts and reporting applications over structured data and helps integrate these directly into your website.
++ **[p5.js](https://p5js.org)**: p5.js a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 + **[Paper.js](http://paperjs.org)**: Paper.js offers a clean Scene Graph / Document Object Model and a lot of powerful functionality to create and work with vector graphics and bezier curves.
 + **[Photon](http://photon.attasi.com/)**: Photon is a JavaScript library that adds simple lighting effects to DOM elements in 3D space.
 + **[Piecon](http://lipka.github.io/piecon/)**: A tiny javascript library for dynamically generating progress pie charts in your favicons.
