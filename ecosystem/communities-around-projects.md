@@ -183,6 +183,7 @@ Successful open source projects attract many developers who produce plugins, lib
     + **[What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/)**: The article explains the general MVI pattern and how it relates to React, Reactive Programming and Cycle.js
     + **[Why Did You Update?](https://github.com/garbles/why-did-you-update)**: A function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur.
     + **[Why did we build React?](http://facebook.github.io/react/blog/2013/06/05/why-react.html)**: Pete Hunt tries to explain why Facebook devs built React in the first place.
++ **[slim.js](http://slimjs.com)**: Slim.js is a fast and lightweight library for authoring web components and web-components based applications.
 + **[Yeoman](http://yeoman.io/)**: Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive. It provides a generator ecosystem.
 + **[jQuery](https://jquery.com/)**: jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler.
     + **Alternatives**: Other libraries which intend to replace jQuery in one way or another.
