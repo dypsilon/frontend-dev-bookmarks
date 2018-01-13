@@ -5,14 +5,10 @@
 Tools for image conversion and optimization.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-
 + **[ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)**: Make lossless optimisation of images part of your automated build process.
 + **[Jpegoptim](https://github.com/tjko/jpegoptim)**: Utility to optimize/compress JPEG files.
 + **[Optimize Images for Web – Ultimate Guide](https://www.keycdn.com/blog/optimize-images-for-web/)**: We will discuss the three areas in which you can better optimize images for web: better web performance, rank and index better in search engines, better social media engagement and CTR.

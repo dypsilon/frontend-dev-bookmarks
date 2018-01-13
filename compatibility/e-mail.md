@@ -5,14 +5,10 @@
 Preparing HTML based electronic mail.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-
 + **[Bulletproof E-Mail Buttons](https://buttons.cm/)**: Design gorgeous buttons using progressively enhanced VML and CSS.
 + **[Email Lab](https://github.com/sparkbox/email-lab)**: This a project for developing and testing email templates. It uses Grunt to streamline and simplify the creation of email templates. Email template can be built with re-usable components.
 + **[Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)**: Use these code examples as a guideline for formatting your HTML email to avoid some of the major styling pitfalls in HTML email design.

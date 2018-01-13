@@ -5,14 +5,10 @@
 FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-
 + **[A General Theory of Reactivity](https://github.com/kriskowal/gtor)**: Kris Kowal describes popular primitives of Reactive Programming and some use cases.
 + **[A General Theory of Reactivity (Video)](https://www.youtube.com/watch?v=R9CGieinKVo)**: Kris Kowal talks about reactive primitives and their traits.
 + **[Controlling Time and Space](https://www.youtube.com/watch?v=Agu6jipKfYw)**: This talk will quickly cover the basics of FRP, and then go into a couple different formulations of FRP that people are beginning to use. We will explore how these formulations fit together historically and theoretically.
