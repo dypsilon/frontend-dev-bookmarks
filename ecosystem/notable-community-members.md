@@ -5,14 +5,10 @@
 Important engineers, evangelists, architects and other celebrities.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-
 + **[Addy Osmani](https://addyosmani.com/)**: Engineer at Google working on open web tooling.
     + **[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)**: In this free book Addy Osmani explores applying both classical and modern design patterns to the JavaScript programming language.
     + **[Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)**: An extensive overview by Addy Osmani of existing architectural solutions in the frontend development field.
@@ -47,6 +43,7 @@ Important engineers, evangelists, architects and other celebrities.
     + **[JSAir - Functional and Immutable Design Patterns in JavaScript](https://javascriptair.com/episodes/2015-12-30/)**: An episode of JavaScript Air about "the how and why of functional programming and immutable design patterns in JavaScript" with Dab Abramov and Brian Lonsdorf as guests.
     + **[Lenses Quick n’ Dirty](https://vimeo.com/104807358)**: A video by Brian Lonsdorf that introduces lenses.
     + **[Lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
+    + **[Monad a Day: Reader](https://vimeo.com/105300347)**: Short video by Brian Lonsdorf about the Reader Monad.
     + **[Monad a day 1: Reader](https://vimeo.com/105300347)**: A video by Brian Lonsdorf explaining the Reader Monad.
     + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
     + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.

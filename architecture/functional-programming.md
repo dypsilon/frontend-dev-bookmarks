@@ -5,19 +5,16 @@
 Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-
 + **A Gentle Introduction to Functional JavaScript**: A 3 part series, by Derick Bailey featuring Chet Harrison, about functional programming with many examples in JavaScript.
     + **[Monads, Monoids and Composition with Functional JavaScript](https://www.youtube.com/watch?v=ZQSU4geXAxM)**: Chet Harrison explains monads using form validation as an example.
     + **[Notes and Code from the Crowdcast](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)**: Chet Harrison provides a broad overview of functional programming concepts and a step by step tutorial for building Monads.
     + **[The Basics of Functional Programming](https://www.youtube.com/watch?v=myISHtMMeyU)**: In this first episode, you'll learn the basics of why functional programming, what it is, where it came from and what the core of it is. You'll see function composition, function purity, currying, higher order functions and first-class functions.
 + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
++ **[Adventures in Functional Programming](https://vimeo.com/45140590)**: A talk by Jim Weirich, demonstrating how to use functional programming and lambda calculus to derive Y combinator.
 + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
 + **[Barely Functional](https://github.com/cullophid/barely-functional)**: Tiny (2.7kb) functional programming library using native es5/6 operations.
 + **[Basic Lazy Evaluation and Memoization in JavaScript](http://blog.gypsydave5.com/2015/03/21/lazy-eval-and-memo/)**: Memoization is a way of optimizing code so that it will return cached results for the same inputs.
@@ -97,6 +94,7 @@ Functional programming is a programming paradigm, that treats computation as the
         + **[Don’t Fear the Reader](https://passy.svbtle.com/dont-fear-the-reader)**: Pascal Hartig explains how to use the reader monad in JavaScript.
         + **[Fantasy Readers](https://github.com/fantasyland/fantasy-readers)**: Fantasy Land compatible implementation of the Reader Monad.
         + **[LiveCoding Video of Reader Monad Implementation](https://www.livecoding.tv/evilsoft/videos/WojoB-functional-js-reader-monad)**: In this video you will learn how to use and implement a Reader from scratch.
+        + **[Monad a Day: Reader](https://vimeo.com/105300347)**: Short video by Brian Lonsdorf about the Reader Monad.
     + **Transformers**: Special types that allow us to roll two monads into a single one that shares the behavior of both.
         + **[Akh](http://akh-js.com/)**: Akh includes a basic set of common monad transformers, along with monads derived from these transformers. Akh structures implement the Fantasy Land specification.
         + **[Fantasy ArrayT](https://github.com/quarterto-archive/fantasy-arrayt)**: Monad transformer for JavaScript Arrays.

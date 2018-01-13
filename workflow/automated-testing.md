@@ -5,14 +5,10 @@
 Automated software testing is a process in which software tools execute pre-scripted tests on a software application before it is released into production.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-
 + **[5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)**: Eric Elliott breaks down some common misconceptions and  explains how you can benefit the most from TDD & unit tests.
 + **[A Gentle Introduction to Javascript Test Driven Development](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)**: Over the course of the series, James Sinclair works through developing a full application in JavaScript that involves making network requests and manipulating the DOM.
 + **[Anti-patterns and Their Fixes](https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/)**: Shane Tomlinson presents a sample application that contains several common anti-patterns and how these can be refactored to be more testable.
@@ -29,6 +25,7 @@ against sets of codified UI Guidelines.
 + **[Kakapo.js](http://devlucky.github.io/kakapo-js)**: Kakapo its a full featured http mocking library, he allows you to entirely replicate your backend logic in simple and declaritive way directly in the browser.
 + **[Karma](http://karma-runner.github.io/)**: A simple tool that allows you to execute JavaScript code in multiple real browsers.
 + **[Leche](https://github.com/box/leche)**: A JavaScript testing utility designed to work with Mocha and Sinon. This is intended for use both by Node.js and in browsers, so any changes must work in both locations.
++ **[My Node Test Strategy](https://remysharp.com/2015/12/14/my-node-test-strategy)**: Remy Sharp shates his automated testing process with tape, proxyquire, sinon and browserify.
 + **[PhantomCSS](https://github.com/Huddle/PhantomCSS)**: PhantomCSS takes screenshots and compares them to baseline images to test for RGB pixel differences. PhantomCSS then generates image diffs to help you find the cause.
 + **[QUnit](http://qunitjs.com/)**: QUnit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code.
 + **[Refactor Away Anti-Patterns](https://shanetomlinson.com/2013/writing-testable-javascript-part-2-refactor-away-anti-patterns/)**: Shane Tomlinson continues by refactoring the original application, including testing anti patterns, to be easier to read, easier to reuse, and easier to test.

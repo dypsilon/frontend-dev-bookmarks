@@ -5,14 +5,10 @@ Manually curated collection of resources for frontend web developers.
 You are viewing the TGF (Totally Gigantic File). Proceed to [frontend-dev-bookmarks](./README.md) for a browsable version.
 
 [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![PayPal](https://img.shields.io/badge/donate-PayPal-00457c.svg?style=flat-square&maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4FAGPMANWRVJJ)
-[![Beerpay](https://beerpay.io/dypsilon/frontend-dev-bookmarks/badge.svg?style=flat-square)](https://beerpay.io/dypsilon/frontend-dev-bookmarks)
-[![Flattr](https://img.shields.io/badge/donate-Flattr-88b058.svg?style=flat-square&maxAge=2592000)](https://flattr.com/submit/auto?fid=3nlo5p&url=https%3A%2F%2Fgithub.com%2Fdypsilon%2Ffrontend-dev-bookmarks)
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------------------------------
-
 
 ## Appearance
 
@@ -171,6 +167,7 @@ High level structure of the frontend code and the discipline of creating such st
                 + **[Budo](https://github.com/mattdesl/budo)**: A browserify development server, focused on incremental reloading, LiveReload integration (including CSS injection), and other high-level features.
                 + **[Watchify](https://www.npmjs.org/package/watchify)**: Watch mode for browserify builds.
             + **[CrapLoader](https://github.com/gregersrygg/crapLoader)**: The goal of crapLoader is to load ads, widgets or any JavaScript code with document.write in it. This library hijacks document.write and delegates the content loaded from each script into the correct position.
+            + **[Modules Webmake](https://github.com/medikoo/modules-webmake)**: A CommonJS module bundler similar to Browserify but much faster due to different requirements finder.
             + **[Require.js](http://requirejs.org/)**: RequireJS is a JavaScript file and AMD module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.
             + **[Require1k](http://stuk.github.io/require1k/)**: CommonJS require for the browser in 1KB, with no build needed.
             + **[Rollup.js](http://rollupjs.org/)**: Rollup is a next-generation JavaScript module bundler. Author your app or library using ES2015 modules, then efficiently bundle them up into a single file for use in browsers and Node.js.
@@ -355,6 +352,7 @@ High level structure of the frontend code and the discipline of creating such st
         + **[Notes and Code from the Crowdcast](https://github.com/ChetHarrison/A-Gentle-Introduction-to-Functional-JavaScript)**: Chet Harrison provides a broad overview of functional programming concepts and a step by step tutorial for building Monads.
         + **[The Basics of Functional Programming](https://www.youtube.com/watch?v=myISHtMMeyU)**: In this first episode, you'll learn the basics of why functional programming, what it is, where it came from and what the core of it is. You'll see function composition, function purity, currying, higher order functions and first-class functions.
     + **[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)**: Brian Lonsdorf provides many functional alternatives to loops in this video.
+    + **[Adventures in Functional Programming](https://vimeo.com/45140590)**: A talk by Jim Weirich, demonstrating how to use functional programming and lambda calculus to derive Y combinator.
     + **[Allong.es](http://allong.es/)**: allong.es is a JavaScript library based on the function combinator and decorator recipes introduced in the book JavaScript Allongé.
     + **[Barely Functional](https://github.com/cullophid/barely-functional)**: Tiny (2.7kb) functional programming library using native es5/6 operations.
     + **[Basic Lazy Evaluation and Memoization in JavaScript](http://blog.gypsydave5.com/2015/03/21/lazy-eval-and-memo/)**: Memoization is a way of optimizing code so that it will return cached results for the same inputs.
@@ -434,6 +432,7 @@ High level structure of the frontend code and the discipline of creating such st
             + **[Don’t Fear the Reader](https://passy.svbtle.com/dont-fear-the-reader)**: Pascal Hartig explains how to use the reader monad in JavaScript.
             + **[Fantasy Readers](https://github.com/fantasyland/fantasy-readers)**: Fantasy Land compatible implementation of the Reader Monad.
             + **[LiveCoding Video of Reader Monad Implementation](https://www.livecoding.tv/evilsoft/videos/WojoB-functional-js-reader-monad)**: In this video you will learn how to use and implement a Reader from scratch.
+            + **[Monad a Day: Reader](https://vimeo.com/105300347)**: Short video by Brian Lonsdorf about the Reader Monad.
         + **Transformers**: Special types that allow us to roll two monads into a single one that shares the behavior of both.
             + **[Akh](http://akh-js.com/)**: Akh includes a basic set of common monad transformers, along with monads derived from these transformers. Akh structures implement the Fantasy Land specification.
             + **[Fantasy ArrayT](https://github.com/quarterto-archive/fantasy-arrayt)**: Monad transformer for JavaScript Arrays.
@@ -895,6 +894,7 @@ curated by Zoran Jambor.
         + **[JSAir - Functional and Immutable Design Patterns in JavaScript](https://javascriptair.com/episodes/2015-12-30/)**: An episode of JavaScript Air about "the how and why of functional programming and immutable design patterns in JavaScript" with Dab Abramov and Brian Lonsdorf as guests.
         + **[Lenses Quick n’ Dirty](https://vimeo.com/104807358)**: A video by Brian Lonsdorf that introduces lenses.
         + **[Lenses.js](https://github.com/DrBoolean/lenses)**: Composable kmett style lenses.
+        + **[Monad a Day: Reader](https://vimeo.com/105300347)**: Short video by Brian Lonsdorf about the Reader Monad.
         + **[Monad a day 1: Reader](https://vimeo.com/105300347)**: A video by Brian Lonsdorf explaining the Reader Monad.
         + **[Monad a day 2: Future](https://vimeo.com/106008027)**: Brian Lonsdorf explains the Future monad in this video.
         + **[Monad a day 3: State](https://vimeo.com/109984691)**: Brian Lonsdorf explains the State monad in this video.
@@ -1359,6 +1359,7 @@ against sets of codified UI Guidelines.
     + **[Kakapo.js](http://devlucky.github.io/kakapo-js)**: Kakapo its a full featured http mocking library, he allows you to entirely replicate your backend logic in simple and declaritive way directly in the browser.
     + **[Karma](http://karma-runner.github.io/)**: A simple tool that allows you to execute JavaScript code in multiple real browsers.
     + **[Leche](https://github.com/box/leche)**: A JavaScript testing utility designed to work with Mocha and Sinon. This is intended for use both by Node.js and in browsers, so any changes must work in both locations.
+    + **[My Node Test Strategy](https://remysharp.com/2015/12/14/my-node-test-strategy)**: Remy Sharp shates his automated testing process with tape, proxyquire, sinon and browserify.
     + **[PhantomCSS](https://github.com/Huddle/PhantomCSS)**: PhantomCSS takes screenshots and compares them to baseline images to test for RGB pixel differences. PhantomCSS then generates image diffs to help you find the cause.
     + **[QUnit](http://qunitjs.com/)**: QUnit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code.
     + **[Refactor Away Anti-Patterns](https://shanetomlinson.com/2013/writing-testable-javascript-part-2-refactor-away-anti-patterns/)**: Shane Tomlinson continues by refactoring the original application, including testing anti patterns, to be easier to read, easier to reuse, and easier to test.
@@ -1526,6 +1527,7 @@ against sets of codified UI Guidelines.
             + **[Budo](https://github.com/mattdesl/budo)**: A browserify development server, focused on incremental reloading, LiveReload integration (including CSS injection), and other high-level features.
             + **[Watchify](https://www.npmjs.org/package/watchify)**: Watch mode for browserify builds.
         + **[CrapLoader](https://github.com/gregersrygg/crapLoader)**: The goal of crapLoader is to load ads, widgets or any JavaScript code with document.write in it. This library hijacks document.write and delegates the content loaded from each script into the correct position.
+        + **[Modules Webmake](https://github.com/medikoo/modules-webmake)**: A CommonJS module bundler similar to Browserify but much faster due to different requirements finder.
         + **[Require.js](http://requirejs.org/)**: RequireJS is a JavaScript file and AMD module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.
         + **[Require1k](http://stuk.github.io/require1k/)**: CommonJS require for the browser in 1KB, with no build needed.
         + **[Rollup.js](http://rollupjs.org/)**: Rollup is a next-generation JavaScript module bundler. Author your app or library using ES2015 modules, then efficiently bundle them up into a single file for use in browsers and Node.js.
