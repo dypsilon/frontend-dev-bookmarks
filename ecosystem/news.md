@@ -24,6 +24,8 @@ curated by Zoran Jambor.
 + **[Web Platform Daily](http://webplatformdaily.org/)**: Daily digest of web development news.
 + **[Web Tools Weekly](http://webtoolsweekly.com/)**: Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 + **[echo.js](http://www.echojs.com/)**: Echo JS is a community-driven news site entirely focused on JavaScript development, HTML5, and front-end news.
++ **[JS kicks](https://javascriptkicks.com/)**: Weekly news and updates from the JS community.
++ **[JS feeds](http://jsfeeds.com/)**: Weekly JS feeds and news.
 
 
 ------------------
