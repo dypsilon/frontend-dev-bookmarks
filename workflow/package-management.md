@@ -10,8 +10,10 @@ A package manager or package management system is a collection of software tools
 
 -----------------------------------------
 + **[Bower](https://github.com/bower/bower)**: Bower offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack.
++ **[Bit](https://github.com/teambit/bit)**: Bit helps to share code directly from existing projects and track distributed source code between repositories.
 + **[Lerna](https://github.com/lerna/lerna)**: Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
 + **[NPM](https://www.npmjs.com/)**: NPM makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
++ **[NPM](https://github.com/yarnpkg/yarn)**: Fast, reliable, and secure dependency management.
 
 
 ------------------
