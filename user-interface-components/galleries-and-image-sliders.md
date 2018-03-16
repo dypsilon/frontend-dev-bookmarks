@@ -1,4 +1,4 @@
-# Galeries &amp; Image Sliders
+# Galleries &amp; Image Sliders
 
 **Context: [frontend-dev-bookmarks](../README.md) / User Interface Components**
 
