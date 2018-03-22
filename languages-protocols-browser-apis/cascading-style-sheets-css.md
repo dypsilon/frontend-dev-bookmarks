@@ -10,6 +10,7 @@ CSS are a stylesheet language used to describe the presentation of a document wr
 
 -----------------------------------------
 + **CSS Coding Conventions**: Coding conventions are a set of guidelines for a specific programming language that recommend programming style, practices and methods for each aspect of a piece program written in this language.
+    + **[CSS Reference](http://cssreference.io/)**: cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
     + **[CSS Guidelines](http://cssguidelin.es/)**: High-level advice and guidelines for writing sane, manageable, scalable CSS.
     + **[Idiomatic CSS](https://github.com/necolas/idiomatic-css)**: The following document outlines a reasonable style guide for CSS development. These guidelines strongly encourage the use of existing, common, sensible patterns.
     + **[Maintainable CSS](http://maintainablecss.com/)**: MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.
