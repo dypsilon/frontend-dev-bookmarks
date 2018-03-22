@@ -24,7 +24,6 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Daggy](https://github.com/puffnfresh/daggy)**: Library for creating tagged constructors with catamorphism.
 + **[Date FP](https://github.com/cullophid/date-fp)**: Functional programming date manipulation library.
 + **[Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c)**: This post will demonstrate a simple solution that can go a long way to enhance the debugging experience in functional JavaScript applications.
-+ **[Deterministic](https://deterministic.curated.co/)**: A weekly digest of interesting news and articles covering functional programming for the web, especially on the front end.
 + **Example Projects**: Open source projects which use functional programming, preferably point-free and side-effect-free.
     + **[Async Problem](https://github.com/plaid/async-problem)**: This project considers various approaches to the problem of concurrently reading files inside a directory and concatenating their contents.
     + **[CommonJS module dependencies resolver](https://github.com/iamstarkov/es-deps-deep)**: The module and all related modules are written using point-free style.
