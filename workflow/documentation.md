@@ -21,6 +21,7 @@ Writing, generating, publishing and consuming documentation for web deliverables
 + **[devdocs.io](http://devdocs.io/)**: Devdocs is an all-in-one API documentation reader with a fast, organized, and consistent interface.
 + **[dox](https://github.com/visionmedia/dox)**: JavaScript documentation generator for node using markdown and jsdoc.
 + **[styledocco](http://jacobrask.github.io/styledocco/)**: StyleDocco generates documentation and style guide documents from your stylesheets.
++ **[Sphinx](http://www.sphinx-doc.org/en/stable/) : Sphinx is a documentation generator written and used by the Python community. It is written in Python, and also used in other environments.
 
 
 ------------------
