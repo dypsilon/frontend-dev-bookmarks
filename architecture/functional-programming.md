@@ -64,7 +64,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **Monads**: Composable computation descriptions. The essence of monad is thus separation of composition timeline from the composed computation's execution timeline, as well as the ability of computation to implicitly carry extra data.
     + **Collections of Monads**: Libraries of monad implementations.
         + **[Akh](http://akh-js.com/)**: Akh includes a basic set of common monad transformers, along with monads derived from these transformers. Akh structures implement the Fantasy Land specification.
-        + **[Folktale](http://folktalejs.org/)**: Folktale is a suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
+        + **[Folktale](http://folktale.origamitower.com)**: Folktale is a suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
         + **[Monet.js](https://github.com/cwmyers/monet.js)**: Monet is a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions.
     + **Continuation Monad**: Represents computations in continuation-passing style (CPS). In continuation-passing style function result is not returned, but instead is passed to another function, received as a parameter (continuation).
         + **[The Delimited Continuation Monad in Javascript](http://blog.mattbierner.com/the-delimited-continuation-monad-in-javascript/)**: This post overviews continuations in Atum and covers the implementation of the delimited continuation monad in JavaScript.
@@ -78,7 +78,7 @@ Functional programming is a programming paradigm, that treats computation as the
         + **[Freeky](https://github.com/DrBoolean/freeky)**: Collection of free monads by Brian Lonsdorf.
     + **Futures**: Futures represent the value arising from the success or failure of an asynchronous operation (I/O).
         + **[Fluture](https://github.com/Avaq/Fluture)**: The debuggable Fantasy Land Future library.
-        + **[Folktale Data.Task](http://docs.folktalejs.org/en/latest/api/data/task/index.html#module-data.task)**: A structure for time-dependent values, providing explicit effects for delayed computations, latency, etc.
+        + **[Folktale Task](http://folktale.origamitower.com/api/v2.1.0/en/folktale.concurrency.task.html)**: A structure for time-dependent values, providing explicit effects for delayed computations, latency, etc.
         + **[From Callback to Future -> Functor -> Monad](https://medium.com/@yelouafi/from-callback-to-future-functor-monad-6c86d9c16cb5)**: Yassine Elouafi goes through a simple implementation of Futures and compares them to Promises.
         + **[Future IO](https://github.com/futurize/future-io)**: A fantasy-land compliant monadic IO library for Node.js.
         + **[Futurizer](https://github.com/arcseldon/futurizer)**: Turn callback-style functions or promises into futures!
@@ -101,7 +101,7 @@ Functional programming is a programming paradigm, that treats computation as the
         + **[Monad Transformers](https://github.com/boris-marinov/monad-transformers)**: Monad transformers are tricky, they require an excessive amount of type juggling. One of the aims of this package is to reduce the amount of wrapping and unwrapping needed for making a new transformer and to provide an easy way to define and combine transformers.
         + **[Monad Transformers Library](https://github.com/boris-marinov/monad-transformers)**: Practical monad transformers for JS.
     + **Validation Monad**: A disjunction that is appropriate for validating inputs and aggregating failures.
-        + **[Folktale Data.Validation](http://docs.folktalejs.org/en/latest/api/data/validation/index.html#module-data.validation)**: Validation Monad implementation of Folktale Library.
+        + **[Folktale Validation](http://folktale.origamitower.com/api/v2.1.0/en/folktale.validation.html)**: Validation Monad implementation of Folktale Library.
         + **[Practical Intro to Monads in JavaScript: Validation](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)**: Jakub Strojewski shows how to accumulate errors in a simple Validation use case.
 + **[Mori](http://swannodette.github.io/mori/)**: A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 + **[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)**: A book by Brian Lonsdorf that introduces algebraic functional programming in JavaScript.
