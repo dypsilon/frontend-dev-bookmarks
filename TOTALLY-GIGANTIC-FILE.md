@@ -1443,7 +1443,7 @@ against sets of codified UI Guidelines.
             + **[vinyl-source-stream](https://www.npmjs.com/package/vinyl-source-stream)**: Use conventional text streams at the start of your gulp or vinyl pipelines, making for nicer interoperability with the existing npm stream.
             + **[vinyl-to-stream](https://www.npmjs.com/package/vinyl-to-stream)**: Convert a vinyl stream to a text stream.
             + **[vinyl-transform](https://www.npmjs.com/package/vinyl-transform)**: Wraps standard text transform streams so you can write fewer gulp plugins. Fulfills a similar use case to vinyl-map and vinyl-source-stream.
-    + **[Mimosa](http://mimosajs.com)**: Mimosa is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
+    + **[Mimosa](http://mimosa.io)**: Mimosa is a batteries included web development workflow tool that will get you coding in seconds rather than hunting down plugins and wrangling config for hours.
     + **[Plop](https://github.com/amwmedia/plop)**: Micro-generator framework that makes it easy for an entire team to create files with a level or uniformity.
         + **[Automating Workflow with plop](http://newbranch.cn/ui-development-with-es6-javascript-part-x-automating-workflow-with-plop/)**: Automating UI Development with Riot.js and ES6 Javascript.
     + **[Webpack](http://webpack.github.io/)**: Webpack is a module bundler. It takes modules with dependencies and generates static assets representing those modules.
