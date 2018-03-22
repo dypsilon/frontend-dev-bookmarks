@@ -23,10 +23,11 @@ Placing data in a visual context.
 + **[Easy Pie Chart](http://rendro.github.io/easy-pie-chart/)**: Easy pie chart is a jQuery plugin that uses the canvas element to render simple pie charts for single values
 + **[Flot](http://www.flotcharts.org/)**: Flot is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.
 + **[Google Chart Tools](https://developers.google.com/chart/)**: The Google Visualization API allows you to create charts and reporting applications over structured data and helps integrate these directly into your website.
++ **[p5.js](https://p5js.org)**: p5.js a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 + **[Paper.js](http://paperjs.org)**: Paper.js offers a clean Scene Graph / Document Object Model and a lot of powerful functionality to create and work with vector graphics and bezier curves.
 + **[Photon](http://photon.attasi.com/)**: Photon is a JavaScript library that adds simple lighting effects to DOM elements in 3D space.
 + **[Piecon](http://lipka.github.io/piecon/)**: A tiny javascript library for dynamically generating progress pie charts in your favicons.
-+ **[Processing.js](http://berniesumption.com/software/animator/)**: Processing.js is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations work using web standards.
++ **[Processing.js](http://processingjs.org/)**: Processing.js is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations work using web standards.
 + **[Smoothie Charts](http://smoothiecharts.org/)**: A JavaScript Charting Library for Streaming Data.
 + **[TimelineJS](http://timeline.knightlab.com/)**: TimelineJS is an open-source tool that enables anyone to build visually rich, interactive timelines.
 + **[Timesheet.js](http://sbstjn.github.io/timesheet.js/)**: Visualize your data and events with sexy HTML5 and CSS3. Create simple time sheets with sneaky JavaScript. Style them with CSS and have mobile fun as well.
