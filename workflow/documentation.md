@@ -10,6 +10,7 @@ Writing, generating, publishing and consuming documentation for web deliverables
 
 -----------------------------------------
 + **[Atomic Docs](http://atomicdocs.io/)**: Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
++ **[Dash](https://kapeli.com/dash/)**: Dash is an OS X App with access to over 150+ API documentation for offline reading.
 + **[Daux](http://daux.io/)**: Daux.io is a documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 + **[Dexy](http://www.dexy.it/)**: Dexy makes it easier to create technical documents by doing the repetitive parts for you. Dexy provides a consistent interface to tools and scripts so you don't have to run them manually.
 + **[Docco](http://jashkenas.github.io/docco/)**: Docco is a quick-and-dirty documentation generator. It produces an HTML document that displays your comments intermingled with your code.
