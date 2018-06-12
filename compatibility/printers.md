@@ -9,7 +9,9 @@ Manipulation of printer output through CSS.
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-+ **[Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)**: A comprehensive guide for print optimization including background images and colors, expanding external links, QR codes, CSS3 filters for print quality.
++ **[Tips And Tricks For Print Style Sheets](https://webcache.googleusercontent.com/search?q=cache:c9DWZn79cOUJ:https://www.smashingmagazine.com/2013/03/tips-and-tricks-for-print-style-sheets/)**: A comprehensive guide for print optimization including background images and colors, expanding external links, QR codes, CSS3 filters for print quality.
+
++ **[Building Books with CSS3](http://alistapart.com/article/building-books-with-css3)**: A comprehensive guide on creating books with css3.
 
 
 ------------------
