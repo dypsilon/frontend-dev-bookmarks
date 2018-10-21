@@ -37,6 +37,7 @@ Placing data in a visual context.
 + **[mxgraph](http://jgraph.github.io/mxgraph/)**: mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser, both HTML 5 capable and Internet Explorer v7+.
 + **[three.js](http://threejs.org/)**: Three.js is a library that makes WebGL - 3D in the browser - easy to use. While a simple cube in raw WebGL would turn out hundreds of lines of Javascript and shader code, a Three.js equivalent is only a fraction of that.
 + **[vis.js](http://visjs.org/)**: Vis.js is a dynamic, browser based visualization library. The library is designed to be easy to use, handle large amounts of dynamic data, and enable manipulation of the data.
++ **[matter.js](http://brm.io/matter-js/)**: Matter.js is a 2D physics engine for the web
 
 
 ------------------
