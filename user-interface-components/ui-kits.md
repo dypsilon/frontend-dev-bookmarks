@@ -16,6 +16,7 @@ Collections of ready to use components.
 + **[Pure.css](http://purecss.io/)**: A set of small, responsive CSS modules that you can use in every web project.
 + **[UIkit](http://getuikit.com/)**: A lightweight and modular front-end framework and a set of components for developing fast and powerful web interfaces.
 + **[Vital](http://doximity.github.io/vital/)**: A minimally invasive CSS framework for modern web applications.
++ **[Zircle](https://zircleui.github.io/docs/)**: A frontend library to develop zoomable user interfaces
 
 
 ------------------
