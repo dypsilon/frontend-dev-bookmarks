@@ -92,7 +92,7 @@ Toolkits and their ecosystems, that help you automate painful and repeated tasks
     + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
     + **[Why I think Webpack is the Right Approach To Build Pipelines](http://devlog.disco.zone/2016/06/01/webpack/)**: Thomas Boyt compares how Grunt, Gulp, Broccoli and Webpack discover dependencies.
 + **[Yeoman](http://yeoman.io/)**: Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive. It provides a generator ecosystem.
-
++ **[MergerJS](https://github.com/joao-neves95/merger-js)**: A lightweight and simple cross-platform CLI build tool for JavaScript files, file imports, auto build capabilities, and native OS notifications.
 
 ------------------
 
