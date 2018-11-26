@@ -9,7 +9,6 @@
     + [Learn HTML5, CSS3, and Responsive WebSite Design in One Go](http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/)
     + [Codecademy](http://codecademy.com): Learn to code interactively, for free.
     + [Codeschool](https://www.codeschool.com/) teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
-    + [TheExpressiveWeb](http://beta.theexpressiveweb.com/): This site by Adobe is a resource and showcase of some of the newest, and most expressive features being added to the web today.
     + [Treehouse](http://teamtreehouse.com/): Learn HTML, CSS, iPhone apps and more.
     + [General Assembly Dash](https://dash.generalassemb.ly): Learn HTML, CSS, and Javascript through fun projects you do in your browser.
 + Architecture
@@ -17,7 +16,6 @@
     + [BEM](http://bem.info/): Methodology aimed at achieving fast to develop long-lived projects, team scalability, and code reuse.
         + [Introductory article on tutsplus.com](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)
         + [Introductory article on Smashing Magazine](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
-        + [Video: How to use BEM! outside of Yandex](http://vimeo.com/38346573)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
         + [Slides](http://www.slideshare.net/bradfrostweb/atomic-design)
         + [Pattern Lab](http://patternlab.io/)
@@ -41,8 +39,6 @@
     + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
         + [Web development is getting complex. Let's go shopping.](http://ruudud.github.com/2012/12/22/grunt/)
         + [GruntStart](https://github.com/tsvensen/gruntstart): A Grunt-enabled head-start with the H5BP, jQuery, Modernizr, and Respond. The building blocks to quickly get started with Grunt to create an optimized website.
-        + [A beginner’s guide to Grunt](http://blog.mattbailey.co/post/45519082789/a-beginners-guide-to-grunt)
-        + [Grunt - Synchronised Testing Between Browsers/Devices](http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices)
     + [Gulp](http://gulpjs.com/) is a build system that makes use of node's streams.
         + [Gulp + Browserify: The Everything Post](http://viget.com/extend/gulp-browserify-starter-faq)
         + [The vision, history, and future of the project](https://medium.com/@eschoff/gulp-3828e8126466)
@@ -92,7 +88,6 @@
     + [Responsive Design Newsletter](http://responsivedesignweekly.com/)
     + [echo.js](http://www.echojs.com/): Reddit-like Website for JavaScript Resources
     + [Web Tools Weekly](http://webtoolsweekly.com/)
-    + [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript)
     + [ng-newsletter](http://www.ng-newsletter.com): The free, weekly newsletter of the best AngularJS content on the web.
 + Programming & Markup Languages
     + CSS
@@ -116,7 +111,6 @@
         + [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
         + [ECMA 262-3 in detail](http://dmitrysoshnikov.com/tag/ecma-262-3/)
         + [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-        + [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
         + [Github JavaScript Styleguide](https://github.com/styleguide/javascript)
         + [Wordpress JavaScript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
         + [Structure and Interpretation of Computer Programs](http://www.comp.nus.edu.sg/~cs1101s/sicp/)
@@ -134,7 +128,6 @@
             + [What's The Point Of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
             + [Promises/A+ Spec](http://promises-aplus.github.com/promises-spec/)
             + [Callbacks vs Coroutines](https://medium.com/code-adventures/174f1fe66127)
-            + [This document is intended to explain how promises work](https://github.com/kriskowal/q/blob/v1/design/README.js)
             + [Video: Monads and Gonads (YUIConf Evening Keynote)](http://youtu.be/dkZFtimgAcM)
             + Libraries
                 + [Standalone-Deferred](https://github.com/warpdesign/Standalone-Deferred)
@@ -148,9 +141,7 @@
                 + [Watch.js](https://github.com/melanke/Watch.JS)
                 + [flow.js](https://github.com/it-ony/flow.js)
     + HTML
-        + [Book: Dive into HTML5](http://diveintohtml5.info/)
         + [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)
-        + [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
         + [Wordpress HTML Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/html/)
     + Higher Level Languages
         + [Dart](http://www.dartlang.org/): Typed language compiled to JavaScript. By Google.
@@ -168,7 +159,6 @@
             + Learning
                 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): huge list of Angular learning resources
                 + [AngularJS Screencasts](http://www.egghead.io/)
-                + [Building Huuuuuge Apps with AngularJS](http://briantford.com/blog/huuuuuge-angular-apps.html)
                 + [What are the nuances of scope prototypal / prototypical inheritance in AngularJS?](http://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs)
                 + [AngularJS from Basics to Dependency Injection](http://suhairhassan.com/2013/06/07/angularjs-in-depth-part-1.html)
                 + [AngularJS To Do List App](http://www.dreamfactory.com/angularjs-example)
@@ -178,7 +168,6 @@
 				+ [Angular Tips](http://angular-tips.com)
             + Integration
                 + [angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed): this is a fork of Angular Seed but with changes needed for requireJS support.
-                + [Writing Reusable AngularJS Components with Bower](http://briantford.com/blog/angular-bower.html)
                 + [Native AngularJS directives for Twitter's Bootstrap.](http://angular-ui.github.io/bootstrap/)
                 + [Automating AngularJS With Yeoman, Grunt & Bower](http://newtriks.com/2013/06/11/automating-angularjs-with-yeoman-grunt-and-bower/)
                 + [Optimizing Angular Templates with Grunt on Heroku](http://www.codelord.net/2013/06/16/optimizing-angular-templates-with-grunt-on-heroku/)
@@ -190,7 +179,6 @@
             + [The Ultimate Guide to Writing jQuery Plugins](http://websanova.com/the-ultimate-guide-to-writing-jquery-plugins)
             + [Book: jQuery Fundamentals](http://jqfundamentals.com/)
             + [Pragmatic jQuery Style](https://github.com/modulejs/pragmatic-jquery)
-            + [Handpicked jQuery Plugins](http://jque.re/)
         + [dojo](http://dojotoolkit.org/)
             + [Github](https://github.com/dojo/dojo)
             + [Documentation](http://dojotoolkit.org/documentation/)
@@ -200,14 +188,12 @@
             + [Book: Developing Backbone.js Applications](http://addyosmani.github.com/backbone-fundamentals/)
             + [Unsuck your backbone](https://speakerdeck.com/ammeep/unsuck-your-backbone)
             + [A Visual Guide to Marionette.js Views](http://blog.artlogic.com/2013/03/26/a-visual-guide-to-marionette-js-views/)
-            + [Building a Backbone.js app](http://dailyjs.com/2012/11/29/backbone-tutorial-1/) tutorial series.
             + [Migrating an existing app to Backbone](http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/)
             + [Chaplin.js](http://chaplinjs.org/): An architecture for JavaScript applications using the Backbone.js library.
         + [Meteor](http://meteor.com/): An open-source platform for building top-quality web apps in a fraction of the time.
             + [Github](https://github.com/meteor/meteor)
         + [Zepto.js](http://zeptojs.com/): A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.
             + [Github](https://github.com/madrobby/zepto)
-            + [Zepto Builder](http://github.e-sites.nl/zeptobuilder/) Generate a custom version of Zepto that just includes the modules you need
         + [Minified.js](http://minifiedjs.com/): Minified.js is a client-side JavaScript library, comparable to jQuery and MooTools in scope. Its features include DOM manipulation, animation, events, cookies and HTTP requests.
             + [Github](https://github.com/timjansen/minified.js/)
         + [React](http://facebook.github.io/react/) by Facebook
@@ -239,7 +225,6 @@
             + [Bootstrap Expo](http://expo.getbootstrap.com/)
             + [Bootstrap Hero List](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources): The big badass list of bootstrap resources
             + Widgets
-                + [Bootstrap video player - jQuery plugin](http://html5-ninja.com/#/item/Bootstrap-video-player-jQuery-plugin/5): A customizable HTML5 video player plugin for jQuery based on bootstrap UI.
                 + [Color and Date Picker](http://www.eyecon.ro/colorpicker-and-datepicker-for-twitter-bootstrap.htm)
                 + [WYSIHTML5 RTE for Bootstrap](http://jhollingworth.github.com/bootstrap-wysihtml5/)
                 + [Bootstrap Image Gallery](http://blueimp.github.com/Bootstrap-Image-Gallery/)
@@ -271,7 +256,6 @@
                     + [Roots Theme](http://www.rootstheme.com/)
                     + [Bootstrap](http://digitalnature.eu/themes/bootstrap/)
                     + [Bootstrap for Wordpress](http://wpbootstrap.iubenda.com/)
-                    + [Bootstrap for WP](http://envexlabs.com/2011/09/bootstrap-for-wordpress/)
                     + [StrapPress](http://braginteractive.com/bootstrap/)
                     + [WPBS](http://320press.com/wpbs/)
                 + [CSS3 Microsoft Modern Buttons](http://ace-subido.github.com/css3-microsoft-metro-buttons/index.html)
@@ -312,7 +296,6 @@
         + [Kube](http://imperavi.com/kube/)
         + [rwdgrid](http://rwdgrid.com/)
         + [Simple Grid](http://thisisdallas.github.com/Simple-Grid/)
-        + [One% CSS Grid](http://onepcssgrid.mattimling.com/)
         + [Workless](http://workless.ikreativ.com/)
         + [inuit.css](http://inuitcss.com/) - a powerful, scalable, Sass-based, BEM, OOCSS framework.
         + [Kraken](https://github.com/cferdinandi/kraken) is a lightweight, mobile-first boilerplate for front-end web developers.
@@ -332,7 +315,7 @@
 + Cross Device
     + Responsive
         + [Responsive Boilerplate](http://responsiveboilerplate.com/): A starting point to responsive web design!
-        + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
+        + [Video: Responsive Design Workflow by Stephen Hay Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
             + [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
             + [Complex Navigation Patterns for Responsive Design](http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/)
@@ -362,7 +345,6 @@
             + [imgLiquid](https://github.com/karacas/imgLiquid) jQuery plugin to resize images to fit in a container.
             + [PictureFill](https://github.com/scottjehl/picturefill)
             + [HiSRC](https://github.com/teleject/hisrc): A simple jQuery plugin for adaptive images in responsive web design
-            + [resrc.it](http://www.resrc.it/): Responsive images on demand from the cloud.
         + Text
             + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
             + [Out Of Words!](http://starburst1977.github.io/out-of-words/): The responsive typography framework behind Words App
@@ -386,7 +368,6 @@
             + [Touché](https://github.com/davidcalhoun/touche)
         + Scrolling
             + [jSwipeKinetic](http://jswipekinetic.codeplex.com/) is a jQuery plugin that enables you to add kinetic scrolling on your touch optimized projects. jSwipeKinetic is build on top of jGestures (jgestues.codeplex.com).
-            + [jQuery.pep.js](http://pep.briangonzalez.org/): A lightweight plugin for kinetic-drag on mobile/desktop.
             + [Overscroll](http://www.azoffdesign.com/overscroll) is a jQuery plug-in that mimics the iphone/ipad scrolling experience in a browser.
             + [Zynga Scroller](https://github.com/zynga/scroller)
             + [pull-to-refresh.js](https://github.com/dantipa/pull-to-refresh-js)
@@ -400,7 +381,6 @@
             + [TipTap](https://github.com/marcbourlon/TipTap)
             + [jQuery.event.swipe](http://stephband.info/jquery.event.swipe/)
             + [toe.js](https://github.com/dantipa/toe.js) is a tiny library based on jQuery to enable sophisticated gestures on touch devices.
-            + [Jester](https://github.com/plainview/Jester)
             + [JS Touch Layer](https://github.com/andyjamesdavies/jsTouchLayer)
             + [Touch Events and Abstractions](http://yuilibrary.com/yui/docs/event/touch.html)
         + DOM Objects Manipulation
@@ -431,14 +411,11 @@
             + [The iPad Web Design & Development Toolbox](http://iphone.appstorm.net/roundups/developer/the-ipad-web-design-development-toolbox/)
             + [Targeting the iPhone 4 Retina Display with CSS3 Media Queries](http://blog.iwalt.com/2010/06/targeting-the-iphone-4-retina-display-with-css3-media-queries.html)
             + [How do I lock the orientation to portrait mode in a iPhone Web Application?](http://stackoverflow.com/questions/1207008/how-do-i-lock-the-orientation-to-portrait-mode-in-a-iphone-web-application)
-            + [jQuery Retina Display Plugin](http://troymcilvena.com/post/998277515/jquery-retina)
             + [retina.js](http://retinajs.com/)
-            + [Retina Images](http://retina-images.complexcompulsions.com/)
     + Printers
         + [Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)
 + Patterns & Snippets
     + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
-    + [CSS3 Code Snippets](http://www.webinterfacelab.com/snippets/)
     + The [Blueprints](http://tympanus.net/codrops/category/blueprints/) are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration.
 + Typography
     + [Quick guide to webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/)
@@ -452,13 +429,11 @@
     + [CSSTypography](http://tilomitra.github.io/csstypography/)
     + [SO: @font-face fonts only work on their own domain](http://stackoverflow.com/questions/2892691/font-face-fonts-only-work-on-their-own-domain)
     + [FitText](http://fittextjs.com/): A jQuery plugin for inflating web type
-    + [TypeButter](http://typebutter.com/)
     + [slabText](https://github.com/freqDec/slabText/)
     + [Baseline.js](https://github.com/daneden/Baseline.js)
     + [jKerny](http://clearideaz.com/jkerny/)
     + [Lettering.js](http://letteringjs.com/)
     + [Trunk8](http://jrvis.com/trunk8/) is an intelligent text truncation plugin to jQuery. It will cut off just enough text to prevent it from spilling over
-    + [bacon](http://baconforme.com/) is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
     + [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography): Small roundup on CSS features that will enhance your web typography.
     + [Font Squirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator)
 + Services (Free & Commercial)
@@ -499,7 +474,6 @@
         + [1&1 Homepage](http://homepage.1und1.de/)
 + Animation
     + [Velocity.js](http://velocityjs.org): Re-implementation of jQuery's $.animate() that adds 20x the speed while also drastically improving the UI animation workflow.
-    + [Animo.js](http://labs.bigroomstudios.com/libraries/animo-js): A powerful little tool for managing CSS animations
     + [Stylie](http://jeremyckahn.github.com/stylie/)
     + [animate.less](https://github.com/machito/animate.less), is a bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
     + [Canvas Advanced Animation Toolkit](http://hyperandroid.github.com/CAAT/) is an scene graph director-based animation framework for javascript based in the concept of a timeline.
@@ -555,12 +529,10 @@
         + [noty](http://needim.github.com/noty/)
         + [Toastr](http://codeseven.github.com/toastr/)
         + [alertify.js](http://fabien-d.github.com/alertify.js/)
-        + [Apprise](http://thrivingkings.com/read/Apprise-v2-The-new-and-improved-attractive-alert-alternative-for-jQuery)
     + Gallery Sliders
         + [Sequence](http://www.sequencejs.com/)
         + [Rhinoslider](http://rhinoslider.com/)
         + [Awkward Showcase](http://www.awkwardgroup.com/sandbox/awkward-showcase-a-jquery-plugin/)
-        + [Responsive CSS3 Slider](http://csscience.com/responsiveslidercss3/)
         + [Roundabout](http://fredhq.com/projects/roundabout/)
         + [Slid.es](http://slid.es/)
         + [Galleria](http://galleria.io/)
@@ -592,7 +564,6 @@
     + [Cube](http://square.github.com/cube/)
     + [Cubism.js](http://square.github.com/cubism/)
     + [D3.js](http://d3js.org/)
-        + [Introduction to D3](http://www.janwillemtulp.com/2011/03/20/tutorial-introduction-to-d3/)
         + [Interactive D3 Tutorial](http://vogievetsky.github.com/IntroD3/)
         + [NVD3](http://nvd3.org/)
         + [Vega](http://trifacta.github.io/vega/)
@@ -613,7 +584,6 @@
     + [mxgraph](http://jgraph.github.io/mxgraph/)
     + [Paper.js](http://paperjs.org) is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
     + [Timeline.js](https://github.com/VeriteCo/TimelineJS): A Storytelling Timeline built in JavaScript.
-    + [xCharts](http://tenxer.github.com/xcharts/) is a JS library for creating attractive, custom data-driven chart visualizations. It uses HTML, CSS, and SVG to create dynamic, fluid charts that can be easily customized and integrated.
     + [jQuery Gantt editor](http://roberto.open-lab.com/2013/01/28/jquery-gantt-editor-include-today/)
     + [amCharts](http://www.amcharts.com/) is a robust charting tool that will suit any dataviz need.
     + [Raphael.js](http://raphaeljs.com/) Easy vector graphics for the web.
@@ -641,7 +611,6 @@
     + [flippant.js](http://mintchaos.github.io/flippant.js/)
 + Numbers
     + [numeral.js](http://numeraljs.com/): A javascript library for formatting and manipulating numbers.
-    + [accounting.js](http://josscrowcroft.github.com/accounting.js/)
     + [numbers.js](https://github.com/sjkaliski/numbers.js)
 + Time and Dates
     + [moment.js](http://momentjs.com/): A 5.5kb javascript date library for parsing, validating, manipulating, and formatting dates.
@@ -730,10 +699,8 @@
 + Performance
     + General Information
         + [Video: DOM, HTML5, & CSS3 Performance](http://paulirish.com/2011/dom-html5-css3-performance/) by Paul Irish
-        + [Video: High Performance JavaScript](http://vimeo.com/16241085) by Nicholas Zakas
         + [Video: Building A Performant HTML5 App](http://youtu.be/ft9R72R7TlI) with Trunal Bhanse and Akhilesh Gupta (LinkedIn)
         + [Writing Fast, Memory-Efficient JavaScript](http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
-        + [JavaScript Performance Best Practices](http://www.developer.nokia.com/Community/Wiki/JavaScript_Performance_Best_Practices) by Nokia
         + [Improving the performance of your HTML5 App](http://www.html5rocks.com/en/tutorials/speed/html5/)
         + [Best Practices for a Faster Web App with HTML5](http://www.html5rocks.com/en/tutorials/speed/quick/)
         + [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
@@ -742,7 +709,6 @@
         + [Memory Analysis 101](https://developer.chrome.com/devtools/docs/memory-analysis-101)
         + [Memory leak patterns in JavaScript](https://www.ibm.com/developerworks/library/wa-memleak/)
         + [Understanding and Solving Internet Explorer Leak Patterns](http://msdn.microsoft.com/en-us/library/bb250448.aspx)
-        + [Finding memory leaks](http://gent.ilcore.com/2011/08/finding-memory-leaks.html)
         + [How to write low garbage real-time JavaScript](https://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript)
         + [JScript Memory Leaks](http://javascript.crockford.com/memory/leak.html)
         + [Tracking Down Memory Leaks in Node.js](https://hacks.mozilla.org/2012/11/tracking-down-memory-leaks-in-node-js-a-node-js-holiday-season/)
@@ -773,7 +739,6 @@
         + [When does reflow happen in a DOM environment?](http://stackoverflow.com/questions/510213/when-does-reflow-happen-in-a-dom-environment)
         + [Speeding up JavaScript: Working with the DOM](https://developers.google.com/speed/articles/javascript-dom)
         + [When Does JavaScript trigger reflows and rendering](http://mir.aculo.us/2010/08/17/when-does-javascript-trigger-reflows-and-rendering/)
-        + [How (not) to trigger a layout in WebKit](http://gent.ilcore.com/2011/03/how-not-to-trigger-layout-in-webkit.html)
     + Animation
         + [requestAnimationFrame for smart animating](http://paulirish.com/2011/requestanimationframe-for-smart-animating/)
         + [Leaner, Meaner, Faster Animations with requestAnimationFrame](http://www.html5rocks.com/en/tutorials/speed/animations/)
@@ -787,20 +752,16 @@
         + [Video: Google I/O 2012 - Breaking the JavaScript Speed Limit with V8](http://www.youtube.com/watch?v=UJPdhx5zTaw) by Daniel Clifford
         + [Video: Faster HTML and CSS: Layout Engine Internals for Web Developers](http://www.youtube.com/watch?v=a2_6bGNZ7bA): by David Baron of Mozilla
         + [How Browsers Work: Behind the scenes of modern web browsers](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-        + [Know Your Engines at O’Reilly Velocity 2011](https://blog.mozilla.org/dmandelin/2011/06/16/know-your-engines-at-oreilly-velocity-2011/)
         + [Video: GDC 2012: From Console to Chrome](http://www.youtube.com/watch?v=XAqIpGU8ZZk)
         + [Fast CSS: How Browsers Lay Out Web Pages](http://dbaron.org/talks/2012-03-11-sxsw/master.xhtml)
         + [Video: What Browsers Really Think of Your App](http://dayofjs.com/videos/22158462/web-browsers_alex-russel)
         + [WebKit blog five-part series on rendering](https://www.webkit.org/blog/114/webcore-rendering-i-the-basics/)
-        + [Video: Alex Russell - Life Of A Button Element](http://vimeo.com/32364192)
-        + [How a web page loads](http://gent.ilcore.com/2011/05/how-web-page-loads.html)
         + [Video: The Fundamentals, Primitives and History of HTML5](http://paulirish.com/2011/primitives-html5-video/)
         + [The JavaScript engine family tree](http://creativejs.com/2013/06/the-race-for-speed-part-1-the-javascript-engine-family-tree/)
         + [How JavaScript compilers work](http://creativejs.com/2013/06/the-race-for-speed-part-2-how-javascript-compilers-work/)
         + [JavaScript compiler strategies](http://creativejs.com/2013/06/the-race-for-speed-part-3-javascript-compiler-strategies/)
         + [The future for JavaScript](http://creativejs.com/2013/06/the-race-for-speed-part-4-the-future-for-javascript/)
     + Images
-        + [CSS-only: Load images on demand](http://podlipensky.com/2013/06/css-only-load-images-on-demand/)
         + [Clever JPEG Optimization Techniques](http://www.smashingmagazine.com/2009/07/01/clever-jpeg-optimization-techniques/)
         + [Clever PNG Optimization Techniques](http://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/)
         + [How to Optimize PNG and JPEG without Quality Loss](http://www.splashnology.com/article/how-to-optimize-png-and-jpeg-without-quality-loss-part-1/2071/) + [Part 2](http://www.splashnology.com/article/how-to-optimize-png-and-jpeg-without-quality-loss-part-2/2568/)
@@ -820,7 +781,6 @@
     + [Путь JavaScript модуля](http://habrahabr.ru/post/181536/)
     + [Modular JavaScript with RequireJS](http://blog.credera.com/topic/technology-solutions/java/modular-javascript-with-requirejs/)
     + [LABjs & RequireJS: Loading JavaScript Resources the Fun Way](http://msdn.microsoft.com/en-us/magazine//ff943568.aspx)
-    + [JavaScript Inheritance and Public/Private members](https://go-left.com/blog/2011/08/js-inheritance/)
     + [Deep dive into the murky waters of script loading](http://www.html5rocks.com/en/tutorials/speed/script-loading/)
 + Package Management
     + [bower](http://bower.io/)
@@ -902,21 +862,18 @@
     + [pineapple.io](http://pineapple.io/): A central hub of Tutorials, Tools and Assets for developers and designers
     + [Frontdesk](https://github.com/miripiruni/frontdesk): Community driven list of useful things for Front End Developers
     + [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/) by Roundarch Isobar
-    + [Devlinks](http://devlinks.co.uk/) by David Higgins
     + [Life of JS](http://lifeofjs.com/)
 + Chat
-    + [XMPP using JSON](https://xmpp-ftw.jit.su/)
     + [Converse.js](http://conversejs.org/) is an open source, webchat client, that runs in the browser and can be integrated into any website.
 + Prototyping
     + [RoughDraft.js](https://github.com/ndreckshage/roughdraft.js)
-    + [Video: Style guides are the new Photoshop by Stephen Hay](http://vimeo.com/52851510) + [Slides](http://de.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012)
+    + [Video: Style guides are the new Photoshop by Stephen Hay Slide](http://de.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-fronteers-2012)
     + [fixie](https://github.com/ryhan/fixie)
     + [Holder.js](http://imsky.github.com/holder/)
 + JSON
     + [JSON Query Language](http://jsoniq.org/) is a query and processing language specifically designed for the popular JSON data model.
     + [Oboe.js](https://github.com/jimhigson/oboe.js) makes it really easy to start using json from a response before the ajax request completes; or even if it never completes.
     + [JSONLint](http://jsonlint.com/)
-    + [SpahQL](http://danski.github.io/spahql/): fetch deeply-nested data, traverse large trees, query for data based on conditions, make assertions about data.
     + [JSONiq](http://www.jsoniq.org/): query and processing language for JSON.
 + Presentations
     + [Ancesor.js](http://kirkas.ch/ascensor/)
@@ -925,10 +882,7 @@
     + [reveal.js](https://github.com/hakimel/reveal.js)
     + [html5 Slides by Google](https://code.google.com/p/io-2012-slides/)
     + [Slides](https://github.com/briancavalier/slides)
-    + [CSSS](http://lea.verou.me/csss/sample-slideshow.html)
     + [deck.js](http://imakewebthings.com/deck.js/)
-    + [controldeck.js](http://controldeck.aws.af.cm/)
-    + [impress.js](http://bartaz.github.io/impress.js/)
     + [hyhyhy](https://github.com/MaciejCzyzewski/hyhyhy)
 + Scrolling
     + [AppScroll.js](https://github.com/jakiestfu/AppScroll.js) AppScroll is a tiny (< 100 lines) JS library that fixes the "website dragging" issue caused on iDevices
@@ -954,12 +908,10 @@
     + [Flex](http://jsonenglish.com/projects/flex/)
     + [grid-list](https://github.com/uberVU/grid)
 + Security
-    + [oAuth Consumer Library](http://oauth.googlecode.com/svn/code/javascript/) by John Kristian
      + [ohauth](https://github.com/gijs/ohauth)
         + [How iD Logs in to OpenStreetMap](http://mapbox.com/osmdev/2013/01/15/oauth-in-javascript/)
     + [JSO - a JavaScript OAuth Library](https://github.com/andreassolberg/jso)
     + [xdoauthproxy](https://code.google.com/p/xdoauthproxy/)
-    + [JavaScript Cryptography](http://disattention.com/13/javascript-cryptography/)
     + [JavaScript Crypto Library](http://www.clipperz.com/open_source/javascript_crypto_library)
     + [Stanford JavaScript Crypto Library](http://crypto.stanford.edu/sjcl/)
     + [mozilla / jwcrypto](https://github.com/mozilla/jwcrypto)
@@ -987,7 +939,6 @@
     + [Mozilla / pdf.js](https://github.com/mozilla/pdf.js)
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
-    + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
     + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
     + [Subtle Patterns](http://subtlepatterns.com/)
 
