@@ -113,6 +113,7 @@ Functional programming is a programming paradigm, that treats computation as the
 + **[Pure JavaScript](https://vimeo.com/49384334)**: Christian Johansen shows you how you can up your game by leaving loops behind and embracing functions as the primary unit of abstraction.
 + **[Pure UI](http://rauchg.com/2015/pure-ui/)**: Guillermo Rauch discusses the definition of an application’s UI as a pure function of application state.
 + **[PureScript](http://www.purescript.org/)**: PureScript is a strongly, statically typed language which compiles to JavaScript. It is written in and inspired by Haskell.
++ **[React on lambda](https://sultan99.github.io/react-on-lambda)**: A tiny library for building React applications in more functional way. Alternative to JSX.
 + **[Ramda](http://ramdajs.com/)**: A practical library designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
     + **Practical Ramda - Functional Programming Examples**: Tom MacWright gives some practical examples of Ramda usage.
 + **[Ramda Fantasy](https://github.com/ramda/ramda-fantasy)**: Fantasy Land compatible types for easy integration with Ramda. This is an experimental project and will probably merge with Sanctuary.
