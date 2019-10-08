@@ -9,6 +9,7 @@ HTML is the standard markup language used to create web pages and its elements f
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
++ **[htmlreference.io](https://htmlreference.io/)**: A guide to HTML, featuring all elements and their attributes.
 + **[Dive Into HTML5 (Book)](http://diveintohtml5.info/)**: Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards.
 + **[Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)**: This document defines formatting and style rules for HTML and CSS. It aims at improving collaboration, code quality, and enabling supporting infrastructure.
 + **[HEAD](https://github.com/joshbuchea/HEAD)**: A list of everything that could go in the <head> of your document.
