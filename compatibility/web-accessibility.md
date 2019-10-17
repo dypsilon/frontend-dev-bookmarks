@@ -9,10 +9,12 @@ Web accessibility means that people with disabilities can perceive, understand, 
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
++ **[Accessibility Wins](https://a11ywins.tumblr.com/)**: Showcasing accessible user interfaces and tools. Curated by Marcy Sutton.
++ **[ACHECKER](https://achecker.ca/checker/index.php)**:  This tool checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone.
++ **[How I do an accessibility check -- A11ycasts #11](https://www.youtube.com/watch?v=cOmehxAU_4s)**: Video where you will learn how to perform a basic accessibility check on your site.
 + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
 + **[The A11Y Project](http://a11yproject.com/)**: A community-driven effort to make web accessibility easier.
-
-
++ **[tota11y](https://khan.github.io/tota11y/)**: tota11y helps visualize how your site performs with assistive technologies.
 ------------------
 
 # License

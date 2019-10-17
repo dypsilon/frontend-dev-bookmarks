@@ -30,12 +30,12 @@ A rich text editor is the interface for editing rich text within web browsers. T
 + **[Substance](http://substance.io/)**: Substance is a JavaScript library for web-based content editing. It provides building blocks for realizing custom text editors and web-based publishing systems.
     + **[Build your own editor with Substance](https://medium.com/@_mql/build-your-own-editor-with-substance-7790eb600109)**: This article describes the philosophy behind Substance and how to get started.
 + **[TextAngular](http://textangular.com/)**: A Lightweight, Two-Way-Bound Angular.js Text-Editor.
++ **[Trumbowyg](https://alex-d.github.io/Trumbowyg/)**: Trumbowyg is a very small jQuery plugin for creating a powerful WYSIWYG editor.
 + **[WYSIHTML5](http://xing.github.io/wysihtml5/)**: wysihtml5 is an open source rich text editor based on HTML5 technology and the progressive-enhancement approach. It aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
     + **[Voog fork](https://github.com/Voog/wysihtml)**: wysihtml is an extended and less strict approach on xing/wysihtml5 open source rich text editor based on HTML5 technology. The code is completely library agnostic: No jQuery, Prototype or similar is required.
     + **[WYSIHTML5 Enhanced](https://github.com/zohararad/wysihtml5n)**: WYSIHTML5 Enhanced is a rich-text editor, based on the wonderful wysihtml5 editor, with a bit of help from Twitter Bootstrap, Font-Awesome, Jcrop and HTML5's Drag & Drop and File API.
     + **[bootstrap3-wysiwyg](https://github.com/bootstrap-wysiwyg/bootstrap3-wysiwyg)**: Bootstrap-wysihtml5 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of wysihtml5 and Twitter Bootstrap.
 + **[X-editable](http://vitalets.github.io/x-editable/)**: This library allows you to create editable elements on your page. It can be used with any engine (bootstrap, jquery-ui, jquery only) and includes both popup and inline modes.
-
 
 ------------------
 
