@@ -15,6 +15,7 @@ A podcast is a form of digital media that consists of an episodic series of audi
 + **[JavaScript Jabber](https://devchat.tv/js-jabber/)**: A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 + **[Non Breaking Space Show](http://goodstuff.fm/nbsp)**: Seeking out the best, brightest, and smartest creative people on digital art, design, and development. From workflows to life hacks, we examine why they do what they do and how they did it.
 + **[Shop Talk Show](http://shoptalkshow.com/)**: An internet radio show about the internet starring Dave Rupert and Chris Coyier.
++ **[Syntax](https://syntax.fm/)**: Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.
 + **[The Big Web Show](http://5by5.tv/bigwebshow)**: The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
 + **[The Web Ahead](http://5by5.tv/webahead)**: Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 + **[Web Security Warrior](https://devchat.tv/web-sec-warriors)**: Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.

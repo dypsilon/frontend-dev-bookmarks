@@ -9,6 +9,7 @@ Working with keyboard input in a web browser.
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
++ **[JavaScript Event KeyCodes](https://keycode.info/)**: Tool to know the keycode of any key you press on your keyboard.
 + **[What’s New with KeyboardEvents? Keys and Codes!](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)**: Jeff Posnick talks about the code and key event attributes and how to use them in practice.
 
 
