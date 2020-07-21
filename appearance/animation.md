@@ -36,6 +36,7 @@ The process of creating motion and shape change.
 + **[Snap.svg](http://snapsvg.io/)**: Snap.svg JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.
 + **[Stylie](http://jeremyckahn.github.io/stylie/)**: Stylie is a fun tool for easily creating complex CSS animations. Quickly design your animation graphically, grab the generated code and go!
 + **[Textillate.js](http://jschr.github.io/textillate/)**: Textillate.js combines some awesome libraries to provide a ease-to-use plugin for applying CSS3 animations to any text.
++ **[tsParticles](https://particles.matteobruni.it/)**: tsParticles is a lightweight library for creating particles animations.
 + **[Tween.js](https://github.com/sole/tween.js)**: Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.
 + **[Twitter Fave Animation](https://cssanimation.rocks/twitter-fave/)**: Rather than rely on CSS transitions, the new animation makes use of a series of images. Here’s how to recreate the animation using the CSS animation steps timing function.
 + **[Web Animation Past, Present, and Future (2016)](http://alistapart.com/article/web-animation-past-present-and-future)**: Rachel Nabors explores the world of web animation standards, platforms and tools in 2016: SVG, SMIL, GreenSock AP, Framer, Browser Tooling etc.
