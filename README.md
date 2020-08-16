@@ -2,7 +2,7 @@
 
 **Manually curated collection of resources for frontend web developers.**
 
-You are viewing a browseable version, split by category in many small files. There is also a really huge file with every single resource on one page. Proceed to the [totally gigantic file](TOTALLY-GIGANTIC-FILE.md) if you are into this kind of thing.
+You are viewing a browsable version, split by category in many small files. There is also a really huge file with every single resource on one page. Proceed to the [totally gigantic file](TOTALLY-GIGANTIC-FILE.md) if you are into this kind of thing.
 
 This is the current version, which receives ongoing updates. If you want the good old bookmarks, please use the tag v.1.0. Keep in mind, that the old version has many outdated links.
 
