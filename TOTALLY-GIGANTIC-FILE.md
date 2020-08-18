@@ -106,7 +106,7 @@ The outward or visible aspect of a website.
 High level structure of the frontend code and the discipline of creating such structures.
 
 + **Algorithms**: A self-contained step-by-step set of operations to be performed. Algorithms perform calculation, data processing, and/or automated reasoning tasks.
-    + **[Algorithm Visualizer](https://github.com/parkjs814/AlgorithmVisualizer)**: A collection of algorithms with code and visualizations for each one of them.
+    + **[Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)**: A collection of algorithms with code and visualizations for each one of them.
     + **[Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms/)**: The following animations illustrate how effectively data sets from different starting points can be sorted using different algorithms.
 + **Design Patterns**: Best practices that the programmer can use to solve common problems when designing an application or system.
     + **[CSS Modules](https://github.com/css-modules)**: A CSS Module is a CSS file in which all class names and animation names are scoped locally by default.
