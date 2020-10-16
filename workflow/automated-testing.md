@@ -25,6 +25,7 @@ against sets of codified UI Guidelines.
 + **[Kakapo.js](http://devlucky.github.io/kakapo-js)**: Kakapo its a full featured http mocking library, he allows you to entirely replicate your backend logic in simple and declaritive way directly in the browser.
 + **[Karma](http://karma-runner.github.io/)**: A simple tool that allows you to execute JavaScript code in multiple real browsers.
 + **[Leche](https://github.com/box/leche)**: A JavaScript testing utility designed to work with Mocha and Sinon. This is intended for use both by Node.js and in browsers, so any changes must work in both locations.
++ **[Mocklets](https://mocklets.com)**: HTTP-based API simulator, which helps simulate APIs for faster parallel development and more comprehensive testing, with lifetime free tier.
 + **[My Node Test Strategy](https://remysharp.com/2015/12/14/my-node-test-strategy)**: Remy Sharp shates his automated testing process with tape, proxyquire, sinon and browserify.
 + **[PhantomCSS](https://github.com/Huddle/PhantomCSS)**: PhantomCSS takes screenshots and compares them to baseline images to test for RGB pixel differences. PhantomCSS then generates image diffs to help you find the cause.
 + **[QUnit](http://qunitjs.com/)**: QUnit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code.
