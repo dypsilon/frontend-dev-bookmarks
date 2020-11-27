@@ -13,7 +13,6 @@ Websites &amp; newsletters which provide daily and weekly news related to fronte
 + **[CSS Weekly](http://css-weekly.com/)**: Weekly E-Mail roundup of CSS articles, tutorials, experiments and tools
 curated by Zoran Jambor.
 + **[Deterministic](https://deterministic.curated.co/)**: A weekly digest of interesting news and articles covering functional programming for the web, especially on the front end.
-+ **[Frontend Dev Weekly](http://frontenddevweekly.com/)**: Front-end developer news, tools and inspiration hand-picked each week.
 + **[HTML5 Bookmarks](http://html5bookmarks.com/)**: Daily bookmarks of HTML5 related resources.
 + **[HTML5 Weekly](http://html5weekly.com/)**: A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 + **[JavaScript Weekly](http://javascriptweekly.com/)**: A free, once–weekly e-mail round-up of JavaScript news and articles.
