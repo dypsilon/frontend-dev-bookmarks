@@ -19,7 +19,7 @@ Event-driven programming is a programming paradigm in which the flow of the prog
     + **[Radio.js](http://radio.uxder.com/)**: Radio.js is a small dependency-free publish/subscribe JavaScript library. Use it to implement the observer pattern in your code to help decouple your application architecture for greater maintainability.
     + **[js-signals](http://millermedeiros.github.io/js-signals/)**: Custom Event/Messaging system for JavaScript.
     + **[pubsub.js](https://github.com/federico-lox/pubsub.js)**: A tiny (~600 bytes when minified, ~300 bytes when gzip'd) and robust pubsub implementation.
-
+    + **[event-driven-web-components-realworld-example-app](https://github.com/mits-gossau/event-driven-web-components-realworld-example-app)**: Event Driven Architecture Vanilla JS Web Components codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 
 ------------------
 
