@@ -668,6 +668,7 @@ Important developers, companies, organizations and news sources.
     + **[Backbone.js](http://backbonejs.org/)**: Backbone supplies structure to JavaScript-heavy applications by providing models, collections, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
     + **[Bootstrap](http://getbootstrap.com/)**: Bootstrap is a HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
         + **[Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)**: A quick reference for Bootstrap v4 by Alexander Rechsteiner.
+        + **[Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/)**: An interactive list of Bootstrap 5 classes, variables, and mixins..
         + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
     + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
         + **[Async Driver](https://github.com/whitecolor/cycle-async-driver)**: Higher order factory for creating cycle.js async request based drivers. Allows you almost completely eliminate boilerplate code for this kind of drivers.
