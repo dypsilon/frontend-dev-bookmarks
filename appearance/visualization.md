@@ -9,6 +9,7 @@ Placing data in a visual context.
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
++ **[ApexCharts.js](https://github.com/apexcharts/apexcharts.jsg/)**: An open-source modern charting library that creates beautiful and interactive visualizations.
 + **[Bonsai.js](http://bonsaijs.org/)**: A lightweight graphics library with an intuitive graphics API and an SVG renderer.
 + **[Chart.js](http://www.chartjs.org/)**: Simple, clean and engaging charts for designers and developers.
 + **[Crossfilter](http://square.github.io/crossfilter/)**: Crossfilter is a JavaScript library for exploring large multivariate datasets in the browser.
