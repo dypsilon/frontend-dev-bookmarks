@@ -9,7 +9,7 @@ A self-contained step-by-step set of operations to be performed. Algorithms perf
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-+ **[Algorithm Visualizer](https://github.com/parkjs814/AlgorithmVisualizer)**: A collection of algorithms with code and visualizations for each one of them.
++ **[Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)**: A collection of algorithms with code and visualizations for each one of them.
 + **[Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms/)**: The following animations illustrate how effectively data sets from different starting points can be sorted using different algorithms.
 
 
