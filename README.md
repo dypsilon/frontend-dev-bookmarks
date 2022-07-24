@@ -10,6 +10,14 @@ This is the current version, which receives ongoing updates. If you want the goo
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
+## Table of contents
++ **[Appearance](#appearance)** 
++ **[Architecture](#architecture)**
++ **[Compatibility](#compatibility)**
++ **[Ecosystem](#ecosystem)**
++ **[Languages, Protocols, Browser APIs](#languages-protocols-browser-apis)**
++ **[User Interface Components](#user-interface-components)**
++ **[Workflow](#workflow)**
 
 ---------------------------------------------------------
 
