@@ -9,7 +9,7 @@ Web accessibility means that people with disabilities can perceive, understand, 
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-+ **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
++ **[Notes on Using ARIA in HTML](https://w3c.github.io/using-aria/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
 + **[The A11Y Project](http://a11yproject.com/)**: A community-driven effort to make web accessibility easier.
 
 
