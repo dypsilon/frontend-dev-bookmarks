@@ -9,7 +9,7 @@ Manipulation of printer output through CSS.
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
-+ **[Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)**: A comprehensive guide for print optimization including background images and colors, expanding external links, QR codes, CSS3 filters for print quality.
++ **[Tips And Tricks For Print Style Sheets](https://www.smashingmagazine.com/2013/03/tips-and-tricks-for-print-style-sheets/)**: A comprehensive guide for print optimization including background images and colors, expanding external links, QR codes, CSS3 filters for print quality.
 
 
 ------------------
