@@ -34,7 +34,7 @@ High level structure of the frontend code and the discipline of creating such st
 
 ## Compatibility
 
-Ability of a product to work with different input/output devices and rendering software. Including printers, email, mobile devices and different browsers.
+Ability of a product to work with different input/output devices and to render software. Including printers, email, mobile devices and different browsers.
 
 + **[Cross Browser](compatibility/cross-browser.md)**: Cross-browser refers to the ability of a website, web application, HTML construct or client-side script to function in environments that provide its required features and to bow out or degrade gracefully when features are absent or lacking.
 + **[E-Mail](compatibility/e-mail.md)**: Preparing HTML based electronic mail.
@@ -102,7 +102,7 @@ Task automation and asset delivery.
 + **[JavaScript Tools](workflow/javascript-tools.md)**: Tools for static analysis, pre and post processing of JavaScript files.
 + **[Package Management](workflow/package-management.md)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
 + **[Sourcemaps](workflow/sourcemaps.md)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
-+ **[Version Control](workflow/version-control.md)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
++ **[Version Control](workflow/version-control.md)**: Version control or source control is a system that records changes in a file or set of files over time so that you can recall specific versions later.
 
 
 ------------------
