@@ -26,6 +26,7 @@ Successful open source projects attract many developers who produce plugins, lib
 + **[Bootstrap](http://getbootstrap.com/)**: Bootstrap is a HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
     + **[Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)**: A quick reference for Bootstrap v4 by Alexander Rechsteiner.
     + **[Tree Shaking Bootstrap](https://medium.com/@jacobp/tree-shaking-bootstrap-95d6301f61a9)**: Jacob Parker describes how to include only those parts of Bootstrap you are really using on your website by leveraging CSS modules and ES6 modules.
+    + **[Materio Free Bootstrap 5 HTML Admin Template](https://github.com/themeselection/materio-bootstrap-html-admin-template-free)**: Most powerful & comprehensive free Bootstrap 5 HTML admin dashboard template built for developers!
 + **[Cycle.js](http://cycle.js.org/)**: A functional and reactive JavaScript framework that solves the cyclic dependency of Observables which emerge during dialogues (mutual observations) between the Human and the Computer.
     + **[Async Driver](https://github.com/whitecolor/cycle-async-driver)**: Higher order factory for creating cycle.js async request based drivers. Allows you almost completely eliminate boilerplate code for this kind of drivers.
     + **[Cycle.js Was Built to Solve Problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E)**: In this video André Staltz shows how Cycle.js has a practical purpose, meant to solve problems your customers/business may relate to.
