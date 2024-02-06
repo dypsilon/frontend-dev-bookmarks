@@ -103,7 +103,7 @@ Task automation and asset delivery.
 + **[Package Management](workflow/package-management.md)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
 + **[Sourcemaps](workflow/sourcemaps.md)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
 + **[Version Control](workflow/version-control.md)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
-
++ **[Dev Productivity](https://pieces.app/)**: AI-enabled productivity tool designed to supercharge developer efficiency. Unify your entire toolchain with an on-device copilot that helps you capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of your workflow
 
 ------------------
 
