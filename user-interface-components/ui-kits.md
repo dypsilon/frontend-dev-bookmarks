@@ -16,6 +16,7 @@ Collections of ready to use components.
 + **[Pure.css](http://purecss.io/)**: A set of small, responsive CSS modules that you can use in every web project.
 + **[UIkit](http://getuikit.com/)**: A lightweight and modular front-end framework and a set of components for developing fast and powerful web interfaces.
 + **[Vital](http://doximity.github.io/vital/)**: A minimally invasive CSS framework for modern web applications.
++ **[USDT QR Code Generator](https://usdtqrtool.com)**: A free online tool for instantly generating QR codes for USDT addresses across multiple networks (ERC-20, TRC-20, BEP-20, Omni, BEP-2).
 
 
 ------------------
