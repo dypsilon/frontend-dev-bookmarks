@@ -43,6 +43,7 @@ Successful open source projects attract many developers who produce plugins, lib
         + **[Hammer.js](https://github.com/CyclicMaterials/cycle-hammer-driver)**: The driver incorporates the Hammer.js gesture library.
         + **[History](https://github.com/cyclejs/history)**: Cycle.js URL Driver based on the rackt/history library.
         + **[Keys](https://github.com/raquelxmoss/cycle-keys)**: A Cycle.js driver for keyboard events.
+        + **[Manifest](https://github.com/mnfst/manifest)**: A backend that fits into 1 file, easy to generate by AI Code Editors, and easy to edit and validate by developers. A great Firebase alternative whcih consumes fewer LLM token, allows to ship fast and to stay focus on the frontend.
         + **[Mongoose.js](https://github.com/whitecolor/cycle-mongoose/)**: A driver for using Mongoose with Cycle JS. Accepts both, write and read operations.
         + **[Notification](https://github.com/cyclejs/cycle-notification-driver)**: A Cycle.js Driver for showing and responding to HTML5 Notifications.
         + **[Router](https://github.com/TylorS/cycle-router)**: A router built from the ground up with Cycle.js in mind. Stands on the shoulders of battle-tested libraries switch-path for route matching and rackt/history for dealing with the History API.
