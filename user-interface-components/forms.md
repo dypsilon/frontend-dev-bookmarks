@@ -16,6 +16,7 @@ A HTML form on a web page allows a user to enter data that is sent to a server f
 + **[Ladda](https://github.com/hakimel/Ladda)**: Buttons with built-in loading indicators.
 + **[Native form elements](http://nativeformelements.com/)**: This is what every HTML5 form element looks like on your current operating system and browser.
 + **[Redux Form](https://github.com/erikras/redux-form)**: A Higher Order Component using react-redux to keep form state in a Redux store.
++ **[SmarkForm](https://smarkform.bitifet.net)**: A low-code HTML form enhancer with nested forms, variable-length lists, hotkeys and more.
 + **Serializers**: Libraries for collecting form data in JavaScript.
     + **[form2js](https://github.com/maxatwork/form2js)**: Convenient way to collect structured form data into JavaScript object.
     + **[jQuery.serializeObject](https://github.com/hongymagic/jQuery.serializeObject)**: Encode a set of form elements as a JSON object for manipulation/submission.
