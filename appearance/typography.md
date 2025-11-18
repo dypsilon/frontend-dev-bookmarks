@@ -17,7 +17,7 @@ The style, arrangement, or appearance of typeset matter.
 + **[FitText](http://fittextjs.com/)**: FitText makes font-sizes flexible. Use this plugin on your fluid or responsive layout to achieve scalable headlines that fill the width of a parent element.
 + **[FlowType.JS](http://simplefocus.com/flowtype/)**: Font-size and line-height based on element width.
 + **[Fontmatrix](http://media.24ways.org/2007/17/fontmatrix.html)**: Matrix of fonts bundled with Mac and Windows operating systems, Microsoft Office and Adobe Creative Suite.
-+ **[Google Fonts](https://www.google.com/fonts/)**: Google Fonts makes it quick and easy for everyone to use web fonts. Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds.
++ **[Google Fonts](https://fonts.google.com/)**: Google Fonts makes it quick and easy for everyone to use web fonts. Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds.
 + **[Gutenberg](http://matejlatin.github.io/Gutenberg/)**: Gutenberg is a flexible and simple-to-use web typography starter kit for web designers and developers.
 + **[Lettering.js](http://letteringjs.com/)**: Web type is exploding all over the web but CSS currently doesn't offer complete down-to-the-letter control. So we created a jQuery plugin to give you that control.
 + **[OpenFoundry](http://open-foundry.com/)**: A platform for open-source fonts in a noise-free environment; to highlight their beauty and encourage further exploration.
