@@ -9,8 +9,18 @@ Web accessibility means that people with disabilities can perceive, understand, 
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 -----------------------------------------
+
+## Guidelines & Standards
+
 + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
 + **[The A11Y Project](http://a11yproject.com/)**: A community-driven effort to make web accessibility easier.
+
+## Testing Tools
+
++ **[axe DevTools](https://www.deque.com/axe/)**: Browser extension and testing toolkit from Deque for finding accessibility issues.
++ **[Pa11y](https://pa11y.org/)**: Command-line interface accessibility testing tool for HTML pages.
++ **[RatedWithAI](https://ratedwithai.com)**: Free website accessibility scanner that detects 100+ WCAG violations across HTML, images, forms, videos, and PDFs.
++ **[WAVE](https://wave.webaim.org/)**: Web accessibility evaluation tool by WebAIM that provides visual feedback about accessibility issues.
 
 
 ------------------
