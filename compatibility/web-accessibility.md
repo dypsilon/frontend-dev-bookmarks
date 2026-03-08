@@ -11,6 +11,7 @@ Web accessibility means that people with disabilities can perceive, understand, 
 -----------------------------------------
 + **[Notes on Using ARIA in HTML](http://w3c.github.io/aria-in-html/)**: This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification.
 + **[The A11Y Project](http://a11yproject.com/)**: A community-driven effort to make web accessibility easier.
++ **[PageGuard](https://pageguard.org/tools/accessibility-checker)**: Free website accessibility checker that tests WCAG 2.1 AA compliance and ADA Title II requirements — returns a 0-100 accessibility score with specific issues to fix in ~30 seconds.
 
 
 ------------------
