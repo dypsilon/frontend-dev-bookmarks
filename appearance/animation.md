@@ -23,9 +23,11 @@ The process of creating motion and shape change.
     + **[Codepen Repository](http://codepen.io/GreenSock/)**: Codepen repository with examples of Greensock usage and code.
     + **[Examples](http://ahrengot.com/tutorials/greensock-javascript-animation/)**: Here are a couple of examples demonstrating the core features of the Greensock Animation Platform.
     + **[Learning Center](http://www.greensock.com/learning/)**: Tutorials and videos for GreenSock Animation Platform.
++ **[IconKing](https://iconking.net)**: Free browser-based Lottie animation previewer, color editor, and .json ↔ .lottie format converter. No account needed.
 + **[JQuery Transit](http://ricostacruz.com/jquery.transit/)**: Super-smooth CSS3 transformations and transitions for jQuery.
 + **[Janis](https://github.com/MikeMcTiernan/Janis)**: Janis is a lightweight Javascript framework that provides simple animations via CSS transitions for modern browsers on the web as well as mobile devices.
 + **[Keanu](https://github.com/wambotron/Keanu)**: Keanu is a micro-lib for animation on Canvas/JS.
++ **[lottie-web](https://github.com/airbnb/lottie-web)**: Render After Effects animations natively on web and mobile. Preview and edit files with [IconKing](https://iconking.net).
 + **[Magic](https://github.com/miniMAC/magic)**: CSS3 Animations with special effects.
 + **[Move.js](http://visionmedia.github.com/move.js/)**: Move.js is a small JavaScript library making CSS3 backed animation extremely simple and elegant.
 + **[Ramjet](http://www.rich-harris.co.uk/ramjet/)**: Ramjet makes it looks as though one DOM element is capable of transforming into another, no matter where the two elements sit in the DOM tree.
