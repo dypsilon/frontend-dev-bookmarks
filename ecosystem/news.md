@@ -23,6 +23,7 @@ curated by Zoran Jambor.
 + **[Web Design Weekly](https://web-design-weekly.com/)**: A once a week email with no spam, no rambling. Just pure awesome links to the best news and articles to hit the interweb during the week.
 + **[Web Platform Daily](http://webplatformdaily.org/)**: Daily digest of web development news.
 + **[Web Tools Weekly](http://webtoolsweekly.com/)**: Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
++ **[Prismix](https://prismix.dev)**: Real-time AI infrastructure hub covering status of 75+ AI services (OpenAI, Anthropic, Gemini, etc.), aggregated AI news from 70+ sources, and a directory of 500+ MCP servers. Useful for frontend developers integrating AI APIs who need to track model availability and releases.
 + **[echo.js](http://www.echojs.com/)**: Echo JS is a community-driven news site entirely focused on JavaScript development, HTML5, and front-end news.
 
 
