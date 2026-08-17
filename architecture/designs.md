@@ -87,6 +87,7 @@ Ready to use and well documented structures and frameworks for frontend developm
 + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
 + **[The Elm Architecture](http://guide.elm-lang.org/architecture/index.html)**: The Elm Architecture is a simple pattern for infinitely nestable components. It is great for modularity, code reuse, and testing.
 + **[TodoMVC](http://todomvc.com/)**: A project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
++ **[UIZZE](https://uizze.com/)**: A free anti-UI-slop Skill and no-account preview for coding agents; the full UIZZE product adds live search across 800,000+ real web and iOS screens, then turns references into product-specific design decisions.
 
 
 ------------------
