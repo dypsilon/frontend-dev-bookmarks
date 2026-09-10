@@ -22,6 +22,7 @@ Abstract languages converted to native, browser supported standards like JavaScr
     + **[Angular 2: Why TypeScript?](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)**: Angular 2 is written in TypeScript. In this article Victor Savkin talks about why they made the decision.
     + **[InversifyJS](https://github.com/inversify/InversifyJS)**: A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
     + **[Safety in the Absence of Types](https://vsavkin.com/typescript-how-to-be-safe-even-if-you-cannot-type-it-31eb08485fe6)**: Victor Savking talks about the limitation of TypeScript's static type checker and how to mitigate them.
+    + **[The Concise TypeScript Book](https://github.com/gibbok/typescript-book)**: A free and open-source reference for TypeScript fundamentals and practical patterns.
 
 
 ------------------
