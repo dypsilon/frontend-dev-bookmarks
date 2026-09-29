@@ -14,7 +14,7 @@ Tools for image conversion and optimization.
 + **[Optimize Images for Web – Ultimate Guide](https://www.keycdn.com/blog/optimize-images-for-web/)**: We will discuss the three areas in which you can better optimize images for web: better web performance, rank and index better in search engines, better social media engagement and CTR.
 + **[Pngcrush](http://pmt.sourceforge.net/pngcrush/)**: Pngcrush is an optimizer for PNG (Portable Network Graphics) files.
 + **[SMLR](https://github.com/jasonmoo/smlr)**: Re-encode jpeg images with no perceivable quality loss. Uses the butteraugli psychovisual comparison and k-ary search to determine the best jpeg quality setting.
-
++ **[SlingSite](https://slingsite.github.io/en/image/)**: Free, unlimited and privacy-respecting image optimizer for the web. No installation needed, the optimization happens in your browser (your files never travel to any server). Upload as many images as you need. For each image, you will get 3 sizes: mobile, tablet, desktop. For each size, 3 formats: jpg, webp and avif for maximum browser compatibility.
 
 ------------------
 
