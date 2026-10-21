@@ -28,6 +28,7 @@ RWD responds to the needs of the users and the devices they’re using. The layo
     + **[Breakpoints.js](http://xoxco.com/projects/code/breakpoints/)**: Define breakpoints for your responsive design, and Breakpoints.js will fire custom events when the browser enters and/or exits that breakpoint.
     + **[Harvey](http://harvesthq.github.io/harvey/)**: Harvey helps you monitor and manage behavior changes by firing an event whenever your media query is activated.
     + **[enquire.js](http://wicky.nillia.ms/enquire.js/)**: enquire.js is a lightweight, pure javascript library (with no dependencies) for programmatically responding to media queries.
+    + **[ScreenSize](https://screensize.net)**: Live screen size, viewport, resolution, and device pixel ratio checker with Tailwind and Bootstrap breakpoint references for responsive design testing.
 + **Navigation**: Adapting the website navigation to different screen sizes.
     + **[Complex Navigation Patterns](http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/)**: The article describes some emerging patterns for dealing with complex, lengthy and/or multi-level navigations.
     + **[Responsive Navigation On Complex Websites](http://mobile.smashingmagazine.com/2013/09/11/responsive-navigation-on-complex-websites/)**: To illustrate the techniques involved in implementing responsive navigation on a large website, author refers to two actual clients.
