@@ -38,6 +38,7 @@ against sets of codified UI Guidelines.
 + **[TestCheck](https://github.com/leebyron/testcheck-js)**: TestCheck is a library for generative testing of program properties, ala QuickCheck.
 + **[Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/)**: This series aims to be a very comprehensive guide through testing a React and Redux codebase, where you can really cover a lot with just unit tests because the code is mostly universal.
 + **Writing Testable JavaScript**: Rebecca Murphey discusses how to organize code to make JavaScript more testable in unit tests.
++ **[agent-qa Testing With Memory](https://vostride.com)**: Runs natural-language web and mobile QA through CLI/MCP with persistent memory and self-improvement. Free CLI; model/device costs apply, and FSL-1.1-ALv2 restricts competing commercial use.
 
 
 ------------------
