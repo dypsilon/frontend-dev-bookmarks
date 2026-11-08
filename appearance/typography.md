@@ -30,6 +30,7 @@ The style, arrangement, or appearance of typeset matter.
 + **[bacon](http://baconforme.com/)**: Bacon is a jQuery plugin that allows you to wrap text around a bezier curve or a line.
 + **[slabText](https://github.com/freqDec/slabText/)**: A jQuery plugin for producing big, bold & responsive headlines.
 + **[trunk8](http://jrvis.com/trunk8/)**: trunk8 is an intelligent text truncation plugin to jQuery. When applied to a large block of text, trunk8 will cut off just enough text to prevent it from spilling over.
++ **[Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant)**: Pair script headings with body fonts for lettering layouts.
 
 
 ------------------
