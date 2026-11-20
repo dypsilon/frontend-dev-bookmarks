@@ -43,6 +43,7 @@ Tools for static analysis, pre and post processing of JavaScript files.
         + **[WebpackBin](http://www.webpackbin.com/)**: A webpack code sandbox.
         + **[Why I think Webpack is the Right Approach To Build Pipelines](http://devlog.disco.zone/2016/06/01/webpack/)**: Thomas Boyt compares how Grunt, Gulp, Broccoli and Webpack discover dependencies.
 + **[Regenerator](https://github.com/facebook/regenerator)**: This package implements a source transformation that takes the proposed syntax for generators/yield from future versions of JS and spits out efficient JS-of-today (ES5) that behaves the same way.
++ **[Affi-Chain](https://www.affichain.com/data-formats)**: In-browser developer suite featuring an AST-powered JSON editor, tree viewer, schema validator, and diff checker running 100% client-side.
 
 
 ------------------
